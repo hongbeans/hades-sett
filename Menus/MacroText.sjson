@@ -1,0 +1,32 @@
+Texts = [
+    "_search", [
+        /* Replace god names for boon select */
+        { Id = "UpgradeChoiceMenu_Title_AphroditeUpgrade" }
+        { DisplayName = "Boons of Ahri" }
+
+        { Id = "UpgradeChoiceMenu_Title_AresUpgrade" }
+        { DisplayName = "Boons of Darius" }
+
+        { Id = "UpgradeChoiceMenu_Title_AthenaUpgrade" }
+        { DisplayName = "Boons of Soraka" }
+
+        { Id = "UpgradeChoiceMenu_Title_PoseidonUpgrade" }
+        { DisplayName = "Boons of Nami" }
+
+        { Id = "UpgradeChoiceMenu_Title_TrialUpgrade" }
+        { DisplayName = "Boons of Kindred" }
+
+        /* Replace god names for Trial of the Gods */
+        { Id = "Player_GodDispleased_AphroditeUpgrade" }
+        { DisplayName = "Ahri Grew Displeased!" }
+
+        { Id = "Player_GodDispleased_AresUpgrade" }
+        { DisplayName = "Darius Grew Displeased!" }
+
+        { Id = "Player_GodDispleased_AthenaUpgrade" }
+        { DisplayName = "Soraka Grew Displeased!" }
+
+        { Id = "Player_GodDispleased_PoseidonUpgrade" }
+        { DisplayName = "Nami Grew Displeased!" }
+    ]
+]

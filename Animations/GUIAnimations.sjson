@@ -1,0 +1,16 @@
+Animations = [
+    "_search", [
+        /* Boon select screen */
+        { Name = "BoonSelectScreen" }
+        { FilePath = "SettGUI\GUI\Screens\BoonSelectIn" }
+
+        { Name = "BoonSelectOut" }
+        {
+            EndFrame = 22
+            NumFrames = 22
+        }
+
+        { Name = "BoonSelectLighting" }
+        { FilePath = "SettGUI\GUI\Screens\BoonSelectLighting\BoonSelectLighting" }
+    ]
+]

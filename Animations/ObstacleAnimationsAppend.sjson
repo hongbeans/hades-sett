@@ -1,0 +1,11 @@
+Animations = [
+    "_append", 
+    /* CGI for Aphelios intermission */
+    {
+        Name = "PortraitThanSmooch"
+        FilePath = "SettGUI\GUI\CGI\SettPhelSmooch"
+        Type = "Constant"
+        Ambient = 0.0
+        AngleFromOwner = "Ignore"
+    }
+]

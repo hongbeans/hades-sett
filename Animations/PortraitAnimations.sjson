@@ -1,0 +1,126 @@
+Animations = [
+    "_search", [
+        /* Sett */
+        { Name = "Portrait_Zag_Default_01" }
+        { FilePath = "SettPortraits\Portraits_Sett_01" }
+
+        { Name = "Portrait_Zag_Default_01_Exit" }
+        { FilePath = "SettPortraits\Portraits_Sett_01" }
+
+        { Name = "Portrait_Zag_Defiant_01" }
+        { FilePath = "SettPortraits\Portraits_Sett_Defiant01" }
+
+        { Name = "Portrait_Zag_Defiant_01_Exit" }
+        { FilePath = "SettPortraits\Portraits_Sett_Defiant01" }
+
+        { Name = "Portrait_Zag_Empathetic_01" }
+        { FilePath = "SettPortraits\Portraits_Sett_Explaining01" }
+
+        { Name = "Portrait_Zag_Empathetic_01_Exit" }
+        { FilePath = "SettPortraits\Portraits_Sett_Explaining01" }
+
+        { Name = "Portrait_Zag_Unwell_01" }
+        { FilePath = "SettPortraits\Portraits_Sett_Unwell01" }
+
+        { Name = "Portrait_Zag_Unwell_01_Exit" }
+        { FilePath = "SettPortraits\Portraits_Sett_Unwell01" }
+
+        /* Aphelios */
+        { Name = "Portrait_Thanatos_Default_01" }
+        { FilePath = "SettPortraits\Portraits_Aphelios_01" }
+
+        { Name = "Portrait_Thanatos_Default_01_Exit" }
+        { FilePath = "SettPortraits\Portraits_Aphelios_01" }
+
+        { Name = "Portrait_Thanatos_Pleased_01" }
+        { FilePath = "SettPortraits\Portraits_Aphelios_Pleased01" }
+
+        { Name = "Portrait_Thanatos_Pleased_01_Exit" }
+        { FilePath = "SettPortraits\Portraits_Aphelios_Pleased01" }
+
+        /* Alune */
+        { Name = "Portrait_FurySister01_Default_01" }
+        { FilePath = "SettPortraits\Portraits_Alune_01" }
+
+        { Name = "Portrait_FurySister01_Default_01_Exit" }
+        { FilePath = "SettPortraits\Portraits_Alune_01" }
+
+        { Name = "Portrait_FurySister01_Pleased_01" }
+        {
+            FilePath = "SettPortraits\Portraits_Alune_Pleased01"
+            OffsetX = -50
+        }
+
+        { Name = "Portrait_FurySister01_Pleased_01_Exit" }
+        {
+            FilePath = "SettPortraits\Portraits_Alune_Pleased01"
+            OffsetX = -50
+        }
+
+        { Name = "Portrait_FurySister01_Standoffish_01" }
+        {
+            FilePath = "SettPortraits\Portraits_Alune_Standoffish01"
+            OffsetX = -50
+        }
+
+        { Name = "Portrait_FurySister01_Standoffish_01_Exit" }
+        {
+            FilePath = "SettPortraits\Portraits_Alune_Standoffish01"
+            OffsetX = -50
+        }
+
+        /* Ahri */
+        { Name = "Portrait_Aphrodite_Default_01" }
+        { FilePath = "SettPortraits\Portraits_Ahri_01" }
+
+        { Name = "Portrait_Aphrodite_Default_01_Exit" }
+        { FilePath = "SettPortraits\Portraits_Ahri_01" }
+
+        /* Nami */
+        { Name = "Portrait_Poseidon_Default_01" }
+        {
+            FilePath = "SettPortraits\Portraits_Nami_01"
+            OffsetX = -100.0
+            OffsetY = 0
+            Scale = 0.85
+        }
+
+        { Name = "Portrait_Poseidon_Default_01_Exit" }
+        {
+            FilePath = "SettPortraits\Portraits_Nami_01"
+            OffsetX = -100.0
+            OffsetY = 0
+            Scale = 0.85
+        }
+
+        /* Soraka */
+        { Name = "Portrait_Athena_Default_01" }
+        {
+            FilePath = "SettPortraits\Portraits_Soraka_01"
+            ChildAnimation = "PortraitGodRayEmitter_Athena"
+        }
+
+        { Name = "Portrait_Athena_Default_01_Exit" }
+        { FilePath = "SettPortraits\Portraits_Soraka_01" }
+
+        /* Darius */
+        { Name = "Portrait_Ares_Default_01" }
+        {
+            FilePath = "SettPortraits\Portraits_Darius_01"
+            ChildAnimation = "PortraitGodRayEmitter_Ares"
+        }
+
+        { Name = "Portrait_Ares_Default_01_Exit" }
+        { FilePath = "SettPortraits\Portraits_Darius_01" }
+
+        /* Kindred */
+        { Name = "Portrait_Chaos_Default_01" }
+        { FilePath = "SettPortraits\Portraits_Kindred_01" }
+
+        { Name = "Portrait_Chaos_Default_02" }
+        { FilePath = "SettPortraits\Portraits_Kindred_02" }
+
+        { Name = "Portrait_Chaos_Default_01_Exit" }
+        { FilePath = "SettPortraits\Portraits_Kindred_01" }
+    ]
+]

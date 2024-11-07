@@ -1,0 +1,439 @@
+Texts = [
+    "_search", [
+        /* Sett */
+        { Id = "SwordWeapon_Unequipped" }
+        { DisplayName = "Aspect of Sett" }
+
+        { Id = "SwordBaseUpgradeTrait" }
+        { DisplayName = "Aspect of Sett" }
+
+        { Id = "SpearWeapon_Unequipped" }
+        { DisplayName = "Aspect of Sett" }
+
+        { Id = "SpearBaseUpgradeTrait" }
+        { DisplayName = "Aspect of Sett" }
+
+        { Id = "ShieldWeapon_Unequipped" }
+        { DisplayName = "Aspect of Sett" }
+
+        { Id = "ShieldBaseUpgradeTrait" }
+        { DisplayName = "Aspect of Sett" }
+
+        { Id = "BowWeapon_Unequipped" }
+        { DisplayName = "Aspect of Sett" }
+
+        { Id = "BowBaseUpgradeTrait" }
+        { DisplayName = "Aspect of Sett" }
+
+        { Id = "FistWeapon_Unequipped" }
+        { DisplayName = "Aspect of Sett" }
+
+        { Id = "FistBaseUpgradeTrait" }
+        { DisplayName = "Aspect of Sett" }
+
+        { Id = "GunWeapon_Unequipped" }
+        { DisplayName = "Aspect of Sett" }
+
+        { Id = "GunBaseUpgradeTrait" }
+        { DisplayName = "Aspect of Sett" }
+
+        { Id = "PlayerUnit" }
+        {
+            DisplayName = "Sett"
+            Description = "Spirit of Challenge"
+        }
+
+        { Id = "PlayerUnit_Intro" }
+        { DisplayName = "Sett" }
+
+        { Id = "SkellyTrueDeathQuestComplete" }
+        { DisplayName = "Slay Skelly using Stygius with the MAX Lv. Sett Aspect" }
+
+        { Id = "Objective_PlayerKills" }
+        { DisplayName = "{#TeamFormat}Foes Slain by {#PreviousFormat}{#TeamZagFormat}Sett{#PreviousFormat}: {$PlayerKills}" }
+
+        /* Aphelios */
+        { Id = "MusicMusicPlayerThanatosThemeMusicPlayer" }
+        { Description = "{$Keywords.MusicSheet}: Heralds the arrival of Aphelios, incarnate of death." }
+
+        { Id = "ThanatosFirstAppearance" }
+        { DisplayName = "Met Aphelios" }
+
+        { Id = "MetThanatos" }
+        { DisplayName = "Met Aphelios" }
+
+        { Id = "Objective_ThanatosKills" }
+        { DisplayName = "{#TeamFormat}Foes Slain by {#PreviousFormat}{#TeamThanFormat}Aphelios{#PreviousFormat}: {$ThanatosKills}" }
+
+        { Id = "NPC_Thanatos_01" }
+        {
+            DisplayName = "Aphelios"
+            Description = "Harbinger of Night"
+        }
+
+        { Id = "Thanatos" }
+        { DisplayName = "Aphelios" }
+
+        { Id = "ThanatosSignoff" }
+        { DisplayName = "From Aphelios" }
+
+        { Id = "ThanatosSignoff_Max" }
+        { DisplayName = """
+            From {#AwardMaxFlavorFormat}Aphelios{#AwardDarkFlavorFormat}; you share an {#AwardMaxFlavorFormat}Undying Bond
+
+            {#AwardDarkFlavorFormat}With whom should Death belong, if not with Blood, with Life?
+            """ 
+        }
+
+        { Id = "ThanatosSignoff_AssistMax_A" }
+        { DisplayName = """
+            From {#AwardMaxFlavorFormat}Aphelios{#AwardDarkFlavorFormat}, cherished partner
+            """ 
+        }
+
+        { Id = "ThanatosSignoff_AssistMax_B" }
+        { DisplayName = """
+            From {#AwardMaxFlavorFormat}Aphelios{#AwardDarkFlavorFormat}, closest colleague
+            """ 
+        }
+
+        { Id = "Ghost_AboutThan01" }
+        { DisplayName = "I'm telling you, he and Aphelios are together!!" }
+
+        { Id = "ClearShutDownThanatos" }
+        { DisplayName = "{!Icons.RunClearStar}Robbed Aphelios{!Icons.RunClearStar}" }
+
+        /* Alune */
+        { Id = "FuryFirstAppearance" }
+        { DisplayName = "Met Alune" }
+
+        { Id = "MetFury" }
+        { DisplayName = "Met Alune" }
+
+        /* TODO: Replace Description with proper title */
+        { Id = "NPC_FurySister_01" }
+        {
+            DisplayName = "Alune"
+            Description = "First of the Furies"
+        }
+
+        /* TODO: Replace Fury with proper title */
+        { Id = "Harpy" }
+        { DisplayName = "Alune, the Fury" }
+
+        { Id = "MegaeraSignoff" }
+        { DisplayName = "From Alune" }
+
+        { Id = "MegaeraSignoff_Max" }
+        { DisplayName = """
+            From {#AwardMaxFlavorFormat}Alune{#AwardDarkFlavorFormat}; you share an {#AwardMaxFlavorFormat}Intense Bond
+
+            {#AwardDarkFlavorFormat}Your deaths at one another's hands... all your pleasure, all your pain, united.
+            """ 
+        }
+
+        { Id = "MegaeraSignoff_AssistMax_A" }
+        { DisplayName = """
+            From {#AwardMaxFlavorFormat}Alune{#AwardDarkFlavorFormat}, lover and rival
+            """ 
+        }
+
+        { Id = "MegaeraSignoff_AssistMax_B" }
+        { DisplayName = """
+            From {#AwardMaxFlavorFormat}Alune{#AwardDarkFlavorFormat}, your old flame
+            """
+        }
+
+        { Id = "RunHistoryScreenResult_A_Boss01" }
+        { DisplayName = "Slain by {#AltPenaltyFormat}ALUNE {#PreviousFormat}in {#AltPenaltyFormat}TARTARUS{#PreviousFormat}" }
+
+        /* Ahri */
+        { Id = "AphroditeUpgrade" }
+        {
+            DisplayName = "Ahri"
+            Description = "Spirit of Love"
+        }
+
+        { Id = "AphroditeShoutTrait" }
+        { DisplayName = "Ahri's Aid" }
+
+        { Id = "AphroditeFirstPickUp" }
+        { DisplayName = "Met Ahri" }
+
+        { Id = "AphroditeUpgrades" }
+        {
+            DisplayName = "Spirit of Love"
+            Description = "The son of the god of the dead shall someday earn various Boons of Ahri."
+        }
+
+        { Id = "AphroditeAboutOlympianReunionQuest01" }
+        { DisplayName = "Invited Ahri" }
+
+        { Id = "NPC_Aphrodite_01" }
+        {
+            DisplayName = "Ahri"
+            Description = "Spirit of Love"
+        }
+
+        { Id = "AphroditeSignoff" }
+        { DisplayName = "From Ahri" }
+
+        { Id = "AphroditeSignoff_Max" }
+        { DisplayName = """
+            From {#AwardMaxFlavorFormat}Ahri{#AwardDarkFlavorFormat}; you share a {#AwardMaxFlavorFormat}Beautiful Bond
+
+            {#AwardDarkFlavorFormat}Her true affection is reserved for those who find love and beauty on their own.
+            """ 
+        }
+
+        { Id = "ForceAphroditeBoonTrait" }
+        { Description = "The next {$Keywords.GodBoon} you find will be from {#BoldFormat}Ahri{#PreviousFormat}. Her blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better." }
+
+        { Id = "ForceAphroditeBoonTrait_Rack" }
+        { Description = "The next {$Keywords.GodBoon} you find will be from {#BoldFormat}Ahri{#PreviousFormat}. Her blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better. \n\n {#AwardFlavorFormat}{$TooltipData.SignoffText}" }
+
+        { Id = "ForceAphroditeBoonTrait_Inactive" }
+        { Description = "Ahri's blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better." }
+
+        { Id = "Ghost_Glimpse" }
+        { DisplayName = "I would do anything for just one glimpse of Ahri...!" }
+
+        { Id = "ClearRequiredTraitsAphrodite" }
+        { DisplayName = "{!Icons.RunClearStar}Disciple of Ahri{!Icons.RunClearStar}" }
+
+        /* Nami */
+        { Id = "PoseidonUpgrade" }
+        {
+            DisplayName = "Nami"
+            Description = "Spirit of the Seas"
+        }
+
+        { Id = "PoseidonShoutTrait" }
+        { DisplayName = "Nami's Aid" }
+
+        { Id = "DislodgeAmmoTrait" }
+        {
+            DisplayName = "Aspect of Nami"
+            Description = "Your {$Keywords.Special} dislodges {!Icons.Ammo} from foes. \n {!Icons.Bullet}{#PropertyFormat}Cast Damage: \Column 380 {#UpgradeFormat}{#AltUpgradeFormat}{$TooltipData.TooltipDamage:P} \n\n {#ItalicFormatDark}Even before she ruled the seas, the blade's first bearer liked making a splash."
+        }
+
+        { Id = "PoseidonFirstPickup" }
+        { DisplayName = "Met Nami" }
+
+        { Id = "PoseidonUpgrades" }
+        {
+            DisplayName = "Spirit of the Sea"
+            Description = "The son of the god of the dead shall someday earn various Boons of Nami."
+        }
+
+        { Id = "PoseidonBeatTheseusQuestComplete" }
+        { DisplayName = "Vanquish 'Extreme Measures' Theseus, Then Seek Nami" }
+        
+        { Id = "PoseidonFish" }
+        { Description = "The son of the god of the dead shall someday catch a significant number of river-dwelling denizens, including an unusually rare species, impressing Nami." }
+
+        { Id = "PoseidonFishQuestComplete" }
+        { DisplayName = "Catch 25 Fish, at Least One Very Rare, and Report to Nami" }
+
+        { Id = "PoseidonAboutOlympianReunionQuest01" }
+        { DisplayName = "Invited Nami" }
+
+        { Id = "NPC_Poseidon_01" }
+        {
+            DisplayName = "Nami"
+            Description = "Spirit of the Seas"
+        }
+
+        { Id = "PoseidonSignoff" }
+        { DisplayName = "From Nami" }
+
+        { Id = "PoseidonSignoff_Max" }
+        { DisplayName = """
+            From {#AwardMaxFlavorFormat}Nami{#AwardDarkFlavorFormat}; you share an {#AwardMaxFlavorFormat}Unshakable Bond
+
+            {#AwardDarkFlavorFormat}She would turn the very tides and sunder the earth for you.
+            """ 
+        }
+
+        { Id = "ForcePoseidonBoonTrait" }
+        { Description = "The next {$Keywords.GodBoon} you find will be from {#BoldFormat}Nami{#PreviousFormat}. Her blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better." }
+
+        { Id = "ForcePoseidonBoonTrait_Rack" }
+        { Description = "The next {$Keywords.GodBoon} you find will be from {#BoldFormat}Nami{#PreviousFormat}. Her blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better. \n\n {#AwardFlavorFormat}{$TooltipData.SignoffText}" }
+
+        { Id = "ForcePoseidonBoonTrait_Inactive" }
+        { Description = "Nami's blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better." }
+
+        { Id = "ClearRequiredTraitsPoseidon" }
+        { DisplayName = "{!Icons.RunClearStar}Disciple of Nami{!Icons.RunClearStar}" }
+
+        /* Soraka */
+        { Id = "AthenaUpgrade" }
+        {
+            DisplayName = "Soraka"
+            Description = "Spirit of Wisdom"
+        }
+
+        { Id = "AthenaShoutTrait" }
+        { DisplayName = "Soraka's Aid" }
+
+        { Id = "AthenaFirstPickUp" }
+        { DisplayName = "Met Soraka" }
+
+        { Id = "AthenaUpgrades" }
+        {
+            DisplayName = "Spirit of Wisdom"
+            Description = "The son of the god of the dead shall someday earn various Boons of Soraka."
+        }
+
+        { Id = "AthenaAboutOlympianReunionQuest01" }
+        { DisplayName = "Invited Soraka" }
+
+        { Id = "NPC_Athena_01" }
+        {
+            DisplayName = "Soraka"
+            Description = "Spirit of Wisdom"
+        }
+
+        { Id = "AthenaSignoff" }
+        { DisplayName = "From Soraka" }
+
+        { Id = "AthenaSignoff_Max" }
+        { DisplayName = """
+            From {#AwardMaxFlavorFormat}Soraka{#AwardDarkFlavorFormat}; you share a {#AwardMaxFlavorFormat}Knowing Bond
+
+            {#AwardDarkFlavorFormat}She anticipated almost every detail, save for the kinship she would feel.
+            """ 
+        }
+
+        { Id = "ForceAthenaBoonTrait" }
+        { Description = "The next {$Keywords.GodBoon} you find will be from {#BoldFormat}Soraka{#PreviousFormat}. Her blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better." }
+
+        { Id = "ForceAthenaBoonTrait_Rack" }
+        { Description = "The next {$Keywords.GodBoon} you find will be from {#BoldFormat}Soraka{#PreviousFormat}. Her blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better. \n\n {#AwardFlavorFormat}{$TooltipData.SignoffText}" }
+
+        { Id = "ForceAthenaBoonTrait_Inactive" }
+        { Description = "Soraka's blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better." }
+
+        { Id = "ClearRequiredTraitsAthena" }
+        { DisplayName = "{!Icons.RunClearStar}Disciple of Soraka{!Icons.RunClearStar}" }
+
+        /* Darius */
+        { Id = "AresUpgrade" }
+        {
+            DisplayName = "Darius"
+            Description = "Spirit of War"
+        }
+
+        { Id = "AresShoutTrait" }
+        { DisplayName = "Darius' Aid" }
+
+        { Id = "AresFirstPickUp" }
+        { DisplayName = "Met Darius" }
+
+        { Id = "AresUpgrades" }
+        {
+            DisplayName = "Spirit of War"
+            Description = "The son of the god of the dead shall someday earn various Boons of Darius."
+        }
+
+        { Id = "AresKillQuestComplete" }
+        { DisplayName = "Slay 10,000 Foes or More, Then Seek Darius" }
+
+        { Id = "AresAboutOlympianReunionQuest01" }
+        { DisplayName = "Invited Darius" }
+
+        { Id = "NPC_Ares_01" }
+        {
+            DisplayName = "Darius"
+            Description = "Spirit of War"
+        }
+
+        { Id = "AresSignoff" }
+        { DisplayName = "From Darius" }
+
+        { Id = "AresSignoff_Max" }
+        { DisplayName = """
+            From {#AwardMaxFlavorFormat}Darius{#AwardDarkFlavorFormat}; you share a {#AwardMaxFlavorFormat}Blood-bound Bond
+
+            {#AwardDarkFlavorFormat}Some of the strongest kinships form during the darkest of circumstances.
+            """
+        }
+
+        { Id = "ForceAresBoonTrait" }
+        { Description = "The next {$Keywords.GodBoon} you find will be from {#BoldFormat}Darius{#PreviousFormat}. His blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better." }
+
+        { Id = "ForceAresBoonTrait_Rack" }
+        { Description = "The next {$Keywords.GodBoon} you find will be from {#BoldFormat}Darius{#PreviousFormat}. His blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better. \n\n {#AwardFlavorFormat}{$TooltipData.SignoffText}" }
+
+        { Id = "ForceAresBoonTrait_Inactive" }
+        { Description = "Darius' blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better." }
+
+        { Id = "ClearRequiredTraitsAres" }
+        { DisplayName = "{!Icons.RunClearStar}Disciple of Darius{!Icons.RunClearStar}" }
+
+        /* Kindred */
+        { Id = "TrialUpgrade" }
+        {
+            DisplayName = "Kindred"
+            Description = "Spirit of Creation"
+        }
+
+        { Id = "ChaosBlessingFormat" }
+        { DisplayName = "Kindred Blessing/Curse" }
+
+        { Id = "ShieldRushBonusProjectileTrait" }
+        { DisplayName = "Aspect of Kindred" }
+
+        { Id = "ChaosFirstPickUp" }
+        { DisplayName = "Met Kindred" }
+
+        { Id = "ChaosBlessings" }
+        { Description = "The son of the god of the dead shall someday earn various Blessings offered by Kindred." }
+
+        { Id = "ChaosCurses" }
+        { Description = "The son of the god of the dead shall someday suffer various Curses inflicted by Kindred." }
+
+        { Id = "NyxChaosReunion" }
+        { Description = "The son of the god of the dead shall make certain attempts to aid our Mother Night, who through course of time has grown far apart from Kindred, her parent and origin of all things." }
+        
+        { Id = "NyxInChaos01" }
+        { DisplayName = "Find a Way to Reunite Nyx and Kindred" }
+
+        { Id = "ChaosKeepsakeEscape" }
+        {
+            DisplayName = "Amusing Kindred"
+            Description = "The son of the god of the dead shall someday overcome his own father while in possession of a gift from our primordial originator, Kindred."
+        }
+
+        { Id = "NPC_Chaos_01" }
+        {
+            DisplayName = "Kindred"
+            Description = "Primordial Spirit of Death"
+        }
+
+        { Id = "ChaosSignoff" }
+        { DisplayName = "From Kindred" }
+
+        { Id = "ChaosSignoff_Max" }
+        { DisplayName = """
+            From {#AwardMaxFlavorFormat}Kindred{#AwardDarkFlavorFormat}; you share an {#AwardMaxFlavorFormat}Infinite Bond
+
+            {#AwardDarkFlavorFormat}Even the Origin of All Things seeks to know whimsy and surprise.
+            """
+        }
+
+        { Id = "ChaosBoonTrait" }
+        { Description = "Enter {$Keywords.HealthGatePlural} without losing {!Icons.Health_Small}. Blessings from {#BoldFormat}Kindred {#PreviousFormat}have {#UpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better." }
+
+        { Id = "ChaosBoonTrait_Rack" }
+        { Description = "Enter {$Keywords.HealthGatePlural} without losing {!Icons.Health_Small}. Blessings from {#BoldFormat}Kindred {#PreviousFormat}have {#UpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better. \n\n {#AwardFlavorFormat}{$TooltipData.SignoffText}" }
+
+        { Id = "ClearRequiredTraitsChaos" }
+        { DisplayName = "{!Icons.RunClearStar}Scion of Kindred{!Icons.RunClearStar}" }
+
+        /* Miscellaneous changes */
+        { Id = "ThanatosMessage" }
+        { DisplayName = "NIGHT APPROACHES" }
+    ]
+]

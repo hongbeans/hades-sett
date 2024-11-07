@@ -1,0 +1,29 @@
+Animations = [
+    "_search", [
+        /* Main Menu adjustments */
+        { Name = "MainMenuIn" }
+        {
+            EndFrame = 79
+            NumFrames = 79
+        }
+        { Name = "MainMenuLoop" }
+        { 
+            ChildAnimation = ""
+            EndFrame = 59
+            NumFrames = 59
+        }
+
+        /* Employee of the Month replacements */
+        { Name = "HouseEmployeeOfMonthThanatos01" }
+        {
+            FilePath = "SettDeathArea\Tilesets\House\House_EmployeeOfMonth_Aphelios_01"
+            Scale = 4.5
+        }
+
+        { Name = "HouseEmployeeOfMonthMegaera01" }
+        {
+            FilePath = "SettDeathArea\Tilesets\House\House_EmployeeOfMonth_Alune_01"
+            Scale = 4.5
+        }
+    ],
+]

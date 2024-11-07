@@ -1,0 +1,104 @@
+Import "Scripts/Load.lua"
+Import "Scripts/PatchRoomData.lua"
+Import "Scripts/UseCustomDialogue.lua"
+Import "Scripts/CustomIntermission.lua"
+:: Import "Scripts/CustomDeathLoopData.lua"
+
+To "Game/Animations/ObstacleAnimations.sjson"
+SJSON "Animations/ObstacleAnimations.sjson"
+
+To "Game/Animations/ObstacleAnimations.sjson"
+SJSON "Animations/ObstacleAnimationsAppend.sjson"
+
+To "Game/Animations/PortraitAnimations.sjson"
+SJSON "Animations/PortraitAnimations.sjson"
+
+To "Game/Animations/GUIAnimations.sjson"
+SJSON "Animations/GUIAnimations.sjson"
+
+:: Replace character names
+To "Game/Text/en/HelpText.en.sjson"
+SJSON "Menus/HelpText.en.sjson"
+
+To "Game/Text/en/MacroText.sjson"
+SJSON "Menus/MacroText.sjson"
+
+:: Load custom dialogue
+To "Game/Text/en/_DeathLoopData.en.sjson"
+Replace "Dialogue/_DeathLoopData.en.sjson"
+
+To "Game/Text/en/_LootData.en.sjson"
+Replace "Dialogue/_LootData.en.sjson"
+
+To "Game/Text/en/_NPCData.en.sjson"
+Replace "Dialogue/_NPCData.en.sjson"
+
+:: Load image packages
+To Win/Packages/SettPortraits.pkg_manifest
+Replace "Packages/SettPortraits.pkg_manifest"
+
+To Win/Packages/720p/SettPortraits.pkg_manifest
+Replace "Packages/SettPortraits.pkg_manifest"
+
+To Win/Packages/SettPortraits.pkg
+Replace "Packages/SettPortraits.pkg"
+
+To Win/Packages/720p/SettPortraits.pkg
+Replace "Packages/SettPortraits.pkg"
+
+To Win/Packages/SettDeathArea.pkg_manifest
+Replace "Packages/SettDeathArea.pkg_manifest"
+
+To Win/Packages/720p/SettDeathArea.pkg_manifest
+Replace "Packages/SettDeathArea.pkg_manifest"
+
+To Win/Packages/SettDeathArea.pkg
+Replace "Packages/SettDeathArea.pkg"
+
+To Win/Packages/720p/SettDeathArea.pkg
+Replace "Packages/SettDeathArea.pkg"
+
+To Win/Packages/SettGUI.pkg_manifest
+Replace "Packages/SettGUI.pkg_manifest"
+
+To Win/Packages/720p/SettGUI.pkg_manifest
+Replace "Packages/SettGUI.pkg_manifest"
+
+To Win/Packages/SettGUI.pkg
+Replace "Packages/SettGUI.pkg"
+
+To Win/Packages/720p/SettGUI.pkg
+Replace "Packages/SettGUI.pkg"
+
+:: Replace Main Menu screen
+To Movies/720p/MainMenuIn.bik
+Replace "Movies/MainMenuIn.bik"
+
+To Movies/720p/MainMenuLoop.bik
+Replace "Movies/MainMenuLoop.bik"
+
+To Movies/MainMenuIn.bik
+Replace "Movies/MainMenuIn.bik"
+
+To Movies/MainMenuLoop.bik
+Replace "Movies/MainMenuLoop.bik"
+
+:: Replace menu loading animations
+To Movies/720p/BoonSelectIn.bik
+Replace "Movies/BoonSelectIn.bik"
+
+To Movies/BoonSelectIn.bik
+Replace "Movies/BoonSelectIn.bik"
+
+To Movies/720p/BoonSelectOut.bik
+Replace "Movies/BoonSelectOut.bik"
+
+To Movies/BoonSelectOut.bik
+Replace "Movies/BoonSelectOut.bik"
+
+:: Replace character animation binks
+To Movies/720p/ThanatosIdleInhouse_Bink.bik
+Replace "Movies/ThanatosIdleInhouse_Bink.bik"
+
+To Movies/ThanatosIdleInhouse_Bink.bik
+Replace "Movies/ThanatosIdleInhouse_Bink.bik"
