@@ -47,14 +47,14 @@ Texts = [
         { DisplayName = "Sett" }
 
         { Id = "SkellyTrueDeathQuestComplete" }
-        { DisplayName = "Slay Skelly using Stygius with the MAX Lv. Sett Aspect" }
+        { DisplayName = "Slay Amumu using Stygius with the MAX Lv. Sett Aspect" }
 
         { Id = "Objective_PlayerKills" }
         { DisplayName = "{#TeamFormat}Foes Slain by {#PreviousFormat}{#TeamZagFormat}Sett{#PreviousFormat}: {$PlayerKills}" }
 
         /* Aphelios */
         { Id = "MusicMusicPlayerThanatosThemeMusicPlayer" }
-        { Description = "{$Keywords.MusicSheet}: Heralds the arrival of Aphelios, incarnate of death." }
+        { Description = "{$Keywords.MusicSheet}: Heralds the arrival of Aphelios, incarnate of night." }
 
         { Id = "ThanatosFirstAppearance" }
         { DisplayName = "Met Aphelios" }
@@ -110,16 +110,14 @@ Texts = [
         { Id = "MetFury" }
         { DisplayName = "Met Alune" }
 
-        /* TODO: Replace Description with proper title */
         { Id = "NPC_FurySister_01" }
         {
             DisplayName = "Alune"
-            Description = "First of the Furies"
+            Description = "First of the Chosen"
         }
 
-        /* TODO: Replace Fury with proper title */
         { Id = "Harpy" }
-        { DisplayName = "Alune, the Fury" }
+        { DisplayName = "Alune, the Chosen" }
 
         { Id = "MegaeraSignoff" }
         { DisplayName = "From Alune" }
@@ -202,6 +200,15 @@ Texts = [
         { DisplayName = "{!Icons.RunClearStar}Disciple of Ahri{!Icons.RunClearStar}" }
 
         /* Nami */
+        { Id = "PoseidonUpgrade_FlavorText01" }
+        { DisplayName = "lady and master of the seas, and also called the earth-shaker." }
+
+        { Id = "PoseidonUpgrade_FlavorText02" }
+        { DisplayName = "strong-willed sea-commanding sister of volibear and of pa." }
+
+        { Id = "PoseidonUpgrade_FlavorText03" }
+        { DisplayName = "the seas and all the surface of the earth bend to her every whim." }
+
         { Id = "PoseidonUpgrade" }
         {
             DisplayName = "Nami"
@@ -226,8 +233,14 @@ Texts = [
             Description = "The son of the god of the dead shall someday earn various Boons of Nami."
         }
 
+        { Id = "PoseidonBeatTheseus" }
+        {
+            DisplayName = "Sea-Spirit's Spite"
+            Description = "The son of the god of the dead shall someday overcome the Spirit of Obsession under the effect of Pact's 'Extreme Measures' Condition, until the spurned spirit of the sea is aware."
+        }
+
         { Id = "PoseidonBeatTheseusQuestComplete" }
-        { DisplayName = "Vanquish 'Extreme Measures' Theseus, Then Seek Nami" }
+        { DisplayName = "Vanquish 'Extreme Measures' Thresh, Then Seek Nami" }
         
         { Id = "PoseidonFish" }
         { Description = "The son of the god of the dead shall someday catch a significant number of river-dwelling denizens, including an unusually rare species, impressing Nami." }
@@ -376,7 +389,7 @@ Texts = [
         { Id = "TrialUpgrade" }
         {
             DisplayName = "Kindred"
-            Description = "Spirit of Creation"
+            Description = "Primordial Spirit of Death"
         }
 
         { Id = "ChaosBlessingFormat" }
@@ -395,10 +408,10 @@ Texts = [
         { Description = "The son of the god of the dead shall someday suffer various Curses inflicted by Kindred." }
 
         { Id = "NyxChaosReunion" }
-        { Description = "The son of the god of the dead shall make certain attempts to aid our Mother Night, who through course of time has grown far apart from Kindred, her parent and origin of all things." }
+        { Description = "The son of the god of the dead shall make certain attempts to aid our Mother Moon, who through course of time has grown far apart from Kindred, her parent and origin of all things." }
         
         { Id = "NyxInChaos01" }
-        { DisplayName = "Find a Way to Reunite Nyx and Kindred" }
+        { DisplayName = "Find a Way to Reunite Mother Moon and Kindred" }
 
         { Id = "ChaosKeepsakeEscape" }
         {
@@ -432,8 +445,1096 @@ Texts = [
         { Id = "ClearRequiredTraitsChaos" }
         { DisplayName = "{!Icons.RunClearStar}Scion of Kindred{!Icons.RunClearStar}" }
 
+        /* Diana */
+        { Id = "ArtemisUpgrade" }
+        {
+            DisplayName = "Diana"
+            Description = "Spirit of the Hunt"
+        }
+
+        { Id = "ArtemisShoutTrait" }
+        { DisplayName = "Diana's Aid" }
+
+        { Id = "ArtemisFirstPickUp" }
+        { DisplayName = "Met Diana" }
+
+        { Id = "ArtemisUpgrades" }
+        {
+            DisplayName = "Spirit of the Hunt"
+            Description = "The son of the god of the dead shall someday earn various Boons of Diana."
+        }
+
+        { Id = "ArtemisAboutOlympianReunionQuest01" }
+        { DisplayName = "Invited Diana" }
+
+        { Id = "NPC_Artemis_01" }
+        {
+            DisplayName = "Diana"
+            Description = "Spirit of the Hunt"
+        }
+
+        { Id = "ArtemisSignoff" }
+        { DisplayName = "From Diana" }
+
+        { Id = "ArtemisSignoff_Max" }
+        { DisplayName = """
+            From {#AwardMaxFlavorFormat}Diana{#AwardDarkFlavorFormat}; you share an {#AwardMaxFlavorFormat}Impenetrable Bond
+
+            {#AwardDarkFlavorFormat}Her solitary nature and her sharpened instincts mean she seldom dares to share her trust.
+            """
+        }
+
+        { Id = "ForceArtemisBoonTrait" }
+        { Description = "The next {$Keywords.GodBoon} you find will be from {#BoldFormat}Diana{#PreviousFormat}. Her blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better." }
+
+        { Id = "ForceArtemisBoonTrait_Rack" }
+        { Description = "The next {$Keywords.GodBoon} you find will be from {#BoldFormat}Diana{#PreviousFormat}. Her blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better. \n\n {#AwardFlavorFormat}{$TooltipData.SignoffText}" }
+
+        { Id = "ForceArtemisBoonTrait_Inactive" }
+        { Description = "Diana's blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better." }
+
+        { Id = "Ghost_Artemis" }
+        { DisplayName = "I really thought the spirit of the hunt was looking out for me..." }
+
+        { Id = "ClearRequiredTraitsArtemis" }
+        { DisplayName = "{!Icons.RunClearStar}Disciple of Diana{!Icons.RunClearStar}" }
+
+        /* Lissandra */
+        { Id = "DemeterUpgrade" }
+        {
+            DisplayName = "Lissandra"
+            Description = "Spirit of Seasons"
+        }
+
+        { Id = "DemeterShoutTrait" }
+        { DisplayName = "Lissandra's Aid" }
+
+        { Id = "FistWeaveTrait" }
+        { DisplayName = "Aspect of Lissandra" }
+
+        { Id = "DemeterFirstPickUp" }
+        { DisplayName = "Met Lissandra" }
+
+        { Id = "DemeterUpgrades" }
+        {
+            DisplayName = "Spirit of Seasons"
+            Description = "The son of the god of the dead shall someday earn various Boons of Lissandra."
+        }
+
+        { Id = "DemeterAboutOlympianReunionQuest01" }
+        { DisplayName = "Invited Lissandra" }
+
+        { Id = "NPC_Demeter_01" }
+        {
+            DisplayName = "Lissandra"
+            Description = "Spirit of Seasons"
+        }
+
+        { Id = "DemeterSignoff" }
+        { DisplayName = "From Lissandra" }
+
+        { Id = "DemeterSignoff_Max" }
+        { DisplayName = """
+            From {#AwardMaxFlavorFormat}Lissandra{#AwardDarkFlavorFormat}; you share a {#AwardMaxFlavorFormat}Nurturing Bond
+
+            {#AwardDarkFlavorFormat}Aeons, generations, distances; family can withstand them all.
+            """
+        }
+
+        { Id = "ForceDemeterBoonTrait" }
+        { Description = "The next {$Keywords.GodBoon} you find will be from {#BoldFormat}Lissandra{#PreviousFormat}. Her blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better." }
+
+        { Id = "ForceDemeterBoonTrait_Rack" }
+        { Description = "The next {$Keywords.GodBoon} you find will be from {#BoldFormat}Lissandra{#PreviousFormat}. Her blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better. \n\n {#AwardFlavorFormat}{$TooltipData.SignoffText}" }
+
+        { Id = "ForceDemeterBoonTrait_Inactive" }
+        { Description = "Lissandra's blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better." }
+
+        { Id = "ClearRequiredTraitsDemeter" }
+        { DisplayName = "{!Icons.RunClearStar}Disciple of Lissandra{!Icons.RunClearStar}" }
+
+        /* Teemo */
+        { Id = "DionysusUpgrade" }
+        {
+            DisplayName = "Teemo"
+            Description = "Spirit of Revelry"
+        }
+
+        { Id = "DionysusShoutTrait" }
+        { DisplayName = "Teemo's Aid" }
+
+        { Id = "DionysusFirstPickUp" }
+        { DisplayName = "Met Teemo" }
+
+        { Id = "DionysusUpgrades" }
+        {
+            DisplayName = "Spirit of Revelry"
+            Description = "The son of the god of the dead shall someday earn various Boons of Teemo."
+        }
+
+        { Id = "DionysusAboutOlympianReunionQuest01" }
+        { DisplayName = "Invited Teemo" }
+
+        { Id = "NPC_Dionysus_01" }
+        {
+            DisplayName = "Teemo"
+            Description = "Spirit of Revelry"
+        }
+
+        { Id = "DionysusSignoff" }
+        { DisplayName = "From Teemo" }
+
+        { Id = "DionysusSignoff_Max" }
+        { DisplayName = """
+            From {#AwardMaxFlavorFormat}Teemo{#AwardDarkFlavorFormat}; you share a {#AwardMaxFlavorFormat}Jubilant Bond
+
+            {#AwardDarkFlavorFormat}Two free spirits, though far apart, still can brighten each other's days.
+            """
+        }
+
+        { Id = "ForceDionysusBoonTrait" }
+        { Description = "The next {$Keywords.GodBoon} you find will be from {#BoldFormat}Teemo{#PreviousFormat}. His blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better." }
+
+        { Id = "ForceDionysusBoonTrait_Rack" }
+        { Description = "The next {$Keywords.GodBoon} you find will be from {#BoldFormat}Teemo{#PreviousFormat}. His blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better. \n\n {#AwardFlavorFormat}{$TooltipData.SignoffText}" }
+
+        { Id = "ForceDionysusBoonTrait_Inactive" }
+        { Description = "Teemo's blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better." }
+
+        { Id = "ClearRequiredTraitsDionysus" }
+        { DisplayName = "{!Icons.RunClearStar}Disciple of Teemo{!Icons.RunClearStar}" }
+
+        /* Lillia */
+        { Id = "HermesUpgrade" }
+        {
+            DisplayName = "Lillia"
+            Description = "Fleeting Spirit"
+        }
+
+        { Id = "HermesFirstPickUp" }
+        { DisplayName = "Met Lillia" }
+
+        { Id = "HermesUpgrades" }
+        {
+            DisplayName = "Fleeting Spirit"
+            Description = "The son of the god of the dead shall someday earn various Boons of Lillia."
+        }
+
+        { Id = "HermesBeatCharon" }
+        { Description = "The son of the god of the dead shall someday overcome the Stygian Boatman in two successive battles against him, at the urging of the fleeting spirit." }
+
+        { Id = "HermesAboutOlympianReunionQuest01" }
+        { DisplayName = "Invited Lillia" }
+
+        { Id = "NPC_Hermes_01" }
+        {
+            DisplayName = "Lillia"
+            Description = "Fleeting Spirit"
+        }
+
+        { Id = "HermesSignoff" }
+        { DisplayName = "From Lillia" }
+
+        { Id = "HermesSignoff_Max" }
+        { DisplayName = """
+            From {#AwardMaxFlavorFormat}Lillia{#AwardDarkFlavorFormat}; you share a {#AwardMaxFlavorFormat}Quicksilver Bond
+
+            {#AwardDarkFlavorFormat}Her carefree nature and her haste never betray her true capacity.
+            """
+        }
+
+        { Id = "ClearTimeFast" }
+        { DisplayName = "{!Icons.RunClearStar}Swiftness of Lillia{!Icons.RunClearStar}" }
+
+        { Id = "ClearTimeVeryFast" }
+        { DisplayName = "{!Icons.RunClearStar}Lillia Would Be Jealous{!Icons.RunClearStar}" }
+
+        { Id = "ClearRequiredTraitsHermes" }
+        { DisplayName = "{!Icons.RunClearStar}Disciple of Lillia{!Icons.RunClearStar}" }
+
+        /* Volibear */
+        { Id = "ZeusUpgrade" }
+        {
+            DisplayName = "Volibear"
+            Description = "Spirit of Lightning"
+        }
+
+        { Id = "ZeusShoutTrait" }
+        { DisplayName = "Volibear's Aid" }
+
+        { Id = "ShieldTwoShieldTrait" }
+        {
+            DisplayName = "Aspect of Volibear"
+            Description = "Your {$Keywords.Special} becomes {$Keywords.ZeusAspect}. \n {!Icons.Bullet}{#PropertyFormat}{$Keywords.ZeusAspect} Base Damage per Hit: \Column 380 {#UpgradeFormat}{$TooltipData.TooltipDamage} \n\n {#ItalicFormatDark}Once he became the spirit of lightning, he truly had nothing left to fear."
+        }
+
+        { Id = "ShieldTwoShieldTrait_Delta" }
+        { Description = "Your {$Keywords.Special} becomes {$Keywords.ZeusAspect}. \n {!Icons.Bullet}{#PropertyFormat}{$Keywords.ZeusAspect} Base Damage per Hit: \Column 380 {#PreviousFormat}{$TooltipData.DisplayDelta1} \n\n {#ItalicFormatDark}Once he became the spirit of lightning, he truly had nothing left to fear." }
+
+        { Id = "ZeusFirstPickUp" }
+        { DisplayName = "Met Volibear" }
+
+        { Id = "ZeusUpgrades" }
+        {
+            DisplayName = "Spirit of Lightning"
+            Description = "The son of the god of the dead shall someday earn various Boons of Volibear."
+        }
+
+        { Id = "ZeusAboutOlympianReunionQuest01" }
+        { DisplayName = "Invited Volibear" }
+
+        { Id = "NPC_Zeus_01" }
+        {
+            DisplayName = "Volibear"
+            Description = "Spirit of Lightning"
+        }
+
+        { Id = "Remembrance_Zeus" }
+        { DisplayName = "volibear" }
+
+        { Id = "ZeusSignoff" }
+        { DisplayName = "From Zeus" }
+
+        { Id = "ZeusSignoff_Max" }
+        { DisplayName = """
+            From {#AwardMaxFlavorFormat}Volibear{#AwardDarkFlavorFormat}; you share a {#AwardMaxFlavorFormat}Thunderous Bond
+
+            {#AwardDarkFlavorFormat}Many beg favors of the Spirit of Lightning. Few earn them with his compliments.
+            """
+        }
+
+        { Id = "ForceZeusBoonTrait" }
+        { Description = "The next {$Keywords.GodBoon} you find will be from {#BoldFormat}Volibear{#PreviousFormat}. His blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better." }
+
+        { Id = "ForceZeusBoonTrait_Rack" }
+        { Description = "The next {$Keywords.GodBoon} you find will be from {#BoldFormat}Volibear{#PreviousFormat}. His blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better. \n\n {#AwardFlavorFormat}{$TooltipData.SignoffText}" }
+
+        { Id = "ForceZeusBoonTrait_Inactive" }
+        { Description = "Volibear's blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better." }
+
+        { Id = "ClearRequiredTraitsZeus" }
+        { DisplayName = "{!Icons.RunClearStar}Disciple of Volibear{!Icons.RunClearStar}" }
+
+        /* Alistar */
+        { Id = "Minotaur" }
+        {
+            DisplayName = "Alistar"
+            Description = "Bull"
+        }
+
+        { Id = "Minotaur_Full" }
+        { DisplayName = "Alistar, Bull" }
+
+        /* Ornn */
+        { Id = "GoldLaurel" }
+        { Description = "Chamber rewards that make you stronger for your escape attempt; {#BoldFormatGraft}{$Keywords.GodBoonPlural}{#PreviousFormat}, {#BoldFormatGraft}Ornn Hammers{#PreviousFormat}, and {#BoldFormatGraft}Poms{#PreviousFormat}." }
+        
+        { Id = "WeaponUpgradeChoiceMenu_Title" }
+        { DisplayName = "Ornn Hammer" }
+
+        { Id = "WeaponUpgrade_FlavorText01" }
+        { DisplayName = "the master artisan discarded his own tools once his fell work for the old timer was complete." }
+
+        { Id = "SelfDamage" }
+        { Description = "{#ItalicFormat}CAUTION: {#PreviousFormat}{#BoldFormatGraft}Use at your own risk. {#PreviousFormat}Ornn not liable for any {#AltPenaltyFormat}self-inflicted damage{#PreviousFormat}." }
+
+        { Id = "SwordHammerUpgrades" }
+        { Description = "The son of the god of the dead shall someday acquire each of the Ornn enchantments for Stygius." }
+
+        { Id = "BowHammerUpgrades" }
+        { Description = "The son of the god of the dead shall someday acquire each of the Ornn enchantments for Coronacht." }
+
+        { Id = "ShieldHammerUpgrades" }
+        { Description = "The son of the god of the dead shall someday acquire each of the Ornn enchantments for Aegis." }
+
+        { Id = "SpearHammerUpgrades" }
+        { Description = "The son of the god of the dead shall someday acquire each of the Ornn enchantments for Varatha." }
+
+        { Id = "FistHammerUpgrades" }
+        { Description = "The son of the god of the dead shall someday acquire each of the Ornn enchantments for Malphon." }
+
+        { Id = "GunHammerUpgrades" }
+        { Description = "The son of the god of the dead shall someday acquire each of the Ornn enchantments for Exagryph." }
+
+        { Id = "WeaponUpgrade" }
+        { DisplayName = "Ornn Hammer" }
+
+        { Id = "Ghost_Inventor" }
+        { DisplayName = "If I ever find Ornn, I'm going to have a word with him." }
+
+        /* Vayne */
+        { Id = "SpearTeleportTrait" }
+        {
+            DisplayName = "Aspect of Vayne"
+            Description = "After your {$Keywords.Special}, you can retrieve your Spear with {$Keywords.AchillesAspect}. \n {!Icons.Bullet}{#PropertyFormat}Post-Rush Bonus Damage: \Column 380 {#UpgradeFormat}{$TooltipData.TooltipDamage:p} \n\n {#ItalicFormatDark}The greatest of the Demacians was peerless in battle, up close and from afar."
+        }
+
+        { Id = "SpearTeleportTrait_Delta" }
+        { Description = "After your {$Keywords.Special}, you can retrieve your Spear with {$Keywords.AchillesAspect}. \n {!Icons.Bullet}{#PropertyFormat}Post-Rush Bonus Damage: \Column 380 {#PreviousFormat}{$TooltipData.DisplayDelta1} \n\n {#ItalicFormatDark}The greatest of the Demacians was peerless in battle, up close and from afar." }
+
+        { Id = "AchillesPatroclusReunion_A" }
+        { Description = "The son of the god of the dead shall make certain attempts to aid a great hero who gave up her exalted place in the Underworld for the one she loves." }
+
+        { Id = "MyrmidonReunionQuestComplete" }
+        { DisplayName = "Find a Way to Reunite Vayne and Riven" }
+
+        { Id = "NPC_Achilles_01" }
+        {
+            DisplayName = "Vayne"
+            Description = "Spirit of Hatred"
+        }
+
+        { Id = "Achilles" }
+        {
+            DisplayName = "Vayne"
+            Description = "A great hero in her mortal days, now chief guardsman of the House."
+        }
+
+        { Id = "AchillesSignoff" }
+        { DisplayName = "From Vayne" }
+
+        { Id = "AchillesSignoff_Max" }
+        { DisplayName = """
+            From {#AwardMaxFlavorFormat}Vayne{#AwardDarkFlavorFormat}; you share an {#AwardMaxFlavorFormat}Unyielding Bond
+
+            {#AwardDarkFlavorFormat}Fated for glory, she shall forever be remembered, and remember you.
+            """
+        }
+
+        { Id = "AchillesPatroclusSignoff" }
+        { DisplayName = "From Vayne & Riven" }
+
+        { Id = "AchillesPatroclusSignoff_AssistMax" }
+        { DisplayName = """
+            From {#AwardMaxFlavorFormat}Vayne {#AwardDarkFlavorFormat}& {#AwardMaxFlavorFormat}Riven{#AwardDarkFlavorFormat}, their devotion, absolute
+            """
+        }
+
+        { Id = "Ghost_AboutAchilles01" }
+        { DisplayName = "I'm telling you, Vayne is the strongest there ever was!" }
+
+        { Id = "Ghost_AchillesCause" }
+        { DisplayName = "Vayne" }
+
+        { Id = "Ghost_AboutAchilles02" }
+        { DisplayName = "Vayne is splitting time between here and Elysium, huh?" }
+
+        /* Evelynn */
+        { Id = "Fury2FirstAppearance" }
+        { DisplayName = "Met Evelynn" }
+
+        { Id = "NPC_FurySister_02" }
+        {
+            DisplayName = "Evelynn"
+            Description = "Spirit of Passion"
+        }
+
+        { Id = "Harpy2" }
+        {
+            DisplayName = "Evelynn"
+            Description = "Spirit of Passion"
+        }
+
+        { Id = "Harpy2_Full" }
+        { DisplayName = "Evelynn, the Chosen" }
+
+        { Id = "RunHistoryScreenResult_A_Boss02" }
+        { DisplayName = "Slain by {#AltPenaltyFormat}EVELYNN {#PreviousFormat}in {#AltPenaltyFormat}TARTARUS{#PreviousFormat}" }
+
+        /* Maiden */
+        { Id = "BouldyBlessing_Armor" }
+        { Description = "You believe in Maiden, and Maiden believes in you. \n {!Icons.Bullet}{#PropertyFormat}Damage Reduction: \Column 380 {#PreviousFormat}{$TooltipData.DisplayDelta1}" }
+
+        { Id = "BouldyBlessing_Attack" }
+        { Description = "You believe in Maiden, and Maiden believes in you. \n {!Icons.Bullet}{#PropertyFormat}{$Keywords.Attack} Damage Bonus: \Column 380 {#PreviousFormat}{$TooltipData.DisplayDelta1}" }
+
+        { Id = "BouldyBlessing_Special" }
+        { Description = "You believe in Maiden, and Maiden believes in you. \n {!Icons.Bullet}{#PropertyFormat}{$Keywords.Special} Damage Bonus: \Column 380 {#PreviousFormat}{$TooltipData.DisplayDelta1}" }
+
+        { Id = "BouldyBlessing_Ranged" }
+        { Description = "You believe in Maiden, and Maiden believes in you. \n {!Icons.Bullet}{#PropertyFormat}{$Keywords.Cast} Damage Bonus: \Column 380 {#PreviousFormat}{$TooltipData.DisplayDelta1}" }
+
+        { Id = "BouldyBlessing_Speed" }
+        { Description = "You believe in Maiden, and Maiden believes in you. \n {!Icons.Bullet}{#PropertyFormat}Move Speed Bonus: \Column 380 {#PreviousFormat}{$TooltipData.DisplayDelta1}" }
+
+        { Id = "BouldyBlessing_Money" }
+        { Description = "You believe in Maiden, and Maiden believes in you. \n {!Icons.Bullet}{#PropertyFormat}{!Icons.Currency_Small} Bonus: \Column 380 {#PreviousFormat}{$TooltipData.DisplayDelta1}" }
+
+        { Id = "BouldyBlessing_None" }
+        { Description = "You do not know if you believe in Maiden... \n {!Icons.Bullet}{#PropertyFormat} Ambiguity Bonus: \Column 380 {#UpgradeFormat}+2%" }
+
+        { Id = "NPC_Bouldy_01" }
+        { DisplayName = "Maiden" }
+
+        /* Truffle & Southpaw */
+        { Id = "ClearedCerberus_Title" }
+        { DisplayName = "Truffle & Southpaw Vanquished" }
+
+        { Id = "ClearedCerberus_Alt1_Subtitle" }
+        { DisplayName = "(They're Fine)" }
+
+        { Id = "ClearedCerberus_A_Title" }
+        { DisplayName = "Truffle & Southpaw Ran Away" }
+
+        { Id = "ClearedCerberus_A_Subtitle" }
+        { DisplayName = "(Where Could They Be)" }
+
+        { Id = "ClearedCerberus_B_Title" }
+        { DisplayName = "Truffle & Southpaw Sated" }
+
+        { Id = "ClearedCerberus_C_Title" }
+        { DisplayName = "Truffle & Southpaw Fed" }
+
+        { Id = "ClearedCerberus_D_Title" }
+        { DisplayName = "Truffle & Southpaw Annihilated" }
+
+        { Id = "ClearedCerberus_D_Subtitle" }
+        { DisplayName = "(Their Appetite)" }
+
+        { Id = "ClearedCerberus_E_Title" }
+        { DisplayName = "Truffle & Southpaw Bribed" }
+
+        { Id = "ClearedCerberus_F_Title" }
+        { DisplayName = "Truffle & Southpaw Stuffed" }
+
+        { Id = "ClearedCerberus_G_Title" }
+        { DisplayName = "Truffle & Southpaw Vanished" }
+
+        { Id = "ClearedCerberus_G_Subtitle" }
+        { DisplayName = "(Where Did They Go)" }
+
+        { Id = "ClearedCerberus_H_Title" }
+        { DisplayName = "Truffle & Southpaw Left" }
+
+        { Id = "ClearedCerberus_H_Subtitle" }
+        { DisplayName = "(They Were Hungry)" }
+
+        { Id = "ClearedCerberus_I_Title" }
+        { DisplayName = "Truffle & Southpaw Devoured" }
+
+        { Id = "ClearedCerberus_J_Title" }
+        { DisplayName = "Truffle & Southpaw Abandoned" }
+
+        { Id = "ClearedCerberus_J_Subtitle" }
+        { DisplayName = "Their Post in Order to Eat" }
+
+        { Id = "ClearedCerberus_K_Title" }
+        { DisplayName = "Truffle & Southpaw Vanquished" }
+
+        { Id = "ClearedCerberus_L_Title" }
+        { DisplayName = "Truffle & Southpaw Treated" }
+
+        { Id = "ClearedCerberus_M_Title" }
+        { DisplayName = "Truffle & Southpaw Nourished" }
+
+        { Id = "ClearedCerberus_N_Title" }
+        { DisplayName = "Truffle & Southpaw Appeased" }
+
+        { Id = "ClearedCerberus_O_Title" }
+        { DisplayName = "Truffle & Southpaw Impressed" }
+
+        { Id = "ClearedCerberus_O_Subtitle" }
+        { DisplayName = "Not That They Doubted You" }
+
+        { Id = "ClearedCerberus_P_Title" }
+        { DisplayName = "Truffle & Southpaw Destroyed" }
+
+        { Id = "ClearedCerberus_P_Subtitle" }
+        { DisplayName = "Their Meal in Three Bites" }
+
+        { Id = "ClearedCerberus_Q_Title" }
+        { DisplayName = "Truffle & Southpaw Distracted" }
+
+        { Id = "Cosmetic_ClearFur" }
+        { Description = "{$Keywords.HouseRepair}: Gets rid of the huge clumps of fur shed by Truffle & Southpaw." }
+
+        { Id = "Cosmetic_ClearScratches" }
+        { Description = "{$Keywords.HouseRepair}: Repairs the unsightly damage dealt by Truffle & Southpaw." }
+
+        { Id = "NPC_Cerberus_01" }
+        {
+            DisplayName = "Truffle & Southpaw"
+            Description = "Gatekeepers"
+        }
+
+        { Id = "CerberusSignoff" }
+        { DisplayName = "From Truffle & Southpaw" }
+
+        { Id = "CerberusSignoff_Max" }
+        { DisplayName = """
+            From {#AwardMaxFlavorFormat}Truffle & Southpaw{#AwardDarkFlavorFormat}; you share a {#AwardMaxFlavorFormat}Ferocious Bond
+
+            {#AwardDarkFlavorFormat}The hounds of hell has entrusted all his loyalty in his master, and his master's son.
+            """
+        }
+
+        /* Karthus */
+        { Id = "Currency" }
+        { DisplayName = "{!Icons.Currency} Karthus' Obol" }
+
+        { Id = "RerollPanel" }
+        { Description = "Randomly alter {#BoldFormatGraft}{$Keywords.GodBoon} {#PreviousFormat}and {#BoldFormatGraft}Well of Karthus {#PreviousFormat}choices, {#TooltipUpgradeFormat}{$TempTextData.BaseValue}{#PreviousFormat}{!Icons.ReRoll_Small} chance per rank {#ItalicFormat}(at a time){#PreviousFormat}." }
+
+        { Id = "ReRollPanelAlt" }
+        { Description = "A chance to randomly alter {#BoldFormatGraft}{$Keywords.GodBoon} {#PreviousFormat}and {#BoldFormatGraft}Well of Karthus {#PreviousFormat}choices." }
+
+        { Id = "Store_Title" }
+        { DisplayName = "Well of Karthus" }
+
+        { Id = "Store_Hint" }
+        { DisplayName = "upon demise, all {!Icons.Currency_Small} returned to karthus. all sales are final." }
+
+        { Id = "RandomStoreItem" }
+        { Description = "{$Keywords.InstantItem}: Gain a random item offered from the {#BoldFormat}Well of Karthus{#PreviousFormat}." }
+
+        { Id = "CharonFirstMeeting" }
+        { DisplayName = "Met Karthus" }
+
+        { Id = "MetCharon" }
+        { DisplayName = "Met Karthus" }
+
+        { Id = "BossCharonHermesQuestComplete01" }
+        { DisplayName = "Defeat Karthus in Two Successive Battles Against Him" }
+
+        { Id = "WellShopItems" }
+        { Description = "The son of the god of the dead shall someday purchase each of the various goods sometimes offered in the Well of Karthus." }
+
+        { Id = "RoomRewardMoneyDrop" }
+        { DisplayName = "Karthus' Obol" }
+
+        { Id = "Objective_ShopSpend" }
+        { DisplayName = "Browse Karthus' Wares" }
+
+        { Id = "NPC_Charon_01" }
+        {
+            DisplayName = "Karthus"
+            Description = "River Spirit"
+        }
+
+        { Id = "Charon_Full" }
+        { DisplayName = "Karthus, River Spirit" }
+
+        { Id = "CharonSignoff" }
+        { DisplayName = "From Karthus" }
+
+        { Id = "CharonSignoff_Max" }
+        { DisplayName = """
+            From {#AwardMaxFlavorFormat}Karthus{#AwardDarkFlavorFormat}; you share an {#AwardMaxFlavorFormat}Unspoken Bond
+
+            {#AwardDarkFlavorFormat}Only a scant few souls ever earn the favor of the feared spirit.
+            """
+        }
+
+        { Id = "ShopDurationTrait" }
+        { Description = "Items from the {#BoldFormat}Well of Karthus {#PreviousFormat}have durations increased by {#AltUpgradeFormat}+{$TooltipData.TooltipDurationBonus} {#PreviousFormat}Encounters." }
+
+        { Id = "ShopDurationTrait_Rack" }
+        { Description = "Items from the {#BoldFormat}Well of Karthus {#PreviousFormat}have durations increased by {#AltUpgradeFormat}+{$TooltipData.TooltipDurationBonus} {#PreviousFormat}Encounters. \n\n {#AwardFlavorFormat}{$TooltipData.SignoffText}" }
+
+        { Id = "RunHistoryScreenResult_CharonFight01" }
+        { DisplayName = "Slain by {#AltPenaltyFormat}KARTHUS {#PreviousFormat}in {#AltPenaltyFormat}EREBUS{#PreviousFormat}" }
+
+        /* TODO: Dusa placeholder. Add Dusa replacements when character is finalized. */
+        { Id = "NPC_Dusa_01" }
+        {
+            DisplayName = "Dusa"
+            Description = "Duty-Bound Spirit"
+        }
+
+        { Id = "DusaSignoff" }
+        { DisplayName = "From Dusa" }
+
+        { Id = "DusaSignoff_Max" }
+        { DisplayName = """
+            From {#AwardMaxFlavorFormat}Dusa{#AwardDarkFlavorFormat}; you share an {#AwardMaxFlavorFormat}Immaculate Bond
+
+            {#AwardDarkFlavorFormat}She lifts you up without effort. You give her courage to fly.
+            """
+        }
+
+        { Id = "DusaSignoff_AssistMax" }
+        { DisplayName = """
+            From {#AwardMaxFlavorFormat}Dusa{#AwardDarkFlavorFormat}, friend for all eternity
+            """
+        }
+
+        /* Yone */
+        { Id = "MusicPlayerScreen_Flavor" }
+        { DisplayName = "Conceived and Recorded in Time by Yasuo & Yone, His Muse" }
+
+        { Id = "OrpheusEurydiceReunion" }
+        { Description = "The son of the god of the dead shall make certain attempts to aid a master musician who once failed to whisk his deceased husband from the Underworld." }
+
+        { Id = "OrpheusAboutSingersReunionQuest01" }
+        { DisplayName = "Find a Way to Reunite Yasuo and Yone" }
+        
+        { Id = "NPC_Eurydice_01" }
+        {
+            DisplayName = "Yone"
+            Description = "Spirit of Reflection"
+        }
+
+        { Id = "NPC_NymphGhost_01" }
+        {
+            DisplayName = "Yone"
+            Description = "Spirit of Reflection"
+        }
+
+        { Id = "EurydiceSignoff" }
+        { DisplayName = "From Yone" }
+
+        { Id = "EurydiceSignoff_Max" }
+        { DisplayName = """
+            From {#AwardMaxFlavorFormat}Yone{#AwardDarkFlavorFormat}; you share an {#AwardMaxFlavorFormat}Inspiring Bond
+
+            {#AwardDarkFlavorFormat}Singing for the joy of it, he lives for the moment, even in death.
+            """
+        }
+
+        /* Zoe */
+        { Id = "HypnosFirstMeeting" }
+        { DisplayName = "Met Zoe" }
+
+        { Id = "MetHypnos" }
+        { DisplayName = "Met Zoe" }
+
+        { Id = "NPC_Hypnos_01" }
+        {
+            DisplayName = "Zoe"
+            Description = "Spirit of Slumber"
+        }
+
+        { Id = "HypnosSignoff" }
+        { DisplayName = "From Zoe" }
+
+        { Id = "HypnosSignoff_Max" }
+        { DisplayName = """
+            From {#AwardMaxFlavorFormat}Zoe{#AwardDarkFlavorFormat}; you share a {#AwardMaxFlavorFormat}Dreamlike Bond
+
+            {#AwardDarkFlavorFormat}Her wakeful cheer is genuine, whenever you are there. She dreams, until such time.
+            """
+        }
+
+        /* Mother Moon */
+        { Id = "NyxFirstMeeting" }
+        { DisplayName = "Met Mother Moon" }
+
+        { Id = "MetNyx" }
+        { DisplayName = "Met Mother Moon" }
+
+        { Id = "NPC_Nyx_01" }
+        {
+            DisplayName = "Mother Moon"
+            Description = "Moon Incarnate"
+        }
+
+        { Id = "Nyx" }
+        {
+            DisplayName = "Mother Moon"
+            Description = "Moon Incarnate, by whose will and power much of the Underworld endures."
+        }
+
+        { Id = "CharFemaleGhost" }
+        {
+            DisplayName = "Mother Moon"
+            Description = "Moon Incarnate"
+        }
+
+        { Id = "Remembrance_Nyx" }
+        { DisplayName = "mother moon" }
+
+        { Id = "NyxSignoff" }
+        { DisplayName = "From Mother Moon" }
+
+        { Id = "NyxSignoff_Max" }
+        { DisplayName = """
+            From {#AwardMaxFlavorFormat}Mother Moon{#AwardDarkFlavorFormat}; you share an {#AwardMaxFlavorFormat}Eternal Bond
+
+            {#AwardDarkFlavorFormat}Through sense of duty, she raised you. From the dark of her heart, she loves you.
+            """
+        }
+
+        { Id = "Ghost_AboutNyx01" }
+        { DisplayName = "Whatever you do, don't get on Mother Moon's bad side." }
+
+        { Id = "Ghost_AboutNyx02" }
+        { DisplayName = "Where has Mother Moon been, lately? You don't suppose...?" }
+
+        /* Yasuo */
+        { Id = "MusicPlayerScreen_Flavor_Initial" }
+        { DisplayName = "Conceived and Recorded in Time by Yasuo & His Muse" }
+
+        { Id = "OrpheusFirstMeeting" }
+        { DisplayName = "Work with the House Contractor to Release Yasuo" }
+
+        { Id = "NPC_Orpheus_01" }
+        {
+            DisplayName = "Yasuo"
+            Description = "Spirit of Heroism"
+        }
+
+        { Id = "Orpheus" }
+        {
+            DisplayName = "Yasuo"
+            Description = "Pa personally appointed him as his court musician; but he refused to sing."
+        }
+
+        { Id = "OrpheusSignoff" }
+        { DisplayName = "From Yasuo" }
+
+        { Id = "OrpheusSignoff_Max" }
+        { DisplayName = """
+            From {#AwardMaxFlavorFormat}Yasuo{#AwardDarkFlavorFormat}; you share a {#AwardMaxFlavorFormat}Sonorous Bond
+
+            {#AwardDarkFlavorFormat}Inspiration comes from unlikely places. Friendship comes in unlikely forms.
+            """
+        }
+
+        { Id = "Ghost_WayOut" }
+        { DisplayName = "Think Yasuo would tell me the way out?" }
+
+        { Id = "Ghost_AboutOrpheus01" }
+        { DisplayName = "So Yasuo gets to see his man again, after all!" }
+
+        /* Riven */
+        { Id = "NPC_Patroclus_01" }
+        {
+            DisplayName = "Riven"
+            Description = "Spirit of Despair"
+        }
+
+        { Id = "NPC_MaleGhost_02" }
+        {
+            DisplayName = "Riven"
+            Description = "Spirit of Despair"
+        }
+
+        { Id = "PatroclusSignoff" }
+        { DisplayName = "From Riven" }
+
+        { Id = "PatroclusSignoff_Max" }
+        { DisplayName = """
+            From {#AwardMaxFlavorFormat}Riven{#AwardDarkFlavorFormat}; you share an {#AwardMaxFlavorFormat}Enlightened Bond
+
+            {#AwardDarkFlavorFormat}She passed bitterly from mortal life, but with you, rose above it all.
+            """
+        }
+
+        /* Yorick */
+        { Id = "SisyphusLiberationQuestComplete" }
+        { DisplayName = "Find a Way to Pardon Yorick" }
+
+        { Id = "NPC_Sisyphus_01" }
+        {
+            DisplayName = "Yorick"
+            Description = "Spirit of Ruin"
+        }
+
+        { Id = "NPC_SisyphusAndBouldy_01" }
+        { DisplayName = "Yorick & Maiden" }
+
+        { Id = "Sisyphus" }
+        { DisplayName = "Yorick" }
+
+        { Id = "SisyphusSignoff" }
+        { DisplayName = "From Yorick" }
+
+        { Id = "SisyphusSignoff_Max" }
+        { DisplayName = """
+            From {#AwardMaxFlavorFormat}Yorick{#AwardDarkFlavorFormat}; you share a {#AwardMaxFlavorFormat}Rock-Solid Bond
+
+            {#AwardDarkFlavorFormat}If he can hoist a boulder on his own, he knows he can be of some support.
+            """
+        }
+
+        { Id = "SisyphusBouldySignoff" }
+        { DisplayName = "From Yorick & Maiden" }
+
+        { Id = "SisyphusBouldySignoff_AssistMax" }
+        { DisplayName = """
+            From {#AwardMaxFlavorFormat}Yorick {#AwardDarkFlavorFormat}& {#AwardMaxFlavorFormat}Maiden{#AwardDarkFlavorFormat}, staunch supporters
+            """
+        }
+
+        { Id = "MegaRubbleTrait_Rack" }
+        { Description = "{$Keywords.Traps} and rubble falling from pillars deal {#AltUpgradeFormat}{$TooltipData.TooltipDamageBonus:P} {#PreviousFormat}damage to foes. \n\n {#AwardFlavorFormat}From Yorick" }
+
+        /* Amumu */
+        { Id = "TrophyQuest_BronzeUnlocked_01" }
+        { DisplayName = "Earn the First of Amumu's Prizes" }
+
+        { Id = "TrainingMelee" }
+        {
+            DisplayName = "Amumu"
+            Description = "Spirit of Sorrow"
+        }
+
+        { Id = "SkellyBackstory" }
+        {
+            DisplayName = "Amumu"
+            Description = "Spirit of Sorrow"
+        }
+
+        { Id = "NPC_Skelly_01" }
+        {
+            DisplayName = "Amumu"
+            Description = "Spirit of Sorrow"
+        }
+
+        { Id = "SkellyDefeatedMessage" }
+        { DisplayName = "AMUMU LAID TO REST" }
+
+        { Id = "SkellySignoff" }
+        { DisplayName = "From Amumu" }
+
+        { Id = "SkellySignoff_Max" }
+        { DisplayName = """
+            From {#AwardMaxFlavorFormat}Amumu{#AwardDarkFlavorFormat}; you share an {#AwardMaxFlavorFormat}Unbreakable Bond
+
+            {#AwardDarkFlavorFormat}A true and loyal friend shall always stand up for you. Even stand up to you.
+            """
+        }
+
+        { Id = "SkellySignoff_AssistMax" }
+        { DisplayName = """
+            From {#AwardMaxFlavorFormat}Amumu{#AwardDarkFlavorFormat}, willing to die for you
+            """
+        }
+
+        /* Thresh */
+        { Id = "Theseus" }
+        {
+            DisplayName = "Thresh"
+            Description = "Spirit of Obsession"
+        }
+
+        /* Cassiopeia */
+        { Id = "Fury3FirstAppearance" }
+        { DisplayName = "Met Cassiopeia" }
+
+        { Id = "NPC_FurySister_03" }
+        {
+            DisplayName = "Cassiopeia"
+            Description = "Spirit of Temptation"
+        }
+
+        { Id = "Harpy3" }
+        {
+            DisplayName = "Cassiopeia"
+            Description = "Spirit of Temptation"
+        }
+
+        { Id = "Harpy3_Full" }
+        { DisplayName = "Cassiopeia, the Chosen" }
+
+        { Id = "RunHistoryScreenResult_A_Boss03" }
+        { DisplayName = "Slain by {#AltPenaltyFormat}CASSIOPEIA {#PreviousFormat}in {#AltPenaltyFormat}TARTARUS{#PreviousFormat}" }
+
+        /* Ma */
+        { Id = "EpilogueSetUp" }
+        { Description = "The son of the god of the dead shall someday inspire Ma to develop a plan that might settle the score between the House of Spirits and Olympus." }
+
+        { Id = "OlympianReunion" }
+        { Description = "The son of the god of the dead shall someday deliver Ma's personalized invitations to each Spirit, so they might gather for a significant announcement." }
+
+        { Id = "OlympianReunionQuestComplete" }
+        { DisplayName = "Report to Ma and Pa Afterward" }
+
+        { Id = "NPC_Persephone_01" }
+        {
+            DisplayName = "Ma"
+            Description = "Spirit of Protection"
+        }
+
+        { Id = "NPC_Persephone_01A" }
+        {
+            DisplayName = "Ma"
+            Description = "Spirit of Protection"
+        }
+
+        { Id = "NPC_Persephone_Home_01" }
+        { Description = "Spirit of Protection" }
+
+        { Id = "PersephoneSignoff" }
+        { DisplayName = "From Ma" }
+
+        { Id = "PersephoneSignoff_Max" }
+        { DisplayName = """
+            From {#AwardMaxFlavorFormat}Ma{#AwardDarkFlavorFormat}; you share a {#AwardMaxFlavorFormat}Growing Bond
+
+            {#AwardDarkFlavorFormat}The dead live on in the Underworld, and her nurturing instinct there also thrives.
+            """
+        }
+
+        /* Pa/Old Timer */
+        { Id = "WrathHades" }
+        { Description = "Press {SH} for {#BoldFormatGraft}Old Timer's Aid {#PreviousFormat}{#ItalicFormat}(while his Keepsake is equipped){#PreviousFormat}. Uses {#UpgradeFormat}1 {#PreviousFormat} stock of your {#BoldFormatGraft}{$Keywords.WrathGauge}{#PreviousFormat}, or all {#UpgradeFormat}{$TooltipData.TooltipWrathStocks} {#PreviousFormat}stocks for a much stronger effect." }
+
+        { Id = "ShrineIntro_ReturningPlayers" }
+        { Description = """
+            {#AlertHeaderFormat}Notice: {#PreviousFormat}{#AlertItalicFormat}Congratulations!! {#PreviousFormat}Your deeds have compelled {#AlertBoldFormat}The Old Timer {#PreviousFormat}to serve you a {#AlertHighlightFormat}Pact of Punishment{#PreviousFormat}. Here is how it works:
+
+            - The {#AlertHighlightFormat}Pact {#PreviousFormat}can make escaping more difficult via various nasty {#AlertHighlightFormat}Conditions{#PreviousFormat}
+            - Each {#AlertHighlightFormat}Condition {#PreviousFormat}you accept adds some {!Icons.ShrinePointSmall_Active}{#AlertBoldFormat}Heat {#PreviousFormat}to your {#AlertHighlightFormat}Heat Gauge{#PreviousFormat}
+            - While your {#AlertHighlightFormat}Heat Gauge {#PreviousFormat}is full, you can earn valuable {#AlertHighlightFormat}Bounties{#PreviousFormat}!
+
+            You earn one {#AlertHighlightFormat}Bounty {#PreviousFormat}the first time you vanquish the boss of each Underworld region while your {#AlertHighlightFormat}Heat Gauge {#PreviousFormat}is full. Once you successfully escape, you can earn more {#AlertHighlightFormat}Bounties{#PreviousFormat}... if you turn up the {!Icons.ShrinePointSmall_Active}{#AlertBoldFormat}Heat{#PreviousFormat}.
+
+            \Column 215{!Icons.Div}
+
+            {#AlertItalicFormat}Hint: {#PreviousFormat}You can earn {#AlertHighlightFormat}Bounties {#PreviousFormat}{#AlertItalicFormat}for each weapon{#PreviousFormat}! How much {!Icons.ShrinePointSmall_Active}{#AlertBoldFormat}Heat {#PreviousFormat}you need is per-weapon, as well. If things get too hot, try switching weapons.
+            """
+        }
+
+        { Id = "ShrineIntro_HardMode" }
+        { Description = """
+            {#AlertHeaderFormat}Notice: {#PreviousFormat}{#AlertItalicFormat}Welcome to Hell!! {#PreviousFormat}Your insolence has compelled {#AlertBoldFormat}The Old Timer {#PreviousFormat}to serve you a {#AlertHighlightFormat}Pact of Punishment{#PreviousFormat}. Here is how it works:
+
+            - The {#AlertHighlightFormat}Pact {#PreviousFormat}makes escaping more difficult via various nasty {#AlertHighlightFormat}Conditions{#PreviousFormat}
+            - Each {#AlertHighlightFormat}Condition {#PreviousFormat}you accept adds some {!Icons.ShrinePointSmall_Active}{#AlertBoldFormat}Heat {#PreviousFormat}to your {#AlertHighlightFormat}Heat Gauge{#PreviousFormat}
+            - While your {#AlertHighlightFormat}Heat Gauge {#PreviousFormat}is full, you can earn valuable {#AlertHighlightFormat}Bounties{#PreviousFormat}!
+            - {!Icons.HardModeIcon}{#AltPenaltyFormat}HELL MODE{#PreviousFormat}: Sorry, certain {#AlertHighlightFormat}Conditions {#PreviousFormat}are {#AlertItalicFormat}not optional{#PreviousFormat}!
+
+            You earn one {#AlertHighlightFormat}Bounty {#PreviousFormat}the first time you vanquish the boss of each Underworld region while your {#AlertHighlightFormat}Heat Gauge {#PreviousFormat}is full. Once you successfully escape, you can earn more {#AlertHighlightFormat}Bounties{#PreviousFormat}... once you turn up the {!Icons.ShrinePointSmall_Active}{#AlertBoldFormat}Heat{#PreviousFormat}.
+
+            \Column 215{!Icons.Div}
+
+            {#AlertItalicFormat}Hint: {#PreviousFormat}You can earn {#AlertHighlightFormat}Bounties {#PreviousFormat}{#AlertItalicFormat}for each weapon{#PreviousFormat}! How much {!Icons.ShrinePointSmall_Active}{#AlertBoldFormat}Heat {#PreviousFormat}you need is per-weapon, as well. If things get too hot, try switching weapons.
+            """
+        }
+
+        { Id = "HadesDoorUnlockItem" }
+        { Description = "{$Keywords.NewSystem}: Gain entry to the private quarters of The Old Timer." }
+
+        { Id = "MusicMusicPlayerHadesThemeMusicPlayer" }
+        { Description = "{$Keywords.MusicSheet}: A brief and frankly unhappy piece The Old Timer enjoys." }
+
+        { Id = "MusicMusicPlayerBossFightMusicMusicPlayer" }
+        { Description = "{$Keywords.MusicSheet}: Commissioned long ago in honor of The Old Timer." }
+
+        { Id = "MusicMusicPlayerMusicExploration2MusicPlayer" }
+        { Description = "{$Keywords.MusicSheet}: In testament to the wrathful souls serving The Old Timer." }
+
+        { Id = "HadesFirstMeeting" }
+        { DisplayName = "Met Old Timer" }
+
+        { Id = "MetHades" }
+        { DisplayName = "Met Old Timer" }
+
+        { Id = "LordHadesChaosSurfaceQuestDefeat01" }
+        { DisplayName = "Vanquish Old Timer Bearing the Cosmic Egg" }
+
+        { Id = "Objective_EnterBedroomHades" }
+        { DisplayName = "Find a Way Into The Old Timer's Private Quarters" }
+
+        { Id = "Hades_Full" }
+        { DisplayName = "Old Timer, Spirit of Destruction" }
+
+        { Id = "NPC_Hades_01" }
+        {
+            DisplayName = "Old Timer"
+            Description = "Spirit of Destruction"
+        }
+
+        { Id = "Remembrance_Hades" }
+        { DisplayName = "old timer" }
+
+        { Id = "HadesDefeatedMessage" }
+        { DisplayName = "OLD TIMER VANQUISHED" }
+
+        { Id = "AssistTraitsPermitted_Subtitle" }
+        { DisplayName = "Summons vs. Old Timer" }
+
+        { Id = "HadesSignoff" }
+        { DisplayName = "From Old Timer" }
+        
+        { Id = "Hades_SignoffMax" }
+        { DisplayName = """
+            From {#AwardMaxFlavorFormat}Old Timer{#AwardDarkFlavorFormat}; you share an {#AwardMaxFlavorFormat}Intractable Bond
+
+            {#AwardDarkFlavorFormat}The feared and distant Spirit of Destruction knows that his hardest work is still ahead of him.
+            """
+        }
+
+        { Id = "HadesShoutKeepsake" }
+        { Description = "Your {$Keywords.WrathHades} becomes {#BoldFormatGraft}Old Timer's Aid{#PreviousFormat}, which briefly makes you {#BoldFormatGraft}{$Keywords.Invisible}{#PreviousFormat}; your {$Keywords.WrathGauge} starts {#UpgradeFormat}{$TooltipData.TooltipSuperGain}% {#PreviousFormat} full." }
+
+        { Id = "HadesShoutKeepsake_Rack" }
+        { Description = "Your {$Keywords.WrathHades} becomes {#BoldFormatGraft}Old Timer's Aid{#PreviousFormat}, which briefly makes you {#BoldFormatGraft}{$Keywords.Invisible}{#PreviousFormat}; your {$Keywords.WrathGauge} starts {#UpgradeFormat}{$TooltipData.TooltipSuperGain}% {#PreviousFormat} full. \n\n {#AwardFlavorFormat}{$TooltipData.SignoffText}" }
+
+        { Id = "HadesShoutTrait" }
+        { DisplayName = "Old Timer's Aid" }
+
+        { Id = "Ghost_Impressed04" }
+        { DisplayName = "I heard he beat the Old Timer, himself!!" }
+
+        { Id = "Ghost_Mocking01" }
+        { DisplayName = "Why do you think the Old Timer isn't here, huh?!" }
+
+        { Id = "Ghost_Mocking03" }
+        { DisplayName = "The Old Timer put him in his place! No getting out of here!" }
+
+        { Id = "Ghost_Misc03" }
+        { DisplayName = "Do you really think the Old Timer is going to hear me out?" }
+
+        { Id = "Ghost_Misc10" }
+        { DisplayName = "I've lost count how many times the Old Timer dismissed my claim!" }
+
+        /* House of Spirits */
+        { Id = "Health" }
+        { Description = "Your Life Total is {#UpgradeFormat}{$CurrentRun.Hero.Health}{!Icons.Slash}{$CurrentRun.Hero.MaxHealth}{#PreviousFormat}. Lose it all for an express trip back to the House of Spirits." }
+
+        { Id = "HealthHome" }
+        { Description = "Your Life Total. Lose it all for an express trip back to the House of Spirits." }
+
+        { Id = "HealthRestore" }
+        { Description = "Your Life Total is {#UpgradeFormat}{$CurrentRun.Hero.Health}{!Icons.Slash}{$CurrentRun.Hero.MaxHealth}{#PreviousFormat}. Lose it all for an express trip back to the House of Spirits." }
+
+        { Id = "Decor" }
+        { Description = "Cosmetic items that embellish your bedchambers in the House of Spirits." }
+
+        { Id = "Cosmetic" }
+        { Description = "Cosmetic items that embellish the great hall in the House of Spirits." }
+
+        { Id = "HouseRepair" }
+        { Description = "Cosmetic improvements to some of the wear-and-tear in the House of Spirits." }
+
+        { Id = "StartingMoney" }
+        { Description = "Start each escape attempt from the House of Spirits with some wealth, {#TooltipUpgradeFormat}{$TempTextData.BaseValue}{!Icons.Currency_Small} {#PreviousFormat}per rank." }
+
+        { Id = "GhostAdminScreen_FlavorText03" }
+        { DisplayName = "the house of spirits accommodates not just the god of the dead himself, but also his subjects." }
+
+        { Id = "Cosmetic_UISkinDefault" }
+        { Description = "{$Keywords.UISkin}: Evokes the clean utility of the House of Spirits." }
+
+        { Id = "Location_Home" }
+        { DisplayName = "The HOUSE of SPIRITS" }
+
+        { Id = "DeathArea" }
+        { DisplayName = "House of Spirits" }
+
+        { Id = "BadgeSystem_Message01" }
+        { Description = """
+            {#AlertHeaderFormat}Congratulations!! {#PreviousFormat} You officially serve the {#AlertHighlightFormat}House of Spirits{#PreviousFormat}, as its dedicated {#AlertBoldFormat}Security Specialist{#PreviousFormat}. Your work is conducted in relative secrecy. Employment is at-will, for an indefinite term.
+
+            Should you earn sufficient resources during your efforts, you may donate them back to the Underworld via the {#AlertBoldFormat}Resources Director {#PreviousFormat}{#AlertItalicFormat}(to whom you just spoke){#PreviousFormat}, to advance in rank and earn a fancy {#AlertBoldFormat}Badge{#PreviousFormat}.
+
+            Your rank is purely symbolic, carrying no additional responsibilities. Though, it may induce a sense of pride, which every god should have...
+            """
+        }
+
+        { Id = "ShrineMenu_Flavor" }
+        { DisplayName = "“Infernal Contract Valid for Eternity in the Underworld of Spirits”" }
+
         /* Miscellaneous changes */
         { Id = "ThanatosMessage" }
         { DisplayName = "NIGHT APPROACHES" }
+
+        { Id = "HarpyDefeatedMessage" }
+        { DisplayName = "CHOSEN VANQUISHED" }
+
+        { Id = "HarpiesDefeatedMessage" }
+        { DisplayName = "CHOSEN VANQUISHED" }
     ]
 ]

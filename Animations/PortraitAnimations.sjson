@@ -122,5 +122,19 @@ Animations = [
 
         { Name = "Portrait_Chaos_Default_01_Exit" }
         { FilePath = "SettPortraits\Portraits_Kindred_01" }
+
+        /* Diana */
+        { Name = "Portrait_Artemis_Default_01" }
+        { FilePath = "SettPortraits\Portraits_Diana_01" }
+
+        { Name = "Portrait_Artemis_Default_01_Exit" }
+        { FilePath = "SettPortraits\Portraits_Diana_01" }
+
+        /* Vayne */
+        { Name = "Portrait_MaleGhost_Default_01" }
+        { FilePath = "SettPortraits\Portraits_Vayne_01" }
+
+        { Name = "Portrait_MaleGhost_Default_01_Exit" }
+        { FilePath = "SettPortraits\Portraits_Vayne_01" }
     ]
 ]

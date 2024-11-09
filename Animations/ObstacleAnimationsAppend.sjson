@@ -8,4 +8,11 @@ Animations = [
         Ambient = 0.0
         AngleFromOwner = "Ignore"
     }
+    {
+        Name = "PortraitThanDino"
+        FilePath = "SettGUI\GUI\CGI\SettPhelDino"
+        Type = "Constant"
+        Ambient = 0.0
+        AngleFromOwner = "Ignore"
+    }
 ]

@@ -11,7 +11,12 @@ ModUtil.Path.Override(
         local thanSound2 = nil
         local zagSound1 = nil
         local zagSound2 = nil
+
+        local isDinoCgiAvailable = false
+        local cgiName = "PortraitThanSmooch"
+
         if args.UseRandomSounds then
+            isDinoCgiAvailable = true
             local megLaughSounds =
             {
                 "/VO/MegaeraHome_0228",
@@ -47,6 +52,15 @@ ModUtil.Path.Override(
             wait( args.ExtraWaitTime )
         end
 
+        if isDinoCgiAvailable then
+            -- Determine if the dino CGI will be used
+            local chance = math.random(10)
+            -- DebugPrint({Text = "@ProjectSett CGI rolled number"..chance.."!"})
+            if chance == 10 then
+                cgiName = "PortraitThanDino"
+            end
+        end
+
         if args ~= nil and args.Partner == "Thanatos" then
             wait(1)
             -- Display portrait
@@ -61,7 +75,7 @@ ModUtil.Path.Override(
             SetScale({ Id = portraitId, Fraction = 1.1 })
             SetAlpha({ Id = portraitId, Fraction = 0.0, Duration = 0 })
             SetAlpha({ Id = portraitId, Fraction = 1.0, Duration = 1.0 })
-            SetAnimation({ Name = "PortraitThanSmooch", DestinationId = portraitId })
+            SetAnimation({ Name = cgiName, DestinationId = portraitId })
 
             Attach({ Id = blackScreenId, DestinationId = ScreenAnchors.PortraitDisplayAnchor })
             Attach({ Id = portraitId, DestinationId = ScreenAnchors.PortraitDisplayAnchor })
