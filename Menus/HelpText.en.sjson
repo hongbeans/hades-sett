@@ -446,6 +446,9 @@ Texts = [
         { DisplayName = "{!Icons.RunClearStar}Scion of Kindred{!Icons.RunClearStar}" }
 
         /* Diana */
+        { Id = "ArtemisUpgrade_FlavorText02" }
+        { DisplayName = "the elusive huntress of the spirit world is unequaled with her bow." }
+
         { Id = "ArtemisUpgrade" }
         {
             DisplayName = "Diana"
@@ -653,6 +656,9 @@ Texts = [
         { DisplayName = "{!Icons.RunClearStar}Disciple of Lillia{!Icons.RunClearStar}" }
 
         /* Volibear */
+        { Id = "ZeusUpgrade_FlavorText01" }
+        { DisplayName = "the lord and master of all the spirit world, and the heavens themselves." }
+
         { Id = "ZeusUpgrade" }
         {
             DisplayName = "Volibear"
@@ -1332,7 +1338,7 @@ Texts = [
 
         /* Ma */
         { Id = "EpilogueSetUp" }
-        { Description = "The son of the god of the dead shall someday inspire Ma to develop a plan that might settle the score between the House of Spirits and Olympus." }
+        { Description = "The son of the god of the dead shall someday inspire Ma to develop a plan that might settle the score between the House of Spirits and the Spirit World." }
 
         { Id = "OlympianReunion" }
         { Description = "The son of the god of the dead shall someday deliver Ma's personalized invitations to each Spirit, so they might gather for a significant announcement." }
@@ -1536,5 +1542,20 @@ Texts = [
 
         { Id = "HarpiesDefeatedMessage" }
         { DisplayName = "CHOSEN VANQUISHED" }
+
+        { Id = "MeetOlympians" }
+        { Description = "The son of the god of the dead shall someday meet some of the rulers of the Spirit World." }
+
+        { Id = "Boon" }
+        { DisplayName = "Boon of the Spirit World" }
+
+        { Id = "Remembrance_Olympus" }
+        { DisplayName = "spirit world" }
+
+        { Id = "ClearWeaponsFiredWrath" }
+        { DisplayName = "{!Icons.RunClearStar}Spirit Caller{!Icons.RunClearStar}" }
+
+        { Id = "ClearLegendaryTraits" }
+        { DisplayName = "{!Icons.RunClearStar}Pride of the Spirit World{!Icons.RunClearStar}" }
     ]
 ]
