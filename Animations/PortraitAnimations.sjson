@@ -69,6 +69,20 @@ Animations = [
             OffsetX = -50
         }
 
+        /* Badgers */
+        { Name = "Portrait_Cerberus_Default_01" }
+        { FilePath = "SettPortraits\Portraits_Badgers_01" }
+
+        { Name = "Portrait_Cerberus_Default_01_Exit" }
+        { FilePath = "SettPortraits\Portraits_Badgers_01" }
+
+        /* Yasuo */
+        { Name = "Portrait_Musician_Default_01" }
+        { FilePath = "SettPortraits\Portraits_Yasuo_01" }
+
+        { Name = "Portrait_Musician_Default_01_Exit" }
+        { FilePath = "SettPortraits\Portraits_Yasuo_01" }
+
         /* Ahri */
         { Name = "Portrait_Aphrodite_Default_01" }
         { FilePath = "SettPortraits\Portraits_Ahri_01" }
