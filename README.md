@@ -11,7 +11,7 @@ How to install:
         - Steam: Library > Right-click on Hades > Manage > Browse local files > Content
         - Epic Games: ` C:\Program Files\Epic Games\Hades\Content`
         - Microsoft Store: `<location you chose when installing via the Store>\Hades\Content\Content`
-2. Create a `Mods` folder in the `Content` folder used above, if one does not exist yet.
+2. Create a `Mods` folder in the `Content` folder from step 1, if one does not exist yet.
 3. Download and extract [ModUtil](https://www.nexusmods.com/hades/mods/27). Place the `ModUtil` folder in the `Mods` folder created in step 2.
 4. Download and extract this mod. Place the extracted folder into your `Mods` folder.
 5. Run `modimporter.exe`. Once it finishes running, the mod should be loaded and you can start playing!
