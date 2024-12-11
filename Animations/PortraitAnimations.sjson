@@ -78,10 +78,20 @@ Animations = [
 
         /* Yasuo */
         { Name = "Portrait_Musician_Default_01" }
-        { FilePath = "SettPortraits\Portraits_Yasuo_01" }
+        {
+            FilePath = "SettPortraits\Portraits_Yasuo_01"
+            OffsetX = -50
+            OffsetY = -100
+            Scale = 1.0
+        }
 
         { Name = "Portrait_Musician_Default_01_Exit" }
-        { FilePath = "SettPortraits\Portraits_Yasuo_01" }
+        {
+            FilePath = "SettPortraits\Portraits_Yasuo_01"
+            OffsetX = -50
+            OffsetY = -100
+            Scale = 1.0
+        }
 
         /* Ahri */
         { Name = "Portrait_Aphrodite_Default_01" }
