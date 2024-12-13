@@ -203,5 +203,12 @@ Animations = [
 
         { Name = "Portrait_Demeter_Default_01_Exit" }
         { FilePath = "SettPortraits\Portraits_Lissandra_01" }
+
+        /* Lillia */
+        { Name = "Portrait_Hermes_Default_01" }
+        { FilePath = "SettPortraits\Portraits_Lillia_01" }
+
+        { Name = "Portrait_Hermes_Default_01_Exit" }
+        { FilePath = "SettPortraits\Portraits_Lillia_01" }
     ]
 ]
