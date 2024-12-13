@@ -27,6 +27,9 @@ SJSON "Menus/MacroText.sjson"
 To "Game/Text/en/_DeathLoopData.en.sjson"
 Replace "Dialogue/_DeathLoopData.en.sjson"
 
+To "Game/Text/en/CodexText.en.sjson"
+Replace "Dialogue/CodexText.en.sjson"
+
 To "Game/Text/en/_LootData.en.sjson"
 Replace "Dialogue/_LootData.en.sjson"
 

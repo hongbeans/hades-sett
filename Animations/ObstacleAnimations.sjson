@@ -25,5 +25,12 @@ Animations = [
             FilePath = "SettDeathArea\Tilesets\House\House_EmployeeOfMonth_Alune_01"
             Scale = 4.5
         }
+
+        /* Family portrait replacement */
+        { Name = "PortraitFamily" }
+        {
+            FilePath = "SettGUI\GUI\FamilyPortraits\FamilyPortrait_01"
+            Scale = 1.7
+        }
     ],
 ]

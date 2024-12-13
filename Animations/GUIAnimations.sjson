@@ -12,5 +12,24 @@ Animations = [
 
         { Name = "BoonSelectLighting" }
         { FilePath = "SettGUI\GUI\Screens\BoonSelectLighting\BoonSelectLighting" }
+
+        /* Companions */
+        { Name = "Keepsake_Meg_Plush_Child" }
+        { FilePath = "SettGUI\GUI\Screens\AwardMenu\Legendary\Alune_01" }
+
+        { Name = "Keepsake_Meg_Plush_Menu" }
+        { FilePath = "SettGUI\GUI\Screens\AwardMenu\Legendary\Alune_01" }
+
+        { Name = "Keepsake_Meg_Plush" }
+        { FilePath = "SettGUI\GUI\Screens\AwardMenu\Legendary\Alune_01" }
+
+        { Name = "Keepsake_Thanatos_Plush_Child" }
+        { FilePath = "SettGUI\GUI\Screens\AwardMenu\Legendary\Aphelios_01" }
+
+        { Name = "Keepsake_Thanatos_Plush_Menu" }
+        { FilePath = "SettGUI\GUI\Screens\AwardMenu\Legendary\Aphelios_01" }
+
+        { Name = "Keepsake_Thanatos_Plush" }
+        { FilePath = "SettGUI\GUI\Screens\AwardMenu\Legendary\Aphelios_01" }
     ]
 ]

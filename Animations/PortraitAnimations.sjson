@@ -76,22 +76,65 @@ Animations = [
         { Name = "Portrait_Cerberus_Default_01_Exit" }
         { FilePath = "SettPortraits\Portraits_Badgers_01" }
 
+        /* Vayne */
+        { Name = "Portrait_MaleGhost_Default_01" }
+        {
+            FilePath = "SettPortraits\Portraits_Vayne_01"
+            OffsetY = 100
+        }
+
+        { Name = "Portrait_MaleGhost_Default_01_Exit" }
+        {
+            FilePath = "SettPortraits\Portraits_Vayne_01"
+            OffsetY = 100
+        }
+
         /* Yasuo */
         { Name = "Portrait_Musician_Default_01" }
         {
             FilePath = "SettPortraits\Portraits_Yasuo_01"
-            OffsetX = -50
-            OffsetY = -100
-            Scale = 1.0
+            OffsetY = -50
         }
 
         { Name = "Portrait_Musician_Default_01_Exit" }
         {
             FilePath = "SettPortraits\Portraits_Yasuo_01"
-            OffsetX = -50
-            OffsetY = -100
-            Scale = 1.0
+            OffsetY = -50
         }
+
+        /* Amumu */
+        { Name = "Portrait_Skelly_Default_01" }
+        { FilePath = "SettPortraits\Portraits_Amumu_01" }
+
+        { Name = "Portrait_Skelly_Default_01_Exit" }
+        { FilePath = "SettPortraits\Portraits_Amumu_01" }
+
+        /* Karthus */
+        { Name = "Portrait_Charon_Default_01" }
+        {
+            FilePath = "SettPortraits\Portraits_Karthus_01"
+            OffsetY = 0
+        }
+
+        { Name = "Portrait_Charon_Default_01_Exit" }
+        {
+            FilePath = "SettPortraits\Portraits_Karthus_01"
+            OffsetY = 0
+        }
+
+        /* Yone */
+        { Name = "Portrait_Eurydice_Default_01" }
+        { FilePath = "SettPortraits\Portraits_Yone_01" }
+
+        { Name = "Portrait_Eurydice_Default_01_Exit" }
+        { FilePath = "SettPortraits\Portraits_Yone_01" }
+
+        /* Evelynn */
+        { Name = "Portrait_FurySister02_Default_01" }
+        { FilePath = "SettPortraits\Portraits_Evelynn_01" }
+
+        { Name = "Portrait_FurySister02_Default_01_Exit" }
+        { FilePath = "SettPortraits\Portraits_Evelynn_01" }
 
         /* Ahri */
         { Name = "Portrait_Aphrodite_Default_01" }
@@ -154,11 +197,11 @@ Animations = [
         { Name = "Portrait_Artemis_Default_01_Exit" }
         { FilePath = "SettPortraits\Portraits_Diana_01" }
 
-        /* Vayne */
-        { Name = "Portrait_MaleGhost_Default_01" }
-        { FilePath = "SettPortraits\Portraits_Vayne_01" }
+        /* Lissandra */
+        { Name = "Portrait_Demeter_Default_01" }
+        { FilePath = "SettPortraits\Portraits_Lissandra_01" }
 
-        { Name = "Portrait_MaleGhost_Default_01_Exit" }
-        { FilePath = "SettPortraits\Portraits_Vayne_01" }
+        { Name = "Portrait_Demeter_Default_01_Exit" }
+        { FilePath = "SettPortraits\Portraits_Lissandra_01" }
     ]
 ]
