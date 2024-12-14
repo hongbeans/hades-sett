@@ -102,6 +102,42 @@ Animations = [
             OffsetY = -50
         }
 
+        /* Mother Moon */
+        { Name = "Portrait_Nyx_Default_01" }
+        {
+            FilePath = "SettPortraits\Portraits_MotherMoon_01"
+            OffsetX = -50
+            OffsetY = 0
+        }
+
+        { Name = "Portrait_Nyx_Default_01_Exit" }
+        {
+            FilePath = "SettPortraits\Portraits_MotherMoon_01"
+            OffsetX = -50
+            OffsetY = 0
+        }
+
+        { Name = "Portrait_Nyx_Averted_01" }
+        {
+            FilePath = "SettPortraits\Portraits_MotherMoon_01"
+            OffsetX = -50
+            OffsetY = 0
+        }
+
+        { Name = "Portrait_Nyx_Averted_01_Exit" }
+        {
+            FilePath = "SettPortraits\Portraits_MotherMoon_01"
+            OffsetX = -50
+            OffsetY = 0
+        }
+
+        /* Zoe */
+        { Name = "Portrait_ChildGhost_Default_01" }
+        { FilePath = "SettPortraits\Portraits_Zoe_01" }
+
+        { Name = "Portrait_ChildGhost_Default_01_Exit" }
+        { FilePath = "SettPortraits\Portraits_Zoe_01" }
+
         /* Amumu */
         { Name = "Portrait_Skelly_Default_01" }
         { FilePath = "SettPortraits\Portraits_Amumu_01" }
@@ -121,6 +157,20 @@ Animations = [
             FilePath = "SettPortraits\Portraits_Karthus_01"
             OffsetY = 0
         }
+
+        /* Yorick */
+        { Name = "Portrait_Sisyphus_Default_01" }
+        { FilePath = "SettPortraits\Portraits_Yorick_01" }
+
+        { Name = "Portrait_Sisyphus_Default_01_Exit" }
+        { FilePath = "SettPortraits\Portraits_Yorick_01" }
+
+        /* Maiden */
+        { Name = "Portrait_Bouldy_Default_01" }
+        { FilePath = "SettPortraits\Portraits_Maiden_01" }
+
+        { Name = "Portrait_Bouldy_Default_01_Exit" }
+        { FilePath = "SettPortraits\Portraits_Maiden_01" }
 
         /* Yone */
         { Name = "Portrait_Eurydice_Default_01" }
@@ -210,5 +260,12 @@ Animations = [
 
         { Name = "Portrait_Hermes_Default_01_Exit" }
         { FilePath = "SettPortraits\Portraits_Lillia_01" }
+
+        /* Volibear */
+        { Name = "Portrait_Zeus_Default_01" }
+        { FilePath = "SettPortraits\Portraits_Volibear_01" }
+
+        { Name = "Portrait_Zeus_Default_01_Exit" }
+        { FilePath = "SettPortraits\Portraits_Volibear_01" }
     ]
 ]
