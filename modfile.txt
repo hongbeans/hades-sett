@@ -36,6 +36,73 @@ Replace "Dialogue/_LootData.en.sjson"
 To "Game/Text/en/_NPCData.en.sjson"
 Replace "Dialogue/_NPCData.en.sjson"
 
+:: Subtitle replacements
+To "Subtitles/en/Achilles.csv"
+Replace "Subtitles/Achilles.csv"
+
+To "Subtitles/en/Alecto.csv"
+Replace "Subtitles/Alecto.csv"
+
+To "Subtitles/en/Aphrodite.csv"
+Replace "Subtitles/Aphrodite.csv"
+
+To "Subtitles/en/Ares.csv"
+Replace "Subtitles/Ares.csv"
+
+To "Subtitles/en/Artemis.csv"
+Replace "Subtitles/Artemis.csv"
+
+To "Subtitles/en/Athena.csv"
+Replace "Subtitles/Athena.csv"
+
+To "Subtitles/en/Chaos.csv"
+Replace "Subtitles/Chaos.csv"
+
+To "Subtitles/en/Demeter.csv"
+Replace "Subtitles/Demeter.csv"
+
+To "Subtitles/en/Dionysus.csv"
+Replace "Subtitles/Dionysus.csv"
+
+To "Subtitles/en/Dusa.csv"
+Replace "Subtitles/Dusa.csv"
+
+To "Subtitles/en/Eurydice.csv"
+Replace "Subtitles/Eurydice.csv"
+
+To "Subtitles/en/ExtraLines.csv"
+Replace "Subtitles/ExtraLines.csv"
+
+To "Subtitles/en/Hades.csv"
+Replace "Subtitles/Hades.csv"
+
+To "Subtitles/en/Hypnos.csv"
+Replace "Subtitles/Hypnos.csv"
+
+To "Subtitles/en/MegaeraField.csv"
+Replace "Subtitles/MegaeraField.csv"
+
+To "Subtitles/en/MegaeraHome.csv"
+Replace "Subtitles/MegaeraHome.csv"
+
+To "Subtitles/en/Minotaur.csv"
+Replace "Subtitles/Minotaur.csv"
+
+To "Subtitles/en/Nyx.csv"
+Replace "Subtitles/Nyx.csv"
+
+To "Subtitles/en/Orpheus.csv"
+Replace "Subtitles/Orpheus.csv"
+
+To "Subtitles/en/Patroclus.csv"
+Replace "Subtitles/Patroclus.csv"
+
+To "Subtitles/en/Persephone.csv"
+Replace "Subtitles/Persephone.csv"
+
+To "Subtitles/en/Poseidon.csv"
+Replace "Subtitles/Poseidon.csv"
+
 :: Load image packages
 To Win/Packages/SettPortraits.pkg_manifest
 Replace "Packages/SettPortraits.pkg_manifest"
