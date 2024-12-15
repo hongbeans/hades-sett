@@ -103,6 +103,15 @@ Replace "Subtitles/Persephone.csv"
 To "Subtitles/en/Poseidon.csv"
 Replace "Subtitles/Poseidon.csv"
 
+To "Subtitles/en/Scratch.csv"
+Replace "Subtitles/Scratch.csv"
+
+To "Subtitles/en/Sisyphus.csv"
+Replace "Subtitles/Sisyphus.csv"
+
+To "Subtitles/en/Skelly.csv"
+Replace "Subtitles/Skelly.csv"
+
 :: Load image packages
 To Win/Packages/SettPortraits.pkg_manifest
 Replace "Packages/SettPortraits.pkg_manifest"
