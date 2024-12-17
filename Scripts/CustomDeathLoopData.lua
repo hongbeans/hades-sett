@@ -46,3 +46,17 @@ ModUtil.Table.NilMerge( DeathLoopData, {
 		}
 	}
 })
+
+-- Remove Megaera smooch statuses
+ModUtil.Table.NilMerge( UnitSetData.NPCs, {
+    NPC_FurySister_01 = {
+        RepeatableTextLineSets = {
+            MegIntermissionChat01 = true,
+            MegIntermissionChat02 = true,
+            MegIntermissionChat03 = true,
+            MegIntermissionChat04 = true,
+            MegIntermissionChat05 = true,
+            MegIntermissionChat06 = true,
+        }
+    }
+})
