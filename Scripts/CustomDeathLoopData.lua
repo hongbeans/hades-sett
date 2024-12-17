@@ -39,7 +39,10 @@ ModUtil.Table.NilMerge( DeathLoopData, {
                         }
                     }
                 }
-            }
+            },
+            -- Meg + Than scenes
+            [9] = true,
+            [10] = true,
 		}
 	}
 })

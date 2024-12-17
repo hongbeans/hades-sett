@@ -7,6 +7,12 @@ Animations = [
         { Name = "Portrait_Zag_Default_01_Exit" }
         { FilePath = "SettPortraits\Portraits_Sett_01" }
 
+        { Name = "Portrait_Zag_Serious_01" }
+        { FilePath = "SettPortraits\Portraits_Sett_Serious01" }
+
+        { Name = "Portrait_Zag_Serious_01_Exit" }
+        { FilePath = "SettPortraits\Portraits_Sett_Serious01" }
+
         { Name = "Portrait_Zag_Defiant_01" }
         { FilePath = "SettPortraits\Portraits_Sett_Defiant01" }
 
@@ -157,26 +163,24 @@ Animations = [
         { Name = "Portrait_MaleGhost_Default_01" }
         {
             FilePath = "SettPortraits\Portraits_Vayne_01"
-            OffsetY = 100
         }
 
         { Name = "Portrait_MaleGhost_Default_01_Exit" }
         {
             FilePath = "SettPortraits\Portraits_Vayne_01"
-            OffsetY = 100
         }
 
         /* Yasuo */
         { Name = "Portrait_Musician_Default_01" }
         {
             FilePath = "SettPortraits\Portraits_Yasuo_01"
-            OffsetY = -50
+            OffsetY = 50
         }
 
         { Name = "Portrait_Musician_Default_01_Exit" }
         {
             FilePath = "SettPortraits\Portraits_Yasuo_01"
-            OffsetY = -50
+            OffsetY = 50
         }
 
         /* Mother Moon */
@@ -274,17 +278,13 @@ Animations = [
         { Name = "Portrait_Poseidon_Default_01" }
         {
             FilePath = "SettPortraits\Portraits_Nami_01"
-            OffsetX = -100.0
             OffsetY = 0
-            Scale = 0.85
         }
 
         { Name = "Portrait_Poseidon_Default_01_Exit" }
         {
             FilePath = "SettPortraits\Portraits_Nami_01"
-            OffsetX = -100.0
             OffsetY = 0
-            Scale = 0.85
         }
 
         /* Soraka */
@@ -344,5 +344,104 @@ Animations = [
 
         { Name = "Portrait_Zeus_Default_01_Exit" }
         { FilePath = "SettPortraits\Portraits_Volibear_01" }
+
+        /* Teemo */
+        { Name = "Portrait_Dionysus_Default_01" }
+        {
+            FilePath = "SettPortraits\Portraits_Teemo_01"
+            ChildAnimation = "PortraitGodRayEmitter_Dionysus"
+        }
+
+        { Name = "Portrait_Dionysus_Default_01_Exit" }
+        { FilePath = "SettPortraits\Portraits_Teemo_01" }
+
+        /* Codex */
+        { Name = "Codex_Portrait_Base_01" }
+        { FilePath = "SettPortraits\Codex\CodexPortrait_Aphelios" }
+
+        { Name = "Codex_Portrait_Achilles" }
+        { FilePath = "SettPortraits\Codex\CodexPortrait_Vayne" }
+
+        { Name = "Codex_Portrait_Aphrodite" }
+        { FilePath = "SettPortraits\Codex\CodexPortrait_Ahri" }
+
+        { Name = "Codex_Portrait_Ares" }
+        { FilePath = "SettPortraits\Codex\CodexPortrait_Darius" }
+
+        { Name = "Codex_Portrait_Artemis" }
+        { FilePath = "SettPortraits\Codex\CodexPortrait_Diana" }
+
+        { Name = "Codex_Portrait_Athena" }
+        { FilePath = "SettPortraits\Codex\CodexPortrait_Soraka" }
+
+        { Name = "Codex_Portrait_Cerberus" }
+        { FilePath = "SettPortraits\Codex\CodexPortrait_Badgers" }
+
+        { Name = "Codex_Portrait_Dionysus" }
+        { FilePath = "SettPortraits\Codex\CodexPortrait_Teemo" }
+
+        /* TODO: Lillia Codex */
+        { Name = "Codex_Portrait_Hermes" }
+        { FilePath = "Portraits\Codex\CodexPortrait_Hermes" }
+
+        { Name = "Codex_Portrait_Demeter" }
+        { FilePath = "SettPortraits\Codex\CodexPortrait_Lissandra" }
+
+        { Name = "Codex_Portrait_Hades" }
+        { FilePath = "SettPortraits\Codex\CodexPortrait_OldTimer" }
+
+        /* TODO: Lulu Codex */
+        { Name = "Codex_Portrait_Medusa" }
+        { FilePath = "Portraits\Codex\CodexPortrait_Medusa" }
+
+        { Name = "Codex_Portrait_Megaera" }
+        { FilePath = "SettPortraits\Codex\CodexPortrait_Alune" }
+
+        { Name = "Codex_Portrait_Orpheus" }
+        { FilePath = "SettPortraits\Codex\CodexPortrait_Yasuo" }
+
+        { Name = "Codex_Portrait_Eurydice" }
+        { FilePath = "SettPortraits\Codex\CodexPortrait_Yone" }
+
+        { Name = "Codex_Portrait_Poseidon" }
+        { FilePath = "SettPortraits\Codex\CodexPortrait_Nami" }
+
+        { Name = "Codex_Portrait_Sisyphus" }
+        { FilePath = "SettPortraits\Codex\CodexPortrait_Yorick" }
+
+        { Name = "Codex_Portrait_Skelly" }
+        { FilePath = "SettPortraits\Codex\CodexPortrait_Amumu" }
+
+        { Name = "Codex_Portrait_Zagreus" }
+        { FilePath = "SettPortraits\Codex\CodexPortrait_Sett" }
+
+        { Name = "Codex_Portrait_Zeus" }
+        { FilePath = "SettPortraits\Codex\CodexPortrait_Volibear" }
+
+        { Name = "Codex_Portrait_Nyx" }
+        { FilePath = "SettPortraits\Codex\CodexPortrait_MotherMoon" }
+
+        /* TODO: Karthus Codex */
+        { Name = "Codex_Portrait_Charon" }
+        { FilePath = "Portraits\Codex\CodexPortrait_Charon" }
+
+        { Name = "Codex_Portrait_Chaos" }
+        { FilePath = "SettPortraits\Codex\CodexPortrait_Kindred" }
+
+        { Name = "Codex_Portrait_Hypnos" }
+        { FilePath = "SettPortraits\Codex\CodexPortrait_Zoe" }
+
+        { Name = "Codex_Portrait_Alecto" }
+        { FilePath = "SettPortraits\Codex\CodexPortrait_Evelynn" }
+
+        { Name = "Codex_Portrait_Tisiphone" }
+        { FilePath = "SettPortraits\Codex\CodexPortrait_Cassiopeia" }
+
+        /* TODO: Riven Codex */
+        { Name = "Codex_Portrait_Patroclus" }
+        { FilePath = "Portraits\Codex\CodexPortrait_Patroclus" }
+
+        { Name = "Codex_Portrait_Persephone" }
+        { FilePath = "SettPortraits\Codex\CodexPortrait_Ma" }
     ]
 ]

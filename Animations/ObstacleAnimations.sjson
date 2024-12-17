@@ -32,5 +32,36 @@ Animations = [
             FilePath = "SettGUI\GUI\FamilyPortraits\FamilyPortrait_01"
             Scale = 1.7
         }
+
+        /* Room overlays */
+        { Name = "HadesOverlay" }
+        { FilePath = "SettPortraits\Portraits_OldTimer_01" }
+
+        { Name = "ThanatosOverlay" }
+        { FilePath = "SettPortraits\Portraits_Aphelios_01" }
+
+        { Name = "AthenaOverlay" }
+        { FilePath = "SettPortraits\Portraits_Soraka_01" }
+        
+        { Name = "ZeusOverlay" }
+        { FilePath = "SettPortraits\Portraits_Volibear_01" }
+
+        { Name = "PoseidonOverlay" }
+        { FilePath = "SettPortraits\Portraits_Nami_01" }
+
+        { Name = "AresOverlay" }
+        { FilePath = "SettPortraits\Portraits_Darius_01" }
+
+        { Name = "AphroditeOverlay" }
+        { FilePath = "SettPortraits\Portraits_Ahri_01" }
+
+        { Name = "DionysusOverlay" }
+        { FilePath = "SettPortraits\Portraits_Teemo_01" }
+
+        { Name = "DemeterOverlay" }
+        { FilePath = "SettPortraits\Portraits_Lissandra_01" }
+
+        { Name = "ChaosOverlay" }
+        { FilePath = "SettPortraits\Portraits_Kindred_01" }
     ],
 ]
