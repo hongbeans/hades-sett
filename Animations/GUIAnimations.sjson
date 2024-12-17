@@ -13,6 +13,13 @@ Animations = [
         { Name = "BoonSelectLighting" }
         { FilePath = "SettGUI\GUI\Screens\BoonSelectLighting\BoonSelectLighting" }
 
+        /* Keepsakes */
+        { Name = "Keepsake_Butterfly_Child" }
+        { FilePath = "SettGUI\GUI\Screens\AwardMenu\aphelios_mooncake" }
+
+        { Name = "Keepsake_Butterfly" }
+        { FilePath = "SettGUI\GUI\Screens\AwardMenu\aphelios_mooncake" }
+
         /* Companions */
         { Name = "Keepsake_Meg_Plush_Child" }
         { FilePath = "SettGUI\GUI\Screens\AwardMenu\Legendary\Alune_01" }

@@ -25,6 +25,83 @@ Animations = [
         { Name = "Portrait_Zag_Unwell_01_Exit" }
         { FilePath = "SettPortraits\Portraits_Sett_Unwell01" }
 
+        /* Old Timer */
+        { Name = "Portrait_Base_01" }
+        { FilePath = "SettPortraits\Portraits_OldTimer_01" }
+
+        { Name = "Portrait_Hades_Helm_01" }
+        { FilePath = "SettPortraits\Portraits_OldTimer_01" }
+
+        { Name = "Portrait_Hades_Helm_01_Exit" }
+        { FilePath = "SettPortraits\Portraits_OldTimer_01" }
+
+        { Name = "Portrait_Hades_HelmCape_01" }
+        { FilePath = "SettPortraits\Portraits_OldTimer_01" }
+
+        { Name = "Portrait_Hades_HelmCape_01_Exit" }
+        { FilePath = "SettPortraits\Portraits_OldTimer_01" }
+
+        { Name = "Portrait_Hades_Averted_01" }
+        { FilePath = "SettPortraits\Portraits_OldTimer_01" }
+
+        { Name = "Portrait_Hades_Averted_01_Exit" }
+        { FilePath = "SettPortraits\Portraits_OldTimer_01" }
+
+        /* Ma */
+        { Name = "Portrait_Persephone_Default_01" }
+        { FilePath = "SettPortraits\Portraits_Ma_01" }
+
+        { Name = "Portrait_Persephone_Default_01_Exit" }
+        { FilePath = "SettPortraits\Portraits_Ma_01" }
+
+        { Name = "Portrait_Persephone_Apprehensive_01" }
+        { FilePath = "SettPortraits\Portraits_Ma_Apprehensive01" }
+
+        { Name = "Portrait_Persephone_Apprehensive_01_Exit" }
+        { FilePath = "SettPortraits\Portraits_Ma_Apprehensive01" }
+        
+        { Name = "Portrait_Persephone_Calculating_01" }
+        { FilePath = "SettPortraits\Portraits_Ma_Apprehensive01" }
+
+        { Name = "Portrait_Persephone_Calculating_01_Exit" }
+        { FilePath = "SettPortraits\Portraits_Ma_Apprehensive01" }
+
+        { Name = "Portrait_Persephone_FiredUp_01" }
+        { FilePath = "SettPortraits\Portraits_Ma_FiredUp01" }
+
+        { Name = "Portrait_Persephone_FiredUp_01_Exit" }
+        { FilePath = "SettPortraits\Portraits_Ma_FiredUp01" }
+
+        { Name = "Portrait_Persephone_Joyful_01" }
+        { FilePath = "SettPortraits\Portraits_Ma_Joy01" }
+
+        { Name = "Portrait_Persephone_Joyful_01_Exit" }
+        { FilePath = "SettPortraits\Portraits_Ma_Joy01" }
+
+        { Name = "Portrait_Persephone_Queen_01" }
+        { FilePath = "SettPortraits\Portraits_Ma_01" }
+
+        { Name = "Portrait_Persephone_Queen_01_Exit" }
+        { FilePath = "SettPortraits\Portraits_Ma_01" }
+
+        { Name = "Portrait_Persephone_Queen_Apprehensive_01" }
+        { FilePath = "SettPortraits\Portraits_Ma_Apprehensive01" }
+
+        { Name = "Portrait_Persephone_Queen_Apprehensive_01_Exit" }
+        { FilePath = "SettPortraits\Portraits_Ma_Apprehensive01" }
+        
+        { Name = "Portrait_Persephone_Queen_Calculating_01" }
+        { FilePath = "SettPortraits\Portraits_Ma_Apprehensive01" }
+
+        { Name = "Portrait_Persephone_Queen_Calculating_01_Exit" }
+        { FilePath = "SettPortraits\Portraits_Ma_Apprehensive01" }
+
+        { Name = "Portrait_Persephone_Queen_FiredUp_01" }
+        { FilePath = "SettPortraits\Portraits_Ma_FiredUp01" }
+
+        { Name = "Portrait_Persephone_Queen_FiredUp_01_Exit" }
+        { FilePath = "SettPortraits\Portraits_Ma_FiredUp01" }
+
         /* Aphelios */
         { Name = "Portrait_Thanatos_Default_01" }
         { FilePath = "SettPortraits\Portraits_Aphelios_01" }
