@@ -874,82 +874,82 @@ Texts = [
 
         /* Truffle & Southpaw */
         { Id = "ClearedCerberus_Title" }
-        { DisplayName = "Truffle & Southpaw Vanquished" }
+        { DisplayName = "Badgers Vanquished" }
 
         { Id = "ClearedCerberus_Alt1_Subtitle" }
         { DisplayName = "(They're Fine)" }
 
         { Id = "ClearedCerberus_A_Title" }
-        { DisplayName = "Truffle & Southpaw Ran Away" }
+        { DisplayName = "Badgers Ran Away" }
 
         { Id = "ClearedCerberus_A_Subtitle" }
         { DisplayName = "(Where Could They Be)" }
 
         { Id = "ClearedCerberus_B_Title" }
-        { DisplayName = "Truffle & Southpaw Sated" }
+        { DisplayName = "Badgers Sated" }
 
         { Id = "ClearedCerberus_C_Title" }
-        { DisplayName = "Truffle & Southpaw Fed" }
+        { DisplayName = "Badgers Fed" }
 
         { Id = "ClearedCerberus_D_Title" }
-        { DisplayName = "Truffle & Southpaw Annihilated" }
+        { DisplayName = "Badgers Annihilated" }
 
         { Id = "ClearedCerberus_D_Subtitle" }
         { DisplayName = "(Their Appetite)" }
 
         { Id = "ClearedCerberus_E_Title" }
-        { DisplayName = "Truffle & Southpaw Bribed" }
+        { DisplayName = "Badgers Bribed" }
 
         { Id = "ClearedCerberus_F_Title" }
-        { DisplayName = "Truffle & Southpaw Stuffed" }
+        { DisplayName = "Badgers Stuffed" }
 
         { Id = "ClearedCerberus_G_Title" }
-        { DisplayName = "Truffle & Southpaw Vanished" }
+        { DisplayName = "Badgers Vanished" }
 
         { Id = "ClearedCerberus_G_Subtitle" }
         { DisplayName = "(Where Did They Go)" }
 
         { Id = "ClearedCerberus_H_Title" }
-        { DisplayName = "Truffle & Southpaw Left" }
+        { DisplayName = "Badgers Left" }
 
         { Id = "ClearedCerberus_H_Subtitle" }
         { DisplayName = "(They Were Hungry)" }
 
         { Id = "ClearedCerberus_I_Title" }
-        { DisplayName = "Truffle & Southpaw Devoured" }
+        { DisplayName = "Badgers Devoured" }
 
         { Id = "ClearedCerberus_J_Title" }
-        { DisplayName = "Truffle & Southpaw Abandoned" }
+        { DisplayName = "Badgers Abandoned" }
 
         { Id = "ClearedCerberus_J_Subtitle" }
         { DisplayName = "Their Post in Order to Eat" }
 
         { Id = "ClearedCerberus_K_Title" }
-        { DisplayName = "Truffle & Southpaw Vanquished" }
+        { DisplayName = "Badgers Vanquished" }
 
         { Id = "ClearedCerberus_L_Title" }
-        { DisplayName = "Truffle & Southpaw Treated" }
+        { DisplayName = "Badgers Treated" }
 
         { Id = "ClearedCerberus_M_Title" }
-        { DisplayName = "Truffle & Southpaw Nourished" }
+        { DisplayName = "Badgers Nourished" }
 
         { Id = "ClearedCerberus_N_Title" }
-        { DisplayName = "Truffle & Southpaw Appeased" }
+        { DisplayName = "Badgers Appeased" }
 
         { Id = "ClearedCerberus_O_Title" }
-        { DisplayName = "Truffle & Southpaw Impressed" }
+        { DisplayName = "Badgers Impressed" }
 
         { Id = "ClearedCerberus_O_Subtitle" }
         { DisplayName = "Not That They Doubted You" }
 
         { Id = "ClearedCerberus_P_Title" }
-        { DisplayName = "Truffle & Southpaw Destroyed" }
+        { DisplayName = "Badgers Destroyed" }
 
         { Id = "ClearedCerberus_P_Subtitle" }
         { DisplayName = "Their Meal in Three Bites" }
 
         { Id = "ClearedCerberus_Q_Title" }
-        { DisplayName = "Truffle & Southpaw Distracted" }
+        { DisplayName = "Badgers Distracted" }
 
         { Id = "Cosmetic_ClearFur" }
         { Description = "{$Keywords.HouseRepair}: Gets rid of the huge clumps of fur shed by Truffle & Southpaw." }
@@ -959,7 +959,7 @@ Texts = [
 
         { Id = "NPC_Cerberus_01" }
         {
-            DisplayName = "Truffle & Southpaw"
+            DisplayName = "Badgers"
             Description = "Gatekeepers"
         }
 
@@ -1446,7 +1446,7 @@ Texts = [
         { DisplayName = "old timer" }
 
         { Id = "HadesDefeatedMessage" }
-        { DisplayName = "OLD TIMER VANQUISHED" }
+        { DisplayName = "PA VANQUISHED" }
 
         { Id = "AssistTraitsPermitted_Subtitle" }
         { DisplayName = "Summons vs. Old Timer" }
