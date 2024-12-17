@@ -112,6 +112,33 @@ Replace "Subtitles/Sisyphus.csv"
 To "Subtitles/en/Skelly.csv"
 Replace "Subtitles/Skelly.csv"
 
+To "Subtitles/en/Storyteller.csv"
+Replace "Subtitles/Storyteller.csv"
+
+To "Subtitles/en/Thanatos.csv"
+Replace "Subtitles/Thanatos.csv"
+
+To "Subtitles/en/ThanatosField.csv"
+Replace "Subtitles/ThanatosField.csv"
+
+To "Subtitles/en/Theseus.csv"
+Replace "Subtitles/Theseus.csv"
+
+To "Subtitles/en/Tisiphone.csv"
+Replace "Subtitles/Tisiphone.csv"
+
+To "Subtitles/en/ZagreusField.csv"
+Replace "Subtitles/ZagreusField.csv"
+
+To "Subtitles/en/ZagreusHome.csv"
+Replace "Subtitles/ZagreusHome.csv"
+
+To "Subtitles/en/ZagreusScratch.csv"
+Replace "Subtitles/ZagreusScratch.csv"
+
+To "Subtitles/en/Zeus.csv"
+Replace "Subtitles/Zeus.csv"
+
 :: Load image packages
 To Win/Packages/SettPortraits.pkg_manifest
 Replace "Packages/SettPortraits.pkg_manifest"
