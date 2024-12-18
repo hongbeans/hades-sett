@@ -13,6 +13,9 @@ SJSON "Animations/ObstacleAnimationsAppend.sjson"
 To "Game/Animations/PortraitAnimations.sjson"
 SJSON "Animations/PortraitAnimations.sjson"
 
+To "Game/Animations/PortraitAnimations.sjson"
+SJSON "Animations/PortraitAnimationsAppend.sjson"
+
 To "Game/Animations/GUIAnimations.sjson"
 SJSON "Animations/GUIAnimations.sjson"
 

@@ -260,12 +260,46 @@ Animations = [
         { Name = "Portrait_Eurydice_Default_01_Exit" }
         { FilePath = "SettPortraits\Portraits_Yone_01" }
 
+        /* Riven */
+        { Name = "Portrait_Patroclus_Default_01" }
+        { FilePath = "SettPortraits\Portraits_Riven_01" }
+
+        { Name = "Portrait_Patroclus_Default_01_Exit" }
+        { FilePath = "SettPortraits\Portraits_Riven_01" }
+
+        { Name = "Portrait_Patroclus_Neutral_01_Exit" }
+        { FilePath = "SettPortraits\Portraits_Riven_Neutral01" }
+
+        { Name = "Portrait_Patroclus_Neutral_01" }
+        { FilePath = "SettPortraits\Portraits_Riven_Neutral01" }
+
         /* Evelynn */
         { Name = "Portrait_FurySister02_Default_01" }
         { FilePath = "SettPortraits\Portraits_Evelynn_01" }
 
         { Name = "Portrait_FurySister02_Default_01_Exit" }
         { FilePath = "SettPortraits\Portraits_Evelynn_01" }
+
+        /* Cassiopeia */
+        { Name = "Portrait_FurySister03_Default_01" }
+        { FilePath = "SettPortraits\Portraits_Cassiopeia_01" }
+
+        { Name = "Portrait_FurySister03_Default_01_Exit" }
+        { FilePath = "SettPortraits\Portraits_Cassiopeia_01" }
+
+        /* Thresh */
+        { Name = "Portrait_Theseus_Default_01" }
+        { FilePath = "SettPortraits\Portraits_Thresh_01" }
+
+        { Name = "Portrait_Theseus_Default_01_Exit" }
+        { FilePath = "SettPortraits\Portraits_Thresh_01" }
+
+        /* TODO: Dumbass EM3 Thresh */
+        { Name = "Portrait_Theseus_Armored_01" }
+        { FilePath = "SettPortraits\Portraits_Thresh_01" }
+
+        { Name = "Portrait_Theseus_Armored_01_Exit" }
+        { FilePath = "SettPortraits\Portraits_Thresh_01" }
 
         /* Ahri */
         { Name = "Portrait_Aphrodite_Default_01" }
@@ -380,9 +414,8 @@ Animations = [
         { Name = "Codex_Portrait_Dionysus" }
         { FilePath = "SettPortraits\Codex\CodexPortrait_Teemo" }
 
-        /* TODO: Lillia Codex */
         { Name = "Codex_Portrait_Hermes" }
-        { FilePath = "Portraits\Codex\CodexPortrait_Hermes" }
+        { FilePath = "SettPortraits\Codex\CodexPortrait_Lillia" }
 
         { Name = "Codex_Portrait_Demeter" }
         { FilePath = "SettPortraits\Codex\CodexPortrait_Lissandra" }
@@ -440,6 +473,10 @@ Animations = [
         /* TODO: Riven Codex */
         { Name = "Codex_Portrait_Patroclus" }
         { FilePath = "Portraits\Codex\CodexPortrait_Patroclus" }
+
+        /* TODO: Thresh Codex */
+        { Name = "Codex_Portrait_Theseus" }
+        { FilePath = "Portraits\Codex\CodexPortrait_Theseus" }
 
         { Name = "Codex_Portrait_Persephone" }
         { FilePath = "SettPortraits\Codex\CodexPortrait_Ma" }
