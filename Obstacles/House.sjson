@@ -25,13 +25,13 @@ Obstacles = [
             TouchdownSound = "/EmptyCue"
             Offset = { X = 0 Y = 21 }
             Points = [
-            { X = -113 Y = -423 }
-            { X = -909 Y = -34 }
-            { X = 82 Y = 470 }
-            { X = 925 Y = 74 }
+                { X = -113 Y = -423 }
+                { X = -909 Y = -34 }
+                { X = 82 Y = 470 }
+                { X = 925 Y = 74 }
             ]
             Using = [
-            { Name = "GenericSparkles" }
+                { Name = "GenericSparkles" }
             ]
         } }
     ]
