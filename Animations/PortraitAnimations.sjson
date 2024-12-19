@@ -152,6 +152,43 @@ Animations = [
             OffsetX = -50
         }
 
+        /* Lulu */
+        { Name = "Portrait_Dusa_Default_01" }
+        {
+            FilePath = "SettPortraits\Portraits_Lulu_01"
+            OffsetX = -50
+        }
+
+        { Name = "Portrait_Dusa_Default_01_Exit" }
+        {
+            FilePath = "SettPortraits\Portraits_Lulu_01"
+            OffsetX = -50
+        }
+
+        { Name = "Portrait_Dusa_Confident_01" }
+        {
+            FilePath = "SettPortraits\Portraits_Lulu_Confident01"
+            OffsetX = -50
+        }
+
+        { Name = "Portrait_Dusa_Confident_01_Exit" }
+        {
+            FilePath = "SettPortraits\Portraits_Lulu_Confident01"
+            OffsetX = -50
+        }
+
+        { Name = "Portrait_Dusa_Empathetic_01" }
+        {
+            FilePath = "SettPortraits\Portraits_Lulu_Empathetic01"
+            OffsetX = -50
+        }
+
+        { Name = "Portrait_Dusa_Empathetic_01_Exit" }
+        {
+            FilePath = "SettPortraits\Portraits_Lulu_Empathetic01"
+            OffsetX = -50
+        }
+
         /* Badgers */
         { Name = "Portrait_Cerberus_Default_01" }
         { FilePath = "SettPortraits\Portraits_Badgers_01" }

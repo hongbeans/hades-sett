@@ -39,6 +39,24 @@ Replace "Dialogue/_LootData.en.sjson"
 To "Game/Text/en/_NPCData.en.sjson"
 Replace "Dialogue/_NPCData.en.sjson"
 
+To "Game/Text/en/_RoomDataAsphodel.en.sjson"
+Replace "Dialogue/_RoomDataAsphodel.en.sjson"
+
+To "Game/Text/en/_RoomDataElysium.en.sjson"
+Replace "Dialogue/_RoomDataElysium.en.sjson"
+
+To "Game/Text/en/_RoomDataSecrets.en.sjson"
+Replace "Dialogue/_RoomDataSecrets.en.sjson"
+
+To "Game/Text/en/_RoomDataStyx.en.sjson"
+Replace "Dialogue/_RoomDataStyx.en.sjson"
+
+To "Game/Text/en/_RoomDataSurface.en.sjson"
+Replace "Dialogue/_RoomDataSurface.en.sjson"
+
+To "Game/Text/en/_RoomDataTartarus.en.sjson"
+Replace "Dialogue/_RoomDataTartarus.en.sjson"
+
 :: Subtitle replacements
 To "Subtitles/en/Achilles.csv"
 Replace "Subtitles/Achilles.csv"
@@ -81,6 +99,9 @@ Replace "Subtitles/Hades.csv"
 
 To "Subtitles/en/Hypnos.csv"
 Replace "Subtitles/Hypnos.csv"
+
+To "Subtitles/en/Intercom.csv"
+Replace "Subtitles/Intercom.csv"
 
 To "Subtitles/en/MegaeraField.csv"
 Replace "Subtitles/MegaeraField.csv"
@@ -179,7 +200,7 @@ Replace "Packages/SettGUI.pkg"
 To Win/Packages/720p/SettGUI.pkg
 Replace "Packages/SettGUI.pkg"
 
-:: Replace Main Menu screen
+:: Replace movies
 To Movies/720p/MainMenuIn.bik
 Replace "Movies/MainMenuIn.bik"
 
@@ -192,7 +213,6 @@ Replace "Movies/MainMenuIn.bik"
 To Movies/MainMenuLoop.bik
 Replace "Movies/MainMenuLoop.bik"
 
-:: Replace menu loading animations
 To Movies/720p/BoonSelectIn.bik
 Replace "Movies/BoonSelectIn.bik"
 
@@ -204,6 +224,18 @@ Replace "Movies/BoonSelectOut.bik"
 
 To Movies/BoonSelectOut.bik
 Replace "Movies/BoonSelectOut.bik"
+
+To Movies/RemBGHades.bik
+Replace "Movies/RemBGHades.bik"
+
+To Movies/720p/RemBGHades.bik
+Replace "Movies/RemBGHades.bik"
+
+To Movies/RemBGHadesIntro.bik
+Replace "Movies/RemBGHadesIntro.bik"
+
+To Movies/720p/RemBGHadesIntro.bik
+Replace "Movies/RemBGHadesIntro.bik"
 
 :: Replace character animation binks
 To Movies/720p/ThanatosIdleInhouse_Bink.bik

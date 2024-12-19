@@ -1040,19 +1040,18 @@ Texts = [
         { Id = "RunHistoryScreenResult_CharonFight01" }
         { DisplayName = "Slain by {#AltPenaltyFormat}KARTHUS {#PreviousFormat}in {#AltPenaltyFormat}EREBUS{#PreviousFormat}" }
 
-        /* TODO: Dusa placeholder. Add Dusa replacements when character is finalized. */
         { Id = "NPC_Dusa_01" }
         {
-            DisplayName = "Dusa"
+            DisplayName = "Lulu"
             Description = "Duty-Bound Spirit"
         }
 
         { Id = "DusaSignoff" }
-        { DisplayName = "From Dusa" }
+        { DisplayName = "From Lulu" }
 
         { Id = "DusaSignoff_Max" }
         { DisplayName = """
-            From {#AwardMaxFlavorFormat}Dusa{#AwardDarkFlavorFormat}; you share an {#AwardMaxFlavorFormat}Immaculate Bond
+            From {#AwardMaxFlavorFormat}Lulu{#AwardDarkFlavorFormat}; you share an {#AwardMaxFlavorFormat}Immaculate Bond
 
             {#AwardDarkFlavorFormat}She lifts you up without effort. You give her courage to fly.
             """
@@ -1060,7 +1059,7 @@ Texts = [
 
         { Id = "DusaSignoff_AssistMax" }
         { DisplayName = """
-            From {#AwardMaxFlavorFormat}Dusa{#AwardDarkFlavorFormat}, friend for all eternity
+            From {#AwardMaxFlavorFormat}Lulu{#AwardDarkFlavorFormat}, friend for all eternity
             """
         }
 
