@@ -21,7 +21,7 @@ SJSON "Animations/GUIAnimations.sjson"
 
 :: Replace character names
 To "Game/Text/en/HelpText.en.sjson"
-SJSON "Menus/HelpText.en.sjson"
+Replace "Menus/HelpText.en.sjson"
 
 To "Game/Text/en/MacroText.sjson"
 SJSON "Menus/MacroText.sjson"
