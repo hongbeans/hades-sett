@@ -33,6 +33,22 @@ Animations = [
             Scale = 1.7
         }
 
+        /* Post-epilogue replacements */
+        { Name = "HandShake_01_Characters" }
+        { FilePath = "SettGUI\GUI\Epilogue\HandShake_01_Characters" }
+
+        { Name = "HandShake_04_BGChars" }
+        { FilePath = "SettGUI\GUI\Epilogue\HandShake_04_BGChars" }
+
+        { Name = "HandShake_05_Trees" }
+        { FilePath = "SettGUI\GUI\Epilogue\HandShake_05_Trees" }
+
+        { Name = "HandShake_06_Pillars_Left" }
+        { FilePath = "SettGUI\GUI\Epilogue\HandShake_06_Pillars_Left" }
+
+        { Name = "HandShake_08_BG" }
+        { FilePath = "SettGUI\GUI\Epilogue\HandShake_08_BG" }
+
         /* Room overlays */
         { Name = "HadesOverlay" }
         { FilePath = "SettPortraits\Portraits_OldTimer_01" }
