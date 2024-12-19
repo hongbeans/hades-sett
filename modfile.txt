@@ -19,6 +19,9 @@ SJSON "Animations/PortraitAnimationsAppend.sjson"
 To "Game/Animations/GUIAnimations.sjson"
 SJSON "Animations/GUIAnimations.sjson"
 
+To "Game/Obstacles/House.sjson"
+SJSON "Obstacles/House.sjson"
+
 :: Replace character names
 To "Game/Text/en/HelpText.en.sjson"
 Replace "Menus/HelpText.en.sjson"

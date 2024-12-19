@@ -5566,7 +5566,7 @@
     }
     {
       Id = "ClearedCerberus_Title"
-      DisplayName = "Truffle & Southpaw Vanquished"
+      DisplayName = "Badgers Vanquished"
     }
     {
       Id = "ClearedCerberus_Subtitle"
@@ -5590,7 +5590,7 @@
     }
     {
       Id = "ClearedCerberus_A_Title"
-      DisplayName = "Truffle & Southpaw Ran Away"
+      DisplayName = "Badgers Ran Away"
     }
     {
       Id = "ClearedCerberus_A_Subtitle"
@@ -5598,7 +5598,7 @@
     }
     {
       Id = "ClearedCerberus_B_Title"
-      DisplayName = "Truffle & Southpaw Sated"
+      DisplayName = "Badgers Sated"
     }
     {
       Id = "ClearedCerberus_B_Subtitle"
@@ -5606,7 +5606,7 @@
     }
     {
       Id = "ClearedCerberus_C_Title"
-      DisplayName = "Truffle & Southpaw Fed"
+      DisplayName = "Badgers Fed"
     }
     {
       Id = "ClearedCerberus_C_Subtitle"
@@ -5614,7 +5614,7 @@
     }
     {
       Id = "ClearedCerberus_D_Title"
-      DisplayName = "Truffle & Southpaw Annihilated"
+      DisplayName = "Badgers Annihilated"
     }
     {
       Id = "ClearedCerberus_D_Subtitle"
@@ -5622,7 +5622,7 @@
     }
     {
       Id = "ClearedCerberus_E_Title"
-      DisplayName = "Truffle & Southpaw Bribed"
+      DisplayName = "Badgers Bribed"
     }
     {
       Id = "ClearedCerberus_E_Subtitle"
@@ -5630,7 +5630,7 @@
     }
     {
       Id = "ClearedCerberus_F_Title"
-      DisplayName = "Truffle & Southpaw Stuffed"
+      DisplayName = "Badgers Stuffed"
     }
     {
       Id = "ClearedCerberus_F_Subtitle"
@@ -5638,7 +5638,7 @@
     }
     {
       Id = "ClearedCerberus_G_Title"
-      DisplayName = "Truffle & Southpaw Vanished"
+      DisplayName = "Badgers Vanished"
     }
     {
       Id = "ClearedCerberus_G_Subtitle"
@@ -5646,7 +5646,7 @@
     }
     {
       Id = "ClearedCerberus_H_Title"
-      DisplayName = "Truffle & Southpaw Left"
+      DisplayName = "Badgers Left"
     }
     {
       Id = "ClearedCerberus_H_Subtitle"
@@ -5654,7 +5654,7 @@
     }
     {
       Id = "ClearedCerberus_I_Title"
-      DisplayName = "Truffle & Southpaw Devoured"
+      DisplayName = "Badgers Devoured"
     }
     {
       Id = "ClearedCerberus_I_Subtitle"
@@ -5662,7 +5662,7 @@
     }
     {
       Id = "ClearedCerberus_J_Title"
-      DisplayName = "Truffle & Southpaw Abandoned"
+      DisplayName = "Badgers Abandoned"
     }
     {
       Id = "ClearedCerberus_J_Subtitle"
@@ -5670,7 +5670,7 @@
     }
     {
       Id = "ClearedCerberus_K_Title"
-      DisplayName = "Truffle & Southpaw Vanquished"
+      DisplayName = "Badgers Vanquished"
     }
     {
       Id = "ClearedCerberus_K_Subtitle"
@@ -5678,7 +5678,7 @@
     }
     {
       Id = "ClearedCerberus_L_Title"
-      DisplayName = "Truffle & Southpaw Treated"
+      DisplayName = "Badgers Treated"
     }
     {
       Id = "ClearedCerberus_L_Subtitle"
@@ -5686,7 +5686,7 @@
     }
     {
       Id = "ClearedCerberus_M_Title"
-      DisplayName = "Truffle & Southpaw Nourished"
+      DisplayName = "Badgers Nourished"
     }
     {
       Id = "ClearedCerberus_M_Subtitle"
@@ -5694,7 +5694,7 @@
     }
     {
       Id = "ClearedCerberus_N_Title"
-      DisplayName = "Truffle & Southpaw Appeased"
+      DisplayName = "Badgers Appeased"
     }
     {
       Id = "ClearedCerberus_N_Subtitle"
@@ -5702,7 +5702,7 @@
     }
     {
       Id = "ClearedCerberus_O_Title"
-      DisplayName = "Truffle & Southpaw Impressed"
+      DisplayName = "Badgers Impressed"
     }
     {
       Id = "ClearedCerberus_O_Subtitle"
@@ -5710,7 +5710,7 @@
     }
     {
       Id = "ClearedCerberus_P_Title"
-      DisplayName = "Truffle & Southpaw Destroyed"
+      DisplayName = "Badgers Destroyed"
     }
     {
       Id = "ClearedCerberus_P_Subtitle"
@@ -5718,7 +5718,7 @@
     }
     {
       Id = "ClearedCerberus_Q_Title"
-      DisplayName = "Truffle & Southpaw Distracted"
+      DisplayName = "Badgers Distracted"
     }
     {
       Id = "ClearedCerberus_Q_Subtitle"

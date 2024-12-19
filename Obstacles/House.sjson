@@ -1,0 +1,38 @@
+Obstacles = [
+    "_search", [
+        { Name = "HousePaintingFamily01" }
+        { Thing = {
+            EditorOutlineDrawBounds = false
+            Graphic = "SettDeathArea\Tilesets\House\House_PaintingFamily_01"
+            Scale = 4.5
+            Hue = 1.0
+            Interact = 
+            {
+                Distance = 250.0
+                OffsetY = 100.0
+            }
+        } }
+
+        { Name = "HousePoster02" }
+        { Thing = {
+            EditorOutlineDrawBounds = false
+            Graphic = "SettDeathArea\Tilesets\House\House_Poster_02"
+            Scale = 4.5
+            Grip = 999999.0
+            MeshType = "Vertical"
+            StopsProjectiles = true
+            StopsUnits = true
+            TouchdownSound = "/EmptyCue"
+            Offset = { X = 0 Y = 21 }
+            Points = [
+            { X = -113 Y = -423 }
+            { X = -909 Y = -34 }
+            { X = 82 Y = 470 }
+            { X = 925 Y = 74 }
+            ]
+            Using = [
+            { Name = "GenericSparkles" }
+            ]
+        } }
+    ]
+]

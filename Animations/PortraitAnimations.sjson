@@ -331,12 +331,11 @@ Animations = [
         { Name = "Portrait_Theseus_Default_01_Exit" }
         { FilePath = "SettPortraits\Portraits_Thresh_01" }
 
-        /* TODO: Dumbass EM3 Thresh */
         { Name = "Portrait_Theseus_Armored_01" }
-        { FilePath = "SettPortraits\Portraits_Thresh_01" }
+        { FilePath = "SettPortraits\Portraits_Thresh_Armored01" }
 
         { Name = "Portrait_Theseus_Armored_01_Exit" }
-        { FilePath = "SettPortraits\Portraits_Thresh_01" }
+        { FilePath = "SettPortraits\Portraits_Thresh_Armored01" }
 
         /* Ahri */
         { Name = "Portrait_Aphrodite_Default_01" }

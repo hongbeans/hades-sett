@@ -26,6 +26,36 @@ Animations = [
             Scale = 4.5
         }
 
+        { Name = "HouseEmployeeOfMonthHypnos01" }
+        {
+            FilePath = "SettDeathArea\Tilesets\House\House_EmployeeOfMonth_Zoe_01"
+            Scale = 4.5
+        }
+
+        { Name = "HouseEmployeeOfMonthZag01" }
+        {
+            FilePath = "SettDeathArea\Tilesets\House\House_EmployeeOfMonth_Sett_01"
+            Scale = 4.5
+        }
+
+        { Name = "HouseEmployeeOfMonthOrpheus01" }
+        {
+            FilePath = "SettDeathArea\Tilesets\House\House_EmployeeOfMonth_Yasuo_01"
+            Scale = 4.5
+        }
+
+        { Name = "HouseEmployeeOfMonthCerberus01" }
+        {
+            FilePath = "SettDeathArea\Tilesets\House\House_EmployeeOfMonth_Badgers_01"
+            Scale = 4.5
+        }
+
+        { Name = "HouseEmployeeOfMonthDusa01" }
+        {
+            FilePath = "SettDeathArea\Tilesets\House\House_EmployeeOfMonth_Lulu_01"
+            Scale = 4.5
+        }
+
         /* Family portrait replacement */
         { Name = "PortraitFamily" }
         {
