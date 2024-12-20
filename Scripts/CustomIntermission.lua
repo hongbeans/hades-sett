@@ -82,9 +82,9 @@ ModUtil.Path.Override(
             -- Camera Pan
             AdjustFullscreenBloom({ Name = "NewType06", Duration = 0 })
             AdjustFullscreenBloom({ Name = "Off", Duration = 1, Delay = 0 })
-            -- Teleport({ Id = ScreenAnchors.PortraitDisplayAnchor, DestinationId = ScreenAnchors.PortraitDisplayAnchor, OffsetX = -50, OffsetY = 0 })
-            -- Move({ Id = ScreenAnchors.PortraitDisplayAnchor, DestinationId = ScreenAnchors.PortraitDisplayAnchor, OffsetX = 100, OffsetY = 0, Duration = 9.5, EaseOut = 1.0, EaseIn = 0.0 })
-            -- SetScale({ Id = portraitId, Fraction = 1.2 })
+            Teleport({ Id = ScreenAnchors.PortraitDisplayAnchor, DestinationId = ScreenAnchors.PortraitDisplayAnchor, OffsetX = -50, OffsetY = 0 })
+            Move({ Id = ScreenAnchors.PortraitDisplayAnchor, DestinationId = ScreenAnchors.PortraitDisplayAnchor, OffsetX = 100, OffsetY = 0, Duration = 9.5, EaseOut = 1.0, EaseIn = 0.0 })
+            SetScale({ Id = portraitId, Fraction = 1.2 })
 
             PlaySound({ Name = "/Leftovers/World Sounds/CaravanCreak" })
             wait(0.5)
