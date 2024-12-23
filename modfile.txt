@@ -60,6 +60,9 @@ Replace "Dialogue/_RoomDataSurface.en.sjson"
 To "Game/Text/en/_RoomDataTartarus.en.sjson"
 Replace "Dialogue/_RoomDataTartarus.en.sjson"
 
+To "Game/Text/en/_RoomData.en.sjson"
+Replace "Dialogue/_RoomData.en.sjson"
+
 :: Subtitle replacements
 To "Subtitles/en/Achilles.csv"
 Replace "Subtitles/Achilles.csv"
@@ -99,6 +102,9 @@ Replace "Subtitles/ExtraLines.csv"
 
 To "Subtitles/en/Hades.csv"
 Replace "Subtitles/Hades.csv"
+
+To "Subtitles/en/HadesField.csv"
+Replace "Subtitles/HadesField.csv"
 
 To "Subtitles/en/Hypnos.csv"
 Replace "Subtitles/Hypnos.csv"
