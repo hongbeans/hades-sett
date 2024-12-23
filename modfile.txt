@@ -3,6 +3,7 @@ Import "Scripts/PatchRoomData.lua"
 Import "Scripts/UseCustomDialogue.lua"
 Import "Scripts/CustomIntermission.lua"
 Import "Scripts/CustomDeathLoopData.lua"
+Import "Scripts/CustomPostEpilogue.lua"
 
 To "Game/Animations/ObstacleAnimations.sjson"
 SJSON "Animations/ObstacleAnimations.sjson"
