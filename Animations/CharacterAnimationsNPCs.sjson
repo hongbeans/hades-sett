@@ -1,0 +1,6 @@
+Animations = [
+    "_search", [
+        { Name = "BouldyIdle" }
+        { FilePath = "SettDeathArea\Tilesets\Tartarus\Tartarus_Maiden_03" }
+    ]
+]

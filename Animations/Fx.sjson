@@ -1,0 +1,6 @@
+Animations = [
+    "_search", [
+        { Name = "BouldyFall" }
+        { FilePath = "SettDeathArea\Tilesets\Tartarus\Tartarus_Maiden_03" }
+    ]
+]
