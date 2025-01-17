@@ -4,6 +4,7 @@ Import "Scripts/UseCustomDialogue.lua"
 Import "Scripts/CustomIntermission.lua"
 Import "Scripts/CustomDeathLoopData.lua"
 Import "Scripts/CustomPostEpilogue.lua"
+Import "Scripts/IncreaseThanEncounterRate.lua"
 
 To "Game/Animations/ObstacleAnimations.sjson"
 SJSON "Animations/ObstacleAnimations.sjson"
