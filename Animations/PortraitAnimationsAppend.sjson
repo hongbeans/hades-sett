@@ -10,4 +10,13 @@ Animations = [
       OffsetX = -90.0
       OffsetY = -90.0
     }
+    {
+      Name = "Portrait_Thanatos_Shy_01_Exit"
+      InheritFrom = "Portrait_Base_01_Exit"
+      FilePath = "SettPortraits\Portraits_Aphelios_Shy01"
+      EndFrame = 1
+      StartFrame = 1
+      OffsetX = -90.0
+      OffsetY = -90.0
+    }
 ]
