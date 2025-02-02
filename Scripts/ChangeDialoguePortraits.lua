@@ -54,7 +54,11 @@ ModUtil.Table.Merge( UnitSetData.NPCs, {
             }
         },
         RepeatableTextLineSets = {
-            -- Hold for dialogue before Thanatos_0441
+            ThanatosHomeChat29 = {
+                [1] = {
+                    Portrait = "Portrait_Thanatos_Shy_01"
+                }
+            },
             ThanatosHomeMaxChat03 = {
                 [1] = {
                     Portrait = "Portrait_Thanatos_Shy_01"
