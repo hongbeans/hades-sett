@@ -1,5 +1,5 @@
 -- NPCData changes
-local function addShyPortraits()
+ModUtil.LoadOnce(function()
     ModUtil.Table.Merge( UnitSetData.NPCs, {
         NPC_Thanatos_01 = {
             InteractTextLineSets = {
@@ -45,11 +45,6 @@ local function addShyPortraits()
                 },
                 ThanatosWithNyx02 = {
                     [1] = {
-                        Portrait = "Portrait_Thanatos_Shy_01"
-                    }
-                },
-                ThanatosFieldAboutLegendary01 = {
-                    [3] = {
                         Portrait = "Portrait_Thanatos_Shy_01"
                     }
                 }
@@ -101,7 +96,15 @@ local function addShyPortraits()
                     }
                 }
             }
+        },
+        NPC_Thanatos_Field_01 = {
+            InteractTextLineSets = {
+                ThanatosFieldAboutLegendary01 = {
+                    [3] = {
+                        Portrait = "Portrait_Thanatos_Shy_01"
+                    }
+                }
+            }
         }
     })
-end
-OnAnyLoad{ addShyPortraits }
+end)
