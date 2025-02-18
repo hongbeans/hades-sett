@@ -261,3 +261,9 @@ Replace "Movies/ThanatosIdleInhouse_Bink.bik"
 
 To Movies/ThanatosIdleInhouse_Bink.bik
 Replace "Movies/ThanatosIdleInhouse_Bink.bik"
+
+To Movies/720p/ZagreusIdle_Bink.bik
+Replace "Movies/ZagreusIdle_Bink.bik"
+
+To Movies/ZagreusIdle_Bink.bik
+Replace "Movies/ZagreusIdle_Bink.bik"
