@@ -93,6 +93,9 @@ ModUtil.LoadOnce(function()
                 ThanatosGift10 = {
                     [6] = {
                         Portrait = "Portrait_Thanatos_Shy_01"
+                    },
+                    [8] = {
+                        Portrait = "Portrait_Thanatos_Shy_01"
                     }
                 }
             }
