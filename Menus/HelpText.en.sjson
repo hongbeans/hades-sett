@@ -351,7 +351,7 @@
     /* Upgrade Choice Menu */
     {
       Id = "Boon_Common"
-      DisplayName = " "
+      DisplayName = "Common"
       OverwriteLocalization = true
     }
     {
@@ -384,7 +384,7 @@
     }
     {
       Id = "WeaponUpgradeChoiceMenu_Title"
-      DisplayName = "Daedalus Hammer"
+      DisplayName = "Ornn Hammer"
     }
     {
       Id = "UpgradeChoiceMenu_SubTitle"
@@ -405,7 +405,7 @@
     }
     {
       Id = "AthenaUpgrade_FlavorText02"
-      DisplayName = "divine protection and unconquerable strength."
+      DisplayName = "divine protection and unending mercy."
     }
     {
       Id = "AthenaUpgrade_FlavorText03"
@@ -437,7 +437,7 @@
     }
     {
       Id = "ArtemisUpgrade_FlavorText01"
-      DisplayName = "the moonl-bathed sprit of the hunt has never known an equal."
+      DisplayName = "the moon-bathed Sprit of the hunt has never known an equal."
     }
     {
       Id = "ArtemisUpgrade_FlavorText02"
@@ -529,7 +529,7 @@
     }
     {
       Id = "DemeterUpgrade_FlavorText03"
-      DisplayName = "this old sister of the spirits holds sway over everything between heaven and earth."
+      DisplayName = "this old sister of the Spirits holds sway over everything between heaven and earth."
     }
     {
       Id = "ChaosUpgrade_FlavorText01"
@@ -537,7 +537,7 @@
     }
     {
       Id = "ChaosUpgrade_FlavorText02"
-      DisplayName = "the forebear of spirits and Old Gods, and of all things beneath the heavens or the earth."
+      DisplayName = "the forebear of Spirits and Old Gods, and of all things beneath the heavens or the earth."
     }
     {
       Id = "ChaosUpgrade_FlavorText03"
@@ -612,7 +612,7 @@
     }
     {
       Id = "SellTrait_FlavorText03"
-      DisplayName = "the gift of the spirits is worth a tidy sum in the land of the dead."
+      DisplayName = "the gift of the Spirits is worth a tidy sum in the land of the dead."
     }
     {
       Id = "MarketScreen_FlavorText01"
@@ -921,7 +921,7 @@
     }
     {
       Id = "RetaliateWeaponTrait"
-      DisplayName = "Heaven's Vengeance"
+      DisplayName = "Spirit Realm's Vengeance"
       Description = "After you take damage, your foe is struck by lightning. \n {!Icons.Bullet}{#PropertyFormat}Revenge Damage: \Column 380 {$TooltipData.DisplayDelta1}"
     }
     {
@@ -1847,7 +1847,7 @@
     {
       Id = "DionysusUpgrade"
       DisplayName = "Teemo"
-      Description = "Spirit of Revelery"
+      Description = "Spirit of Revelry"
     }
     {
       Id = "DionysusWeaponTrait"
@@ -2760,7 +2760,7 @@
     }
     {
       Id = "SpearSpinTravelDurationTrait"
-      DisplayName = "Winged Serpent"
+      DisplayName = "Crescent Guard"
       Description = "Your {$Keywords.GuanYuAspect} {$Keywords.Spin} travels for {#AltUpgradeFormat}{$TooltipData.TooltipDuration:P} {#PreviousFormat}longer."
     }
     {
@@ -2907,22 +2907,22 @@
     }
     {
       Id = "GunLoadedGrenadeBoostTrait"
-      DisplayName = "Greater Inferno"
+      DisplayName = "Infernum"
       Description = "Your {$Keywords.LuciferAspect} {$Keywords.LuciferSpecial} radiates {#AltUpgradeFormat}{$TooltipData.TooltipDamage:P} {#PreviousFormat}damage in a larger area."
     }
     {
       Id = "GunLoadedGrenadeLaserTrait"
-      DisplayName = "Concentrated Beam"
+      DisplayName = "Calibrum"
       Description = "Your {$Keywords.LuciferAspect} {$Keywords.Attack} damage to a foe ramps up {#AltUpgradeFormat}{$TooltipData.TooltipDamageIncrease:P} {#PreviousFormat} faster."
     }
     {
       Id = "GunLoadedGrenadeSpeedTrait"
-      DisplayName = "Flash Fire"
+      DisplayName = "Severum"
       Description = "Your {$Keywords.LuciferAspect} {$Keywords.Attack} starts firing {#AltUpgradeFormat}{$TooltipData.TooltipSpeedIncrease:P} {#PreviousFormat}faster with {#AltUpgradeFormat} {$TooltipData.TooltipRange:P} {#PreviousFormat}range."
     }
     {
       Id = "GunLoadedGrenadeWideTrait"
-      DisplayName = "Triple Beam"
+      DisplayName = "Crescendum"
       Description = "Your {$Keywords.LuciferAspect} {$Keywords.Attack} fires {#AltUpgradeFormat}{$TooltipData.TooltipBeams} {#PreviousFormat}beams in a spread pattern."
     }
      {
@@ -3195,7 +3195,7 @@
     }
     {
       Id = "SpearSpinTravel"
-      DisplayName = "Aspect of Master Yi"
+      DisplayName = "Aspect of Xin Zhao"
       Description = "You have the {$Keywords.GuanYuAspect}, but your {!Icons.HealthDown_Small} and {!Icons.HealthRestoreHome} are reduced. \n {!Icons.Bullet}{#PropertyFormat}Max Life & Healing: \Column 380 {#PenaltyFormat}{$TooltipData.TooltipHealthCurse}% \n\n {#ItalicFormatDark}A mighty warrior will let his blade become the legacy of Wuju."
     }
     {
@@ -3299,13 +3299,13 @@
     }
     {
       Id = "BowLoadAmmoTrait"
-      DisplayName = "Aspect of Vayne"
-      Description = "Your {$Keywords.Cast} loads {!Icons.Ammo} into your next {$Keywords.Attack}, firing on impact. \n {!Icons.Bullet}{#PropertyFormat}Bloodstone Drop Time: \Column 380 {#UpgradeFormat}{$TooltipData.TooltipAmmo} {#UpgradeFormat}Sec. \n\n {#ItalicFormatDark}A bow whose aim was guided by an obsessive hatred."
+      DisplayName = "Aspect of Caitlyn"
+      Description = "Your {$Keywords.Cast} loads {!Icons.Ammo} into your next {$Keywords.Attack}, firing on impact. \n {!Icons.Bullet}{#PropertyFormat}Bloodstone Drop Time: \Column 380 {#UpgradeFormat}{$TooltipData.TooltipAmmo} {#UpgradeFormat}Sec. \n\n {#ItalicFormatDark}Boom! Headshot."
     }
     {
       Id = "BowLoadAmmoTrait_Delta"
       InheritFrom = "BowLoadAmmoTrait"
-      Description = "Your {$Keywords.Cast} loads {!Icons.Ammo} into your next {$Keywords.Attack}, firing on impact. \n {!Icons.Bullet}{#PropertyFormat}Bloodstone Drop Time: \Column 380 {#PreviousFormat}{$TooltipData.DisplayDelta1} {#UpgradeFormat}Sec. \n\n {#ItalicFormatDark}A bow whose aim was guided by an obsessive hatred."
+      Description = "Your {$Keywords.Cast} loads {!Icons.Ammo} into your next {$Keywords.Attack}, firing on impact. \n {!Icons.Bullet}{#PropertyFormat}Bloodstone Drop Time: \Column 380 {#PreviousFormat}{$TooltipData.DisplayDelta1} {#UpgradeFormat}Sec. \n\n {#ItalicFormatDark}Boom! Headshot."
     }
     {
       Id = "BowLoadAmmoTrait_Tray"
@@ -3446,13 +3446,13 @@
     }
     {
       Id = "GunManualReloadTrait"
-      DisplayName = "Aspect of Caitlyn"
-      Description = "After you manually {$Keywords.ManualReload}, your next shot is empowered. \n {!Icons.Bullet}{#PropertyFormat}Empowered Shot Base Damage: \Column 380 {#UpgradeFormat}{$TooltipData.TooltipDamage} \n\n {#ItalicFormatDark}A girl once rose to greatness with the sharpness of her mind, and her aim."
+      DisplayName = "Aspect of Jhin"
+      Description = "After you manually {$Keywords.ManualReload}, your next shot is empowered. \n {!Icons.Bullet}{#PropertyFormat}Empowered Shot Base Damage: \Column 380 {#UpgradeFormat}{$TooltipData.TooltipDamage} \n\n {#ItalicFormatDark}Even destruction can be a form of art."
     }
     {
       Id = "GunManualReloadTrait_Delta"
       InheritFrom = "GunManualReloadTrait"
-      Description = "After you manually {$Keywords.ManualReload}, your next shot is empowered. \n {!Icons.Bullet}{#PropertyFormat}Empowered Shot Base Damage: \Column 380 {#PreviousFormat}{$TooltipData.DisplayDelta1} \n\n {#ItalicFormatDark}A girl once rose to greatness with the sharpness of her mind, and her aim."
+      Description = "After you manually {$Keywords.ManualReload}, your next shot is empowered. \n {!Icons.Bullet}{#PropertyFormat}Empowered Shot Base Damage: \Column 380 {#PreviousFormat}{$TooltipData.DisplayDelta1} \n\n {#ItalicFormatDark}Even destruction can be a form of art."
     }
     {
       Id = "GunManualReloadTrait_Tray"
@@ -3461,13 +3461,13 @@
     }
     {
       Id = "GunGrenadeSelfEmpowerTrait"
-      DisplayName = "Aspect of Jhin"
-      Description = "For {#BoldFormat}4 {#PreviousFormat}Sec. after absorbing your {$Keywords.Special}'s blast, deal more damage. \n {!Icons.Bullet}{#PropertyFormat}Bonus Damage: \Column 380 {#UpgradeFormat}{$TooltipData.TooltipDamage:P} \n\n {#ItalicFormatDark}Even destruction can be a form of art."
+      DisplayName = "Aspect of Vayne"
+      Description = "For {#BoldFormat}4 {#PreviousFormat}Sec. after absorbing your {$Keywords.Special}'s blast, deal more damage. \n {!Icons.Bullet}{#PropertyFormat}Bonus Damage: \Column 380 {#UpgradeFormat}{$TooltipData.TooltipDamage:P} \n\n {#ItalicFormatDark}An incredible power motivated by an obsessive hatred."
     }
     {
       Id = "GunGrenadeSelfEmpowerTrait_Delta"
       InheritFrom = "GunGrenadeSelfEmpowerTrait"
-      Description = "For {#BoldFormat}4 {#PreviousFormat}Sec. after absorbing your {$Keywords.Special}'s blast, deal more damage. \n {!Icons.Bullet}{#PropertyFormat}Bonus Damage: \Column 380 {#PreviousFormat}{$TooltipData.DisplayDelta1} \n\n {#ItalicFormatDark}Even destruction can be a form of art."
+      Description = "For {#BoldFormat}4 {#PreviousFormat}Sec. after absorbing your {$Keywords.Special}'s blast, deal more damage. \n {!Icons.Bullet}{#PropertyFormat}Bonus Damage: \Column 380 {#PreviousFormat}{$TooltipData.DisplayDelta1} \n\n {#ItalicFormatDark}An incredible power motivated by an obsessive hatred."
     }
     {
       Id = "GunGrenadeSelfEmpowerTrait_Tray"
@@ -4413,13 +4413,13 @@
     }
     {
       Id = "GuanYuAspect"
-      DisplayName = "Wuju Blade"
+      DisplayName = "Three Talon Strike"
       Description = "{#ItalicFormat}Alternate Move Set{#PreviousFormat}: Heavy {$Keywords.Attack}, explosive {$Keywords.Special}, {#BoldFormatGraft}Life{#PreviousFormat}-stealing {$Keywords.Spin}."
     }
     {
       Id = "GuanYuSpin"
       DisplayName = "Wuju Slash"
-      Description = "{#ItalicFormat}Aspect of Master Yi{#PreviousFormat}: Hold {A2} then release for a wide, spinning shot that gives {!Icons.HealthRestore_Small} on-hit."
+      Description = "{#ItalicFormat}Aspect of Xin Zhao{#PreviousFormat}: Hold {A2} then release for a wide, spinning shot that gives {!Icons.HealthRestore_Small} on-hit."
     }
     {
       Id = "ArthurAspect"
@@ -4429,7 +4429,7 @@
     {
       Id = "ArthurSpecial"
       DisplayName = "Hallowed Courage"
-      Description = "{#ItalicFormat}Aspect of Arthur{#PreviousFormat}: Press {A3} to create a defensive aura that lasts for {#BoldFormatGraft}7 Sec{#PreviousFormat}."
+      Description = "{#ItalicFormat}Aspect of Garen{#PreviousFormat}: Press {A3} to create a defensive aura that lasts for {#BoldFormatGraft}7 Sec{#PreviousFormat}."
     }
     {
       Id = "RamaAspect"
@@ -4453,7 +4453,7 @@
     }
     {
       Id = "LuciferAspect"
-      DisplayName = "Crescendum"
+      DisplayName = "Calibrum"
       Description = "{#ItalicFormat}Alternate Move Set{#PreviousFormat}: Beam {$Keywords.Attack} deals ramping damage, {$Keywords.Special} launches {$Keywords.LuciferSpecial}."
     }
     {
@@ -4463,7 +4463,7 @@
     }
     {
       Id = "GilgameshAspect"
-      DisplayName = "Claws of the Wold"
+      DisplayName = "Claws of the Wolf"
       Description = "{#ItalicFormat}Alternate Move Set{#PreviousFormat}: Heavy {$Keywords.Attack}, {#BoldFormatGraft}+2 {#PreviousFormat}rapid {$Keywords.Dash} charges, {$Keywords.BlinkSpecial} inflicts {#BoldFormatGraft}{$Keywords.GilgameshSpecial}{#PreviousFormat}."
     }
     {
@@ -4934,7 +4934,7 @@
 
     {
       Id = "DevotionMessage"
-      DisplayName = "TRIAL of the GODS"
+      DisplayName = "TRIAL of the SPIRITS"
     }
     {
       Id = "Player_GodDispleased"
@@ -5578,7 +5578,7 @@
     }
     {
       Id = "ClearedCerberus_Alt1_Subtitle"
-      DisplayName = "(He's Fine)"
+      DisplayName = "(They're Fine)"
     }
     {
       Id = "ClearedCerberus_Alt2_Title"
@@ -5594,7 +5594,7 @@
     }
     {
       Id = "ClearedCerberus_A_Subtitle"
-      DisplayName = "(Where Could He Be)"
+      DisplayName = "(Where Could They Be)"
     }
     {
       Id = "ClearedCerberus_B_Title"
@@ -7176,7 +7176,7 @@
 
     {
       Id = "MetaDropRange"
-      DisplayName = "Tinge of Erebus"
+      DisplayName = "Tinge of Night"
       Description = "{$Keywords.InstantItem}: Gain {#UpgradeFormat}{$TooltipData.AddResources.MetaPoints}{#PreviousFormat}{!Icons.MetaPoint_Small}."
     }
     {
@@ -7299,12 +7299,12 @@
     }
     {
       Id = "TemporaryAlphaStrikeTrait"
-      DisplayName = "Eris Bangle"
+      DisplayName = "Vayne Bangle"
       Description = "{$Keywords.PassiveItem}: You deal {#UpgradeFormat}{$TooltipData.TooltipDamageBonus:P} {#PreviousFormat}damage striking undamaged foes. \n {!Icons.Bullet}{#PropertyFormat}Duration: \Column 380 {#BoldFormat}{$TooltipData.RemainingUses} {$Keywords.Encounter}"
     }
     {
       Id = "TemporaryArmorDamageTrait"
-      DisplayName = "Nail of Talos"
+      DisplayName = "Nail of Violet"
       Description = "{$Keywords.PassiveItem}: You deal {#UpgradeFormat}{$TooltipData.TooltipDamageBonus:P} {#PreviousFormat}damage to {$Keywords.Armor}. \n {!Icons.Bullet}{#PropertyFormat}Duration: \Column 380 {#BoldFormat}{$TooltipData.RemainingUses} {$Keywords.Encounter}"
     }
     {
@@ -7382,32 +7382,32 @@
     }
     {
       Id = "BouldyBlessing_Attack"
-      DisplayName = "Heart of Stone"
+      DisplayName = "Heart of Darkness"
       Description = "The Maiden is willing to help you... reluctantly. \n {!Icons.Bullet}{#PropertyFormat}{$Keywords.Attack} Damage Bonus: \Column 380 {#PreviousFormat}{$TooltipData.DisplayDelta1}"
     }
     {
       Id = "BouldyBlessing_Special"
-      DisplayName = "Heart of Stone"
+      DisplayName = "Heart of Darkness"
       Description = "The Maiden is willing to help you... reluctantly. \n {!Icons.Bullet}{#PropertyFormat}{$Keywords.Special} Damage Bonus: \Column 380 {#PreviousFormat}{$TooltipData.DisplayDelta1}"
     }
     {
       Id = "BouldyBlessing_Ranged"
-      DisplayName = "Heart of Stone"
+      DisplayName = "Heart of Darkness"
       Description = "The Maiden is willing to help you... reluctantly. \n {!Icons.Bullet}{#PropertyFormat}{$Keywords.Cast} Damage Bonus: \Column 380 {#PreviousFormat}{$TooltipData.DisplayDelta1}"
     }
     {
       Id = "BouldyBlessing_Speed"
-      DisplayName = "Heart of Stone"
+      DisplayName = "Heart of Darkness"
       Description = "The Maiden is willing to help you... reluctantly. \n {!Icons.Bullet}{#PropertyFormat}Move Speed Bonus: \Column 380 {#PreviousFormat}{$TooltipData.DisplayDelta1}"
     }
     {
       Id = "BouldyBlessing_Money"
-      DisplayName = "Heart of Stone"
+      DisplayName = "Heart of Darkness"
       Description = "The Maiden is willing to help you... reluctantly. \n {!Icons.Bullet}{#PropertyFormat}{!Icons.Currency_Small} Bonus: \Column 380 {#PreviousFormat}{$TooltipData.DisplayDelta1}"
     }
     {
       Id = "BouldyBlessing_None"
-      DisplayName = "Heart of Stone"
+      DisplayName = "Heart of Darkness"
       Description = "Is the Maiden willing to help you...? \n {!Icons.Bullet}{#PropertyFormat} Ambiguity Bonus: \Column 380 {#UpgradeFormat}+2%"
     }
 
@@ -7516,7 +7516,7 @@
     }
     {
       Id = "GhostAdminScreen_FlavorText03"
-      DisplayName = "the house of hades accommodates not just the god of the dead himself, but also his subjects."
+      DisplayName = "the house of the dead accommodates not just the god of the underworld himself, but also his subjects."
     }
     /* Ghost Admin / Cosmetic Items / Cosmetics */
     {
@@ -7578,7 +7578,7 @@
     {
       Id = "Cosmetic_NorthHallPedestalSphere"
       DisplayName = "Sphere, Constellation"
-      Description = "{$Keywords.Cosmetic}: Hewed from inflammable material."
+      Description = "{$Keywords.Cosmetic}: Hewn from inflammable material."
     }
     {
       Id = "Cosmetic_NorthHallPedestalBust"
@@ -7594,7 +7594,7 @@
     {
       Id = "Cosmetic_NorthHallPedestalHammer"
       DisplayName = "Tool, Builder's"
-      Description = "{$Keywords.Cosmetic}: Hewed from inflammable material."
+      Description = "{$Keywords.Cosmetic}: Hewn from inflammable material."
     }
     {
       Id = "Cosmetic_NorthHallPedestalArtifact"
@@ -7620,7 +7620,7 @@
     {
       Id = "Cosmetic_NorthHallPaintingMysteryWoman"
       DisplayName = "Painting, Night"
-      Description = "{$Keywords.Cosmetic}: Depicts the likeness of Nyx, Night Incarnate."
+      Description = "{$Keywords.Cosmetic}: Depicts the likeness of the Silver Sister."
     }
     {
       Id = "Cosmetic_NorthHallPaintingZagreus"
@@ -7893,7 +7893,7 @@
     }
     {
       Id = "Cosmetic_LoungeRugB"
-      DisplayName = "Rug, Chthonic"
+      DisplayName = "Rug, Primordial"
       Description = "{$Keywords.Cosmetic}: Adds a touch of comfort to the lounge."
     }
     {
@@ -7999,7 +7999,7 @@
     }
     {
       Id = "Cosmetic_SouthHallTrimPurple"
-      DisplayName = "Trim, Chthonic Purple"
+      DisplayName = "Trim, Primordial Purple"
       Description = "{$Keywords.Cosmetic}: Embellishes the East Wing flooring in purple."
     }
     {
@@ -8027,7 +8027,6 @@
       DisplayName = "Laurels, Crimson"
       Description = "{$Keywords.Cosmetic}: Decorate the East Wing walls in red."
     }
-
     {
       Id = "Cosmetic_KitchenIsland"
       DisplayName = "Kitchenette, Expanded"
@@ -8135,7 +8134,7 @@
     }
     {
       Id = "Cosmetic_UISkinChthonic"
-      DisplayName = "Theme, Chthonic"
+      DisplayName = "Theme, Primordial"
       Description = "{$Keywords.UISkin}: Evokes night, darkness, and the Underworld."
     }
     {
@@ -8227,7 +8226,7 @@
     }
     {
       Id = "LockKeyDropRunProgress"
-      DisplayName = "Chthonic Keys, Fated"
+      DisplayName = "Primordial Keys, Fated"
       Description = "{$Keywords.RunUpgrade}: Claiming {!Icons.LockKeySmall} chamber rewards gives you {#AltUpgradeFormat}+1{#PreviousFormat}{!Icons.ReRollAlt_Small}."
     }
     {
@@ -8322,7 +8321,7 @@
     }
     {
       Id = "AchillesPatroclusQuestItem"
-      DisplayName = "Hero's Sacrifice"
+      DisplayName = "Warrior's Sacrifice"
       Description = "{$Keywords.KeyItem}: Allow {$Keywords.Achilles} to return to Elysium."
     }
     {
@@ -8450,7 +8449,7 @@
     }
     {
       Id = "MusicMusicPlayerThanatosThemeMusicPlayer"
-      DisplayName = "Last Words"
+      DisplayName = "Devoted Quietude"
       Description = "{$Keywords.MusicSheet}: Heralds the arrival of Aphelios, twin spirit of night."
     }
     {
@@ -8501,18 +8500,18 @@
     /* Ghost Admin / Deprecated */
     {
       Id = "TartarusStory"
-      DisplayName = "Tartarus Boulder Sanctum"
+      DisplayName = "Tartarus Grave Sanctum"
       Description = "{$Keywords.NewChamber}: Confines a notorious shade for all eternity."
     }
     {
       Id = "AsphodelStory"
       DisplayName = "Asphodel Riverside Terrace"
-      Description = "{$Keywords.NewChamber}: Confines a shade who once nearly escaped."
+      Description = "{$Keywords.NewChamber}: Confines a shade who was once nearly sent back to life."
     }
     {
       Id = "ElysiumStory"
       DisplayName = "Elysium Honor Grotto"
-      Description = "{$Keywords.NewChamber}: Confines a shade fated to perish in a great war."
+      Description = "{$Keywords.NewChamber}: Confines a shade fated to perish in a great fight."
     }
 
     /* QuestLog / Fated List */
@@ -8522,7 +8521,7 @@
     }
     {
       Id = "QuestLogScreen_Flavor"
-      DisplayName = "“The Weavings of the Three Fates Invariably Come to Pass”"
+      DisplayName = "“The Weavings of Fate Invariably Come to Pass”"
     }
     {
       Id = "QuestLogReward"
@@ -8587,43 +8586,43 @@
     {
       Id = "MeetOlympians"
       DisplayName = "Distant Relatives"
-      Description = "The son of the god of the dead shall someday meet some of the rulers of Olympus."
+      Description = "The son of the god of the dead shall someday meet some of the rulers of the Spirit Realm."
     }
     {
       Id = "AthenaFirstPickUp"
-      DisplayName = "Met Athena"
+      DisplayName = "Met Soraka"
     }
     {
       Id = "ZeusFirstPickUp"
-      DisplayName = "Met Zeus"
+      DisplayName = "Met Volibear"
     }
     {
       Id = "PoseidonFirstPickUp"
-      DisplayName = "Met Poseidon"
+      DisplayName = "Met Nami"
     }
     {
       Id = "DionysusFirstPickUp"
-      DisplayName = "Met Dionysus"
+      DisplayName = "Met Teemo"
     }
     {
       Id = "AresFirstPickUp"
-      DisplayName = "Met Ares"
+      DisplayName = "Met Darius"
     }
     {
       Id = "ArtemisFirstPickUp"
-      DisplayName = "Met Artemis"
+      DisplayName = "Met Diana"
     }
     {
       Id = "AphroditeFirstPickUp"
-      DisplayName = "Met Aphrodite"
+      DisplayName = "Met Ahri"
     }
     {
       Id = "HermesFirstPickUp"
-      DisplayName = "Met Hermes"
+      DisplayName = "Met Lillia"
     }
     {
       Id = "DemeterFirstPickUp"
-      DisplayName = "Met Demeter"
+      DisplayName = "Met Lissandra"
     }
     {
       Id = "UnknownCondition_Meet"
@@ -8632,20 +8631,20 @@
 
     {
       Id = "MeetChthonicGods"
-      DisplayName = "Chthonic Colleagues"
+      DisplayName = "Primordial Colleagues"
       Description = "The son of the god of the dead shall someday meet the rulers of the Underworld."
     }
     {
       Id = "HadesFirstMeeting"
-      DisplayName = "Met Hades"
+      DisplayName = "Met The Old Timer"
     }
     {
       Id = "NyxFirstMeeting"
-      DisplayName = "Met Nyx"
+      DisplayName = "Met The Silver Sister"
     }
     {
       Id = "CharonFirstMeeting"
-      DisplayName = "Met Charon"
+      DisplayName = "Met Karthus"
     }
     {
       Id = "CharonFirstMeeting_Alt"
@@ -8653,152 +8652,152 @@
     }
     {
       Id = "HypnosFirstMeeting"
-      DisplayName = "Met Hypnos"
+      DisplayName = "Met Zoe"
     }
     {
       Id = "ThanatosFirstAppearance"
-      DisplayName = "Met Thanatos"
+      DisplayName = "Met Aphelios"
     }
     {
       Id = "FuryFirstAppearance"
-      DisplayName = "Met Megaera"
+      DisplayName = "Met Alune"
     }
     {
       Id = "Fury2FirstAppearance"
-      DisplayName = "Met Alecto"
+      DisplayName = "Met Evelynn"
     }
     {
       Id = "Fury3FirstAppearance"
-      DisplayName = "Met Tisiphone"
+      DisplayName = "Met Cassiopeia"
     }
     {
       Id = "ChaosFirstPickUp"
-      DisplayName = "Met Primordial Chaos"
+      DisplayName = "Met Kindred"
     }
 	{
       Id = "MetHades"
-      DisplayName = "Met Lord Hades"
+      DisplayName = "Met The Lord of the Dead"
     }
 	{
       Id = "MetNyx"
-      DisplayName = "Met Nyx"
+      DisplayName = "Met The Silver Sister"
     }
 	{
       Id = "MetCharon"
-      DisplayName = "Met Charon"
+      DisplayName = "Met Karthus"
     }
 	{
       Id = "MetHypnos"
-      DisplayName = "Met Hypnos"
+      DisplayName = "Met Zoe"
     }
 	{
       Id = "MetThanatos"
-      DisplayName = "Met Thanatos"
+      DisplayName = "Met Aphelios"
     }
 	{
       Id = "MetFury"
-      DisplayName = "Met Megaera"
+      DisplayName = "Met Alune"
     }
 
     {
       Id = "AthenaUpgrades"
-      DisplayName = "Goddess of Wisdom"
-      Description = "The son of the god of the dead shall someday earn various Boons of Athena."
+      DisplayName = "Spirit of Mercy"
+      Description = "The son of the god of the dead shall someday earn various Boons of Soraka."
     }
     {
       Id = "ZeusUpgrades"
-      DisplayName = "God of the Heavens"
-      Description = "The son of the god of the dead shall someday earn various Boons of Zeus."
+      DisplayName = "Spirit of Lightning"
+      Description = "The son of the god of the dead shall someday earn various Boons of Volibear."
     }
     {
       Id = "PoseidonUpgrades"
-      DisplayName = "God of the Sea"
-      Description = "The son of the god of the dead shall someday earn various Boons of Poseidon."
+      DisplayName = "Spirit of the Seas"
+      Description = "The son of the god of the dead shall someday earn various Boons of Nami."
     }
     {
       Id = "AphroditeUpgrades"
-      DisplayName = "Goddess of Love"
-      Description = "The son of the god of the dead shall someday earn various Boons of Aphrodite."
+      DisplayName = "Spirit of Love"
+      Description = "The son of the god of the dead shall someday earn various Boons of Ahri."
     }
     {
       Id = "AresUpgrades"
-      DisplayName = "God of War"
-      Description = "The son of the god of the dead shall someday earn various Boons of Ares."
+      DisplayName = "Spirit of War"
+      Description = "The son of the god of the dead shall someday earn various Boons of Darius."
     }
     {
       Id = "ArtemisUpgrades"
-      DisplayName = "Goddess of the Hunt"
-      Description = "The son of the god of the dead shall someday earn various Boons of Artemis."
+      DisplayName = "Spirit of the Hunt"
+      Description = "The son of the god of the dead shall someday earn various Boons of Diana."
     }
     {
       Id = "DionysusUpgrades"
-      DisplayName = "God of Wine"
-      Description = "The son of the god of the dead shall someday earn various Boons of Dionysus."
+      DisplayName = "Spirit of Revelry"
+      Description = "The son of the god of the dead shall someday earn various Boons of Teemo."
     }
     {
       Id = "HermesUpgrades"
-      DisplayName = "God of Swiftness"
-      Description = "The son of the god of the dead shall someday earn various Boons of Hermes."
+      DisplayName = "Fleeting Spirit"
+      Description = "The son of the god of the dead shall someday earn various Boons of Lillia."
     }
     {
       Id = "DemeterUpgrades"
-      DisplayName = "Goddess of Seasons"
-      Description = "The son of the god of the dead shall someday earn various Boons of Demeter."
+      DisplayName = "Spirit of Seasons"
+      Description = "The son of the god of the dead shall someday earn various Boons of Lissandra."
     }
     {
       Id = "SynergyUpgrades"
       DisplayName = "Divine Pairings"
-      Description = "The son of the god of the dead shall someday earn various Duo Boons offered by pairs of Olympians."
+      Description = "The son of the god of the dead shall someday earn various Duo Boons offered by pairs of Spirits."
     }
     {
       Id = "LegendaryUpgrades"
       DisplayName = "Power Without Equal"
-      Description = "The son of the god of the dead shall someday earn various Legendary Boons offered by the Olympians."
+      Description = "The son of the god of the dead shall someday earn various Legendary Boons offered by the Spirit Realm."
     }
     {
       Id = "ChaosBlessings"
       DisplayName = "Primordial Boons"
-      Description = "The son of the god of the dead shall someday earn various Blessings offered by Primordial Chaos."
+      Description = "The son of the god of the dead shall someday earn various Blessings offered by Primordial Kindred."
     }
     {
       Id = "ChaosCurses"
       DisplayName = "Primordial Banes"
-      Description = "The son of the god of the dead shall someday suffer various Curses inflicted by Primordial Chaos."
+      Description = "The son of the god of the dead shall someday suffer various Curses inflicted by Primordial Kindred."
     }
     {
       Id = "WeaponUnlocks"
       DisplayName = "Infernal Arms"
-      Description = "The son of the god of the dead shall someday acquire each of the ancient weapons once used to slay the Titans."
+      Description = "The son of the god of the dead shall someday acquire each of the ancient weapons once used to slay the Old Gods."
     }
     {
       Id = "SwordHammerUpgrades"
       DisplayName = "The Stygian Blade"
-      Description = "The son of the god of the dead shall someday acquire each of the Daedalus enchantments for Stygius."
+      Description = "The son of the god of the dead shall someday acquire each of the Ornn enchantments for Stygius."
     }
     {
       Id = "BowHammerUpgrades"
       DisplayName = "The Heart-Seeking Bow"
-      Description = "The son of the god of the dead shall someday acquire each of the Daedalus enchantments for Coronacht."
+      Description = "The son of the god of the dead shall someday acquire each of the Ornn enchantments for Coronacht."
     }
     {
       Id = "ShieldHammerUpgrades"
       DisplayName = "The Shield of Chaos"
-      Description = "The son of the god of the dead shall someday acquire each of the Daedalus enchantments for Aegis."
+      Description = "The son of the god of the dead shall someday acquire each of the Ornn enchantments for Aegis."
     }
     {
       Id = "SpearHammerUpgrades"
       DisplayName = "The Eternal Spear"
-      Description = "The son of the god of the dead shall someday acquire each of the Daedalus enchantments for Varatha."
+      Description = "The son of the god of the dead shall someday acquire each of the Ornn enchantments for Varatha."
     }
     {
       Id = "FistHammerUpgrades"
       DisplayName = "The Twin Fists"
-      Description = "The son of the god of the dead shall someday acquire each of the Daedalus enchantments for Malphon."
+      Description = "The son of the god of the dead shall someday acquire each of the Ornn enchantments for Malphon."
     }
     {
       Id = "GunHammerUpgrades"
       DisplayName = "The Adamant Rail"
-      Description = "The son of the god of the dead shall someday acquire each of the Daedalus enchantments for Exagryph."
+      Description = "The son of the god of the dead shall someday acquire each of the Ornn enchantments for Exagryph."
     }
     {
       Id = "WeaponClears"
@@ -8817,7 +8816,7 @@
     }
     {
       Id = "CodexSmall"
-      DisplayName = "Chthonic Knowledge"
+      DisplayName = "Primordial Knowledge"
       Description = "The son of the god of the dead shall someday reveal a portion of the Underworld Codex entrusted to him."
     }
     {
@@ -8832,7 +8831,7 @@
     }
     {
       Id = "TrophyQuest_BronzeUnlocked_01"
-      DisplayName = "Earn the First of Skelly's Prizes"
+      DisplayName = "Earn the First of Amumu's Prizes"
     }
     {
       Id = "WeaponClearsHighHeat"
@@ -8915,25 +8914,25 @@
     }
     {
       Id = "SkellyTrueDeathQuestComplete"
-      DisplayName = "Slay Skelly using Stygius with the MAX Lv. Zagreus Aspect"
+      DisplayName = "Slay Amumu using Stygius with the MAX Lv. Settrigh Aspect"
     }
     {
       Id = "NyxChaosReunion"
       DisplayName = "Night and Darkness"
-      Description = "The son of the god of the dead shall make certain attempts to aid our Mother Night, who through course of time has grown far apart from Chaos, her parent and origin of all things."
+      Description = "The son of the god of the dead shall make certain attempts to aid the Silver Sister, who through course of time has grown far apart from Kindred, her parent and origin of all things."
     }
     {
       Id = "NyxInChaos01"
-      DisplayName = "Find a Way to Reunite Nyx and Chaos"
+      DisplayName = "Find a Way to Reunite Mother Moon and Kindred"
     }
     {
       Id = "SisyphusLiberation"
       DisplayName = "End to Torment"
-      Description = "The son of the god of the dead shall make certain attempts to aid the shade of a crafty king, forced to toil eternally, hefting his boulder in Tartarus."
+      Description = "The son of the god of the dead shall make certain attempts to aid the shade of a gravedigger, forced to toil eternally, hefting his shovel in Tartarus."
     }
     {
       Id = "SisyphusLiberationQuestComplete"
-      DisplayName = "Find a Way to Pardon Sisyphus"
+      DisplayName = "Find a Way to Pardon Yorick"
     }
     {
       Id = "OrpheusRelease"
@@ -8942,21 +8941,21 @@
     }
     {
       Id = "OrpheusFirstMeeting"
-      DisplayName = "Work with the House Contractor to Release Orpheus"
+      DisplayName = "Work with the House Contractor to Release Yasuo"
     }
     {
       Id = "OrpheusEurydiceReunion"
-      DisplayName = "Musician and Muse"
-      Description = "The son of the god of the dead shall make certain attempts to aid a master musician who once failed to whisk his deceased wife from the Underworld."
+      DisplayName = "Fated Brothers"
+      Description = "The son of the god of the dead shall make certain attempts to aid a master musician who once failed to negotiate his deceased brother out of the Underworld."
     }
     {
       Id = "OrpheusAboutSingersReunionQuest01"
-      DisplayName = "Find a Way to Reunite Orpheus and Eurydice"
+      DisplayName = "Find a Way to Reunite Yasuo and Yone"
     }
     {
       Id = "AchillesPatroclusReunion_A"
       DisplayName = "Divided by Death"
-      Description = "The son of the god of the dead shall make certain attempts to aid a great hero who gave up his exalted place in the Underworld for the one he loves."
+      Description = "The son of the god of the dead shall make certain attempts to aid a great warrior who gave up her exalted place in the Underworld for the one she loves."
     }
     {
       Id = "AchillesPatroclusReunion_B"
@@ -8968,12 +8967,12 @@
     }
     {
       Id = "MyrmidonReunionQuestComplete"
-      DisplayName = "Find a Way to Reunite Achilles and Patroclus"
+      DisplayName = "Find a Way to Reunite Vayne and Riven"
     }
     {
       Id = "DusaLoungeRenovation"
       DisplayName = "A Place of Revelry"
-      Description = "The son of the god of the dead shall make certain attempts to aid a tireless gorgon, assigned to bring part of the House to the height of splendor."
+      Description = "The son of the god of the dead shall make certain attempts to aid a tireless yordle, assigned to bring part of the House to the height of splendor."
     }
     {
       Id = "DusaLoungeRenovationQuestComplete"
@@ -8981,7 +8980,7 @@
     }
     {
       Id = "GuanYuAspectEscape"
-      DisplayName = "The Fated Saint of War"
+      DisplayName = "The Noble Seneschal"
       Description = "The Eternal Spear shall someday rise from the Underworld in a form it shall assume again in the hands of a peerless warrior, whose tale is yet to be spun."
     }
     {
@@ -8990,8 +8989,8 @@
     }
     {
       Id = "ArthurAspectEscape"
-      DisplayName = "The Holy Liege"
-      Description = "The Stygian Blade shall someday rise from the Underworld in a form it shall assume again in the hands of a mighty king, whose tale is yet to be spun."
+      DisplayName = "The Princely Liege"
+      Description = "The Stygian Blade shall someday rise from the Underworld in a form it shall assume again in the hands of a mighty prince, whose tale is yet to be spun."
     }
     {
       Id = "LordHadesHasArthurAspect01"
@@ -8999,8 +8998,8 @@
     }
     {
       Id = "RamaAspectEscape"
-      DisplayName = "The Preserver's Avatar"
-      Description = "The Heart-Seeking Bow shall someday rise from the Underworld in a form it assumed in the hands of a divine archer, whose deeds shall forever be remembered."
+      DisplayName = "The Frost Queenr"
+      Description = "The Heart-Seeking Bow shall someday rise from the Underworld in a form it assumed in the hands of a blessed archer, whose deeds shall forever be remembered."
     }
     {
       Id = "LordHadesHasRamaAspect01"
@@ -9008,8 +9007,8 @@
     }
     {
       Id = "BeowulfAspectEscape"
-      DisplayName = "The Dragon's Rival"
-      Description = "The Shield of Chaos shall someday rise from the Underworld in a form it shall assume again in the hands of a monster-hunting hero, whose tale is yet to be spun."
+      DisplayName = "The Poro Protector"
+      Description = "The Shield of Chaos shall someday rise from the Underworld in a form it shall assume again in the hands of a protector of the weak, whose tale is yet to be spun."
     }
     {
       Id = "LordHadesHasBeowulfAspect01"
@@ -9017,8 +9016,8 @@
     }
     {
       Id = "GilgameshAspectEscape"
-      DisplayName = "The God-Like King"
-      Description = "The Twin Fists of Malphon shall someday rise from the Underworld in a form it assumed in the hands of a mighty god-king, whose deeds shall forever be remembered."
+      DisplayName = "The Merciless Wolf"
+      Description = "The Twin Fists of Malphon shall someday rise from the Underworld in a form it assumed in the hands of a mighty warrior, whose conquests shall forever be remembered."
     }
     {
       Id = "LordHadesHasGilgameshAspect01"
@@ -9026,8 +9025,8 @@
     }
     {
       Id = "LuciferAspectEscape"
-      DisplayName = "The Dawn Bringer"
-      Description = "The Adamant Rail shall someday rise from the Underworld in a form it assumed in the hands of a rebellious servant, who railed against his all-powerful lord."
+      DisplayName = "The Weapon of the Faithful"
+      Description = "The Adamant Rail shall someday rise from the Underworld in a form it assumed in the hands of a faithful warrior, whose numbed heart can still break."
     }
     {
       Id = "LordHadesHasLuciferAspect01"
@@ -9035,39 +9034,39 @@
     }
     {
       Id = "ChaosKeepsakeEscape"
-      DisplayName = "Amusing Chaos"
-      Description = "The son of the god of the dead shall someday overcome his own father while in possession of a gift from our primordial originator, Chaos."
+      DisplayName = "Amusing Kindred"
+      Description = "The son of the god of the dead shall someday overcome his own father while in possession of a gift from our primordial originator, Kindred."
     }
     {
       Id = "LordHadesChaosSurfaceQuestDefeat01"
-      DisplayName = "Vanquish Lord Hades Bearing the Cosmic Egg"
+      DisplayName = "Vanquish The Old Timer Bearing the Cosmic Egg"
     }
     {
       Id = "PoseidonBeatTheseus"
-      DisplayName = "Sea-God's Spite"
-      Description = "The son of the god of the dead shall someday overcome the Hero of Athens under the effect of Pact's 'Extreme Measures' Condition, until the spurned god of the sea is aware."
+      DisplayName = "Sea-Spirit's Spite"
+      Description = "The son of the god of the dead shall someday overcome the Spirit of Obsession under the effect of Pact's 'Extreme Measures' Condition, until the goddess of the sea is aware."
     }
     {
       Id = "PoseidonBeatTheseusQuestComplete"
-      DisplayName = "Vanquish 'Extreme Measures' Theseus, Then Seek Poseidon"
+      DisplayName = "Vanquish 'Extreme Measures' Thresh, Then Seek Nami"
     }
     {
       Id = "AresEarnKills"
       DisplayName = "War-God's Bloodlust"
-      Description = "The son of the god of the dead shall someday single-handedly vanquish entire legions of the dead, such that even the god of war cannot help but be impressed."
+      Description = "The son of the god of the dead shall someday single-handedly vanquish entire legions of the dead, such that even the Spirit of War cannot help but be impressed."
     }
     {
       Id = "AresKillQuestComplete"
-      DisplayName = "Slay 10,000 Foes or More, Then Seek Ares"
+      DisplayName = "Slay 10,000 Foes or More, Then Seek Darius"
     }
     {
       Id = "HermesBeatCharon"
       DisplayName = "A Friendly Wager"
-      Description = "The son of the god of the dead shall someday overcome the Stygian Boatman in two successive battles against him, at the urging of the god of swiftness."
+      Description = "The son of the god of the dead shall someday overcome the Stygian Boatman in two successive battles against him, at the urging of the Fleeting Spirit."
     }
     {
       Id = "BossCharonHermesQuestComplete01"
-      DisplayName = "Defeat Charon in Two Successive Battles Against Him"
+      DisplayName = "Defeat Karthus in Two Successive Battles Against Him"
     }
     {
       Id = "MusicLessons"
@@ -9081,70 +9080,70 @@
     {
       Id = "PoseidonFish"
       DisplayName = "Denizens of the Deep"
-      Description = "The son of the god of the dead shall someday catch a significant number of river-dwelling denizens, including an unusually rare species, impressing Lord Poseidon."
+      Description = "The son of the god of the dead shall someday catch a significant number of river-dwelling denizens, including an unusually rare species, impressing Lady Nami."
     }
     {
       Id = "PoseidonFishQuestComplete"
-      DisplayName = "Catch 25 Fish, at Least One Very Rare, and Report to Poseidon"
+      DisplayName = "Catch 25 Fish, at Least One Very Rare, and Report to Nami"
     }
     {
       Id = "WellShopItems"
       DisplayName = "Customer Loyalty"
-      Description = "The son of the god of the dead shall someday purchase each of the various goods sometimes offered in the Well of Charon."
+      Description = "The son of the god of the dead shall someday purchase each of the various goods sometimes offered in the Well of Karthus."
     }
     {
       Id = "EpilogueSetUp"
       DisplayName = "The Queen's Plan"
-      Description = "The son of the god of the dead shall someday inspire Queen Persephone to develop a plan that might settle the score between the House of Hades and Olympus."
+      Description = "The son of the god of the dead shall someday inspire Queen Lihua to develop a plan that might settle the score between the House of the Dead and the Spirit Realm."
     }
     {
       Id = "PersephoneAboutOlympianReunionQuest01"
-      DisplayName = "Grow Closer with More Olympians so the Plan Can Unfold"
+      DisplayName = "Grow Closer with More Spirits so the Plan Can Unfold"
     }
     {
       Id = "OlympianReunion"
       DisplayName = "Family Reunion"
-      Description = "The son of the god of the dead shall someday deliver Queen Persephone's personalized invitations to each Olympian, so they might gather for a significant announcement."
+      Description = "The son of the god of the dead shall someday deliver Queen Lihua's personalized invitations to each Spirit, so they might gather for a significant announcement."
     }
     {
       Id = "ZeusAboutOlympianReunionQuest01"
-      DisplayName = "Invited Zeus"
+      DisplayName = "Invited Volibear"
     }
     {
       Id = "PoseidonAboutOlympianReunionQuest01"
-      DisplayName = "Invited Poseidon"
+      DisplayName = "Invited Nami"
     }
     {
       Id = "AthenaAboutOlympianReunionQuest01"
-      DisplayName = "Invited Athena"
+      DisplayName = "Invited Soraka"
     }
     {
       Id = "AphroditeAboutOlympianReunionQuest01"
-      DisplayName = "Invited Aphrodite"
+      DisplayName = "Invited Ahri"
     }
     {
       Id = "AresAboutOlympianReunionQuest01"
-      DisplayName = "Invited Ares"
+      DisplayName = "Invited Darius"
     }
     {
       Id = "ArtemisAboutOlympianReunionQuest01"
-      DisplayName = "Invited Artemis"
+      DisplayName = "Invited Diana"
     }
     {
       Id = "DionysusAboutOlympianReunionQuest01"
-      DisplayName = "Invited Dionysus"
+      DisplayName = "Invited Teemo"
     }
     {
       Id = "DemeterAboutOlympianReunionQuest01"
-      DisplayName = "Invited Demeter"
+      DisplayName = "Invited Lissandra"
     }
     {
       Id = "HermesAboutOlympianReunionQuest01"
-      DisplayName = "Invited Hermes"
+      DisplayName = "Invited Lillia"
     }
     {
       Id = "OlympianReunionQuestComplete"
-      DisplayName = "Report to Persephone and Hades Afterward"
+      DisplayName = "Report to Lihua and the Old Timer Afterward"
     }
 
     /* Fishing */
@@ -9289,15 +9288,15 @@
     }
     {
       Id = "LockKeyDrop"
-      DisplayName = "Chthonic Keys"
+      DisplayName = "Primordial Keys"
     }
     {
       Id = "LockKeyDrop_Singular"
-      DisplayName = "Chthonic Key"
+      DisplayName = "Primordial Key"
     }
     {
       Id = "SuperLockKeyDrop"
-      DisplayName = "Titan Blood"
+      DisplayName = "Old God Blood"
     }
     {
       Id = "GemDrop"
@@ -9317,7 +9316,7 @@
     }
     {
       Id = "RoomRewardMoneyDrop"
-      DisplayName = "Charon's Obol"
+      DisplayName = "Karthus' Obol"
     }
     {
       Id = "StackUpgrade"
@@ -9325,7 +9324,7 @@
     }
     {
       Id = "WeaponUpgrade"
-      DisplayName = "Daedalus Hammer"
+      DisplayName = "Ornn Hammer"
     }
     {
       Id = "RoomRewardShrinePointDrop"
@@ -9337,7 +9336,7 @@
     }
     {
       Id = "Boon"
-      DisplayName = "Boon of Olympus"
+      DisplayName = "Boon of the Spirit Realm"
     }
     {
       Id = "ChaosWeaponUpgrade"
@@ -9568,11 +9567,11 @@
     }
     {
       Id = "Objective_ThanatosKills"
-      DisplayName = "{#TeamFormat}Foes Slain by {#PreviousFormat}{#TeamThanFormat}Thanatos{#PreviousFormat}: {$ThanatosKills}"
+      DisplayName = "{#TeamFormat}Foes Slain by {#PreviousFormat}{#TeamThanFormat}Aphelios{#PreviousFormat}: {$ThanatosKills}"
     }
     {
       Id = "Objective_PlayerKills"
-      DisplayName = "{#TeamFormat}Foes Slain by {#PreviousFormat}{#TeamZagFormat}Zagreus{#PreviousFormat}: {$PlayerKills}"
+      DisplayName = "{#TeamFormat}Foes Slain by {#PreviousFormat}{#TeamZagFormat}Settrigh{#PreviousFormat}: {$PlayerKills}"
     }
     {
       Id = "Objective_SurvivalTimer"
@@ -9800,7 +9799,7 @@
     }
     {
       Id = "Objective_ShopSpend"
-      DisplayName = "Browse Charon's Wares"
+      DisplayName = "Browse Karthus' Wares"
     }
     {
       Id = "Objective_AdvancedTooltip"
@@ -9812,7 +9811,7 @@
     }
     {
       Id = "Objective_EnterBedroomHades"
-      DisplayName = "Find a Way Into Hades' Private Quarters"
+      DisplayName = "Find a Way Into Your Father's Private Quarters"
     }
     {
       Id = "Objective_OpenWeaponUpgradeScreen"
@@ -9833,13 +9832,13 @@
     }
     {
       Id = "TrainingMelee"
-      DisplayName = "Skelly"
-      Description = "Training Dummy"
+      DisplayName = "Amumu"
+      Description = "Training Partner"
     }
     {
       Id = "SkellyBackstory"
-      DisplayName = "Schelemeus"
-      Description = "Doomed Captain"
+      DisplayName = "Amumu"
+      Description = "Bestest Friend Ever...?"
     }
     {
       Id = "Swarmer"
@@ -10092,17 +10091,17 @@
     }
     {
       Id = "Theseus"
-      DisplayName = "Theseus"
-      Description = "Hero of Athens"
+      DisplayName = "Thresh"
+      Description = "Spirit of Obsession"
     }
     {
       Id = "Minotaur"
-      DisplayName = "Asterius"
-      Description = "Bull of Minos"
+      DisplayName = "Alistar"
+      Description = "Bull of Ionia"
     }
     {
       Id = "Minotaur_Full"
-      DisplayName = "Asterius, Bull of Minos"
+      DisplayName = "Alistar, Bull of Ionia"
     }
     {
       Id = "Minotaur_NickName"
@@ -10110,7 +10109,7 @@
     }
     {
       Id = "Hades_Full"
-      DisplayName = "Hades, God of the Dead"
+      DisplayName = "The Old Timer"
     }
     {
       Id = "CrawlerMiniBoss"
@@ -10152,16 +10151,16 @@
     /* Characters / NPCs */
     {
       Id = "PlayerUnit"
-      DisplayName = "Zagreus"
+      DisplayName = "Settrigh"
       Description = "Prince of the Underworld"
     }
     {
       Id = "PlayerUnit_Intro"
-      DisplayName = "Zagreus"
+      DisplayName = "Settrigh"
     }
     {
       Id = "NPC_Hades_01"
-      DisplayName = "Hades"
+      DisplayName = "The Old Timer"
       Description = "God of the Dead"
     }
     {
@@ -10174,13 +10173,13 @@
     }
     {
       Id = "NPC_Cerberus_01"
-      DisplayName = "Cerberus"
-      Description = "Notorious Watchdog"
+      DisplayName = "Truffle & Southpaw"
+      Description = "Spirit Badgers"
     }
     {
       Id = "NPC_Achilles_01"
-      DisplayName = "Achilles"
-      Description = "Forgotten Hero"
+      DisplayName = "Vayne"
+      Description = "Spirit of Hatred"
     }
     {
       Id = "NPC_Achilles_Story_01"
@@ -10188,13 +10187,13 @@
     }
     {
       Id = "Achilles"
-      DisplayName = "Achilles"
-      Description = "A great hero in his mortal days, now chief guardsman of the House."
+      DisplayName = "Vayne"
+      Description = "An unparalleled warrior, once driven by hatred, now much wiser."
     }
     {
       Id = "NPC_Nyx_01"
-      DisplayName = "Nyx"
-      Description = "Night Incarnate"
+      DisplayName = "The Silver Sister"
+      Description = "A.K.A. Mother Moon"
     }
     {
       Id = "NPC_Nyx_Story_01"
@@ -10202,41 +10201,41 @@
     }
     {
       Id = "Nyx"
-      DisplayName = "Nyx"
-      Description = "Night Incarnate, by whose will and power much of the Underworld endures."
+      DisplayName = "The Silver Sister"
+      Description = "Mother Moon, by whose will and power much of the Underworld endures."
     }
     {
       Id = "CharFemaleGhost"
-      DisplayName = "Nyx"
-      Description = "Night Incarnate"
+      DisplayName = "The Silver Sister"
+      Description = "Mother Moon"
     }
     {
       Id = "NPC_Hypnos_01"
-      DisplayName = "Hypnos"
+      DisplayName = "Zoe"
       Description = "Sleep Incarnate"
     }
     {
       Id = "NPC_Skelly_01"
-      DisplayName = "Skelly"
-      Description = "Training Dummy"
+      DisplayName = "Amumu"
+      Description = "Training Partner"
     }
     {
       Id = "NPC_Dusa_01"
-      DisplayName = "Dusa"
-      Description = "Duty-Bound Gorgon"
+      DisplayName = "Lulu"
+      Description = "Duty-Bound Yordle"
     }
     {
       Id = "NPC_FurySister_01"
-      DisplayName = "Megaera"
-      Description = "First of the Furies"
+      DisplayName = "Alune"
+      Description = "Chosen Sister"
     }
     {
       Id = "Harpy"
-      DisplayName = "Megaera, the Fury"
+      DisplayName = "Alune, the Chosen"
     }
     {
       Id = "NPC_FurySister_02"
-      DisplayName = "Alecto"
+      DisplayName = "Evelynn"
       Description = "Tormentor of Passions"
     }
     {
@@ -10246,17 +10245,17 @@
     }
     {
       Id = "Harpy2"
-      DisplayName = "Alecto"
+      DisplayName = "Evelynn"
       Description = "Tormentor of Passions"
     }
     {
       Id = "Harpy2_Full"
-      DisplayName = "Alecto, the Fury"
+      DisplayName = "Evelynn, the Chosen"
     }
     {
       Id = "NPC_FurySister_03"
-      DisplayName = "Tisiphone"
-      Description = "Tormentor of Murder"
+      DisplayName = "Cassiopeia"
+      Description = "Bane of Murderers and Betrayers"
     }
     {
       Id = "NPC_FurySister_Unnamed_03"
@@ -10265,16 +10264,16 @@
     }
     {
       Id = "Harpy3"
-      DisplayName = "Tisiphone"
-      Description = "Tormentor of Murder"
+      DisplayName = "Cassiopeia"
+      Description = "Bane of Murderers and Betrayers"
     }
     {
       Id = "Harpy3_Full"
-      DisplayName = "Tisiphone, the Fury"
+      DisplayName = "Cassiopeia, the Chosen"
     }
     {
       Id = "NPC_Charon_01"
-      DisplayName = "Charon"
+      DisplayName = "Karthus"
       Description = "Stygian Boatman"
     }
     {
@@ -10283,11 +10282,11 @@
     }
     {
       Id = "Charon_Full"
-      DisplayName = "Charon, Stygian Boatman"
+      DisplayName = "Karthus, Stygian Boatman"
     }
     {
       Id = "NPC_Orpheus_01"
-      DisplayName = "Orpheus"
+      DisplayName = "Yasuo"
       Description = "Court Musician"
     }
     {
@@ -10296,32 +10295,32 @@
     }
     {
       Id = "Orpheus"
-      DisplayName = "Orpheus"
-      Description = "Lord Hades personally appointed him as his court musician; but he refused to sing."
+      DisplayName = "Yasuo"
+      Description = "The Old Timer personally appointed him as his court musician; but he refused to sing."
     }
     {
       Id = "NPC_Sisyphus_01"
-      DisplayName = "Sisyphus"
-      Description = "Tortured Soul"
+      DisplayName = "Yorick"
+      Description = "Tortured Gravedigger"
     }
     {
       Id = "NPC_SisyphusAndBouldy_01"
-      DisplayName = "Sisyphus & Bouldy"
+      DisplayName = "Yorick & The Maiden"
     }
     {
       Id = "Sisyphus"
-      DisplayName = "Sisyphus"
-      Description = "He cheated Death, and for that he was sentenced to an eternity of hard labor in Tartarus."
+      DisplayName = "Yorick"
+      Description = "He cheated Death, and for that he was sentenced to an eternity of gravedigging in Tartarus."
     }
     {
       Id = "NPC_Bouldy_01"
-      DisplayName = "Bouldy"
+      DisplayName = "Maiden"
       Description = ""
     }
     {
       Id = "NPC_Patroclus_01"
-      DisplayName = "Patroclus"
-      Description = "Fallen Warrior"
+      DisplayName = "Riven"
+      Description = "Spirit of Despair"
     }
     {
       Id = "NPC_Patroclus_Unnamed_01"
@@ -10330,8 +10329,8 @@
     }
     {
       Id = "NPC_Eurydice_01"
-      DisplayName = "Eurydice"
-      Description = "Carefree Muse"
+      DisplayName = "Yone"
+      Description = "Dutiful Brother"
     }
     {
       Id = "NPC_Eurydice_Unnamed_01"
@@ -10345,8 +10344,8 @@
     }
     {
       Id = "NPC_Chaos_01"
-      DisplayName = "Chaos"
-      Description = "Primordial Originator"
+      DisplayName = "Kindred"
+      Description = "Spirit of Origin"
     }
     {
       Id = "NPC_ThanatosUnnamed_01"
@@ -10355,77 +10354,77 @@
     }
     {
       Id = "NPC_Thanatos_01"
-      DisplayName = "Thanatos"
-      Description = "Death Incarnate"
+      DisplayName = "Aphelios"
+      Description = "Twin Spirit of Night"
     }
     {
       Id = "Thanatos"
-      DisplayName = "Thanatos"
-      Description = "Death Incarnate, who shepherds many mortal souls to the Underworld."
+      DisplayName = "Aphelios"
+      Description = "Death Incarnate, who gently shepherds many mortal souls to the Underworld."
     }
     {
       Id = "NPC_NymphGhost_01"
-      DisplayName = "Eurydice"
-      Description = "Wayward Nymph"
+      DisplayName = "Yone"
+      Description = "Forgiving Brother"
     }
     {
       Id = "NPC_MaleGhost_02"
-      DisplayName = "Patroclus"
-      Description = "Lone Shade"
+      DisplayName = "Riven"
+      Description = "Spirit of Despair...?"
     }
     {
       Id = "NPC_Zeus_01"
-      DisplayName = "Zeus"
-      Description = "King of the Olympians"
+      DisplayName = "Volibear"
+      Description = "King of the Spirit Realm"
     }
     {
       Id = "NPC_Poseidon_01"
-      DisplayName = "Poseidon"
-      Description = "God of the Sea"
+      DisplayName = "Nami"
+      Description = "Spirit of the Seas"
     }
     {
       Id = "NPC_Athena_01"
-      DisplayName = "Athena"
-      Description = "Goddess of Wisdom"
+      DisplayName = "Soraka"
+      Description = "Spirit of Protection"
     }
     {
       Id = "NPC_Ares_01"
-      DisplayName = "Ares"
-      Description = "God of War"
+      DisplayName = "Darius"
+      Description = "Spirit of War"
     }
     {
       Id = "NPC_Dionysus_01"
-      DisplayName = "Dionysus"
-      Description = "God of Wine"
+      DisplayName = "Teemo"
+      Description = "Spirit of Revelry"
     }
     {
       Id = "NPC_Aphrodite_01"
-      DisplayName = "Aphrodite"
-      Description = "Goddess of Love"
+      DisplayName = "Ahri"
+      Description = "Spirit of Love"
     }
     {
       Id = "NPC_Artemis_01"
-      DisplayName = "Artemis"
-      Description = "Goddess of the Hunt"
+      DisplayName = "Diana"
+      Description = "Spirit of the Hunt"
     }
     {
       Id = "NPC_Hermes_01"
-      DisplayName = "Hermes"
-      Description = "God of Swiftness"
+      DisplayName = "Lillia"
+      Description = "Fleeting Spirit"
     }
     {
       Id = "NPC_Demeter_01"
-      DisplayName = "Demeter"
-      Description = "Goddess of Seasons"
+      DisplayName = "Lissandra"
+      Description = "Spirit of Seasons"
     }
     {
       Id = "NPC_Persephone_01"
-      DisplayName = "Persephone"
-      Description = "Goddess of Verdure"
+      DisplayName = "Lihua"
+      Description = "Spirit of Vitality"
     }
     {
       Id = "NPC_Persephone_01A"
-      DisplayName = "Persephone"
+      DisplayName = "Lihua"
       Description = "Queen of the Underworld"
     }
     {
@@ -10450,7 +10449,7 @@
     /* Remembrances / Run Intro Data / RunIntroData / Game Intro Data */
     {
       Id = "Remembrance_Hades"
-      DisplayName = "hades"
+      DisplayName = "old timer"
     }
     {
       Id = "Remembrance_Family"
@@ -10466,7 +10465,7 @@
     }
     {
       Id = "Remembrance_Dog"
-      DisplayName = "dog"
+      DisplayName = "badgers"
     }
     {
       Id = "Remembrance_Weakling"
@@ -10514,7 +10513,7 @@
     }
     {
       Id = "Remembrance_Zeus"
-      DisplayName = "zeus"
+      DisplayName = "volibear"
     }
     {
       Id = "Remembrance_Place"
@@ -10542,7 +10541,7 @@
     }
     {
       Id = "Remembrance_Poseidon"
-      DisplayName = "poseidon"
+      DisplayName = "nami"
     }
     {
       Id = "Remembrance_Elysium"
@@ -10666,7 +10665,7 @@
     }
     {
       Id = "Remembrance_Titans"
-      DisplayName = "titans"
+      DisplayName = "old gods"
     }
     {
       Id = "Remembrance_Boundaries"
@@ -10698,7 +10697,7 @@
     }
     {
       Id = "Remembrance_Nyx"
-      DisplayName = "nyx"
+      DisplayName = "silver sister"
     }
     {
       Id = "Remembrance_Mortals"
@@ -10717,11 +10716,11 @@
     /* Locations */
     {
       Id = "Location_Home"
-      DisplayName = "The HOUSE of HADES"
+      DisplayName = "The HOUSE of the DEAD"
     }
     {
       Id = "DeathArea"
-      DisplayName = "House of Hades"
+      DisplayName = "House of the Dead"
     }
     {
       Id = "Location_Tartarus"
@@ -10773,11 +10772,11 @@
     }
     {
       Id = "Location_Secret"
-      DisplayName = "CHAOS"
+      DisplayName = "Primoridial Origin"
     }
     {
       Id = "Secrets"
-      DisplayName = "Chaos"
+      DisplayName = "PRIMORDIAL ORIGIN"
     }
     {
       Id = "Location_Challenge"
@@ -10789,11 +10788,11 @@
     }
     {
       Id = "Location_Surface"
-      DisplayName = "GREECE"
+      DisplayName = "IONIA"
     }
     {
       Id = "Surface"
-      DisplayName = "Greece"
+      DisplayName = "Ionia"
     }
     {
       Id = "Location_Surface_Alt"
@@ -10831,11 +10830,11 @@
     }
     {
       Id = "HarpyDefeatedMessage"
-      DisplayName = "FURY VANQUISHED"
+      DisplayName = "CHOSEN VANQUISHED"
     }
     {
       Id = "HarpiesDefeatedMessage"
-      DisplayName = "FURIES VANQUISHED"
+      DisplayName = "CHOSEN VANQUISHED"
     }
     {
       Id = "HydraDefeatedMessage"
@@ -10855,7 +10854,7 @@
     }
     {
       Id = "HadesDefeatedMessage"
-      DisplayName = "HADES VANQUISHED"
+      DisplayName = "OLD TIMER VANQUISHED"
     }
     {
       Id = "CrawlerDefeatedMessage"
@@ -10863,7 +10862,7 @@
     }
     {
       Id = "SkellyDefeatedMessage"
-      DisplayName = "SKELLY LAID TO REST"
+      DisplayName = "AMUMU LAID TO REST"
     }
     {
       Id = "ThanatosMessage"
@@ -10955,7 +10954,7 @@
     }
     {
       Id = "AssistTraitsPermitted_Subtitle"
-      DisplayName = "Summons vs. Hades"
+      DisplayName = "Summons vs. Old Timer"
     }
     {
       Id = "BadgeSellerUnlocked_Subtitle"
@@ -10975,7 +10974,7 @@
       Id = "BadgeSystem_Message01"
       DisplayName = "Advancement"
       Description = """
-      {#AlertHeaderFormat}Congratulations!! {#PreviousFormat} You officially serve the {#AlertHighlightFormat}House of Hades{#PreviousFormat}, as its dedicated {#AlertBoldFormat}Security Specialist{#PreviousFormat}. Your work is conducted in relative secrecy. Employment is at-will, for an indefinite term.
+      {#AlertHeaderFormat}Congratulations!! {#PreviousFormat} You officially serve the {#AlertHighlightFormat}House of the Dead{#PreviousFormat}, as its dedicated {#AlertBoldFormat}Security Specialist{#PreviousFormat}. Your work is conducted in relative secrecy. Employment is at-will, for an indefinite term.
 
         Should you earn sufficient resources during your efforts, you may donate them back to the Underworld via the {#AlertBoldFormat}Resources Director {#PreviousFormat}{#AlertItalicFormat}(to whom you just spoke){#PreviousFormat}, to advance in rank and earn a fancy {#AlertBoldFormat}Badge{#PreviousFormat}.
 
@@ -11276,11 +11275,11 @@
     }
     {
       Id = "Codex_ChthonicGodsChapter"
-      DisplayName = "Chthonic Gods"
+      DisplayName = "Primordial Gods"
     }
     {
       Id = "Codex_OlympianGodsChapter"
-      DisplayName = "Olympian Gods"
+      DisplayName = "Spirit Realm"
     }
     {
       Id = "Codex_WeaponsChapter"
@@ -11435,160 +11434,160 @@
     }
     {
       Id = "CerberusSignoff"
-      DisplayName = "From Cerberus"
+      DisplayName = "From Truffle & Southpaw"
     }
     {
       Id = "CerberusSignoff_Max"
       DisplayName = """
-        From {#AwardMaxFlavorFormat}Cerberus{#AwardDarkFlavorFormat}; you share a {#AwardMaxFlavorFormat}Ferocious Bond
+        From {#AwardMaxFlavorFormat}Truffle & Southpaw{#AwardDarkFlavorFormat}; you share a {#AwardMaxFlavorFormat}Ferocious Bond
 
-        {#AwardDarkFlavorFormat}The hound of hell has entrusted all his loyalty in his master, and his master's son.
+        {#AwardDarkFlavorFormat}The badgers have entrusted all their loyalty to their master, and their master's son.
       """
     }
     {
       Id = "AchillesSignoff"
-      DisplayName = "From Achilles"
+      DisplayName = "From Vayne"
     }
     {
       Id = "AchillesSignoff_Max"
       DisplayName = """
-        From {#AwardMaxFlavorFormat}Achilles{#AwardDarkFlavorFormat}; you share an {#AwardMaxFlavorFormat}Unyielding Bond
+        From {#AwardMaxFlavorFormat}Vayne{#AwardDarkFlavorFormat}; you share an {#AwardMaxFlavorFormat}Unyielding Bond
 
-        {#AwardDarkFlavorFormat}Fated for glory, he shall forever be remembered, and remember you.
+        {#AwardDarkFlavorFormat}Fated for glory, she shall forever be remembered, and remember you.
       """
     }
     {
       Id = "AchillesPatroclusSignoff"
-      DisplayName = "From Achilles & Patroclus"
+      DisplayName = "From Vayne & Riven"
     }
     {
       Id = "AchillesPatroclusSignoff_AssistMax"
       DisplayName = """
-        From {#AwardMaxFlavorFormat}Achilles {#AwardDarkFlavorFormat}& {#AwardMaxFlavorFormat}Patroclus{#AwardDarkFlavorFormat}, their devotion, absolute
+        From {#AwardMaxFlavorFormat}Vayne {#AwardDarkFlavorFormat}& {#AwardMaxFlavorFormat}Riven{#AwardDarkFlavorFormat}, their devotion, absolute
       """
     }
     {
       Id = "NyxSignoff"
-      DisplayName = "From Nyx"
+      DisplayName = "From Mother Moon"
     }
     {
       Id = "NyxSignoff_Max"
       DisplayName = """
-        From {#AwardMaxFlavorFormat}Nyx{#AwardDarkFlavorFormat}; you share an {#AwardMaxFlavorFormat}Eternal Bond
+        From {#AwardMaxFlavorFormat}Mother Moon{#AwardDarkFlavorFormat}; you share an {#AwardMaxFlavorFormat}Eternal Bond
 
         {#AwardDarkFlavorFormat}Through sense of duty, she raised you. From the dark of her heart, she loves you.
       """
     }
     {
       Id = "HypnosSignoff"
-      DisplayName = "From Hypnos"
+      DisplayName = "From Zoe"
     }
     {
       Id = "HypnosSignoff_Max"
       DisplayName = """
-        From {#AwardMaxFlavorFormat}Hypnos{#AwardDarkFlavorFormat}; you share a {#AwardMaxFlavorFormat}Dreamlike Bond
+        From {#AwardMaxFlavorFormat}Zoe{#AwardDarkFlavorFormat}; you share a {#AwardMaxFlavorFormat}Dreamlike Bond
 
-        {#AwardDarkFlavorFormat}His wakeful cheer is genuine, whenever you are there. He dreams, until such time.
+        {#AwardDarkFlavorFormat}Her wakeful cheer is genuine, whenever you are there. She dreams, until such time.
       """
     }
     {
       Id = "CharonSignoff"
-      DisplayName = "From Charon"
+      DisplayName = "From Karthus"
     }
     {
       Id = "CharonSignoff_Max"
       DisplayName = """
-        From {#AwardMaxFlavorFormat}Charon{#AwardDarkFlavorFormat}; you share an {#AwardMaxFlavorFormat}Unspoken Bond
+        From {#AwardMaxFlavorFormat}Karthus{#AwardDarkFlavorFormat}; you share an {#AwardMaxFlavorFormat}Unspoken Bond
 
         {#AwardDarkFlavorFormat}Only a scant few souls ever earn the favor of the feared boatman.
       """
     }
     {
       Id = "MegaeraSignoff"
-      DisplayName = "From Megaera"
+      DisplayName = "From Alune"
     }
     {
       Id = "MegaeraSignoff_Max"
       DisplayName = """
-        From {#AwardMaxFlavorFormat}Megaera{#AwardDarkFlavorFormat}; you share an {#AwardMaxFlavorFormat}Intense Bond
+        From {#AwardMaxFlavorFormat}Alune{#AwardDarkFlavorFormat}; you share a {#AwardMaxFlavorFormat}Loyal Bond
 
-        {#AwardDarkFlavorFormat}Your deaths at one another's hands... all your pleasure, all your pain, united.
+        {#AwardDarkFlavorFormat}She will love you like a brother, unless you are careless with her twin's heart.
       """
     }
     {
       Id = "MegaeraSignoff_AssistMax_A"
       DisplayName = """
-        From {#AwardMaxFlavorFormat}Megaera{#AwardDarkFlavorFormat}, lover and rival
+        From {#AwardMaxFlavorFormat}Alune{#AwardDarkFlavorFormat}, friend and rival
       """
     }
     {
       Id = "MegaeraSignoff_AssistMax_B"
       DisplayName = """
-        From {#AwardMaxFlavorFormat}Megaera{#AwardDarkFlavorFormat}, your old flame
+        From {#AwardMaxFlavorFormat}Alune{#AwardDarkFlavorFormat}, childhood playmate
       """
     }
     {
       Id = "ThanatosSignoff"
-      DisplayName = "From Thanatos"
+      DisplayName = "From Aphelios"
     }
     {
       Id = "ThanatosSignoff_Max"
       DisplayName = """
-        From {#AwardMaxFlavorFormat}Thanatos{#AwardDarkFlavorFormat}; you share an {#AwardMaxFlavorFormat}Undying Bond
+        From {#AwardMaxFlavorFormat}Aphelios{#AwardDarkFlavorFormat}; you share an {#AwardMaxFlavorFormat}Undying Bond
 
-        {#AwardDarkFlavorFormat}With whom should Death belong, if not with Blood, with Life?
+        {#AwardDarkFlavorFormat}Who knew that Death's heart would be so soft, or given so devotedly?
       """
     }    
     {
       Id = "ThanatosSignoff_AssistMax_A"
       DisplayName = """
-        From {#AwardMaxFlavorFormat}Thanatos{#AwardDarkFlavorFormat}, cherished partner
+        From {#AwardMaxFlavorFormat}Aphelios{#AwardDarkFlavorFormat}, fated soulmate
       """
     }
     {
       Id = "ThanatosSignoff_AssistMax_B"
       DisplayName = """
-        From {#AwardMaxFlavorFormat}Thanatos{#AwardDarkFlavorFormat}, closest colleague
+        From {#AwardMaxFlavorFormat}Aphelios{#AwardDarkFlavorFormat}, cherished partner
       """
     }
     {
       Id = "OrpheusSignoff"
-      DisplayName = "From Orpheus"
+      DisplayName = "From Yasuo"
     }
     {
       Id = "OrpheusSignoff_Max"
       DisplayName = """
-        From {#AwardMaxFlavorFormat}Orpheus{#AwardDarkFlavorFormat}; you share a {#AwardMaxFlavorFormat}Sonorous Bond
+        From {#AwardMaxFlavorFormat}Yasuo{#AwardDarkFlavorFormat}; you share a {#AwardMaxFlavorFormat}Sonorous Bond
 
         {#AwardDarkFlavorFormat}Inspiration comes from unlikely places. Friendship comes in unlikely forms.
       """
     }
     {
       Id = "DusaSignoff"
-      DisplayName = "From Dusa"
+      DisplayName = "From Lulu"
     }
     {
       Id = "DusaSignoff_Max"
       DisplayName = """
-        From {#AwardMaxFlavorFormat}Dusa{#AwardDarkFlavorFormat}; you share an {#AwardMaxFlavorFormat}Immaculate Bond
+        From {#AwardMaxFlavorFormat}Lulu{#AwardDarkFlavorFormat}; you share a {#AwardMaxFlavorFormat}Mischievous Bond
 
-        {#AwardDarkFlavorFormat}She lifts you up without effort. You give her courage to fly.
+        {#AwardDarkFlavorFormat}Few truly understand her, fewer still are accepted as her students.
       """
     }
     {
       Id = "DusaSignoff_AssistMax"
       DisplayName = """
-        From {#AwardMaxFlavorFormat}Dusa{#AwardDarkFlavorFormat}, friend for all eternity
+        From {#AwardMaxFlavorFormat}Lulu{#AwardDarkFlavorFormat}, friend for all eternity
       """
     }
     {
       Id = "SkellySignoff"
-      DisplayName = "From Skelly"
+      DisplayName = "From Amumu"
     }
     {
       Id = "SkellySignoff_Max"
       DisplayName = """
-        From {#AwardMaxFlavorFormat}Skelly{#AwardDarkFlavorFormat}; you share an {#AwardMaxFlavorFormat}Unbreakable Bond
+        From {#AwardMaxFlavorFormat}Amumu{#AwardDarkFlavorFormat}; you share an {#AwardMaxFlavorFormat}Unbreakable Bond
 
         {#AwardDarkFlavorFormat}A true and loyal friend shall always stand up for you. Even stand up to you.
       """
@@ -11596,194 +11595,194 @@
     {
       Id = "SkellySignoff_AssistMax"
       DisplayName = """
-        From {#AwardMaxFlavorFormat}Skelly{#AwardDarkFlavorFormat}, willing to die for you
+        From {#AwardMaxFlavorFormat}Amumu{#AwardDarkFlavorFormat}, willing to die for you
       """
     }
     {
       Id = "SisyphusSignoff"
-      DisplayName = "From Sisyphus"
+      DisplayName = "From Yorick"
     }
     {
       Id = "SisyphusSignoff_Max"
       DisplayName = """
-        From {#AwardMaxFlavorFormat}Sisyphus{#AwardDarkFlavorFormat}; you share a {#AwardMaxFlavorFormat}Rock-Solid Bond
+        From {#AwardMaxFlavorFormat}Yorick{#AwardDarkFlavorFormat}; you share a {#AwardMaxFlavorFormat}Productive Bond
 
-        {#AwardDarkFlavorFormat}If he can hoist a boulder on his own, he knows he can be of some support.
+        {#AwardDarkFlavorFormat}He may not be a chatty fellow, but he's got your back.
       """
     }
     {
       Id = "SisyphusBouldySignoff"
-      DisplayName = "From Sisyphus & Bouldy"
+      DisplayName = "From Yorick & The Maiden"
     }
     {
       Id = "SisyphusBouldySignoff_AssistMax"
       DisplayName = """
-        From {#AwardMaxFlavorFormat}Sisyphus {#AwardDarkFlavorFormat}& {#AwardMaxFlavorFormat}Bouldy{#AwardDarkFlavorFormat}, staunch supporters
+        From {#AwardMaxFlavorFormat}Yorick {#AwardDarkFlavorFormat}& {#AwardMaxFlavorFormat}The Maiden{#AwardDarkFlavorFormat}, staunch supporters
       """
     }
     {
       Id = "EurydiceSignoff"
-      DisplayName = "From Eurydice"
+      DisplayName = "From Yone"
     }
     {
       Id = "EurydiceSignoff_Max"
       DisplayName = """
-        From {#AwardMaxFlavorFormat}Eurydice{#AwardDarkFlavorFormat}; you share an {#AwardMaxFlavorFormat}Inspiring Bond
+        From {#AwardMaxFlavorFormat}Yone{#AwardDarkFlavorFormat}; you share an {#AwardMaxFlavorFormat}Inspiring Bond
 
-        {#AwardDarkFlavorFormat}Singing for the joy of it, she lives for the moment, even in death.
+        {#AwardDarkFlavorFormat}Dutiful, resourceful, and ultimately forgiving, Yone is a decent brother and an even better friend.
       """
     }
     {
       Id = "PatroclusSignoff"
-      DisplayName = "From Patroclus"
+      DisplayName = "From Riven"
     }
     {
       Id = "PatroclusSignoff_Max"
       DisplayName = """
-        From {#AwardMaxFlavorFormat}Patroclus{#AwardDarkFlavorFormat}; you share an {#AwardMaxFlavorFormat}Enlightened Bond
+        From {#AwardMaxFlavorFormat}Riven{#AwardDarkFlavorFormat}; you share an {#AwardMaxFlavorFormat}Enlightened Bond
 
-        {#AwardDarkFlavorFormat}He passed bitterly from mortal life, but with you, rose above it all.
+        {#AwardDarkFlavorFormat}She passed despairingly from mortal life, but with you, rose above it all.
       """
     }
     {
       Id = "PersephoneSignoff"
-      DisplayName = "From Persephone"
+      DisplayName = "From Lihua"
     }
     {
       Id = "Persephone_SignoffMax"
       DisplayName = """
-        From {#AwardMaxFlavorFormat}Persephone{#AwardDarkFlavorFormat}; you share a {#AwardMaxFlavorFormat}Growing Bond
+        From {#AwardMaxFlavorFormat}Lihua{#AwardDarkFlavorFormat}; you share a {#AwardMaxFlavorFormat}Vital Bond
 
-        {#AwardDarkFlavorFormat}The dead live on in the Underworld, and her nurturing instinct there also thrives.
+        {#AwardDarkFlavorFormat}Though she may have been forced to miss your childhood, you will always be her baby.
       """    }
     {
       Id = "HadesSignoff"
-      DisplayName = "From Hades"
+      DisplayName = "From The Old Timer"
     }
     {
       Id = "Hades_SignoffMax"
       DisplayName = """
-        From {#AwardMaxFlavorFormat}Hades{#AwardDarkFlavorFormat}; you share an {#AwardMaxFlavorFormat}Intractable Bond
+        From {#AwardMaxFlavorFormat}The Old Timer{#AwardDarkFlavorFormat}; you share an {#AwardMaxFlavorFormat}Intractable Bond
 
         {#AwardDarkFlavorFormat}The feared and distant Underworld King knows that his hardest work is still ahead of him.
       """
     }
     {
       Id = "AthenaSignoff"
-      DisplayName = "From Athena"
+      DisplayName = "From Soraka"
     }
     {
       Id = "AthenaSignoff_Max"
       DisplayName = """
-        From {#AwardMaxFlavorFormat}Athena{#AwardDarkFlavorFormat}; you share a {#AwardMaxFlavorFormat}Knowing Bond
+        From {#AwardMaxFlavorFormat}Soraka{#AwardDarkFlavorFormat}; you share a {#AwardMaxFlavorFormat}Merciful Bond
 
-        {#AwardDarkFlavorFormat}She anticipated almost every detail, save for the kinship she would feel.
+        {#AwardDarkFlavorFormat}She protected against outliers, save for the kinship she would feel.
       """
     }
     {
       Id = "ZeusSignoff"
-      DisplayName = "From Zeus"
+      DisplayName = "From Volibear"
     }
     {
       Id = "ZeusSignoff_Max"
       DisplayName = """
-        From {#AwardMaxFlavorFormat}Zeus{#AwardDarkFlavorFormat}; you share a {#AwardMaxFlavorFormat}Thunderous Bond
+        From {#AwardMaxFlavorFormat}Volibear{#AwardDarkFlavorFormat}; you share a {#AwardMaxFlavorFormat}Thunderous Bond
 
-        {#AwardDarkFlavorFormat}Many beg favors of the King of Olympus. Few earn them with his compliments.
+        {#AwardDarkFlavorFormat}Many beg favors of the King of the Spirit Realm. Few earn them with his compliments.
       """
     }
     {
       Id = "PoseidonSignoff"
-      DisplayName = "From Poseidon"
+      DisplayName = "From Nami"
     }
     {
       Id = "PoseidonSignoff_Max"
       DisplayName = """
-        From {#AwardMaxFlavorFormat}Poseidon{#AwardDarkFlavorFormat}; you share an {#AwardMaxFlavorFormat}Unshakable Bond
+        From {#AwardMaxFlavorFormat}Nami{#AwardDarkFlavorFormat}; you share an {#AwardMaxFlavorFormat}Fruitful Bond
 
-        {#AwardDarkFlavorFormat}He would turn the very tides and sunder the earth for you.
+        {#AwardDarkFlavorFormat}She would turn the very tides and sunder the earth for you.
       """
     }
     {
       Id = "AphroditeSignoff"
-      DisplayName = "From Aphrodite"
+      DisplayName = "From Ahri"
     }
     {
       Id = "AphroditeSignoff_Max"
       DisplayName = """
-        From {#AwardMaxFlavorFormat}Aphrodite{#AwardDarkFlavorFormat}; you share a {#AwardMaxFlavorFormat}Beautiful Bond
+        From {#AwardMaxFlavorFormat}Ahri{#AwardDarkFlavorFormat}; you share a {#AwardMaxFlavorFormat}Beautiful Bond
 
         {#AwardDarkFlavorFormat}Her true affection is reserved for those who find love and beauty on their own.
       """
     }
     {
       Id = "ArtemisSignoff"
-      DisplayName = "From Artemis"
+      DisplayName = "From Diana"
     }
     {
       Id = "ArtemisSignoff_Max"
       DisplayName = """
-        From {#AwardMaxFlavorFormat}Artemis{#AwardDarkFlavorFormat}; you share an {#AwardMaxFlavorFormat}Impenetrable Bond
+        From {#AwardMaxFlavorFormat}Diana{#AwardDarkFlavorFormat}; you share an {#AwardMaxFlavorFormat}Impenetrable Bond
 
         {#AwardDarkFlavorFormat}Her solitary nature and her sharpened instincts mean she seldom dares to share her trust.
       """
     }
     {
       Id = "AresSignoff"
-      DisplayName = "From Ares"
+      DisplayName = "From Darius"
     }
     {
       Id = "AresSignoff_Max"
       DisplayName = """
-        From {#AwardMaxFlavorFormat}Ares{#AwardDarkFlavorFormat}; you share a {#AwardMaxFlavorFormat}Blood-bound Bond
+        From {#AwardMaxFlavorFormat}Darius{#AwardDarkFlavorFormat}; you share a {#AwardMaxFlavorFormat}Blood-bound Bond
 
         {#AwardDarkFlavorFormat}Some of the strongest kinships form during the darkest of circumstances.
       """
     }
     {
       Id = "DionysusSignoff"
-      DisplayName = "From Dionysus"
+      DisplayName = "From Teemo"
     }
     {
       Id = "DionysusSignoff_Max"
       DisplayName = """
-        From {#AwardMaxFlavorFormat}Dionysus{#AwardDarkFlavorFormat}; you share a {#AwardMaxFlavorFormat}Jubilant Bond
+        From {#AwardMaxFlavorFormat}Teemo{#AwardDarkFlavorFormat}; you share a {#AwardMaxFlavorFormat}Jubilant Bond
 
         {#AwardDarkFlavorFormat}Two free spirits, though far apart, still can brighten each other's days.
       """
     }
     {
       Id = "DemeterSignoff"
-      DisplayName = "From Demeter"
+      DisplayName = "From Lissandra"
     }
     {
       Id = "DemeterSignoff_Max"
       DisplayName = """
-        From {#AwardMaxFlavorFormat}Demeter{#AwardDarkFlavorFormat}; you share a {#AwardMaxFlavorFormat}Nurturing Bond
+        From {#AwardMaxFlavorFormat}Lissandra{#AwardDarkFlavorFormat}; you share a {#AwardMaxFlavorFormat}Nurturing Bond
 
         {#AwardDarkFlavorFormat}Aeons, generations, distances; family can withstand them all.
       """
     }
     {
       Id = "HermesSignoff"
-      DisplayName = "From Hermes"
+      DisplayName = "From Lillia"
     }
     {
       Id = "HermesSignoff_Max"
       DisplayName = """
-        From {#AwardMaxFlavorFormat}Hermes{#AwardDarkFlavorFormat}; you share a {#AwardMaxFlavorFormat}Quicksilver Bond
+        From {#AwardMaxFlavorFormat}Lillia{#AwardDarkFlavorFormat}; you share a {#AwardMaxFlavorFormat}Quicksilver Bond
 
-        {#AwardDarkFlavorFormat}His carefree nature and his haste never betray his true capacity.
+        {#AwardDarkFlavorFormat}Her sweet nature and her haste never betray her true capacity.
       """
     }
     {
       Id = "ChaosSignoff"
-      DisplayName = "From Primordial Chaos"
+      DisplayName = "From Primordial Kindred"
     }
     {
       Id = "ChaosSignoff_Max"
       DisplayName = """
-        From {#AwardMaxFlavorFormat}Primordial Chaos{#AwardDarkFlavorFormat}; you share an {#AwardMaxFlavorFormat}Infinite Bond
+        From {#AwardMaxFlavorFormat}Primordial Kindred{#AwardDarkFlavorFormat}; you share an {#AwardMaxFlavorFormat}Infinite Bond
 
         {#AwardDarkFlavorFormat}Even the Origin of All Things seeks to know whimsy and surprise.
       """
@@ -11824,12 +11823,12 @@
     {
       Id = "ShopDurationTrait"
       DisplayName = "Bone Hourglass"
-      Description = "Items from the {#BoldFormat}Well of Charon {#PreviousFormat}have durations increased by {#AltUpgradeFormat}+{$TooltipData.TooltipDurationBonus} {#PreviousFormat}Encounters."
+      Description = "Items from the {#BoldFormat}Well of Karthus {#PreviousFormat}have durations increased by {#AltUpgradeFormat}+{$TooltipData.TooltipDurationBonus} {#PreviousFormat}Encounters."
     }
     {
       Id = "ShopDurationTrait_Rack"
       InheritFrom = "ShopDurationTrait"
-      Description = "Items from the {#BoldFormat}Well of Charon {#PreviousFormat}have durations increased by {#AltUpgradeFormat}+{$TooltipData.TooltipDurationBonus} {#PreviousFormat}Encounters. \n\n {#AwardFlavorFormat}{$TooltipData.SignoffText}"
+      Description = "Items from the {#BoldFormat}Well of Karthus {#PreviousFormat}have durations increased by {#AltUpgradeFormat}+{$TooltipData.TooltipDurationBonus} {#PreviousFormat}Encounters. \n\n {#AwardFlavorFormat}{$TooltipData.SignoffText}"
     }
     {
       Id = "MaxHealthKeepsakeTrait"
@@ -11843,7 +11842,7 @@
     }
     {
       Id = "DirectionalArmorTrait"
-      DisplayName = "Myrmidon Bracer"
+      DisplayName = "Ionian Bracer"
       Description = "Take {#AltUpgradeFormat}-{$TooltipData.TooltipDefense}% {#PreviousFormat} damage from the front, but take {#AltPenaltyFormat}{$TooltipData.TooltipVulnerability:P} {#PreviousFormat} from the back."
     }
     {
@@ -11904,7 +11903,7 @@
     }
     {
       Id = "LifeOnUrnTrait"
-      DisplayName = "Harpy Feather Duster"
+      DisplayName = "Feather Duster"
       Description = "Broken urns have a {#AltUpgradeFormat}{$TooltipData.TooltipDropChance}% {#PreviousFormat}chance to contain {!Icons.HealthRestore_Small} items."
     }
     {
@@ -11914,7 +11913,7 @@
     }
     {
       Id = "BonusMoneyTrait"
-      DisplayName = "Chthonic Coin Purse"
+      DisplayName = "Primordial Coin Purse"
       Description = "Receive {#AltUpgradeFormat}{$TooltipData.TooltipMoney}{!Icons.Currency_Small}{#PreviousFormat} to spend as you please {#ItalicFormat}(once per escape attempt){#PreviousFormat}."
     }
     {
@@ -11924,147 +11923,147 @@
     }
     {
       Id = "BonusMoneyTrait_Dead"
-      DisplayName = "Chthonic Coin Purse"
+      DisplayName = "Primordial Coin Purse"
       Description = "Receive {#AltUpgradeFormat}{$TooltipData.TooltipMoney}{!Icons.Currency_Small} {#PreviousFormat}to spend as you please {#ItalicFormat}(once per escape attempt){#PreviousFormat}. \n\n {#AwardFlavorFormat}{$TooltipData.SignoffText}"
     }
     {
       Id = "BonusMoneyTrait_Tray"
-      DisplayName = "Chthonic Coin Purse"
+      DisplayName = "Primordial Coin Purse"
       Description = "Received {#AltUpgradeFormat}{$TooltipData.TooltipMoney}{!Icons.Currency_Small} {#PreviousFormat}to spend as you please."
     }
     {
       Id = "ForceAthenaBoonTrait"
       DisplayName = "Owl Pendant"
-      Description = "The next {$Keywords.GodBoon} you find will be from {#BoldFormat}Athena{#PreviousFormat}. Her blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better."
+      Description = "The next {$Keywords.GodBoon} you find will be from {#BoldFormat}Soraka{#PreviousFormat}. Her blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better."
     }
     {
       Id = "ForceAthenaBoonTrait_Rack"
       InheritFrom = "ForceAthenaBoonTrait"
-      Description = "The next {$Keywords.GodBoon} you find will be from {#BoldFormat}Athena{#PreviousFormat}. Her blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better. \n\n {#AwardFlavorFormat}{$TooltipData.SignoffText}"
+      Description = "The next {$Keywords.GodBoon} you find will be from {#BoldFormat}Soraka{#PreviousFormat}. Her blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better. \n\n {#AwardFlavorFormat}{$TooltipData.SignoffText}"
     }
     {
       Id = "ForceAthenaBoonTrait_Inactive"
       DisplayName = "Owl Pendant"
-      Description = "Athena's blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better."
+      Description = "Soraka's blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better."
     }
     {
       Id = "ForceAphroditeBoonTrait"
       DisplayName = "Eternal Rose"
-      Description = "The next {$Keywords.GodBoon} you find will be from {#BoldFormat}Aphrodite{#PreviousFormat}. Her blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better."
+      Description = "The next {$Keywords.GodBoon} you find will be from {#BoldFormat}Ahri{#PreviousFormat}. Her blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better."
     }
     {
       Id = "ForceAphroditeBoonTrait_Rack"
       InheritFrom = "ForceAphroditeBoonTrait"
-      Description = "The next {$Keywords.GodBoon} you find will be from {#BoldFormat}Aphrodite{#PreviousFormat}. Her blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better. \n\n {#AwardFlavorFormat}{$TooltipData.SignoffText}"
+      Description = "The next {$Keywords.GodBoon} you find will be from {#BoldFormat}Ahri{#PreviousFormat}. Her blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better. \n\n {#AwardFlavorFormat}{$TooltipData.SignoffText}"
     }
     {
       Id = "ForceAphroditeBoonTrait_Inactive"
       DisplayName = "Eternal Rose"
-      Description = "Aphrodite's blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better."
+      Description = "Ahri's blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better."
     }
     {
       Id = "ForceArtemisBoonTrait"
       DisplayName = "Adamant Arrowhead"
-      Description = "The next {$Keywords.GodBoon} you find will be from {#BoldFormat}Artemis{#PreviousFormat}. Her blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better."
+      Description = "The next {$Keywords.GodBoon} you find will be from {#BoldFormat}Diana{#PreviousFormat}. Her blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better."
     }
     {
       Id = "ForceArtemisBoonTrait_Rack"
       InheritFrom = "ForceArtemisBoonTrait"
-      Description = "The next {$Keywords.GodBoon} you find will be from {#BoldFormat}Artemis{#PreviousFormat}. Her blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better. \n\n {#AwardFlavorFormat}{$TooltipData.SignoffText}"
+      Description = "The next {$Keywords.GodBoon} you find will be from {#BoldFormat}Diana{#PreviousFormat}. Her blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better. \n\n {#AwardFlavorFormat}{$TooltipData.SignoffText}"
     }
     {
       Id = "ForceArtemisBoonTrait_Inactive"
       DisplayName = "Adamant Arrowhead"
-      Description = "Artemis' blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better."
+      Description = "Diana's blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better."
     }
     {
       Id = "ForceZeusBoonTrait"
       DisplayName = "Thunder Signet"
-      Description = "The next {$Keywords.GodBoon} you find will be from {#BoldFormat}Zeus{#PreviousFormat}. His blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better."
+      Description = "The next {$Keywords.GodBoon} you find will be from {#BoldFormat}Volibear{#PreviousFormat}. His blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better."
     }
     {
       Id = "ForceZeusBoonTrait_Rack"
       InheritFrom = "ForceZeusBoonTrait"
-      Description = "The next {$Keywords.GodBoon} you find will be from {#BoldFormat}Zeus{#PreviousFormat}. His blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better. \n\n {#AwardFlavorFormat}{$TooltipData.SignoffText}"
+      Description = "The next {$Keywords.GodBoon} you find will be from {#BoldFormat}Volibear{#PreviousFormat}. His blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better. \n\n {#AwardFlavorFormat}{$TooltipData.SignoffText}"
     }
     {
       Id = "ForceZeusBoonTrait_Inactive"
       DisplayName = "Thunder Signet"
-      Description = "Zeus' blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better."
+      Description = "Volibear's blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better."
     }
     {
       Id = "ForcePoseidonBoonTrait"
       DisplayName = "Conch Shell"
-      Description = "The next {$Keywords.GodBoon} you find will be from {#BoldFormat}Poseidon{#PreviousFormat}. His blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better."
+      Description = "The next {$Keywords.GodBoon} you find will be from {#BoldFormat}Nami{#PreviousFormat}. Her blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better."
     }
     {
       Id = "ForcePoseidonBoonTrait_Rack"
       InheritFrom = "ForcePoseidonBoonTrait"
-      Description = "The next {$Keywords.GodBoon} you find will be from {#BoldFormat}Poseidon{#PreviousFormat}. His blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better. \n\n {#AwardFlavorFormat}{$TooltipData.SignoffText}"
+      Description = "The next {$Keywords.GodBoon} you find will be from {#BoldFormat}Nami{#PreviousFormat}. Her blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better. \n\n {#AwardFlavorFormat}{$TooltipData.SignoffText}"
     }
     {
       Id = "ForcePoseidonBoonTrait_Inactive"
       DisplayName = "Conch Shell"
-      Description = "Poseidon's blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better."
+      Description = "Nami's blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better."
     }
     {
       Id = "ForceAresBoonTrait"
       DisplayName = "Blood-filled Vial"
-      Description = "The next {$Keywords.GodBoon} you find will be from {#BoldFormat}Ares{#PreviousFormat}. His blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better."
+      Description = "The next {$Keywords.GodBoon} you find will be from {#BoldFormat}Darius{#PreviousFormat}. His blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better."
     }
     {
       Id = "ForceAresBoonTrait_Rack"
       InheritFrom = "ForceAresBoonTrait"
-      Description = "The next {$Keywords.GodBoon} you find will be from {#BoldFormat}Ares{#PreviousFormat}. His blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better. \n\n {#AwardFlavorFormat}{$TooltipData.SignoffText}"
+      Description = "The next {$Keywords.GodBoon} you find will be from {#BoldFormat}Darius{#PreviousFormat}. His blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better. \n\n {#AwardFlavorFormat}{$TooltipData.SignoffText}"
     }
     {
       Id = "ForceAresBoonTrait_Inactive"
       DisplayName = "Blood-filled Vial"
-      Description = "Ares' blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better."
+      Description = "Darius' blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better."
     }
     {
       Id = "ForceDionysusBoonTrait"
       DisplayName = "Overflowing Cup"
-      Description = "The next {$Keywords.GodBoon} you find will be from {#BoldFormat}Dionysus{#PreviousFormat}. His blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better."
+      Description = "The next {$Keywords.GodBoon} you find will be from {#BoldFormat}Teemo{#PreviousFormat}. His blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better."
     }
     {
       Id = "ForceDionysusBoonTrait_Rack"
       InheritFrom = "ForceDionysusBoonTrait"
-      Description = "The next {$Keywords.GodBoon} you find will be from {#BoldFormat}Dionysus{#PreviousFormat}. His blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better. \n\n {#AwardFlavorFormat}{$TooltipData.SignoffText}"
+      Description = "The next {$Keywords.GodBoon} you find will be from {#BoldFormat}Teemo{#PreviousFormat}. His blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better. \n\n {#AwardFlavorFormat}{$TooltipData.SignoffText}"
     }
     {
       Id = "ForceDionysusBoonTrait_Inactive"
       DisplayName = "Overflowing Cup"
-      Description = "Dionysus' blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better."
+      Description = "Teemo's blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better."
     }
     {
       Id = "ForceDemeterBoonTrait"
       DisplayName = "Frostbitten Horn"
-      Description = "The next {$Keywords.GodBoon} you find will be from {#BoldFormat}Demeter{#PreviousFormat}. Her blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better."
+      Description = "The next {$Keywords.GodBoon} you find will be from {#BoldFormat}Lissandra{#PreviousFormat}. Her blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better."
     }
     {
       Id = "ForceDemeterBoonTrait_Rack"
       InheritFrom = "ForceDemeterBoonTrait"
-      Description = "The next {$Keywords.GodBoon} you find will be from {#BoldFormat}Demeter{#PreviousFormat}. Her blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better. \n\n {#AwardFlavorFormat}{$TooltipData.SignoffText}"
+      Description = "The next {$Keywords.GodBoon} you find will be from {#BoldFormat}Lissandra{#PreviousFormat}. Her blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better. \n\n {#AwardFlavorFormat}{$TooltipData.SignoffText}"
     }
     {
       Id = "ForceDemeterBoonTrait_Inactive"
       DisplayName = "Frostbitten Horn"
-      Description = "Demeter's blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better."
+      Description = "Lissandra's blessings have {#AltUpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better."
     }
     {
       Id = "ChaosBoonTrait"
       DisplayName = "Cosmic Egg"
-      Description = "Enter {$Keywords.HealthGatePlural} without losing {!Icons.Health_Small}. Blessings from {#BoldFormat}Chaos {#PreviousFormat}have {#UpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better."
+      Description = "Enter {$Keywords.HealthGatePlural} without losing {!Icons.Health_Small}. Blessings from {#BoldFormat}Kindred {#PreviousFormat}have {#UpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better."
     }
     {
       Id = "ChaosBoonTrait_Rack"
       InheritFrom = "ChaosBoonTrait"
-      Description = "Enter {$Keywords.HealthGatePlural} without losing {!Icons.Health_Small}. Blessings from {#BoldFormat}Chaos {#PreviousFormat}have {#UpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better. \n\n {#AwardFlavorFormat}{$TooltipData.SignoffText}"
+      Description = "Enter {$Keywords.HealthGatePlural} without losing {!Icons.Health_Small}. Blessings from {#BoldFormat}Kindred {#PreviousFormat}have {#UpgradeFormat}{$TooltipData.TooltipBonusChance:P} {#PreviousFormat} chance to be {#RareFormat}Rare {#PreviousFormat}or better. \n\n {#AwardFlavorFormat}{$TooltipData.SignoffText}"
     }
     {
       Id = "PerfectClearDamageBonusTrait"
-      DisplayName = "Pierced Butterfly"
+      DisplayName = "Sweet Mooncake"
       Description = "Gain bonus damage each time you clear an {$Keywords.EncounterAlt} without taking damage. {#StatFormat}Bonus Damage: {#UpgradeFormat}{$TooltipData.TooltipAccumulatedBonus:P} {#PreviousFormat}"
     }
     {
@@ -12074,12 +12073,12 @@
     }
     {
       Id = "PerfectClearDamageBonusTrait_Dead"
-      DisplayName = "Pierced Butterfly"
+      DisplayName = "Sweet Mooncake"
       Description = "Gain {#UpgradeFormat}{$TooltipData.TooltipPerfectClearBonus:P} {#PreviousFormat}damage each time you clear an {$Keywords.EncounterAlt} without taking damage. \n\n {#AwardFlavorFormat}{$TooltipData.SignoffText}"
     }
     {
       Id = "PerfectClearDamageBonusTrait_Tray"
-      DisplayName = "Pierced Butterfly"
+      DisplayName = "Sweet Mooncake"
       Description = "Gain {#UpgradeFormat}{$TooltipData.TooltipPerfectClearBonus:P} {#PreviousFormat}damage each time you clear an {$Keywords.EncounterAlt} without taking damage."
     }
     {
@@ -12125,16 +12124,16 @@
     {
       Id = "HadesShoutKeepsake"
       DisplayName = "Sigil of the Dead"
-      Description = "Your {$Keywords.WrathHades} becomes {#BoldFormatGraft}Hades' Aid{#PreviousFormat}, which briefly makes you {#BoldFormatGraft}{$Keywords.Invisible}{#PreviousFormat}; your {$Keywords.WrathGauge} starts {#UpgradeFormat}{$TooltipData.TooltipSuperGain}% {#PreviousFormat} full."
+      Description = "Your {$Keywords.WrathHades} becomes {#BoldFormatGraft}Old Timer's Aid{#PreviousFormat}, which briefly makes you {#BoldFormatGraft}{$Keywords.Invisible}{#PreviousFormat}; your {$Keywords.WrathGauge} starts {#UpgradeFormat}{$TooltipData.TooltipSuperGain}% {#PreviousFormat} full."
     } 
     {
       Id = "HadesShoutKeepsake_Rack"
       InheritFrom = "HadesShoutKeepsake"
-      Description = "Your {$Keywords.WrathHades} becomes {#BoldFormatGraft}Hades' Aid{#PreviousFormat}, which briefly makes you {#BoldFormatGraft}{$Keywords.Invisible}{#PreviousFormat}; your {$Keywords.WrathGauge} starts {#UpgradeFormat}{$TooltipData.TooltipSuperGain}% {#PreviousFormat} full. \n\n {#AwardFlavorFormat}{$TooltipData.SignoffText}"
+      Description = "Your {$Keywords.WrathHades} becomes {#BoldFormatGraft}Old Timer's Aid{#PreviousFormat}, which briefly makes you {#BoldFormatGraft}{$Keywords.Invisible}{#PreviousFormat}; your {$Keywords.WrathGauge} starts {#UpgradeFormat}{$TooltipData.TooltipSuperGain}% {#PreviousFormat} full. \n\n {#AwardFlavorFormat}{$TooltipData.SignoffText}"
     }
     {
       Id = "HadesShoutTrait"
-      DisplayName = "Hades' Aid"
+      DisplayName = "Old Timer's Aid"
     }
     {
       Id = "HadesShoutTrait_Tray"
@@ -12145,17 +12144,17 @@
     /* legendary keepsakes - companions */
     {
       Id = "FuryAssistTrait_Rack"
-      DisplayName = "Companion Battie"
+      DisplayName = "Companion Spirit Blossom"
       Description = "Your {$Keywords.Assist} deals {#AltUpgradeFormat}{$TooltipData.TooltipDamage} {#PreviousFormat}damage in an area near your closest foe, then continually down the line. \n\n {#BoldFormat}{$Keywords.Assist}{#PreviousFormat}: Press {AS} for a quick assist from a friend {#ItalicFormat}(once per {$Keywords.EncounterAlt}). {#PreviousFormat}{#BoldFormat}Max Uses {#PreviousFormat}{#ItalicFormat}(per Escape): {#PreviousFormat}{#AltUpgradeFormat}{$TooltipData.TooltipKeepsakeUses}{#PreviousFormat} \n\n {#AwardFlavorFormat}{$TooltipData.SignoffText}"
     }
     {
       Id = "FuryAssistTrait_Delta"
-      DisplayName = "Companion Battie"
+      DisplayName = "Companion Spirit Blossom"
       Description = "Your {$Keywords.Assist} deals {#AltUpgradeFormat}{$TooltipData.TooltipDamage} {#PreviousFormat}damage in an area near your closest foe, then continually down the line. \n\n {#BoldFormat}{$Keywords.Assist}{#PreviousFormat}: Press {AS} for a quick assist from a friend {#ItalicFormat}(once per {$Keywords.EncounterAlt}). {#PreviousFormat}{#BoldFormat}Max Uses {#PreviousFormat}{#ItalicFormat}(per Escape): {#PreviousFormat}{#AltUpgradeFormat}{$TooltipData.DisplayDelta1}{#PreviousFormat} \n\n {#AwardFlavorFormat}{$TooltipData.SignoffText}"
     }
     {
       Id = "FuryAssistTrait"
-      DisplayName = "Companion Battie"
+      DisplayName = "Companion Spirit Blossom"
       Description = "Your {$Keywords.Assist} deals {#AltUpgradeFormat}{$TooltipData.TooltipDamage} {#PreviousFormat}damage in an area near your closest foe, then continually down the line."
     }
     {
@@ -12253,7 +12252,7 @@
     }
     {
       Id = "Ghost_FightCause"
-      DisplayName = "Brawl"
+      DisplayName = "Yaoi"
     }
     {
       Id = "Ghost_DrowningCause"
@@ -12349,7 +12348,7 @@
     }
     {
       Id = "Ghost_Flood"
-      DisplayName = "Flooding"
+      DisplayName = "Saw a Ghost"
     }
     {
       Id = "Ghost_ChokingCause"
@@ -12377,7 +12376,7 @@
     }
     {
       Id = "Ghost_MysteryCause"
-      DisplayName = "Undetermined"
+      DisplayName = "10 Ranked Loss Streak"
     }
     {
       Id = "Ghost_HangingCause"
@@ -12389,11 +12388,11 @@
     }
     {
       Id = "Ghost_FreezingCause"
-      DisplayName = "Freezing"
+      DisplayName = "Lesbian Situationship"
     }
     {
       Id = "Ghost_HeatCause"
-      DisplayName = "Heat Stroke"
+      DisplayName = "Bad Burrito"
     }
     {
       Id = "Ghost_SeaCreatureCause"
@@ -12417,7 +12416,7 @@
     }
     {
       Id = "Ghost_Fight"
-      DisplayName = "You should've seen the other guy! Have you seen the other guy?"
+      DisplayName = "I'm a rotten girl..."
     }
     {
       Id = "Ghost_Taste"
@@ -12465,7 +12464,7 @@
     }
     {
       Id = "Ghost_Myth"
-      DisplayName = "It's amazing, seeing all these gods firsthand...!"
+      DisplayName = "It's amazing, seeing all these Spirits firsthand...!"
     }
     {
       Id = "Ghost_Physician"
@@ -12473,7 +12472,7 @@
     }
     {
       Id = "Ghost_Artemis"
-      DisplayName = "I really thought the goddess of the hunt was looking out for me..."
+      DisplayName = "I really thought the Spirit of the Hunt was looking out for me..."
     }
     {
       Id = "Ghost_Cruel"
@@ -12501,11 +12500,11 @@
     }
     {
       Id = "Ghost_Inventor"
-      DisplayName = "If I ever find Daedalus, I'm going to have a word with him."
+      DisplayName = "If I ever find Ornn, I'm going to have a word with him."
     }
     {
       Id = "Ghost_WayOut"
-      DisplayName = "Think Orpheus would tell me the way out?"
+      DisplayName = "Think Yasuo would tell me the way out?"
     }
     {
       Id = "Ghost_Chance"
@@ -12517,7 +12516,7 @@
     }
     {
       Id = "Ghost_Glimpse"
-      DisplayName = "I would do anything for just one glimpse of Aphrodite...!"
+      DisplayName = "I would do anything for just one glimpse of Ahri...!"
     }
     {
       Id = "Ghost_Hurt"
@@ -12533,7 +12532,7 @@
     }
     {
       Id = "Ghost_Neighbors"
-      DisplayName = "No way! You grew up in Delphi, too?"
+      DisplayName = "No way! You grew up in Navori, too?"
     }
     {
       Id = "Ghost_Prophecy"
@@ -12545,7 +12544,7 @@
     }
     {
       Id = "Ghost_Grudge"
-      DisplayName = "Anyone seen a carpenter named Leander?"
+      DisplayName = "Anyone seen a carpenter named Jesus?"
     }
     {
       Id = "Ghost_Sheep"
@@ -12590,7 +12589,7 @@
     }
     {
       Id = "Ghost_Impressed04"
-      DisplayName = "I heard he beat Lord Hades, himself!!"
+      DisplayName = "I heard he beat the Old Timer, himself!!"
     }
     {
       Id = "Ghost_MoldCause"
@@ -12598,7 +12597,7 @@
     }
     {
       Id = "Ghost_Mocking01"
-      DisplayName = "Why do you think Lord Hades isn't here, huh?!"
+      DisplayName = "Why do you think the Old Timer isn't here, huh?!"
     }
     {
       Id = "Ghost_CatCause"
@@ -12614,7 +12613,7 @@
     }
     {
       Id = "Ghost_Mocking03"
-      DisplayName = "Lord Hades put him in his place! No getting out of here!"
+      DisplayName = "His Lord Father put him in his place! No getting out of here!"
     }
     {
       Id = "Ghost_FireCause"
@@ -12630,7 +12629,7 @@
     }
     {
       Id = "Ghost_AboutMeg01"
-      DisplayName = "I heard he and the Fury, they're an item!"
+      DisplayName = "I heard the Chosen Sister hates him especially!"
     }
     {
       Id = "Ghost_AllergyCause"
@@ -12646,7 +12645,7 @@
     }
     {
       Id = "Ghost_AboutThan01"
-      DisplayName = "I'm telling you, he and Thanatos are together!!"
+      DisplayName = "I'm telling you, he and Aphelios are together!!"
     }
     {
       Id = "Ghost_RodentCause"
@@ -12654,15 +12653,15 @@
     }
     {
       Id = "Ghost_AboutAchilles01"
-      DisplayName = "I'm telling you, Achilles is the strongest there ever was!"
+      DisplayName = "I'm telling you, Vayne is the strongest there ever was!"
     }
     {
       Id = "Ghost_AchillesCause"
-      DisplayName = "Achilles"
+      DisplayName = "Vayne"
     }
     {
       Id = "Ghost_AboutAchilles02"
-      DisplayName = "Achilles is splitting time between here and Elysium, huh?"
+      DisplayName = "Vayne is splitting time between here and Elysium, huh?"
     }
     {
       Id = "Ghost_BranchCause"
@@ -12670,7 +12669,7 @@
     }
     {
       Id = "Ghost_AboutOrpheus01"
-      DisplayName = "So Orpheus gets to see his lady again, after all!"
+      DisplayName = "So Yasuo gets to see his brother again, after all!"
     }
     {
       Id = "Ghost_SlippingCause"
@@ -12678,7 +12677,7 @@
     }
     {
       Id = "Ghost_AboutNyx01"
-      DisplayName = "Whatever you do, don't get on Nyx's bad side."
+      DisplayName = "Whatever you do, don't get on the Silver Sister's bad side."
     }
     {
       Id = "Ghost_FallDamageCause"
@@ -12686,7 +12685,7 @@
     }
     {
       Id = "Ghost_AboutNyx02"
-      DisplayName = "Where has Nyx been, lately? You don't suppose...?"
+      DisplayName = "Where has the Silver Sister been, lately? You don't suppose...?"
     }
     {
       Id = "Ghost_CuriosityCause"
@@ -12734,7 +12733,7 @@
     }
     {
       Id = "Ghost_Misc03"
-      DisplayName = "Do you really think Lord Hades is going to hear me out?"
+      DisplayName = "Do you really think the Lord of the Dead is going to hear me out?"
     }
     {
       Id = "Ghost_ElephantCause"
@@ -12790,7 +12789,7 @@
     }
     {
       Id = "Ghost_Misc10"
-      DisplayName = "I've lost count how many times Lord Hades dismissed my claim!"
+      DisplayName = "I've lost count how many times that Old Timer dismissed my claim!"
     }
     {
       Id = "Ghost_BoulderCause"
@@ -12806,7 +12805,7 @@
     }
     {
       Id = "Ghost_Misc12"
-      DisplayName = "We could have won, damn it. If not for those blasted gods..."
+      DisplayName = "We could have won, damn it. If not for those blasted Spirits..."
     }
     {
       Id = "Ghost_BlasphemyCause"
@@ -12980,7 +12979,7 @@
     }
     {
       Id = "Outro_PostEnding01"
-      DisplayName = "zagreus"
+      DisplayName = "settrigh"
     }
     {
       Id = "Outro_PostEnding02"
@@ -13030,7 +13029,7 @@
     /* Retired Outros / Currently Not In Use but Who Knows */
     {
       Id = "Outro_Zagreus"
-      DisplayName = "zagreus"
+      DisplayName = "settrigh"
     }
     {
       Id = "Outro_Journey"
@@ -13753,15 +13752,15 @@
     }
     {
       Id = "RunHistoryScreenResult_A_Boss01"
-      DisplayName = "Slain by {#AltPenaltyFormat}MEGAERA {#PreviousFormat}in {#AltPenaltyFormat}TARTARUS{#PreviousFormat}"
+      DisplayName = "Slain by {#AltPenaltyFormat}ALUNE {#PreviousFormat}in {#AltPenaltyFormat}TARTARUS{#PreviousFormat}"
     }
     {
       Id = "RunHistoryScreenResult_A_Boss02"
-      DisplayName = "Slain by {#AltPenaltyFormat}ALECTO {#PreviousFormat}in {#AltPenaltyFormat}TARTARUS{#PreviousFormat}"
+      DisplayName = "Slain by {#AltPenaltyFormat}EVELYNN {#PreviousFormat}in {#AltPenaltyFormat}TARTARUS{#PreviousFormat}"
     }
     {
       Id = "RunHistoryScreenResult_A_Boss03"
-      DisplayName = "Slain by {#AltPenaltyFormat}TISIPHONE {#PreviousFormat}in {#AltPenaltyFormat}TARTARUS{#PreviousFormat}"
+      DisplayName = "Slain by {#AltPenaltyFormat}CASSIOPEIA {#PreviousFormat}in {#AltPenaltyFormat}TARTARUS{#PreviousFormat}"
     }
     {
       Id = "RunHistoryScreenResult_Asphodel"
@@ -13789,7 +13788,7 @@
     }
     {
       Id = "RunHistoryScreenResult_C_MiniBoss01"
-      DisplayName = "Slain by the {#AltPenaltyFormat}BULL of MINOS {#PreviousFormat}in {#AltPenaltyFormat}ELYSIUM{#PreviousFormat}"
+      DisplayName = "Slain by the {#AltPenaltyFormat}BULL of IONIA {#PreviousFormat}in {#AltPenaltyFormat}ELYSIUM{#PreviousFormat}"
     }
     {
       Id = "RunHistoryScreenResult_C_MiniBoss02"
@@ -13809,7 +13808,7 @@
     }
     {
       Id = "RunHistoryScreenResult_CharonFight01"
-      DisplayName = "Slain by {#AltPenaltyFormat}CHARON {#PreviousFormat}in {#AltPenaltyFormat}EREBUS{#PreviousFormat}"
+      DisplayName = "Slain by {#AltPenaltyFormat}KARTHUS {#PreviousFormat}in {#AltPenaltyFormat}EREBUS{#PreviousFormat}"
     }
     {
       Id = "RunHistoryScreenResult_Secret"
@@ -13874,7 +13873,7 @@
     }
     {
       Id = "GameStats_Boons"
-      DisplayName = "Olympian Boons"
+      DisplayName = "Spirit Realm Boons"
     }
     {
       Id = "GameStats_WeaponUpgrades"
@@ -13929,11 +13928,11 @@
     }
     {
       Id = "ClearTimeFast"
-      DisplayName = "{!Icons.RunClearStar}Swiftness of Hermes{!Icons.RunClearStar}"
+      DisplayName = "{!Icons.RunClearStar}Swiftness of Lillia{!Icons.RunClearStar}"
     }
     {
       Id = "ClearTimeVeryFast"
-      DisplayName = "{!Icons.RunClearStar}Hermes Would Be Jealous{!Icons.RunClearStar}"
+      DisplayName = "{!Icons.RunClearStar}Lillia Would Be Jealous{!Icons.RunClearStar}"
     }
     {
       Id = "ClearTimeSlow"
@@ -13953,7 +13952,7 @@
     }
     {
       Id = "ClearNoOlympianBoons"
-      DisplayName = "{!Icons.RunClearStar}100% Olympian-Free{!Icons.RunClearStar}"
+      DisplayName = "{!Icons.RunClearStar}100% Boon-Free{!Icons.RunClearStar}"
     }
     {
       Id = "ClearAllStoryRooms"
@@ -13969,43 +13968,43 @@
     }
     {
       Id = "ClearRequiredTraitsZeus"
-      DisplayName = "{!Icons.RunClearStar}Disciple of Zeus{!Icons.RunClearStar}"
+      DisplayName = "{!Icons.RunClearStar}Disciple of Volibear{!Icons.RunClearStar}"
     }
     {
       Id = "ClearRequiredTraitsPoseidon"
-      DisplayName = "{!Icons.RunClearStar}Disciple of Poseidon{!Icons.RunClearStar}"
+      DisplayName = "{!Icons.RunClearStar}Disciple of Nami{!Icons.RunClearStar}"
     }
     {
       Id = "ClearRequiredTraitsAthena"
-      DisplayName = "{!Icons.RunClearStar}Disciple of Athena{!Icons.RunClearStar}"
+      DisplayName = "{!Icons.RunClearStar}Disciple of Soraka{!Icons.RunClearStar}"
     }
     {
       Id = "ClearRequiredTraitsAres"
-      DisplayName = "{!Icons.RunClearStar}Disciple of Ares{!Icons.RunClearStar}"
+      DisplayName = "{!Icons.RunClearStar}Disciple of Darius{!Icons.RunClearStar}"
     }
     {
       Id = "ClearRequiredTraitsArtemis"
-      DisplayName = "{!Icons.RunClearStar}Disciple of Artemis{!Icons.RunClearStar}"
+      DisplayName = "{!Icons.RunClearStar}Disciple of Diana{!Icons.RunClearStar}"
     }
     {
       Id = "ClearRequiredTraitsAphrodite"
-      DisplayName = "{!Icons.RunClearStar}Disciple of Aphrodite{!Icons.RunClearStar}"
+      DisplayName = "{!Icons.RunClearStar}Disciple of Ahri{!Icons.RunClearStar}"
     }
     {
       Id = "ClearRequiredTraitsDionysus"
-      DisplayName = "{!Icons.RunClearStar}Disciple of Dionysus{!Icons.RunClearStar}"
+      DisplayName = "{!Icons.RunClearStar}Disciple of Teemo{!Icons.RunClearStar}"
     }
     {
       Id = "ClearRequiredTraitsHermes"
-      DisplayName = "{!Icons.RunClearStar}Disciple of Hermes{!Icons.RunClearStar}"
+      DisplayName = "{!Icons.RunClearStar}Disciple of Lillia{!Icons.RunClearStar}"
     }
     {
       Id = "ClearRequiredTraitsDemeter"
-      DisplayName = "{!Icons.RunClearStar}Disciple of Demeter{!Icons.RunClearStar}"
+      DisplayName = "{!Icons.RunClearStar}Disciple of Lissandra{!Icons.RunClearStar}"
     }
     {
       Id = "ClearRequiredTraitsChaos"
-      DisplayName = "{!Icons.RunClearStar}Scion of Chaos{!Icons.RunClearStar}"
+      DisplayName = "{!Icons.RunClearStar}Scion of Kindred{!Icons.RunClearStar}"
     }
     {
       Id = "ClearHighMaxHealth"
@@ -14029,7 +14028,7 @@
     }
     {
       Id = "ClearWeaponsFiredWrath"
-      DisplayName = "{!Icons.RunClearStar}Olympus Caller{!Icons.RunClearStar}"
+      DisplayName = "{!Icons.RunClearStar}Spirit Caller{!Icons.RunClearStar}"
     }
     {
       Id = "ClearWeaponsFiredRanged"
@@ -14041,7 +14040,7 @@
     }
   	{
       Id = "ClearLegendaryTraits"
-      DisplayName = "{!Icons.RunClearStar}Pride of Olympus{!Icons.RunClearStar}"
+      DisplayName = "{!Icons.RunClearStar}Pride of the Spirit Realm{!Icons.RunClearStar}"
     }
     {
       Id = "ClearFishCaught"
@@ -14069,7 +14068,7 @@
     }
     {
       Id = "ClearLockKeyDrops"
-      DisplayName = "{!Icons.RunClearStar}Chthonic Keymaster{!Icons.RunClearStar}"
+      DisplayName = "{!Icons.RunClearStar}Primordial Keymaster{!Icons.RunClearStar}"
     }
     {
       Id = "ClearConsolationPrizes"
@@ -14081,7 +14080,7 @@
     }
     {
       Id = "ClearShutDownThanatos"
-      DisplayName = "{!Icons.RunClearStar}Robbed Thanatos{!Icons.RunClearStar}"
+      DisplayName = "{!Icons.RunClearStar}Robbed Aphelios{!Icons.RunClearStar}"
     }
     {
       Id = "ClearManyTraitsSold"
@@ -17397,7 +17396,7 @@
     }
     {
       Id = "CloudSaveMessage_CloudSyncSpinnerText"
-      DisplayName = "Calling Olympus..."
+      DisplayName = "Calling The Spirit Realm..."
     }
     {
       Id = "CloudSaveMessage_CloudSyncSpinnerText_Failed"

@@ -1693,32 +1693,32 @@
     {
       Id = "ZagreusHome_1477"
       Speaker = "Zagreus"
-      DisplayName = "8r8k"
+      DisplayName = "I just... don't wanna push you, Than. I know all this is kind of a lot, 'n I had a lot to make up for. And I wanted you to know... this isn't some impulsive thing for me. I'll wait for you however long it takes. Forever, if I need to."
     }
     {
       Id = "Thanatos_0418"
       Speaker = "Thanatos"
-      DisplayName = "8r8k"
+      DisplayName = "{#DialogueItalicFormat}Sett{#PreviousFormat}. You have no concept of which impulses to act upon, and which to keep in check. You say you'll wait, but... let me ask you this: What are you waiting for? What are you waiting for, when I'm here, I'm ready. Do you not understand, I adore you?"
     }
     {
       Id = "ZagreusHome_1478"
       Speaker = "Zagreus"
-      DisplayName = "8r8k"
+      DisplayName = "Phel...! {#DialogueItalicFormat}Hahaha{#PreviousFormat}, oh, you're right! You're right. I love you too. I love you so much. C'mere already, will ya?"
     }
     {
       Id = "ZagreusHome_1479"
       Speaker = "Zagreus"
-      DisplayName = "8r8k"
+      DisplayName = "Hey, mooncake? What're you thinkin' about? I never know what's goin' through your pretty head when you're quiet."
     }
     {
       Id = "Thanatos_0419"
       Speaker = "Thanatos"
-      DisplayName = "8r8k"
+      DisplayName = "It's not always a bad thing when I'm quiet, you'll get used to it. And I'm thinking of a lot of things... but mostly that I'm so glad you came back. That even if I had to go through it all again, it would be worth it. Satisfied, your Highness?"
     }
     {
       Id = "ZagreusHome_1480"
       Speaker = "Zagreus"
-      DisplayName = "8r8k"
+      DisplayName = "Heh. Yes, that's a wonderful answer. I'm so glad fate stopped my dumb ass from leavin' behind the best thing that's ever happened to me. I can't wait to get to know you again... maybe I can start tonight...?"
     }
     {
       /*
@@ -1768,17 +1768,17 @@
     {
       Id = "ZagreusHome_1481"
       Speaker = "Zagreus"
-      DisplayName = "8r8k"
+      DisplayName = "Mooncake... Hehe, I'm so happy right now. I'm on top of the Underworld! I wanna tell everyone, I want everyone to know, I feel like I could shout it from the rooftop of the Temple Styx. Do you think Alune will be happy we're together? Wait... she's okay with us, right? She ain't gonna hunt me down again, is she?"
     }
     {
       Id = "Thanatos_0420"
       Speaker = "Thanatos"
-      DisplayName = "8r8k"
+      DisplayName = "{#DialogueItalicFormat}Heh. {#PreviousFormat}. Who do you think talked me into finally confessing? Alune was the one who first realized that you had no idea how I felt. She'll be very happy for us. She might still reserve the right to tease you, though."
     }
     {
       Id = "ZagreusHome_1482"
       Speaker = "Zagreus"
-      DisplayName = "8r8k"
+      DisplayName = "Hah! That's fair, I can handle that. I'm glad we have her blessin'. How did I get so lucky with you moon twins? One's my soulmate, 'n the other is gonna be the best sister-in-law ever."
     }
     {
       /*

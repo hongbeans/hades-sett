@@ -45,6 +45,9 @@ Replace "Dialogue/_DeathLoopData.en.sjson"
 To "Game/Text/en/CodexText.en.sjson"
 Replace "Dialogue/CodexText.en.sjson"
 
+To "Game/Text/en/_EncounterData.en.sjson"
+Replace "Dialogue/_EncounterData.en.sjson"
+
 To "Game/Text/en/_LootData.en.sjson"
 Replace "Dialogue/_LootData.en.sjson"
 
