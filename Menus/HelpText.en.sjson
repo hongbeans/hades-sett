@@ -3248,12 +3248,12 @@
     {
       Id = "ShieldRushBonusProjectileTrait"
       DisplayName = "Aspect of Vel'Koz"
-      Description = "After your {$Keywords.Tackle}, your next {$Keywords.Special} throws multiple Shields. \n {!Icons.Bullet}{#PropertyFormat}Bonus Shields Thrown: \Column 380 {#UpgradeFormat}{$TooltipData.TooltipProjectiles} \n\n {#ItalicFormatDark}Many horrorss spring from the Void; only one artifact bears witness."
+      Description = "After your {$Keywords.Tackle}, your next {$Keywords.Special} throws multiple Shields. \n {!Icons.Bullet}{#PropertyFormat}Bonus Shields Thrown: \Column 380 {#UpgradeFormat}{$TooltipData.TooltipProjectiles} \n\n {#ItalicFormatDark}Many horrors spring from the Void; only one artifact bears witness."
     }
     {
       Id = "ShieldRushBonusProjectileTrait_Delta"
       InheritFrom = "ShieldRushBonusProjectileTrait"
-      Description = "After your {$Keywords.Tackle}, your next {$Keywords.Special} throws multiple Shields. \n {!Icons.Bullet}{#PropertyFormat}Bonus Shields Thrown: \Column 380 {#UpgradeFormat}{#PreviousFormat}{$TooltipData.DisplayDelta1} \n\n {#ItalicFormatDark}Many horrorss spring from the Void; only one artifact bears witness."
+      Description = "After your {$Keywords.Tackle}, your next {$Keywords.Special} throws multiple Shields. \n {!Icons.Bullet}{#PropertyFormat}Bonus Shields Thrown: \Column 380 {#UpgradeFormat}{#PreviousFormat}{$TooltipData.DisplayDelta1} \n\n {#ItalicFormatDark}Many horrors spring from the Void; only one artifact bears witness."
     }
     {
       Id = "ShieldRushBonusProjectileTrait_Tray"
@@ -7002,12 +7002,12 @@
     }
     {
       Id = "SwordWeapon"
-      DisplayName = "Stygian Blade"
-      Description = "Stygius, Blade of the Underworld"
+      DisplayName = "Infinity Edge"
+      Description = "Infinity Edge, Blade of the Underworld"
     }
     {
       Id = "SwordWeapon_Full"
-      DisplayName = "Stygius"
+      DisplayName = "Infinity Edge"
       Description = "Aspects of the Blade of the Underworld"
     }
     {
@@ -7016,12 +7016,12 @@
     }
     {
       Id = "SpearWeapon"
-      DisplayName = "Eternal Spear"
-      Description = "Varatha, the Eternal Spear"
+      DisplayName = "Sundered Sky"
+      Description = "Sundered Sky, the Eternal Spear"
     }
     {
       Id = "SpearWeapon_Full"
-      DisplayName = "Varatha"
+      DisplayName = "Sundered Sky"
       Description = "Aspects of the Eternal Spear"
     }
     {
@@ -7030,16 +7030,16 @@
     }
     {
       Id = "SpearWeapon_Unlock"
-      DisplayName = "Varatha, the Eternal Spear"
+      DisplayName = "Sundered Sky, the Eternal Spear"
     }
     {
       Id = "ShieldWeapon"
-      DisplayName = "Shield of Chaos"
-      Description = "Aegis, Shield of Chaos"
+      DisplayName = "Randuin's Omen"
+      Description = "Randuin's Omen, Shield of Chaos"
     }
     {
       Id = "ShieldWeapon_Full"
-      DisplayName = "Aegis"
+      DisplayName = "Randuin's Omen"
       Description = "Aspects of the Shield of Chaos"
     }
     {
@@ -7048,16 +7048,16 @@
     }
     {
       Id = "ShieldWeapon_Unlock"
-      DisplayName = "Aegis, Shield of Chaos"
+      DisplayName = "Randuin's Omen, Shield of Chaos"
     }
     {
       Id = "BowWeapon"
-      DisplayName = "Heart-Seeking Bow"
-      Description = "Coronacht, the Heart-Seeking Bow"
+      DisplayName = "Last Whisper"
+      Description = "Last Whisper, the Heart-Seeking Bow"
     }
     {
       Id = "BowWeapon_Full"
-      DisplayName = "Coronacht"
+      DisplayName = "Last Whisper"
       Description = "Aspects of the Heart-Seeking Bow"
     }
     {
@@ -7066,21 +7066,21 @@
     }
     {
       Id = "BowWeapon_Unlock"
-      DisplayName = "Coronacht, the Heart-Seeker"
+      DisplayName = "Last Whisper, the Heart-Seeker"
     }
     {
       Id = "FistWeapon"
-      DisplayName = "Twin Fists"
-      Description = "Malphon, the Twin Fists"
+      DisplayName = "Iceborn Gauntlet"
+      Description = "Iceborn Gauntlet, the Twin Fists"
     }
     {
       Id = "FistWeapon_Full"
-      DisplayName = "Malphon"
+      DisplayName = "Iceborn Gauntlet"
       Description = "Aspects of the Twin Fists"
     }
     {
       Id = "FistWeapon_Unlock"
-      DisplayName = "Malphon, the Twin Fists"
+      DisplayName = "Iceborn Gauntlet, the Twin Fists"
     }
     {
       Id = "FistWeapon_Short"
@@ -7088,12 +7088,12 @@
     }
     {
       Id = "GunWeapon"
-      DisplayName = "Adamant Rail"
-      Description = "Exagryph, Adamant Rail"
+      DisplayName = "Rapidfire Cannon"
+      Description = "Rapidfire Cannon, Adamant Rail"
     }
     {
       Id = "GunWeapon_Full"
-      DisplayName = "Exagryph"
+      DisplayName = "Rapidfire Cannon"
       Description = "Aspects of the Adamant Rail"
     }
     {
@@ -7102,7 +7102,7 @@
     }
     {
       Id = "GunWeapon_Unlock"
-      DisplayName = "Exagryph, the Adamant Rail"
+      DisplayName = "Rapidfire Cannon, the Adamant Rail"
     }
     {
       Id = "WeaponAcquired"
@@ -8772,32 +8772,32 @@
     {
       Id = "SwordHammerUpgrades"
       DisplayName = "The Stygian Blade"
-      Description = "The son of the god of the dead shall someday acquire each of the Ornn enchantments for Stygius."
+      Description = "The son of the god of the dead shall someday acquire each of the Ornn enchantments for Infinity Edge."
     }
     {
       Id = "BowHammerUpgrades"
       DisplayName = "The Heart-Seeking Bow"
-      Description = "The son of the god of the dead shall someday acquire each of the Ornn enchantments for Coronacht."
+      Description = "The son of the god of the dead shall someday acquire each of the Ornn enchantments for Last Whisper."
     }
     {
       Id = "ShieldHammerUpgrades"
       DisplayName = "The Shield of Chaos"
-      Description = "The son of the god of the dead shall someday acquire each of the Ornn enchantments for Aegis."
+      Description = "The son of the god of the dead shall someday acquire each of the Ornn enchantments for Randuin's Omen."
     }
     {
       Id = "SpearHammerUpgrades"
       DisplayName = "The Eternal Spear"
-      Description = "The son of the god of the dead shall someday acquire each of the Ornn enchantments for Varatha."
+      Description = "The son of the god of the dead shall someday acquire each of the Ornn enchantments for Sundered Sky."
     }
     {
       Id = "FistHammerUpgrades"
       DisplayName = "The Twin Fists"
-      Description = "The son of the god of the dead shall someday acquire each of the Ornn enchantments for Malphon."
+      Description = "The son of the god of the dead shall someday acquire each of the Ornn enchantments for Iceborn Gauntlet."
     }
     {
       Id = "GunHammerUpgrades"
       DisplayName = "The Adamant Rail"
-      Description = "The son of the god of the dead shall someday acquire each of the Ornn enchantments for Exagryph."
+      Description = "The son of the god of the dead shall someday acquire each of the Ornn enchantments for Rapidfire Cannon."
     }
     {
       Id = "WeaponClears"
@@ -8906,7 +8906,7 @@
     {
       Id = "SkellyTrueDeath"
       DisplayName = "Eternal Rest"
-      Description = "A stationary animated skeleton shall someday be slain by the blade Stygius, in the fully awakened Aspect of the Prince of the Underworld."
+      Description = "A stationary animated skeleton shall someday be slain by the blade Infinity Edge, in the fully awakened Aspect of the Prince of the Underworld."
     }
     {
       Id = "SkellyTrueDeath_B"
@@ -8914,7 +8914,7 @@
     }
     {
       Id = "SkellyTrueDeathQuestComplete"
-      DisplayName = "Slay Amumu using Stygius with the MAX Lv. Settrigh Aspect"
+      DisplayName = "Slay Amumu using Infinity Edge with the MAX Lv. Settrigh Aspect"
     }
     {
       Id = "NyxChaosReunion"
@@ -8985,25 +8985,25 @@
     }
     {
       Id = "LordHadesHasGuanYuAspect01"
-      DisplayName = "Reach the Surface With the Hidden Aspect of Varatha"
+      DisplayName = "Reach the Surface With the Hidden Aspect of Sundered Sky"
     }
     {
       Id = "ArthurAspectEscape"
       DisplayName = "The Princely Liege"
-      Description = "The Stygian Blade shall someday rise from the Underworld in a form it shall assume again in the hands of a mighty prince, whose tale is yet to be spun."
+      Description = "The Infinity Edge shall someday rise from the Underworld in a form it shall assume again in the hands of a mighty prince, whose tale is yet to be spun."
     }
     {
       Id = "LordHadesHasArthurAspect01"
-      DisplayName = "Reach the Surface With the Hidden Aspect of Stygius"
+      DisplayName = "Reach the Surface With the Hidden Aspect of Infinity Edge"
     }
     {
       Id = "RamaAspectEscape"
-      DisplayName = "The Frost Queenr"
+      DisplayName = "The Frost Queen"
       Description = "The Heart-Seeking Bow shall someday rise from the Underworld in a form it assumed in the hands of a blessed archer, whose deeds shall forever be remembered."
     }
     {
       Id = "LordHadesHasRamaAspect01"
-      DisplayName = "Reach the Surface With the Hidden Aspect of Coronacht"
+      DisplayName = "Reach the Surface With the Hidden Aspect of Last Whisper"
     }
     {
       Id = "BeowulfAspectEscape"
@@ -9012,16 +9012,16 @@
     }
     {
       Id = "LordHadesHasBeowulfAspect01"
-      DisplayName = "Reach the Surface With the Hidden Aspect of Aegis"
+      DisplayName = "Reach the Surface With the Hidden Aspect of Randuin's Omen"
     }
     {
       Id = "GilgameshAspectEscape"
       DisplayName = "The Merciless Wolf"
-      Description = "The Twin Fists of Malphon shall someday rise from the Underworld in a form it assumed in the hands of a mighty warrior, whose conquests shall forever be remembered."
+      Description = "The Iceborn Gauntlet shall someday rise from the Underworld in a form it assumed in the hands of a mighty warrior, whose conquests shall forever be remembered."
     }
     {
       Id = "LordHadesHasGilgameshAspect01"
-      DisplayName = "Reach the Surface With the Hidden Aspect of Malphon"
+      DisplayName = "Reach the Surface With the Hidden Aspect of Iceborn Gauntlet"
     }
     {
       Id = "LuciferAspectEscape"
@@ -9030,7 +9030,7 @@
     }
     {
       Id = "LordHadesHasLuciferAspect01"
-      DisplayName = "Reach the Surface With the Hidden Aspect of Exagryph"
+      DisplayName = "Reach the Surface With the Hidden Aspect of Rapidfire Cannon"
     }
     {
       Id = "ChaosKeepsakeEscape"
