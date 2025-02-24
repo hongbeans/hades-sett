@@ -3098,7 +3098,7 @@
         Event: HadesPostEnding03
         Zagreus: Say, Old Timer... back when they say you abandoned your brothers, and wound up with the Underworld, did you regret it...? Wouldn't you have rathered they let ya lord over the sea, or the forest?
         Hades: I do not deal in hypotheticals, boy. That is a story of which you know far, far too little to be offering your small-minded opinions.
-        Zagreus: Yeah, but didn't {#DialogueItalicFormat}you{#PreviousFormat} try to leave the Underworld roo, at one point? I've always thought it was 'cause you hated it here.
+        Zagreus: Yeah, but didn't {#DialogueItalicFormat}you {#PreviousFormat}try to leave the Underworld roo, at one point? I've always thought it was 'cause you hated it here.
         Hades: I hate not having any choice. Enjoy the freedoms that you have. As you grow long in years, you gain more burdens and regrets, until they bind you.
       */
       Id = "ZagreusHome_3473"
@@ -3127,7 +3127,7 @@
       */
       Id = "ZagreusHome_3474"
       Speaker = "Zagreus"
-      DisplayName = "Yeah, but didn't {#DialogueItalicFormat}you{#PreviousFormat} try to leave the Underworld roo, at one point? I've always thought it was 'cause you hated it here."
+      DisplayName = "Yeah, but didn't {#DialogueItalicFormat}you {#PreviousFormat}try to leave the Underworld roo, at one point? I've always thought it was 'cause you hated it here."
     }
     {
       /*
@@ -13671,7 +13671,7 @@
       */
       Id = "Nyx_0145"
       Speaker = "Nyx"
-      DisplayName = "It wishes for me to impart to you these words, so that your blade, in turn, may hear them uttered from your lips: {#DialogueItalicFormat}I see your spirit tremble in the name of honor and duty.{#PreviousFormat} Repeat them, and remember."
+      DisplayName = "It wishes for me to impart to you these words, so that your blade, in turn, may hear them uttered from your lips: {#DialogueItalicFormat}I see your spirit tremble in the name of honor and duty. {#PreviousFormat}Repeat them, and remember."
     }
     {
       /*
@@ -15104,7 +15104,7 @@
       */
       Id = "ZagreusHome_0236"
       Speaker = "Zagreus"
-      DisplayName = "{#DialogueItalicFormat}So{#PreviousFormat} glad to be of service."
+      DisplayName = "{#DialogueItalicFormat}So {#PreviousFormat}glad to be of service."
     }
     {
       /*
@@ -17210,7 +17210,7 @@
       */
       Id = "ZagreusHome_0784"
       Speaker = "Zagreus"
-      DisplayName = "Maybe I have more of an idea than you realize, Phel. I'm sorry I left you like that, 'n I'm so sorry I'm putting you through all of this, it's just... it's something that I {#DialogueItalicFormat}have{#PreviousFormat} to do. I had to know the truth about me. But... maybe we can move on from here...?"
+      DisplayName = "Maybe I have more of an idea than you realize, Phel. I'm sorry I left you like that, 'n I'm so sorry I'm putting you through all of this, it's just... it's something that I {#DialogueItalicFormat}have {#PreviousFormat}to do. I had to know the truth about me. But... maybe we can move on from here...?"
     }
     {
       /*
@@ -18704,7 +18704,7 @@
       */
       Id = "Thanatos_0617"
       Speaker = "Thanatos"
-      DisplayName = "...{#DialogueItalicFormat}That{#PreviousFormat} doesn't surprise me. But... do you not ever get the feeling that some things are meant to be...?"
+      DisplayName = "...{#DialogueItalicFormat}That {#PreviousFormat}doesn't surprise me. But... do you not ever get the feeling that some things are meant to be...?"
     }
     {
       /*
@@ -18974,7 +18974,7 @@
       */
       Id = "Thanatos_0645"
       Speaker = "Thanatos"
-      DisplayName = "I'm not sure what was going through your head, for the first thing out of your mouth after you left us without a word, to be about my haircut and how much you liked it longer. Maybe I {#DialogueItalicFormat}should{#PreviousFormat} have sliced your fool head off."
+      DisplayName = "I'm not sure what was going through your head, for the first thing out of your mouth after you left us without a word, to be about my haircut and how much you liked it longer. Maybe I {#DialogueItalicFormat}should {#PreviousFormat}have sliced your fool head off."
     }
     {
       /*
@@ -19654,7 +19654,7 @@
         Event: ThanatosWithNyx01
         Thanatos: Mother Moon, I know you do much for this House, and its members. And for us. And so I hesitate to ask, but why do you have such reservations about him?
         Nyx: You misunderstand me, child. I do not have reservations, I care deeply for the boy. But there are matters are at stake here concerning you and all of us, and it is far better you not entangle yourself in something you do not understand. Trust me for the sake of our family. 
-        Thanatos: But he {#DialogueItalicFormat}is{#PreviousFormat} family. We grew up together, you have cared for him like your own. So why this? I don't understand...
+        Thanatos: But he {#DialogueItalicFormat}is {#PreviousFormat}family. We grew up together, you have cared for him like your own. So why this? I don't understand...
       */
       Id = "Thanatos_0542"
       Speaker = "Thanatos"
@@ -19669,7 +19669,7 @@
       */
       Id = "Nyx_0136"
       Speaker = "Nyx"
-      DisplayName = "ou misunderstand me, child. I do not have reservations, I care deeply for the boy. But there are matters are at stake here concerning you and all of us, and it is far better you not entangle yourself in something you do not understand. Trust me for the sake of our family."
+      DisplayName = "You misunderstand me, child. I do not have reservations, I care deeply for the boy. But there are matters are at stake here concerning you and all of us, and it is far better you not entangle yourself in something you do not understand. Trust me for the sake of our family."
     }
     {
       /*
@@ -19680,7 +19680,7 @@
       */
       Id = "Thanatos_0543"
       Speaker = "Thanatos"
-      DisplayName = "But he {#DialogueItalicFormat}is{#PreviousFormat} family. We grew up together, you have cared for him like your own. So why this? I don't understand..."
+      DisplayName = "But he {#DialogueItalicFormat}is {#PreviousFormat}family. We grew up together, you have cared for him like your own. So why this? I don't understand..."
     }
     {
       /*
@@ -21078,7 +21078,7 @@
       */
       Id = "Thanatos_0416"
       Speaker = "Thanatos"
-      DisplayName = "...No, I... I didn't say anything. Perhaps I should have. And there's no need to be sorry, I knew you were asleep but I thought... {#DialogueItalicFormat}argh.{#PreviousFormat} If you don't remember anything then perhaps that's best!"
+      DisplayName = "...No, I... I didn't say anything. Perhaps I should have. And there's no need to be sorry, I knew you were asleep but I thought... {#DialogueItalicFormat}argh. {#PreviousFormat}If you don't remember anything then perhaps that's best!"
     }
     {
       /*
@@ -21664,7 +21664,7 @@
       */
       Id = "Thanatos_0203"
       Speaker = "Thanatos"
-      DisplayName = "You don't. You don't have to leave. You have no idea what you're doing, what you're leaving behind. {#DialogueItalicFormat}Who{#PreviousFormat} you're leaving behind. Maybe someday you'll come to understand."
+      DisplayName = "You don't. You don't have to leave. You have no idea what you're doing, what you're leaving behind. {#DialogueItalicFormat}Who {#PreviousFormat}you're leaving behind. Maybe someday you'll come to understand."
     }
     {
       /*
@@ -21786,7 +21786,7 @@
       */
       Id = "ThanatosField_0223"
       Speaker = "Thanatos"
-      DisplayName = "...I don't know. I don't even know how {#DialogueItalicFormat}I{#PreviousFormat} feel. I get to thinking... are we only friends, or even that? Or... Ugh. Feel free to put my out of my misery any time here, your Highness."
+      DisplayName = "...I don't know. I don't even know how {#DialogueItalicFormat}I {#PreviousFormat}feel. I get to thinking... are we only friends, or even that? Or... Ugh. Feel free to put my out of my misery any time here, your Highness."
     }
     {
       /*
@@ -22543,7 +22543,7 @@
       */
       Id = "Dusa_0147"
       Speaker = "Dusa"
-      DisplayName = "...No I promise, they'll turn back after about... four days. Or nights...? But they'll turn back. In fact, I think the shades would {#DialogueItalicFormat}enjoy{#PreviousFormat} being turned into mushrooms."
+      DisplayName = "...No I promise, they'll turn back after about... four days. Or nights...? But they'll turn back. In fact, I think the shades would {#DialogueItalicFormat}enjoy {#PreviousFormat}being turned into mushrooms."
     }
     {
       /*
@@ -22563,7 +22563,7 @@
       */
       Id = "ZagreusHome_1957"
       Speaker = "Zagreus"
-      DisplayName = "{#DialogueItalicFormat}Pffft!{#PreviousFormat} While I do love the idea, I think the old timer might literally blow his top if we messed with the shades like that-wait, could you turn {#DialogueItalicFormat}him{#PreviousFormat} into a mushroom?"
+      DisplayName = "{#DialogueItalicFormat}Pffft! {#PreviousFormat}While I do love the idea, I think the old timer might literally blow his top if we messed with the shades like that-wait, could you turn {#DialogueItalicFormat}him {#PreviousFormat}into a mushroom?"
     }
     {
       /*
@@ -22766,7 +22766,7 @@
       */
       Id = "Dusa_0155"
       Speaker = "Dusa"
-      DisplayName = "Hmm. Hmmmm.{#DialogueItalicFormat} Hmmmmmmmmmmmm.{#PreviousFormat} OK, that's fine. Ambrojini for the lounge."
+      DisplayName = "Hmm. Hmmmm.{#DialogueItalicFormat} Hmmmmmmmmmmmm. {#PreviousFormat}OK, that's fine. Ambrojini for the lounge."
     }
     {
       /*
@@ -22799,7 +22799,7 @@
       */
       Id = "Dusa_0515"
       Speaker = "Dusa"
-      DisplayName = "{#DialogueItalicFormat}Oh.{#PreviousFormat} He was fine. He infiltrated the dust bunny lair, and single-handedly wiped out their strongest warriors. The House will be safe for a long time. But the lounge will have no Amboozah."
+      DisplayName = "{#DialogueItalicFormat}Oh. {#PreviousFormat}He was fine. He infiltrated the dust bunny lair, and single-handedly wiped out their strongest warriors. The House will be safe for a long time. But the lounge will have no Amboozah."
     }
     {
       /*
@@ -22883,7 +22883,7 @@
       */
       Id = "ZagreusHome_1968"
       Speaker = "Zagreus"
-      DisplayName = "{#DialogueItalicFormat}Huh?!{#PreviousFormat} Pix is an Old God? Does Pa know? I mean, I ain't gonna rat you out, but I thought all the Old Gods were {#DialogueItalicFormat}underneath{#PreviousFormat} Tartarus. But one is here?"
+      DisplayName = "{#DialogueItalicFormat}Huh?! {#PreviousFormat}Pix is an Old God? Does Pa know? I mean, I ain't gonna rat you out, but I thought all the Old Gods were {#DialogueItalicFormat}underneath {#PreviousFormat}Tartarus. But one is here?"
     }
     {
       /*
@@ -23073,7 +23073,7 @@
       */
       Id = "Dusa_0163"
       Speaker = "Dusa"
-      DisplayName = "Oh. {#DialogueItalicFormat}Hehe.{#PreviousFormat} I could be. I might be. But if I told you the truth, I would have to obliterate your soul."
+      DisplayName = "Oh. {#DialogueItalicFormat}Hehe. {#PreviousFormat}I could be. I might be. But if I told you the truth, I would have to obliterate your soul."
     }
     {
       /*
@@ -23866,7 +23866,7 @@
       */
       Id = "ZagreusHome_3223"
       Speaker = "Zagreus"
-      DisplayName = "Heh. Yeah, she's finally home, I can only hope she likes it here, 'n that it {#DialogueItalicFormat}does{#PreviousFormat} feel like home to her."
+      DisplayName = "Heh. Yeah, she's finally home, I can only hope she likes it here, 'n that it {#DialogueItalicFormat}does {#PreviousFormat}feel like home to her."
     }
     {
       /*
@@ -23877,7 +23877,7 @@
       */
       Id = "Dusa_0475"
       Speaker = "Dusa"
-      DisplayName = "{#DialogueItalicFormat}So{#PreviousFormat} sharp. Like she could probably bite someone in half, if she wanted. That is so cool."
+      DisplayName = "{#DialogueItalicFormat}So {#PreviousFormat}sharp. Like she could probably bite someone in half, if she wanted. That is so cool."
     }
     {
       /*
@@ -24143,7 +24143,7 @@
       */
       Id = "Dusa_0466"
       Speaker = "Dusa"
-      DisplayName = "{#DialogueItalicFormat}<Belching sounds>{#PreviousFormat} Mmm! That tasted purple!"
+      DisplayName = "{#DialogueItalicFormat}<Belching sounds> {#PreviousFormat}Mmm! That tasted purple!"
     }
     {
       /*
@@ -24169,7 +24169,7 @@
       */
       Id = "Hypnos_0190"
       Speaker = "Hypnos"
-      DisplayName = "Wait, you're really showing {#DialogueItalicFormat}me?{#PreviousFormat} Out of everyone? Isn't this super special though? These are so hard to find down here!"
+      DisplayName = "Wait, you're really showing {#DialogueItalicFormat}me? {#PreviousFormat}Out of everyone? Isn't this super special though? These are so hard to find down here!"
     }
     {
       /*
@@ -24195,7 +24195,7 @@
       */
       Id = "Hypnos_0191"
       Speaker = "Hypnos"
-      DisplayName = "Oh, {#DialogueItalicFormat}wow!{#PreviousFormat} So this is a {#DialogueItalicFormat}tulip!{#PreviousFormat}"
+      DisplayName = "Oh, {#DialogueItalicFormat}wow! {#PreviousFormat}So this is a {#DialogueItalicFormat}tulip!{#PreviousFormat}"
     }
     {
       /*
@@ -24281,7 +24281,7 @@
       */
       Id = "Dusa_0435"
       Speaker = "Dusa"
-      DisplayName = "Oh, that's {#DialogueItalicFormat}easy{#PreviousFormat}. This place doesn't even {#DialogueItalicFormat}have{#PreviousFormat} windows!"
+      DisplayName = "Oh, that's {#DialogueItalicFormat}easy{#PreviousFormat}. This place doesn't even {#DialogueItalicFormat}have {#PreviousFormat}windows!"
     }
     {
       /*
@@ -24325,7 +24325,7 @@
       */
       Id = "MegaeraHome_0014"
       Speaker = "Megaera"
-      DisplayName = "No, I mean is there a way to make {#DialogueItalicFormat}both{#PreviousFormat} sides of his pillow warm and damp, eternally. So no matter when or how he sleeps, it's horrid."
+      DisplayName = "No, I mean is there a way to make {#DialogueItalicFormat}both {#PreviousFormat}sides of his pillow warm and damp, eternally. So no matter when or how he sleeps, it's horrid."
     }
     {
       /*
@@ -24336,7 +24336,7 @@
       */
       Id = "Dusa_0072"
       Speaker = "Dusa"
-      DisplayName = "Hmmm. I don't know a trick like that. I {#DialogueItalicFormat}could{#PreviousFormat} give you a pillow that eats the sleeper's hair overnight? Who is this for, anyway?"
+      DisplayName = "Hmmm. I don't know a trick like that. I {#DialogueItalicFormat}could {#PreviousFormat}give you a pillow that eats the sleeper's hair overnight? Who is this for, anyway?"
     }
     {
       /*
@@ -24445,7 +24445,7 @@
       */
       Id = "MegaeraHome_0358"
       Speaker = "Megaera"
-      DisplayName = "...It's not that surprising, is it? I mean we all grew up together, there was a time where he was as much a brother to me as Phel... but I'm surprised too, how forgiving {#DialogueItalicFormat}I{#PreviousFormat} am."
+      DisplayName = "...It's not that surprising, is it? I mean we all grew up together, there was a time where he was as much a brother to me as Phel... but I'm surprised too, how forgiving {#DialogueItalicFormat}I {#PreviousFormat}am."
     }
     {
       /*
@@ -24810,7 +24810,7 @@
       */
       Id = "Dusa_0078"
       Speaker = "Dusa"
-      DisplayName = "{#DialogueItalicFormat}AH!!{#PreviousFormat} Stop sneaking up on me like that, Prince No-shoes!"
+      DisplayName = "{#DialogueItalicFormat}AH!! {#PreviousFormat}Stop sneaking up on me like that, Prince No-shoes!"
     }
     {
       /*
@@ -25295,7 +25295,7 @@
       */
       Id = "Dusa_0046"
       Speaker = "Dusa"
-      DisplayName = "What's this? {#DialogueItalicFormat}*Sniff*{#PreviousFormat} Hm. Some kind of floor cleaner? That's {#DialogueItalicFormat}awesome!{#PreviousFormat} Here, a great gift deserves something in return."
+      DisplayName = "What's this? {#DialogueItalicFormat}*Sniff* {#PreviousFormat}Hm. Some kind of floor cleaner? That's {#DialogueItalicFormat}awesome! {#PreviousFormat}Here, a great gift deserves something in return."
     }
     {
       /*
@@ -27031,7 +27031,7 @@
       */
       Id = "Orpheus_0269"
       Speaker = "Orpheus"
-      DisplayName = "Let me be the nosy one for once. Queen Lihua is your mother, right? How did she end up in {#DialogueItalicFormat}this{#PreviousFormat} place?"
+      DisplayName = "Let me be the nosy one for once. Queen Lihua is your mother, right? How did she end up in {#DialogueItalicFormat}this {#PreviousFormat}place?"
     }
     {
       /*
@@ -27469,7 +27469,7 @@
       */
       Id = "Orpheus_0100"
       Speaker = "Orpheus"
-      DisplayName = "Humility always was your best trait, noble Prince. Aphelios even helped me with this song, he assured me it was an {#DialogueItalicFormat}excellent{#PreviousFormat} idea."
+      DisplayName = "Humility always was your best trait, noble Prince. Aphelios even helped me with this song, he assured me it was an {#DialogueItalicFormat}excellent {#PreviousFormat}idea."
     }
     {
       /*
@@ -27997,7 +27997,7 @@
       */
       Id = "Orpheus_0142"
       Speaker = "Orpheus"
-      DisplayName = "Something happened, Boss. {#DialogueItalicFormat}Someone{#PreviousFormat} altered the terms of my contract, and... I'm free to visit Asphodel sometimes. I can... see Yone again. Never thought I'd see the day. Or night?"
+      DisplayName = "Something happened, Boss. {#DialogueItalicFormat}Someone {#PreviousFormat}altered the terms of my contract, and... I'm free to visit Asphodel sometimes. I can... see Yone again. Never thought I'd see the day. Or night?"
     }
     {
       /*
@@ -31219,7 +31219,7 @@
       */
       Id = "MegaeraHome_0402"
       Speaker = "Megaera"
-      DisplayName = "Maybe, just maybe, you're projecting your own insecurities onto her a little bit? Cass can take care of herself... But I have heard she wasn't always like this, so perhaps your interference isn't {#DialogueItalicFormat}totally{#PreviousFormat} pointless."
+      DisplayName = "Maybe, just maybe, you're projecting your own insecurities onto her a little bit? Cass can take care of herself... But I have heard she wasn't always like this, so perhaps your interference isn't {#DialogueItalicFormat}totally {#PreviousFormat}pointless."
     }
     {
       /*
@@ -33694,7 +33694,7 @@
       */
       Id = "MegaeraHome_0151"
       Speaker = "Megaera"
-      DisplayName = "Well, dumbassery is a lot easier to forgive than an uncaring cruelty. And for what it's worth, I'm seeing that you're not a dumbass {#DialogueItalicFormat}all{#PreviousFormat} the time. Thanks for the company, and the drink. Guess I'll see you around?"
+      DisplayName = "Well, dumbassery is a lot easier to forgive than an uncaring cruelty. And for what it's worth, I'm seeing that you're not a dumbass {#DialogueItalicFormat}all {#PreviousFormat}the time. Thanks for the company, and the drink. Guess I'll see you around?"
     }
     {
       /*
@@ -40456,7 +40456,7 @@
       */
       Id = "Eurydice_0178"
       Speaker = "Eurydice"
-      DisplayName = "Oh, that's him in there all right. {#DialogueItalicFormat}*Sigh.*{#PreviousFormat} Well, you hang onto that, as I've got plenty memories of him already, thanks."
+      DisplayName = "Oh, that's him in there all right. {#DialogueItalicFormat}*Sigh.* {#PreviousFormat}Well, you hang onto that, as I've got plenty memories of him already, thanks."
     }
     {
       /*
@@ -43848,7 +43848,7 @@
       */
       Id = "Persephone_0274"
       Speaker = "Persephone"
-      DisplayName = "{#DialogueItalicFormat}Oh{#PreviousFormat} my dear son! Really? How exciting! We have to talk about everything! Have you got a plan to propose yet? It has to be something very special! When you come home tonight, let us plan every detail together."
+      DisplayName = "{#DialogueItalicFormat}Oh {#PreviousFormat}my dear son! Really? How exciting! We have to talk about everything! Have you got a plan to propose yet? It has to be something very special! When you come home tonight, let us plan every detail together."
     }
     {
       /*
@@ -44707,7 +44707,7 @@
       */
       Id = "Persephone_0129"
       Speaker = "Persephone"
-      DisplayName = "Because that's my son, and I know I can count on him. {#DialogueItalicFormat}You{#PreviousFormat} can count on him, too. As for what we do next... why, we've a great, big feast we have to get ready!"
+      DisplayName = "Because that's my son, and I know I can count on him. {#DialogueItalicFormat}You {#PreviousFormat}can count on him, too. As for what we do next... why, we've a great, big feast we have to get ready!"
     }
     {
       /*
