@@ -73,10 +73,6 @@
         Persephone: Just do the best you can. And, clearly, I've work to do as well. We have a lot of it ahead of us, I'd say. So, shall we get started, then?
         Zagreus: {#DialogueItalicFormat}After all this time{#PreviousFormat}, it's only been a few days! But it's been good. Ma 'n Pa are back together, made some new friends, 'n I got this fancy paintin'! Easy.
       */
-      Id = "Persephone_0101"
-      Speaker = "Persephone"
-      DisplayName = "...I spent many days tending this garden... or nights? Quite difficult to tell the time here. But, it's held on longer than I would have expected..."
-      */
       Id = "Hades_0913"
       Speaker = "Hades"
       DisplayName = "...Lihua... I..."
@@ -112,10 +108,6 @@
         Zagreus: {#DialogueItalicFormat}Hahaha{#PreviousFormat}, well! I guess I'll see what I can do.
         Persephone: Just do the best you can. And, clearly, I've work to do as well. We have a lot of it ahead of us, I'd say. So, shall we get started, then?
         Zagreus: {#DialogueItalicFormat}After all this time{#PreviousFormat}, it's only been a few days! But it's been good. Ma 'n Pa are back together, made some new friends, 'n I got this fancy paintin'! Easy.
-      */
-      Id = "Persephone_0101"
-      Speaker = "Persephone"
-      DisplayName = "...I spent many days tending this garden... or nights? Quite difficult to tell the time here. But, it's held on longer than I would have expected..."
       */
       Id = "Persephone_0103"
       Speaker = "Persephone"
@@ -153,10 +145,6 @@
         Persephone: Just do the best you can. And, clearly, I've work to do as well. We have a lot of it ahead of us, I'd say. So, shall we get started, then?
         Zagreus: {#DialogueItalicFormat}After all this time{#PreviousFormat}, it's only been a few days! But it's been good. Ma 'n Pa are back together, made some new friends, 'n I got this fancy paintin'! Easy.
       */
-      Id = "Persephone_0101"
-      Speaker = "Persephone"
-      DisplayName = "...I spent many days tending this garden... or nights? Quite difficult to tell the time here. But, it's held on longer than I would have expected..."
-      */
       Id = "Hades_0914"
       Speaker = "Hades"
       DisplayName = "...I'm sorry. Know that I am sorry."
@@ -192,10 +180,6 @@
         Zagreus: {#DialogueItalicFormat}Hahaha{#PreviousFormat}, well! I guess I'll see what I can do.
         Persephone: Just do the best you can. And, clearly, I've work to do as well. We have a lot of it ahead of us, I'd say. So, shall we get started, then?
         Zagreus: {#DialogueItalicFormat}After all this time{#PreviousFormat}, it's only been a few days! But it's been good. Ma 'n Pa are back together, made some new friends, 'n I got this fancy paintin'! Easy.
-      */
-      Id = "Persephone_0101"
-      Speaker = "Persephone"
-      DisplayName = "...I spent many days tending this garden... or nights? Quite difficult to tell the time here. But, it's held on longer than I would have expected..."
       */
       Id = "Persephone_0104"
       Speaker = "Persephone"
@@ -233,10 +217,6 @@
         Persephone: Just do the best you can. And, clearly, I've work to do as well. We have a lot of it ahead of us, I'd say. So, shall we get started, then?
         Zagreus: {#DialogueItalicFormat}After all this time{#PreviousFormat}, it's only been a few days! But it's been good. Ma 'n Pa are back together, made some new friends, 'n I got this fancy paintin'! Easy.
       */
-      Id = "Persephone_0101"
-      Speaker = "Persephone"
-      DisplayName = "...I spent many days tending this garden... or nights? Quite difficult to tell the time here. But, it's held on longer than I would have expected..."
-      */
       Id = "Hades_1202"
       Speaker = "Hades"
       DisplayName = "I know. I know, I.... Why have you returned? If the Spirit Realm... if your mother discovers what happened, not even Volibear, not even {#DialogueItalicFormat}he {#PreviousFormat}could stop what would transpire, here!"
@@ -272,10 +252,6 @@
         Zagreus: {#DialogueItalicFormat}Hahaha{#PreviousFormat}, well! I guess I'll see what I can do.
         Persephone: Just do the best you can. And, clearly, I've work to do as well. We have a lot of it ahead of us, I'd say. So, shall we get started, then?
         Zagreus: {#DialogueItalicFormat}After all this time{#PreviousFormat}, it's only been a few days! But it's been good. Ma 'n Pa are back together, made some new friends, 'n I got this fancy paintin'! Easy.
-      */
-      Id = "Persephone_0101"
-      Speaker = "Persephone"
-      DisplayName = "...I spent many days tending this garden... or nights? Quite difficult to tell the time here. But, it's held on longer than I would have expected..."
       */
       Id = "Persephone_0105"
       Speaker = "Persephone"
@@ -495,7 +471,7 @@
       */
       Id = "ZagreusHome_2678"
       Speaker = "Zagreus"
-      DisplayName = Wow, Pop! You called me by my name! What's this feelin' I got? Maybe it's this {#DialogueItalicFormat}deference {#PreviousFormat} you like so much?
+      DisplayName = "Wow, Pop! You called me by my name! What's this feelin' I got? Maybe it's this {#DialogueItalicFormat}deference {#PreviousFormat} you like so much?"
     }
     {
       /*
