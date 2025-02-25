@@ -35,11 +35,11 @@
     {
       /*
         Event: A_PostBoss_01_GearsInspect01
-        Storyteller: {#DialogueItalicFormat}None, other than those in the trusted inner circle of Lord of the Dead, are authorized to enter the intricate chambers connecting the vast regions of the Underworld; but the Prince decides to barge in, anyway.
+        Storyteller: {#DialogueItalicFormat}None, other than those in the trusted inner circle of the Lord of the Dead, are authorized to enter the intricate chambers connecting the vast regions of the Underworld; but the Prince decides to barge in, anyway.
       */
       Id = "Storyteller_0412"
       Speaker = "Storyteller"
-      DisplayName = "{#DialogueItalicFormat}None, other than those in the trusted inner circle of Lord of the Dead, are authorized to enter the intricate chambers connecting the vast regions of the Underworld; but the Prince decides to barge in, anyway."
+      DisplayName = "{#DialogueItalicFormat}None, other than those in the trusted inner circle of the Lord of the Dead, are authorized to enter the intricate chambers connecting the vast regions of the Underworld; but the Prince decides to barge in, anyway."
     }
     {
       /*
