@@ -38,5 +38,16 @@ Animations = [
 
         { Name = "Keepsake_Thanatos_Plush" }
         { FilePath = "SettGUI\GUI\Screens\AwardMenu\Legendary\Aphelios_01" }
+
+        /* Dialogue boxes */
+        { Name = "DialogueSpeechBubble" }
+        { FilePath = "SettGUI\GUI\Screens\DialogueBox-In\DialogueBox-In" }
+
+        { Name = "DialogueSpeechBubbleOut" }
+        { FilePath = "SettGUI\GUI\Screens\DialogueBox-Out\DialogueBox-Out" }
+
+        /* Lihua letter */
+        { Name = "PersephoneLetter" }
+        { FilePath = "SettGUI\GUI\Screens\LiHuaLetter" }
     ]
 ]
