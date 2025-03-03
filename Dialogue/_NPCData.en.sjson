@@ -2328,7 +2328,7 @@
       */
       Id = "ZagreusHome_3134"
       Speaker = "Zagreus"
-      DisplayName = "You are {#DialogueItalicFormat}late{#PreviousFormat}, boy! Have you any idea what time it is?"
+      DisplayName = "No. Wait, what? I beat your ass in single combat 'n finally found Momma, nthat's all you got to say to me?"
     }
     {
       /*
@@ -2341,7 +2341,7 @@
       */
       Id = "Hades_0944"
       Speaker = "Hades"
-      DisplayName = "No. Wait, what? I beat your ass in single combat 'n finally found Momma, nthat's all you got to say to me?"
+      DisplayName = "{#DialogueItalicFormat}Hah, haha{#PreviousFormat}! Nonsense. Don't you think I would recall such an event?"
     }
     {
       /*
@@ -2354,7 +2354,7 @@
       */
       Id = "ZagreusHome_3209"
       Speaker = "Zagreus"
-      DisplayName = "{#DialogueItalicFormat}Hah, haha{#PreviousFormat}! Nonsense. Don't you think I would recall such an event?"
+      DisplayName = "You can't be serious. You're gonna pretend as though it never happened? She wants answers, same as me. She demands you let me pass! Let me go see her again!"
     }
     {
       /*
@@ -2367,7 +2367,7 @@
       */
       Id = "Hades_0945"
       Speaker = "Hades"
-      DisplayName = "You can't be serious. You're gonna pretend as though it never happened? She wants answers, same as me. She demands you let me pass! Let me go see her again!"
+      DisplayName = "Silence! This discussion is over. I hardly think this is the time or place to indulge your overwrought imagination."
     }
     {
       /*
@@ -4688,7 +4688,7 @@
       */
       Id = "Storyteller_0194"
       Speaker = "Storyteller"
-      DisplayName = "{#DialogueItalicFormat}Each savage badger countenance lights up to hear the news, doubtless beginning to assemble stratagems for ravaging the lounging area once more."
+      DisplayName = "{#DialogueItalicFormat}Each savage badger's countenance lights up to hear the news, doubtless beginning to assemble stratagems for ravaging the lounging area once more."
     }
     {
       /*
@@ -5413,7 +5413,7 @@
       */
       Id = "Storyteller_0397"
       Speaker = "Storyteller"
-      DisplayName = "{#DialogueItalicFormat}Fang-bearing Truffle and Southpaw directs all three of his attentions toward the Satyr sack."
+      DisplayName = "{#DialogueItalicFormat}Fang-bearing Truffle and Southpaw direct all their attentions toward the Satyr sack."
     }
     {
       /*
@@ -18726,7 +18726,7 @@
       */
       Id = "ZagreusHome_1549"
       Speaker = "Zagreus"
-      DisplayName = "It's kinda poetic justice, right?. I mean, he killed his own parents, didn't he? I think fate gets a kick outta this kinda thing."
+      DisplayName = "It's kinda poetic justice, right? I mean, he killed his own parents, didn't he? I think fate gets a kick outta this kinda thing."
     }
     {
       /*
@@ -23356,7 +23356,7 @@
       */
       Id = "Dusa_0173"
       Speaker = "Dusa"
-      DisplayName = "Don't say that, I'm powerful enough it won't make any difference. The important thing is that your back and Truffle and Southpaw can calm down, now, Badger-loved Prince."
+      DisplayName = "Don't say that, I'm powerful enough it won't make any difference. The important thing is that you're back and Truffle and Southpaw can calm down, now, Badger-loved Prince."
     }
     {
       /*
@@ -26057,7 +26057,7 @@
       */
       Id = "ZagreusField_1957"
       Speaker = "Zagreus"
-      DisplayName = "Hi Karthus! I finally met Lillia, Spirit of, well, goin' fast,, travel, bringin' souls of the departed to your boat. Calls you her professional associate. You 'n her, you've been workin' together for a while, haven't ya?"
+      DisplayName = "Hi Karthus! I finally met Lillia, Spirit of, well, goin' fast, travel, bringin' souls of the departed to your boat. Calls you her professional associate. You 'n her, you've been workin' together for a while, haven't ya?"
     }
     {
       /*
@@ -40305,7 +40305,7 @@
       */
       Id = "ZagreusField_2495"
       Speaker = "Zagreus"
-      DisplayName = "You were warriors too, right? Pretty interesting combo, music 'n warfare. Does one lend itself to the other? Maybe if I learn some music I'll could become the strongest fighter down here."
+      DisplayName = "You were warriors too, right? Pretty interesting combo, music 'n warfare. Does one lend itself to the other? Maybe if I learn some music I could become the strongest fighter down here."
     }
     {
       /*
@@ -41303,7 +41303,7 @@
       */
       Id = "ZagreusField_3606"
       Speaker = "Zagreus"
-      DisplayName = "...In short, I beat him, finally. But he did everything he could to keep us from meetin' here. But there's somethin' he wanted me to tell ya, in the end... He said to tell ya TRuffle 'n Southpaw are doin' real well."
+      DisplayName = "...In short, I beat him, finally. But he did everything he could to keep us from meetin' here. But there's somethin' he wanted me to tell ya, in the end... He said to tell ya Truffle 'n Southpaw are doin' real well."
     }
     {
       /*
@@ -41654,7 +41654,7 @@
       */
       Id = "ZagreusField_3624"
       Speaker = "Zagreus"
-      DisplayName = "I really know the feelin'. But you stayed, though... Long enough to have me. Everyone I talked to about you have fond memories of you. And then, you even had a kid. Did the Old Timer... did he do somethin' to ya?"
+      DisplayName = "I really know the feelin'. But you stayed, though... Long enough to have me. Everyone I talked to about you has fond memories of you. And then, you even had a kid. Did the Old Timer... did he do somethin' to ya?"
     }
     {
       /*
