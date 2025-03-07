@@ -48,6 +48,9 @@ Replace "Dialogue/CodexText.en.sjson"
 To "Game/Text/en/_EncounterData.en.sjson"
 Replace "Dialogue/_EncounterData.en.sjson"
 
+To "Game/Text/en/_EnemyData.en.sjson"
+Replace "Dialogue/_EnemyData.en.sjson"
+
 To "Game/Text/en/_LootData.en.sjson"
 Replace "Dialogue/_LootData.en.sjson"
 
