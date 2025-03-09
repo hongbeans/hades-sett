@@ -34,5 +34,106 @@ Obstacles = [
                 { Name = "GenericSparkles" }
             ]
         } }
+
+        { Name = "HouseStatueSkelly01" }
+        { Thing = {
+            EditorOutlineDrawBounds = false
+            Graphic = "SettDeathArea\Tilesets\House\House_StatueAmumu_01"
+            Gravity = 0.0
+            OcclusionInterpolateDuration = 0.0
+            OcclusionOpacity = 0.0
+            RotateGeometry = true
+            StopsLight = false
+            Tallness = 1035.0
+            Offset = { X = 0 Y = -574 }
+            Points = [
+            { X = 221 Y = 0 }
+            { X = -5 Y = -98 }
+            { X = -208 Y = 0 }
+            { X = 0 Y = 113 }
+            ]
+        } }
+
+        { Name = "HouseStatueSkelly02" }
+        { Thing = {
+            EditorOutlineDrawBounds = false
+            Graphic = "SettDeathArea\Tilesets\House\House_StatueAmumu_02"
+            Gravity = 0.0
+            OcclusionInterpolateDuration = 0.0
+            OcclusionOpacity = 0.0
+            RotateGeometry = true
+            StopsLight = false
+            Tallness = 1035.0
+            Offset = { X = 0 Y = -574 }
+            Points = [
+            { X = 221 Y = 0 }
+            { X = -5 Y = -98 }
+            { X = -208 Y = 0 }
+            { X = 0 Y = 113 }
+            ]
+        } }
+
+        { Name = "HouseStatueSkelly04" }
+        { Thing = {
+            EditorOutlineDrawBounds = false
+            Graphic = "SettDeathArea\Tilesets\House\House_StatueAmumu_04"
+            Gravity = 0.0
+            OcclusionInterpolateDuration = 0.0
+            OcclusionOpacity = 0.0
+            RotateGeometry = true
+            StopsLight = false
+            Tallness = 1035.0
+            Offset = { X = 0 Y = -574 }
+            Points = [
+                { X = 221 Y = 0 }
+                { X = -5 Y = -98 }
+                { X = -208 Y = 0 }
+                { X = 0 Y = 113 }
+            ]
+        } }
+
+        { Name = "HouseThroneBack01" }
+        { Thing = {
+            EditorOutlineDrawBounds = false
+            Graphic = "SettDeathArea\Tilesets\House\House_ThroneBack_01"
+            Tallness = 1036.0
+            Offset = { X = 0 Y = -390 }
+            Points = [
+                { X = 265 Y = 108 }
+                { X = -106 Y = -75 }
+                { X = -189 Y = -33 }
+                { X = 174 Y = 155 }
+            ]
+            Using = [
+                { Name = "HouseThroneBack02" }
+            ]
+        } }
+
+        /* { Name = "HouseHadesMural01" }
+        { Thing = {
+            EditorOutlineDrawBounds = false
+            Graphic = "SettDeathArea\Tilesets\House\House_OldTimerMural_01"
+            Scale = 2
+            Offset = { X = 20 Y = -140 }
+            Points = [
+                { X = 1057 Y = 1159 }
+                { X = -1042 Y = 82 }
+                { X = -1082 Y = 167 }
+                { X = 1052 Y = 1245 }
+            ]
+        } } */
+
+        /* { Name = "HousePaintingPersephone01" }
+        { Thing = {
+            EditorOutlineDrawBounds = false
+            Graphic = "SettDeathArea\Tilesets\House\House_PaintingLihua_01"
+            Offset = { X = 0 Y = -244 }
+            Points = [
+                { X = 233 Y = -30 }
+                { X = -119 Y = -100 }
+                { X = -245 Y = -6 }
+                { X = 132 Y = 56 }
+            ]
+        } } */
     ]
 ]

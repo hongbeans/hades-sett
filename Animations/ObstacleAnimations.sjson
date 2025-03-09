@@ -109,5 +109,28 @@ Animations = [
 
         { Name = "ChaosOverlay" }
         { FilePath = "SettPortraits\Portraits_Kindred_01" }
+
+        /* Skelly/Amumu statues */
+        { Name = "HouseStatueSkelly01" }
+        {
+            FilePath = "SettDeathArea\Tilesets\House\House_StatueAmumu_01"
+        }
+
+        { Name = "HouseStatueSkelly02" }
+        {
+            FilePath = "SettDeathArea\Tilesets\House\House_StatueAmumu_02"
+        }
+
+        { Name = "HouseStatueSkelly04" }
+        {
+            FilePath = "SettDeathArea\Tilesets\House\House_StatueAmumu_04"
+        }
+
+        /* Misc house replacements */
+        { Name = "HouseThroneBack01" }
+        {
+            FilePath = "SettDeathArea\Tilesets\House\House_ThroneBack_01"
+            Scale = 2
+        }
     ],
 ]
