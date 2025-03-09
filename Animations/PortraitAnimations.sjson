@@ -258,10 +258,16 @@ Animations = [
 
         /* Amumu */
         { Name = "Portrait_Skelly_Default_01" }
-        { FilePath = "SettPortraits\Portraits_Amumu_01" }
+        {
+            FilePath = "SettPortraits\Portraits_Amumu_01"
+            OffsetX = -50
+        }
 
         { Name = "Portrait_Skelly_Default_01_Exit" }
-        { FilePath = "SettPortraits\Portraits_Amumu_01" }
+        {
+            FilePath = "SettPortraits\Portraits_Amumu_01"
+            OffsetX = -50
+        }
 
         /* Karthus */
         { Name = "Portrait_Charon_Default_01" }
