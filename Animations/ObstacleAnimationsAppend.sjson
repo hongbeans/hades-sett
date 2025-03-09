@@ -15,4 +15,11 @@ Animations = [
         Ambient = 0.0
         AngleFromOwner = "Ignore"
     }
+    {
+        Name = "PortraitThanElysium"
+        FilePath = "SettGUI\GUI\CGI\SettPhelElysium"
+        Type = "Constant"
+        Ambient = 0.0
+        AngleFromOwner = "Ignore"
+    }
 ]

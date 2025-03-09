@@ -52,7 +52,9 @@ ModUtil.Path.Override(
             wait( args.ExtraWaitTime )
         end
 
-        if isDinoCgiAvailable then
+        if args ~= nil and args.IsReminisce then
+            cgiName = "PortraitThanElysium"
+        elseif isDinoCgiAvailable then
             -- Determine if the dino CGI will be used
             local chance = math.random(10)
             -- DebugPrint({Text = "@ProjectSett CGI rolled number"..chance.."!"})
@@ -62,6 +64,11 @@ ModUtil.Path.Override(
         end
 
         if args ~= nil and args.Partner == "Thanatos" then
+            -- Fade out initially if reminiscing, since there is no follow up dialogue
+            if args ~= nil and args.IsReminisce then
+                FadeOut({ Color = Color.Black, Duration = 0.5 })
+                wait(1)
+            end
             wait(1)
             -- Display portrait
             FadeIn({ Duration = 1.5 })
@@ -86,26 +93,31 @@ ModUtil.Path.Override(
             Move({ Id = ScreenAnchors.PortraitDisplayAnchor, DestinationId = ScreenAnchors.PortraitDisplayAnchor, OffsetX = 100, OffsetY = 0, Duration = 9.5, EaseOut = 1.0, EaseIn = 0.0 })
             SetScale({ Id = portraitId, Fraction = 1.2 })
 
-            PlaySound({ Name = "/Leftovers/World Sounds/CaravanCreak" })
-            wait(0.5)
-            PlaySound({ Name = "/Leftovers/World Sounds/CaravanCreak" })
-            PlaySound({ Name = zagSound1 or "/VO/ZagreusField_2137" })
-            wait(0.5)
-            PlaySound({ Name = "/Leftovers/World Sounds/CaravanCreak" })
-            PlaySound({ Name = thanSound1 or "/VO/Thanatos_0469" })
-            wait(0.5)
-            PlaySound({ Name = "/Leftovers/World Sounds/CaravanCreak" })
-            wait(0.5)
-            PlaySound({ Name = "/Leftovers/World Sounds/CaravanCreak" })
-            PlaySound({ Name = zagSound2 or "/VO/ZagreusHome_1514" })
-            wait(0.5)
-            PlaySound({ Name = "/Leftovers/World Sounds/CaravanCreak" })
-            wait(0.5)
-            PlaySound({ Name = thanSound2 or "/VO/Thanatos_0468" })
-            PlaySound({ Name = "/Leftovers/World Sounds/CaravanCreak" })
-            wait(0.5)
-            PlaySound({ Name = "/Leftovers/World Sounds/CaravanCreak" })
-            wait(1.5)
+            if not args.IsReminisce then
+                PlaySound({ Name = "/Leftovers/World Sounds/CaravanCreak" })
+                wait(0.5)
+                PlaySound({ Name = "/Leftovers/World Sounds/CaravanCreak" })
+                PlaySound({ Name = zagSound1 or "/VO/ZagreusField_2137" })
+                wait(0.5)
+                PlaySound({ Name = "/Leftovers/World Sounds/CaravanCreak" })
+                PlaySound({ Name = thanSound1 or "/VO/Thanatos_0469" })
+                wait(0.5)
+                PlaySound({ Name = "/Leftovers/World Sounds/CaravanCreak" })
+                wait(0.5)
+                PlaySound({ Name = "/Leftovers/World Sounds/CaravanCreak" })
+                PlaySound({ Name = zagSound2 or "/VO/ZagreusHome_1514" })
+                wait(0.5)
+                PlaySound({ Name = "/Leftovers/World Sounds/CaravanCreak" })
+                wait(0.5)
+                PlaySound({ Name = thanSound2 or "/VO/Thanatos_0468" })
+                PlaySound({ Name = "/Leftovers/World Sounds/CaravanCreak" })
+                wait(0.5)
+                PlaySound({ Name = "/Leftovers/World Sounds/CaravanCreak" })
+                wait(1.5)
+            else
+                wait(5)
+            end
+
             FadeOut({ Color = Color.Black, Duration = 1.0 })
             wait(1.5)
             
@@ -186,42 +198,48 @@ ModUtil.Path.Override(
         AdjustColorGrading({ Name = "Ascension", Duration = 0.3 })
         AdjustColorGrading({ Name = "Off", Duration = 5.0 })
         AdjustFullscreenBloom({ Name = "Off", Duration = 5.0 })
-        wait(2.0)
-        DisplayUnlockText( {
-            --SupertitleText = "EasyModeUpgradedSupertitle",
+        if args ~= nil and not args.IsReminisce then
+            wait(2.0)
+            DisplayUnlockText( {
+                --SupertitleText = "EasyModeUpgradedSupertitle",
 
-            TitleText = "BedroomIntermissionMessage",
-            -- SubtitleText = args.Text,
-            TextRevealSound = "/Leftovers/Menu Sounds/EmoteExcitement",
-            Color = Color.Pink,
-            --SupertitleTextColor = {190, 190, 190, 255},
-            --SupertitleTextDelay = 1.0,
-            TextColor = Color.White,
-            -- SubTextColor = {23, 255, 187, 255},
-            -- Icon = EasyModeIcon,
-            -- Duration = 4.35,
-            -- IconMoveSpeed = 0.00001,
-            TextOffsetY = 25,
-            TitleFont = "SpectralSCLightTitling",
-            SubtitleFont = "SpectralSCLightTitling",
-            --SupertitleFont = "AlegreyaSansSCRegular",
-            Layer = "Overlay",
-            AdditionalAnimation = "GodHoodRays",
-            } )
+                TitleText = "BedroomIntermissionMessage",
+                -- SubtitleText = args.Text,
+                TextRevealSound = "/Leftovers/Menu Sounds/EmoteExcitement",
+                Color = Color.Pink,
+                --SupertitleTextColor = {190, 190, 190, 255},
+                --SupertitleTextDelay = 1.0,
+                TextColor = Color.White,
+                -- SubTextColor = {23, 255, 187, 255},
+                -- Icon = EasyModeIcon,
+                -- Duration = 4.35,
+                -- IconMoveSpeed = 0.00001,
+                TextOffsetY = 25,
+                TitleFont = "SpectralSCLightTitling",
+                SubtitleFont = "SpectralSCLightTitling",
+                --SupertitleFont = "AlegreyaSansSCRegular",
+                Layer = "Overlay",
+                AdditionalAnimation = "GodHoodRays",
+                } )
+        else
+            -- Simulate fading back in
+            PlaySound({ Name = "/Leftovers/Menu Sounds/EmoteAffection" })
+            FadeIn({ Duration = 2.5 })
+        end
     end
 )
 
--- ModUtil.Table.Merge(UnitSetData.NPCs, {
---     NPC_Thanatos_01 = {
---         RepeatableTextLineSets = {
---             ThanatosHomeIntermissionChat03 = {
---                 [1] = {
---                     PostLineFunctionArgs = {
---                         PortraitAnimationName = "PortraitThanSmooch",
---                         FadeInTime = 0.5,
---                     }
---                 }
---             }
---         }
---     }
--- })
+-- Add intermission to dialogue tree
+ModUtil.Table.Merge(UnitSetData.NPCs, {
+    NPC_Thanatos_01 = {
+        GiftTextLineSets = {
+            ThanatosGift10 = {
+                [8] = {
+                    PortraitExitAnimation = "Portrait_Than_Shy_01_Exit",
+                    PostLineThreadedFunctionName = "BedroomIntermissionPresentation",
+                    PostLineFunctionArgs = { Partner = "Thanatos", IsReminisce = true }
+                }
+            }
+        }
+    }
+})
