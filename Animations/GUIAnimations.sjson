@@ -46,6 +46,12 @@ Animations = [
         { Name = "DialogueSpeechBubbleOut" }
         { FilePath = "SettGUI\GUI\Screens\DialogueBox-Out\DialogueBox-Out" }
 
+        { Name = "DialogueChoiceBubble" }
+        { FilePath = "SettGUI\GUI\Screens\DialogueBoxChoice-In\DialogueBoxChoice-In" }
+
+        { Name = "DialogueChoiceBubbleOut" }
+        { FilePath = "SettGUI\GUI\Screens\DialogueBoxChoice-Out\DialogueBoxChoice-Out" }
+
         /* Lihua letter */
         { Name = "PersephoneLetter" }
         { FilePath = "SettGUI\GUI\Screens\LiHuaLetter" }
