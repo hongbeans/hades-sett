@@ -160,6 +160,9 @@ Replace "Subtitles/Sisyphus.csv"
 To "Subtitles/en/Skelly.csv"
 Replace "Subtitles/Skelly.csv"
 
+To "Subtitles/en/Songs.csv"
+Replace "Subtitles/Songs.csv"
+
 To "Subtitles/en/Storyteller.csv"
 Replace "Subtitles/Storyteller.csv"
 
