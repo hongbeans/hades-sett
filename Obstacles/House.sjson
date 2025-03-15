@@ -35,6 +35,19 @@ Obstacles = [
             ]
         } }
 
+        { Name = "HousePaintingAriadne01" }
+        { Thing = {
+            EditorOutlineDrawBounds = false
+            Graphic = "SettDeathArea\Tilesets\House\House_PaintingAphelios_01"
+            Using = [
+            {
+                Name = "HousePaintingTots01"
+            }
+            {
+                Name = "HousePaintingTheseus01"
+            }]
+        } }
+
         { Name = "HouseStatueSkelly01" }
         { Thing = {
             EditorOutlineDrawBounds = false

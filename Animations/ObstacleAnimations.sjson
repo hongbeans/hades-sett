@@ -56,6 +56,12 @@ Animations = [
             Scale = 4.5
         }
 
+        { Name = "HouseEmployeeOfMonthAchilles01" }
+        {
+            FilePath = "SettDeathArea\Tilesets\House\House_EmployeeOfMonth_Vayne_01"
+            Scale = 4.5
+        }
+
         /* Family portrait replacement */
         { Name = "PortraitFamily" }
         {
@@ -131,6 +137,12 @@ Animations = [
         {
             FilePath = "SettDeathArea\Tilesets\House\House_ThroneBack_01"
             Scale = 2
+        }
+
+        { Name = "HousePaintingAriadne01" }
+        {
+            FilePath = "SettDeathArea\Tilesets\House\House_PaintingAphelios_01"
+            Scale = 2.5
         }
     ],
 ]
