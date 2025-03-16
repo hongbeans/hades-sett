@@ -11,6 +11,8 @@ ModUtil.Path.Wrap(
         LoadPackages({Name = {"SettDeathArea"}})
         DebugPrint({Text = "@"..mod.." Trying to load package SettGUI.pkg"})
         LoadPackages({Name = {"SettGUI"}})
+        DebugPrint({Text = "@"..mod.." Trying to load package SettScenes.pkg"})
+        LoadPackages({Name = {"SettScenes"}})
         return base()
     end
 )

@@ -3,21 +3,21 @@ Animations = [
     /* CGI for Aphelios intermission */
     {
         Name = "PortraitThanSmooch"
-        FilePath = "SettGUI\GUI\CGI\SettPhelSmooch"
+        FilePath = "SettScenes\GUI\CGI\SettPhelSmooch"
         Type = "Constant"
         Ambient = 0.0
         AngleFromOwner = "Ignore"
     }
     {
         Name = "PortraitThanDino"
-        FilePath = "SettGUI\GUI\CGI\SettPhelDino"
+        FilePath = "SettScenes\GUI\CGI\SettPhelDino"
         Type = "Constant"
         Ambient = 0.0
         AngleFromOwner = "Ignore"
     }
     {
         Name = "PortraitThanElysium"
-        FilePath = "SettGUI\GUI\CGI\SettPhelElysium"
+        FilePath = "SettScenes\GUI\CGI\SettPhelElysium"
         Type = "Constant"
         Ambient = 0.0
         AngleFromOwner = "Ignore"

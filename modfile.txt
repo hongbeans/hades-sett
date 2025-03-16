@@ -227,6 +227,18 @@ Replace "Packages/SettGUI.pkg"
 To Win/Packages/720p/SettGUI.pkg
 Replace "Packages/SettGUI.pkg"
 
+To Win/Packages/720p/SettScenes.pkg_manifest
+Replace "Packages/SettScenes.pkg_manifest"
+
+To Win/Packages/SettScenes.pkg_manifest
+Replace "Packages/SettScenes.pkg_manifest"
+
+To Win/Packages/720p/SettScenes.pkg
+Replace "Packages/SettScenes.pkg"
+
+To Win/Packages/SettScenes.pkg
+Replace "Packages/SettScenes.pkg"
+
 :: Replace movies
 To Movies/720p/MainMenuIn.bik
 Replace "Movies/MainMenuIn.bik"
