@@ -145,7 +145,8 @@ Obstacles = [
         { Thing = {
             EditorOutlineDrawBounds = false
             Graphic = "SettDeathArea\Tilesets\House\House_PortraitSkelly_01"
-            Offset = { X = 0 Y = -248 }
+            Scale = 3.5
+            Offset = { X = 0 Y = -60 }
             Points = [
             { X = 311 Y = -107 }
             { X = 248 Y = -136 }
