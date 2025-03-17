@@ -144,5 +144,35 @@ Animations = [
             FilePath = "SettDeathArea\Tilesets\House\House_PaintingAphelios_01"
             Scale = 2.5
         }
+
+        { Name = "HousePaintingFury01" }
+        {
+            FilePath = "SettDeathArea\Tilesets\House\House_PaintingFury_01"
+            Scale = 2.5
+        }
+        
+        { Name = "HousePaintingHades01" }
+        {
+            FilePath = "SettDeathArea\Tilesets\House\House_PaintingHades_01"
+            Scale = 2.5
+        }
+
+        { Name = "HousePaintingMood01" }
+        {
+            FilePath = "SettDeathArea\Tilesets\House\House_PaintingMood_01"
+            Scale = 2.5
+        }
+
+        { Name = "HousePaintingTots01" }
+        {
+            FilePath = "SettDeathArea\Tilesets\House\House_PaintingTots_01"
+            Scale = 2.5
+        }
+
+        { Name = "HousePaintingMysteryWoman01" }
+        {
+            FilePath = "SettDeathArea\Tilesets\House\House_PortraitMysteryWoman_01"
+            Scale = 2.5
+        }
     ],
 ]

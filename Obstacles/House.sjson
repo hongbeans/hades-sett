@@ -35,6 +35,65 @@ Obstacles = [
             ]
         } }
 
+        { Name = "HousePoster03" }
+        { Thing = {
+            EditorOutlineDrawBounds = false
+            Graphic = "SettDeathArea\Tilesets\House\House_Poster_03"
+            Scale = 10
+            Grip = 999999.0
+            MeshType = "Vertical"
+            StopsProjectiles = true
+            StopsUnits = true
+            TouchdownSound = "/EmptyCue"
+            Offset = 
+            {
+            X = 0
+            Y = -4
+            }
+            Using = [
+            {
+                Name = "GenericSparkles"
+            }]
+        } }
+
+        { Name = "HousePoster05" }
+        { Thing = {
+            EditorOutlineDrawBounds = false
+            Graphic = "SettDeathArea\Tilesets\House\House_Poster_05"
+            Grip = 999999.0
+            MeshType = "Vertical"
+            StopsProjectiles = true
+            StopsUnits = true
+            Tallness = 1654.0
+            TouchdownSound = "/EmptyCue"
+            Offset = 
+            {
+                X = 50
+                Y = -640
+            }
+            Points = [
+            {
+                X = -544
+                Y = -265
+            }
+            {
+                X = 507
+                Y = 260
+            }
+            {
+                X = 523
+                Y = 254
+            }
+            {
+                X = -523
+                Y = -273
+            }]
+            Using = [
+            {
+                Name = "GenericSparkles"
+            }]
+        } }
+
         { Name = "HousePaintingAriadne01" }
         { Thing = {
             EditorOutlineDrawBounds = false
@@ -46,6 +105,53 @@ Obstacles = [
             {
                 Name = "HousePaintingTheseus01"
             }]
+        } }
+        
+        { Name = "HousePaintingFury01" }
+        { Thing = {
+            EditorOutlineDrawBounds = false
+            Graphic = "SettDeathArea\Tilesets\House\House_PaintingFury_01"
+        } }
+
+        { Name = "HousePaintingHades01" }
+        { Thing = {
+            EditorOutlineDrawBounds = false
+            Graphic = "SettDeathArea\Tilesets\House\House_PaintingHades_01"
+        } }
+
+        { Name = "HousePaintingMood01" }
+        { Thing = {
+            EditorOutlineDrawBounds = false
+            Graphic = "SettDeathArea\Tilesets\House\House_PaintingMood_01"
+            Using = [
+            {
+                Name = "HousePaintingHades01"
+            }
+            {
+                Name = "HousePaintingFury01"
+            }
+            {
+                Name = "HousePaintingMysteryWoman01"
+            }]
+        } }
+
+        { Name = "HousePaintingTots01" }
+        { Thing = {
+            EditorOutlineDrawBounds = false
+            Graphic = "SettDeathArea\Tilesets\House\House_PaintingTots_01"
+        } }
+
+        { Name = "HousePortraitSkelly01" }
+        { Thing = {
+            EditorOutlineDrawBounds = false
+            Graphic = "SettDeathArea\Tilesets\House\House_PortraitSkelly_01"
+            Offset = { X = 0 Y = -248 }
+            Points = [
+            { X = 311 Y = -107 }
+            { X = 248 Y = -136 }
+            { X = -344 Y = 165 }
+            { X = -255 Y = 194 }
+            ]
         } }
 
         { Name = "HouseStatueSkelly01" }
