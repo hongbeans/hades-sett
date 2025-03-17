@@ -277,6 +277,30 @@ To Movies/720p/RemBGHadesIntro.bik
 Replace "Movies/RemBGHadesIntro.bik"
 
 :: Replace character animation binks
+To Movies/720p/NPC_SisyphusElbowing_Bink.bik
+Replace "Movies/NPC_SisyphusElbowing_Bink.bik"
+
+To Movies/NPC_SisyphusElbowing_Bink.bik
+Replace "Movies/NPC_SisyphusElbowing_Bink.bik"
+
+To Movies/720p/NPC_SisyphusExplaining_Bink.bik
+Replace "Movies/NPC_SisyphusExplaining_Bink.bik"
+
+To Movies/NPC_SisyphusExplaining_Bink.bik
+Replace "Movies/NPC_SisyphusExplaining_Bink.bik"
+
+To Movies/720p/NPC_SisyphusIdle_Bink.bik
+Replace "Movies/NPC_SisyphusIdle_Bink.bik"
+
+To Movies/NPC_SisyphusIdle_Bink.bik
+Replace "Movies/NPC_SisyphusIdle_Bink.bik"
+
+To Movies/720p/NPC_SisyphusIdleGreeting_Bink.bik
+Replace "Movies/NPC_SisyphusIdleGreeting_Bink.bik"
+
+To Movies/NPC_SisyphusIdleGreeting_Bink.bik
+Replace "Movies/NPC_SisyphusIdleGreeting_Bink.bik"
+
 To Movies/720p/ThanatosIdleInhouse_Bink.bik
 Replace "Movies/ThanatosIdleInhouse_Bink.bik"
 
