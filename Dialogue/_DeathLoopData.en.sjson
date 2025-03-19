@@ -543,7 +543,7 @@
       */
       Id = "Hades_0919"
       Speaker = "Hades"
-      DisplayName = "Yes. I... Settrigh. I know there have been times... when I've let my mood reflect on you. I showed very little patience. Questioned your judgment, often, when my own was flawed. And there were times... where I abandoned you. Thus, I apologize to you, my son. I have no excuses. And I ask no forgiveness."
+      DisplayName = "Yes. I... Settrigh. I know there were times... when I've let my mood reflect on you. I showed very little patience. Questioned your judgment, even when my own was flawed. And there were times... where I abandoned you. Thus, I apologize, my son. I have no excuses. And I ask no forgiveness."
     }
     {
       /*
@@ -579,7 +579,7 @@
       */
       Id = "ZagreusHome_3267"
       Speaker = "Zagreus"
-      DisplayName = "What about how ya lied to me 'bout Momma, are ya sorry for that? Your bad moods, treatin' me like your punchin' bag... leavin' me when I needed you most... I learned a long time ago to expect that. And I hated ya for it. But I always thought... at least you're honest."
+      DisplayName = "You lied to me 'bout Momma, are ya sorry for that? Your bad moods, treatin' me like your punchin' bag... leavin' me when I needed you most... I learned long ago to expect that. And I hated ya for it. But I always thought... at least you're honest."
     }
     {
       /*
@@ -615,7 +615,7 @@
       */
       Id = "Hades_0943"
       Speaker = "Hades"
-      DisplayName = "Your mother cut all ties with her tribe to start a family of her own. When she left... believing you were stillborn... she was utterly heartbroken. But I believed that she was better off without the lot of us, the Spirit Realm included. Deceiving both of you... it tore against my being. But now you see that it was never she that abandoned us, but only my own doing. I did it to keep her safe."
+      DisplayName = "Your mother cut ties to start a family of her own. When she left... believing you stillborn... she was heartbroken. But I believed she was better off without the lot of us, the Spirit Realm included. Deceiving you both was agony. I did it to keep her safe. She never abandoned us, but I..."
     }
     {
       /*
@@ -651,7 +651,7 @@
       */
       Id = "ZagreusHome_3268"
       Speaker = "Zagreus"
-      DisplayName = "And then ya went 'n vented all that 'inner turmoil' onto me my whole life. I guess I understand, though. Just wish I coulda understood sooner. So, uh... what now? I got so used to ransacking your domain, I think I'm really gonna miss it."
+      DisplayName = "And then ya went 'n vented all that 'inner turmoil' onto me my whole life. I guess I understand, though. Just wish I coulda understood sooner. So, uh... what now? I got so used to ransackin' your domain, I think I'm really gonna miss it."
     }
     {
       /*
@@ -1165,7 +1165,7 @@
       */
       Id = "Persephone_0018"
       Speaker = "Persephone"
-      DisplayName = "{#DialogueItalicFormat}'I can no longer tolerate my life here in this place. So, I am leaving, even if it kills me. I won't be returning to the Spirit Realm. If there is a place where I belong in this world, it must be somewhere between heaven and hell. Perhaps it's on the coast and has a little garden. Take care of Truffle and Southpaw; I shall miss them.'"
+      DisplayName = "{#DialogueItalicFormat}'I can no longer stay here. So, I am leaving, even if it kills me. I won't be returning to the Spirit Realm. If there is a place where I belong, it must be somewhere between heaven and hell. Perhaps it's on the coast and has a little garden. Take care of Truffle and Southpaw; I shall miss them.'"
     }
     {
       /*
@@ -1191,7 +1191,7 @@
       */
       Id = "ZagreusHome_0178"
       Speaker = "Zagreus"
-      DisplayName = "His mother's hand, my mother's hand, wait, {#DialogueItalicFormat}what{#PreviousFormat}?! You're saying this Lihua, that she's my... mother...? But, but that old timer always said that the Silver Sister was my.... That liar. He lied to me, they both did. All my life!"
+      DisplayName = "His mother's hand, my {#DialogueItalicFormat}mother's{#PreviousFormat} hand, wait, {#DialogueItalicFormat}what{#PreviousFormat}?! You're sayin' this Lihua, that she's my... mother...? But, but that Old Timer said that the Silver Sister was my.... That liar. He lied to me, they both did. All my life!"
     }
     {
       /*
@@ -1458,7 +1458,7 @@
       */
       Id = "ZagreusHome_1354"
       Speaker = "Zagreus"
-      DisplayName = "Lunie...! She... {#DialogueItalicFormat}gods damnit{#PreviousFormat}."
+      DisplayName = "Lunie...! She... {#DialogueItalicFormat}damnit{#PreviousFormat}."
     }
     {
       /*
@@ -1586,7 +1586,7 @@
       */
       Id = "ZagreusHome_1521"
       Speaker = "Zagreus"
-      DisplayName = "...I... Alune, I just want things to go back to how they were, when it was us three, playin' in the moonlight with butterflies. I know I've screwed up, royally. But you're real special to me, and I've always thought of you as my own sister. Is there any chance you'll forgive me, and we can be friends again?"
+      DisplayName = "I... Alune, I just want things to go back to how they were, when it was us three, playin' in the moonlight. I know I screwed up, royally. But you're real special to me, and I've always thought of like my own sister. Is there any chance you'll forgive me, and we can be friends again?"
     }
     {
       /*
@@ -1644,7 +1644,7 @@
       */
       Id = "MegaeraExtra_0001"
       Speaker = "Megaera"
-      DisplayName = "...I... Alune, I just want things to go back to how they were, when it was us three, playin' in the moonlight with butterflies. I know I've screwed up, royally. But you're real special to me, and I've always thought of you as my own sister. Is there any chance you'll forgive me, and we can be friends again?"
+      DisplayName = "I... Alune, I just want things to go back to how they were, when it was us three, playin' in the moonlight. I know I screwed up, royally. But you're real special to me, and I've always thought of like my own sister. Is there any chance you'll forgive me, and we can be friends again?"
     }
     {
       /*
@@ -1669,7 +1669,7 @@
     {
       Id = "ZagreusHome_1477"
       Speaker = "Zagreus"
-      DisplayName = "I just... don't wanna push you, Than. I know all this is kind of a lot, 'n I had a lot to make up for. And I wanted you to know... this isn't some impulsive thing for me. I'll wait for you however long it takes. Forever, if I need to."
+      DisplayName = "I just... don't wanna push you, Phel. I know all this is kind of a lot, 'n I had a lot to make up for. And I wanted you to know... this isn't some impulsive thing for me. I'll wait for you however long it takes. Forever, if I need to."
     }
     {
       Id = "Thanatos_0418"
@@ -1694,7 +1694,7 @@
     {
       Id = "ZagreusHome_1480"
       Speaker = "Zagreus"
-      DisplayName = "Heh. Yes, that's a wonderful answer. I'm so glad fate stopped my dumb ass from leavin' behind the best thing that's ever happened to me. I can't wait to get to know you again... maybe I can start tonight...?"
+      DisplayName = "Heh. Yes, that's a wonderful answer. I'm so glad fate stopped my dumb ass from leavin' behind the best thing that's ever happened to me. I can't wait to get to know you all over again... maybe I can start tonight...?"
     }
     {
       /*
@@ -1709,7 +1709,7 @@
       */
       Id = "ZagreusHome_1520"
       Speaker = "Zagreus"
-      DisplayName = "...I... Alune, I just want things to go back to how they were, when it was us three, playin' in the moonlight with butterflies. I know I've screwed up, royally. But you're real special to me, and I've always thought of you as my own sister. Is there any chance you'll forgive me, and we can be friends again?"
+      DisplayName = "I... Alune, I just want things to go back to how they were, when it was us three, playin' in the moonlight. I know I screwed up, royally. But you're real special to me, and I've always thought of like my own sister. Is there any chance you'll forgive me, and we can be friends again?"
     }
     {
       /*
@@ -1739,12 +1739,12 @@
       */
       Id = "ZagreusHome_2531"
       Speaker = "Zagreus"
-      DisplayName = "...I... Alune, I just want things to go back to how they were, when it was us three, playin' in the moonlight with butterflies. I know I've screwed up, royally. But you're real special to me, and I've always thought of you as my own sister. Is there any chance you'll forgive me, and we can be friends again?"
+      DisplayName = "I... Alune, I just want things to go back to how they were, when it was us three, playin' in the moonlight. I know I screwed up, royally. But you're real special to me, and I've always thought of like my own sister. Is there any chance you'll forgive me, and we can be friends again?"
     }
     {
       Id = "ZagreusHome_1481"
       Speaker = "Zagreus"
-      DisplayName = "Mooncake... Hehe, I'm so happy right now. I'm on top of the Underworld! I wanna tell everyone, I want everyone to know, I feel like I could shout it from the rooftop of the Temple Styx. Do you think Alune will be happy we're together? Wait... she's okay with us, right? She ain't gonna hunt me down again, is she?"
+      DisplayName = "Mooncake... Hehe, I'm so happy right now! I'm on top of the Underworld! I wanna tell everyone, I want everyone to know, I'll never get tired of tellin' the world about it! Do ya think Alune'll be happy we're together? Wait... she's okay with us, right? She ain't gonna hunt me down again, is she?"
     }
     {
       Id = "Thanatos_0420"
@@ -1975,7 +1975,7 @@
       */
       Id = "Storyteller_0191"
       Speaker = "Storyteller"
-      DisplayName = "{#DialogueItalicFormat}The shattered weapons of the siege of Ilion are now reduced to window-dressings in the Prince's ever-cluttered lair."
+      DisplayName = "{#DialogueItalicFormat}The shattered weapons of the siege of Ionia are now reduced to window-dressings in the Prince's ever-cluttered lair."
     }
     {
       /*
@@ -1984,7 +1984,7 @@
       */
       Id = "Storyteller_0189"
       Speaker = "Storyteller"
-      DisplayName = "{#DialogueItalicFormat}The valor of the great-hearted Achilles is immortalized upon the Prince's wall, as though it might stir up more courage from within."
+      DisplayName = "{#DialogueItalicFormat}The whimsical depiction of a trans-dimensional talking magic cat now adorns the oftly indolent Prince's chamber wall, imploring him to, as they say, hang in there."
     }
     {
       /*
@@ -1993,7 +1993,7 @@
       */
       Id = "Storyteller_0190"
       Speaker = "Storyteller"
-      DisplayName = "{#DialogueItalicFormat}The visage of the goddess Aphrodite now adorns the Prince's bedchambers, perhaps to provide consolation after when next he dies."
+      DisplayName = "{#DialogueItalicFormat}The visage of a certain Popstar Princess now adorns the Prince's bedchambers, perhaps to provide consolation after when next he dies."
     }
     {
       /*
@@ -2002,7 +2002,7 @@
       */
       Id = "Storyteller_0362"
       Speaker = "Storyteller"
-      DisplayName = "{#DialogueItalicFormat}The ever-smiling, wine-washed countenance of the great Lord Dionysus now adorns the Prince's chamber-wall, thus radiating questionable influence."
+      DisplayName = "{#DialogueItalicFormat}The heart-stopping, elusive countenance of the Spirit of gentle Death now graces the lovelorn Prince's wall, evoking sweet memories of long before."
     }
     {
       /*
@@ -2350,7 +2350,7 @@
       */
       Id = "Skelly_0179"
       Speaker = "Skelly"
-      DisplayName = "Wrong! We're talking something really big, here, friend. You see that thing back there? That's no trinket. Come on, what are you, scared?"
+      DisplayName = "Wrong! We're talking something really big, here, friend. You see that thing back there? That's no trinket! Come on, aren't you curious?"
     }
     {
       /*
@@ -2442,7 +2442,7 @@
       */
       Id = "Skelly_0193"
       Speaker = "Skelly"
-      DisplayName = "Okay, I have to be honest about the statues, friend. The order got mixed up and there was no return policy. I figured that there was no way you'd ever actually see them, so I just kinda... rolled with it."
+      DisplayName = "Okay, I have to be honest about the statues, bestie. The order got mixed up and there was no return policy. But I didn't think you'd actually ever see them, so I just... rolled with it."
     }
     {
       /*
@@ -2453,7 +2453,7 @@
       */
       Id = "ZagreusHome_0686"
       Speaker = "Zagreus"
-      DisplayName = "You shouldn't have underestimated me, pal. But... I guess shouldn't have said rude things about your statues. You musta really gone outta your way to get 'em here."
+      DisplayName = "You shouldn't have underestimated me, pal. But... I guess I shouldn't have said rude things about your statues. You musta really gone outta your way to get 'em here."
     }
     {
       /*
@@ -2464,7 +2464,7 @@
       */
       Id = "Skelly_0194"
       Speaker = "Skelly"
-      DisplayName = "Oh you better believe it, friend! Maybe we can call it even. We've been through a lot. Both of us! Really learned from this experience, and now, we share a deeper understanding, right? This means we're best friends, now."
+      DisplayName = "Oh you better believe it, friend! Maybe we can call it even. We've been through a lot. Both of us! Really learned from this experience, and now, we share a deeper understanding, right? This means we're the bestest of best friends, now."
     }
     {
       /*

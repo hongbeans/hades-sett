@@ -13,7 +13,7 @@
       */
       Id = "MegaeraField_0030"
       Speaker = "Megaera"
-      DisplayName = "...You help him out again, you'll get a thousand lashes when I see you next. Don't those graves you have to dig keep you busy enough, for you to have the spare time to help the Prince cause trouble?"
+      DisplayName = "...You help him out again, you'll get a thousand lashes when I see you next. Those graves don't seem to keep you occupied fully, given how much time you spend bothering the Prince."
     }
     {
       /*
@@ -138,7 +138,7 @@
       */
       Id = "Sisyphus_0176"
       Speaker = "Sisyphus"
-      DisplayName = "Hm. I never was terribly fearful of you gods, no matter your bluster. There is little you Spirits could do to me that I would dread."
+      DisplayName = "Hm. I never was terribly fearful of you Spirits, no matter your bluster. There is little you Spirits could do to me that I would dread."
     }
     {
       /*
