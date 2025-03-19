@@ -307,6 +307,12 @@ Replace "Movies/ThanatosIdleInhouse_Bink.bik"
 To Movies/ThanatosIdleInhouse_Bink.bik
 Replace "Movies/ThanatosIdleInhouse_Bink.bik"
 
+To Movies/720p/ThanatosIdleInhouseFidgetHairFlick__Bink.bik
+Replace "Movies/ThanatosIdleInhouseFidgetHairFlick__Bink.bik"
+
+To Movies/ThanatosIdleInhouseFidgetHairFlick__Bink.bik
+Replace "Movies/ThanatosIdleInhouseFidgetHairFlick__Bink.bik"
+
 To Movies/720p/ZagreusIdle_Bink.bik
 Replace "Movies/ZagreusIdle_Bink.bik"
 
