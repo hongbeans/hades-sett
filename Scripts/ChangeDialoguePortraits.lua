@@ -47,6 +47,16 @@ ModUtil.LoadOnce(function()
                     [1] = {
                         Portrait = "Portrait_Thanatos_Shy_01"
                     }
+                },
+                ThanatosPostEnding01 = {
+                    [5] = {
+                        Portrait = "Portrait_Thanatos_Shy_01"
+                    }
+                },
+                ThanatosAboutStaying01 = {
+                    [3] = {
+                        Portrait = "Portrait_Thanatos_Shy_01"
+                    }
                 }
             },
             RepeatableTextLineSets = {
