@@ -318,3 +318,27 @@ Replace "Movies/ZagreusIdle_Bink.bik"
 
 To Movies/ZagreusIdle_Bink.bik
 Replace "Movies/ZagreusIdle_Bink.bik"
+
+To Movies/720p/ZagreusInteractEquip_Bink.bik
+Replace "Movies/ZagreusInteractEquip_Bink.bik"
+
+To Movies/ZagreusInteractEquip_Bink.bik
+Replace "Movies/ZagreusInteractEquip_Bink.bik"
+
+To Movies/720p/ZagreusRun_Bink.bik
+Replace "Movies/ZagreusRun_Bink.bik"
+
+To Movies/ZagreusRun_Bink.bik
+Replace "Movies/ZagreusRun_Bink.bik"
+
+To Movies/720p/ZagreusStart_Bink.bik
+Replace "Movies/ZagreusStart_Bink.bik"
+
+To Movies/ZagreusStart_Bink.bik
+Replace "Movies/ZagreusStart_Bink.bik"
+
+To Movies/720p/ZagreusWalk_Bink.bik
+Replace "Movies/ZagreusWalk_Bink.bik"
+
+To Movies/ZagreusWalk_Bink.bik
+Replace "Movies/ZagreusWalk_Bink.bik"
