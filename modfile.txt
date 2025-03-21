@@ -349,6 +349,12 @@ Replace "Movies/ZagreusStart_Bink.bik"
 To Movies/ZagreusStart_Bink.bik
 Replace "Movies/ZagreusStart_Bink.bik"
 
+To Movies/720p/ZagreusStop_Bink.bik
+Replace "Movies/ZagreusStop_Bink.bik"
+
+To Movies/ZagreusStop_Bink.bik
+Replace "Movies/ZagreusStop_Bink.bik"
+
 To Movies/720p/ZagreusWalk_Bink.bik
 Replace "Movies/ZagreusWalk_Bink.bik"
 
