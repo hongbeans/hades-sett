@@ -277,6 +277,18 @@ To Movies/720p/RemBGHadesIntro.bik
 Replace "Movies/RemBGHadesIntro.bik"
 
 :: Replace character animation binks
+To Movies/720p/NPC_NyxIdle_Bink.bik
+Replace "Movies/NPC_NyxIdle_Bink.bik"
+
+To Movies/NPC_NyxIdle_Bink.bik
+Replace "Movies/NPC_NyxIdle_Bink.bik"
+
+To Movies/720p/NPC_NyxIdleGreeting_Bink.bik
+Replace "Movies/NPC_NyxIdleGreeting_Bink.bik"
+
+To Movies/NPC_NyxIdleGreeting_Bink.bik
+Replace "Movies/NPC_NyxIdleGreeting_Bink.bik"
+
 To Movies/720p/NPC_SisyphusElbowing_Bink.bik
 Replace "Movies/NPC_SisyphusElbowing_Bink.bik"
 
