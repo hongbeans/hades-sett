@@ -360,3 +360,9 @@ Replace "Movies/ZagreusWalk_Bink.bik"
 
 To Movies/ZagreusWalk_Bink.bik
 Replace "Movies/ZagreusWalk_Bink.bik"
+
+To Movies/720p/ZagreusWalkStop_Bink.bik
+Replace "Movies/ZagreusWalkStop_Bink.bik"
+
+To Movies/ZagreusWalkStop_Bink.bik
+Replace "Movies/ZagreusWalkStop_Bink.bik"
