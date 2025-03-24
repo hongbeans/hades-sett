@@ -163,6 +163,12 @@ Animations = [
             Scale = 2.5
         }
 
+        { Name = "HousePaintingTheseus01" }
+        {
+            FilePath = "SettDeathArea\Tilesets\House\House_PaintingTheseus_01"
+            Scale = 2.5
+        }
+
         { Name = "HousePaintingTots01" }
         {
             FilePath = "SettDeathArea\Tilesets\House\House_PaintingTots_01"
