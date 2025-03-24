@@ -25,7 +25,7 @@
       */
       Id = "ZagreusHome_0164"
       Speaker = "Zagreus"
-      DisplayName = "I don't remember havin' ya on payroll, bud. Who's your supervisor?"
+      DisplayName = "I don't remember havin' ya on my payroll, bud. Who's your supervisor?"
     }
     {
       /*
@@ -36,7 +36,7 @@
       */
       Id = "Skelly_0160"
       Speaker = "Skelly"
-      DisplayName = "{#DialogueItalicFormat}Oh-hoh{#PreviousFormat}, I'm not about to rat my sources, pal! Just try and beat it out of me!"
+      DisplayName = "{#DialogueItalicFormat}Oh-hoh{#PreviousFormat}, I'm not about to ratout  my sources, pal! Just try and beat it out of me!"
     }
     {
       /*
@@ -78,7 +78,7 @@
       */
       Id = "ZagreusHome_0169"
       Speaker = "Zagreus"
-      DisplayName = "I have to ask ya somethin', bro. What do ya even need money for, anyway?"
+      DisplayName = "I have to ask ya somethin', Amumu. What do ya even need money for, anyway?"
     }
     {
       /*
@@ -108,7 +108,7 @@
       */
       Id = "Skelly_0003"
       Speaker = "Skelly"
-      DisplayName = "You getting pretty strong, I'll give you that, friend. Strong enough to smack a guy like me right up against the wall and I'd go straight to pieces, {#DialogueItalicFormat}boom{#PreviousFormat}! You just remember, when you're duking it out, the walls are your friend, like me!"
+      DisplayName = "You're getting pretty strong, I'll give you that, friend. Strong enough to smack a guy like me right up against the wall and I'd go straight to pieces, {#DialogueItalicFormat}boom{#PreviousFormat}! You just remember, when you're duking it out, the walls are your friend, like me!"
     }
     {
       /*
@@ -168,7 +168,7 @@
       */
       Id = "Skelly_0171"
       Speaker = "Skelly"
-      DisplayName = "Little tip, bestie? You find any coinage while you're out there, you be sure to pawn it off to that old Karthus, boatman guy? Use it or lose it, friend, use it or lose it."
+      DisplayName = "Little tip, bestie? You find any coinage while you're out there, you be sure to pawn it off to that old Karthus, boatman guy. Use it or lose it, friend, use it or lose it."
     }
     {
       /*
@@ -178,7 +178,7 @@
       */
       Id = "ZagreusHome_0167"
       Speaker = "Zagreus"
-      DisplayName = "Thanks, bro, note to self: Always spend everything I earn instead of ever savin'. Any other great financial advice?"
+      DisplayName = "Thanks, bro, note to self: Always spend everythin' I earn instead of ever savin'. Any other great financial advice?"
     }
     {
       /*
@@ -248,7 +248,7 @@
       */
       Id = "Skelly_0367"
       Speaker = "Skelly"
-      DisplayName = "If you're having a rough time out there, friend, you just remember something: You're a {#DialogueItalicFormat}god{#PreviousFormat}, all right?! Way tougher than you think. They give you trouble, you just turn on {#DialogueItalicFormat}God Mode{#PreviousFormat}, and you let 'em have it for me!"
+      DisplayName = "If you're having a rough time out there, friend, you just remember something: You're a {#DialogueItalicFormat}Spirit{#PreviousFormat}, all right?! Way tougher than you think. They give you trouble, you just turn on {#DialogueItalicFormat}God Mode{#PreviousFormat}, and you let 'em have it for me!"
     }
     {
       /*
@@ -288,7 +288,7 @@
       */
       Id = "Skelly_0529"
       Speaker = "Skelly"
-      DisplayName = "Well, bestie? You have come a pretty long way, let me tell {#DialogueItalicFormat}you{#PreviousFormat}. I think most of the smarts I've picked up, you know by now. And so... if I'm fresh out of tips for you... I guess there's only one thing left to do. Let's hug it out."
+      DisplayName = "Well, bestie? You've come a pretty long way, let me tell {#DialogueItalicFormat}you{#PreviousFormat}. I think most of the smarts I've picked up, you know by now. And so... if I'm fresh out of tips for you... I guess there's only one thing left to do. Let's hug it out."
     }
     {
       /*
@@ -1055,7 +1055,7 @@
       */
       Id = "ZagreusHome_2949"
       Speaker = "Zagreus"
-      DisplayName = "I know that it's ruled by gods who embody concepts and aspects of the world. Like the Lady Ahri, Spirit of Salvation or Lord Volibear, Spirit of Lightning."
+      DisplayName = "I know that it's ruled by Spirits who embody concepts and aspects of the world. Like the Lady Ahri, Spirit of Salvation or Lord Volibear, Spirit of Lightning."
     }
     {
       /*
@@ -1091,7 +1091,7 @@
       */
       Id = "Skelly_0489"
       Speaker = "Skelly"
-      DisplayName = "That's right! Most of those big name Spirits just came into being a long time ago, born to the Old Gods or after the Old Gods were defeated. But some of that leftover Spirity-business was left unclaimed."
+      DisplayName = "That's right! Most of those big name Spirits just came into being a long time ago, born to the Old Gods or after the Old Gods were defeated. But some of that leftover Spirity-business was unclaimed."
     }
     {
       /*
@@ -1487,7 +1487,7 @@
       */
       Id = "ZagreusHome_2955"
       Speaker = "Zagreus"
-      DisplayName = "Why I oughtta- wait! No changin' the subject. So ya became a Spirit of Sorrow, then what?"
+      DisplayName = "Why I oughta- wait! No changin' the subject. So ya became a Spirit of Sorrow, then what?"
     }
     {
       /*
@@ -1559,7 +1559,7 @@
       */
       Id = "ZagreusHome_2956"
       Speaker = "Zagreus"
-      DisplayName = "You got lost n' turned into a god, and what? Decided to lurk outside my room? You gotta admit that sounds bad, right?"
+      DisplayName = "You got lost n' turned into a Spirit, and what? Decided to lurk outside my room? You gotta admit that sounds bad, right?"
     }
     {
       /*
@@ -1667,7 +1667,7 @@
       */
       Id = "Skelly_0497"
       Speaker = "Skelly"
-      DisplayName = "Well, that, I can't tell you. Non-Disclosure Agreements, contract confidentiality, liscensing disputes, all that... but it's all above board for sure!"
+      DisplayName = "Well, that, I can't tell you. Non-Disclosure Agreements, contract confidentiality, liscensing disputes, all that... but it's all above-board for sure!"
     }
     {
       /*
@@ -1930,7 +1930,7 @@
       */
       Id = "ZagreusHome_1065"
       Speaker = "Zagreus"
-      DisplayName = "Calm down, Amumu. I'm sure whatever it is is perfectly normal for a legendary semi-sentient God-slayin' weapon from the dawn of time."
+      DisplayName = "Calm down, Amumu. I'm sure whatever it is, it's perfectly normal for a legendary semi-sentient God-slayin' weapon from the dawn of time."
     }
     {
       /*
@@ -1963,7 +1963,7 @@
       */
       Id = "ZagreusHome_1246"
       Speaker = "Zagreus"
-      DisplayName = "Can't blame you, bro. I wouldn't wanna be stuck in a chamber with a bunch of legendary, quite possibly malevolent killin' artifacts actively thirsting for blood. Have you considered maybe takin' a break? Goin' somewhere else?"
+      DisplayName = "Can't blame ya', bro. I wouldn't wanna be stuck in a chamber with a bunch of legendary, quite possibly malevolent killin' artifacts actively thirstin' for blood. Have you considered maybe takin' a break? Goin' somewhere else?"
     }
     {
       /*
@@ -2199,7 +2199,7 @@
       */
       Id = "Skelly_0310"
       Speaker = "Skelly"
-      DisplayName = "Listen, bestie boo: I don't know exactly how to say this, so I'm just going to come right out. I need your help with something, and, I'll be honest, I don't think you're going to like it."
+      DisplayName = "That blade of yours back there. It's got a special power. Your Aspect, now that it's maxed out. You got to let me have it with that thing... and then I'm out of here."
     }
     {
       /*
@@ -2393,7 +2393,7 @@
       */
       Id = "Skelly_0032"
       Speaker = "Skelly"
-      DisplayName = "You want another a piece of this, or what?"
+      DisplayName = "You want another piece of this, or what?"
     }
     {
       /*
@@ -2825,7 +2825,7 @@
       */
       Id = "ZagreusField_1403"
       Speaker = "Zagreus"
-      DisplayName = "Three against one? Doesn't seem fair, but, bring it on!"
+      DisplayName = "A 3v1? That doesn't seem balanced. What is this, a top lane gank?"
     }
     {
       /*
@@ -2871,7 +2871,7 @@
       */
       Id = "MegaeraField_0420"
       Speaker = "Megaera"
-      DisplayName = "I understand. Though you should know my sisters and I keep no secrets from each other, anymore. Isn't that right, Sisters?"
+      DisplayName = "I understand. Though you should know my sisters and I keep no secrets from each other anymore. Isn't that right, Sisters?"
     }
     {
       /*
@@ -2882,7 +2882,7 @@
       */
       Id = "MegaeraField_0421"
       Speaker = "Megaera"
-      DisplayName = "{#DialogueItalicFormat}Eugh{#PreviousFormat}, I almost want to thank you, Sett. I thought you'd never change that blasted Pact, and leave me here, in peace."
+      DisplayName = "{#DialogueItalicFormat}Eugh{#PreviousFormat}, I almost want to thank you, Sett. I thought you'd never change that blasted Pact and leave me here in peace."
     }
     {
       /*
@@ -2904,7 +2904,7 @@
       */
       Id = "MegaeraField_0422"
       Speaker = "Megaera"
-      DisplayName = "They're tolerable each to some extent. About as much as I can say for you. Now let's the two of us begin."
+      DisplayName = "They're tolerable each to some extent. About as much as I can say for you. Now let's begin."
     }
     {
       /*
@@ -2966,7 +2966,7 @@
       */
       Id = "ZagreusField_1399"
       Speaker = "Zagreus"
-      DisplayName = "I can't imagine why! We've had a real lovely time gettin' to know each other. We laughed, we cried! I only regret you weren't there."
+      DisplayName = "I can't imagine why! We've had a real lovely time gettin' to know each other. We laughed, we cried! I only regret ya weren't there."
     }
     {
       /*
@@ -2999,7 +2999,7 @@
       */
       Id = "ZagreusField_1400"
       Speaker = "Zagreus"
-      DisplayName = "Is it so bad that I feel honored to have gotten the attention of Chosen?"
+      DisplayName = "Is it so bad that I feel honored to have gotten the attention of the Chosen?"
     }
     {
       /*
@@ -3386,7 +3386,7 @@
       */
       Id = "MegaeraField_0004"
       Speaker = "Megaera"
-      DisplayName = "Halt, Prince. Not one step further."
+      DisplayName = "Your father sent me. All in all, I'd rather be on your bad side than his. Now you can turn back like a good little dog, or I can send you home the painful way, tail tucked between your legs. What'll it be?"
     }
     {
       /*
@@ -3399,7 +3399,7 @@
       */
       Id = "ZagreusField_0137"
       Speaker = "Zagreus"
-      DisplayName = "Come on, Alune. Don't you have somewhere else to be? You wanted nothin' to do with me anymore anyway."
+      DisplayName = "...I'll have to go with the painful way then."
     }
     {
       /*
@@ -3412,7 +3412,7 @@
       */
       Id = "MegaeraField_0005"
       Speaker = "Megaera"
-      DisplayName = "Your father sent me. All in all, I'd rather be on your bad side than his. Now you can turn back like a good little dog, or I can send you home the painful way, tail between your legs. What'll it be?"
+      DisplayName = "A man after my own heart."
     }
     {
       /*
@@ -3709,7 +3709,7 @@
       */
       Id = "MegaeraField_0167"
       Speaker = "Megaera"
-      DisplayName = "How cute."
+      DisplayName = "How cute. Come, maybe I'll kill you just as easily as your new Hydra friend."
     }
     {
       /*
@@ -3808,7 +3808,7 @@
       */
       Id = "MegaeraField_0440"
       Speaker = "Megaera"
-      DisplayName = "Of course! Who do you think I am? Although I guess there's no use keeping score with you."
+      DisplayName = "Of course. Who do you think I am? Although I guess there's no use keeping score with you."
     }
     {
       /*
@@ -3863,7 +3863,7 @@
       */
       Id = "ZagreusField_1401"
       Speaker = "Zagreus"
-      DisplayName = "Almost wanna say you're welcome. But then again, I don't wanna be deeper in her bad graces. Have you both always been on bad terms like this?"
+      DisplayName = "Almost wanna say you're welcome. But then again, I don't really get it. Have you both always been on bad terms like this?"
     }
     {
       /*
@@ -3896,7 +3896,7 @@
       */
       Id = "ZagreusField_1402"
       Speaker = "Zagreus"
-      DisplayName = "He's difficult to please, so why bother? What happened with her, anyway? She ah, keeps callin' me a murderer, which fair, but I'm other things too."
+      DisplayName = "He's difficult to please, so why bother? What happened with her, anyway? She ah, keeps callin' me a murderer and betrayer."
     }
     {
       /*
@@ -3907,7 +3907,7 @@
       */
       Id = "MegaeraField_0185"
       Speaker = "Megaera"
-      DisplayName = "It runs in the family. Cass only knows her work. And, professional distance is important."
+      DisplayName = "Family is a touchy subject when it comes to Cass. Try not to take it too personal."
     }
     {
       /*
@@ -3929,7 +3929,7 @@
       */
       Id = "ZagreusField_2738"
       Speaker = "Zagreus"
-      DisplayName = "What, 'cause I've been distracting ya from lashin's like before? Think we could all use a vacation from our troubles every once 'n awhile, huh, Alune?"
+      DisplayName = "What, 'cause I've been distracting ya from dishin' out lashin's like before? Think we could all use a vacation from our troubles every once 'n a while, huh, Alune?"
     }
     {
       /*
@@ -3962,7 +3962,7 @@
       */
       Id = "ZagreusField_2740"
       Speaker = "Zagreus"
-      DisplayName = "Ya know, he hasn't, no. Though I don't need special weapon buffs to get past y. Don't believe me?"
+      DisplayName = "Ya know, he hasn't, no. Though I don't need special weapon buffs to get past you. Don't believe me?"
     }
     {
       /*
@@ -4094,7 +4094,7 @@
       */
       Id = "ZagreusField_1397"
       Speaker = "Zagreus"
-      DisplayName = "I have my reasons. Pityin' ya ain't one 'o them. Mostly it's 'cause I can't leave my courtyard without one. But I guess ya don't believe me, do ya?"
+      DisplayName = "I have my reasons. Pityin' ya ain't one 'o them. Mostly it's 'cause I can't leave my courtyard without signin' a Pact. But I guess ya don't believe me, do ya?"
     }
     {
       /*
@@ -4149,7 +4149,7 @@
       */
       Id = "ZagreusField_4317"
       Speaker = "Zagreus"
-      DisplayName = "Ha, it's like ya don't know me, Lunie! Ya know I can't resist gettin' into situations thoughtlessly and recklessly. Forced Overtime's the perfect fit for me!"
+      DisplayName = "Ha, it's like ya don't even know me, Lunie! Ya know I can't resist gettin' into situations thoughtlessly and recklessly. Forced Overtime's the perfect fit for me!"
     }
     {
       /*
@@ -4380,7 +4380,7 @@
       */
       Id = "ZagreusField_2739"
       Speaker = "Zagreus"
-      DisplayName = "Oh, Infinity Edge and I have gotten closely acquainted lately, Alune. Care to see it up close? It sure ain't the one you're used to seein' these days."
+      DisplayName = "Oh, Infinity Edge and I have gotten pretty friendly lately, Alune. Care to see it up close? It sure ain't the one you're used to these days."
     }
     {
       /*
@@ -4391,7 +4391,7 @@
       */
       Id = "MegaeraField_0428"
       Speaker = "Megaera"
-      DisplayName = "I'm mostly just worried you figured out how to break an unbreakable, uncorruptable weapon that slew the Old Gods."
+      DisplayName = "I'm mostly just worried you figured out how to {#DialogueItalicFormat}break{#PreviousFormat} an unbreakable, uncorruptable weapon that slew the Old Gods."
     }
     {
       /*
@@ -4556,7 +4556,7 @@
       */
       Id = "MegaeraField_0385"
       Speaker = "Megaera"
-      DisplayName = "Not on your life or death. But I will kill you quickly, how's that?"
+      DisplayName = "Not on your life... or death. But I will kill you quickly, how's that?"
     }
     {
       /*
@@ -4644,7 +4644,7 @@
       */
       Id = "ZagreusField_2742"
       Speaker = "Zagreus"
-      DisplayName = "Not really, no, though thanks for askin', Alune. Though if you're gonna force me, just know that I'm goin' to resist, with all. My. Might."
+      DisplayName = "Not really, no, but thanks for askin', Alune. Though if you're gonna force me, just know that I'm goin' to resist, with all. My. Might."
     }
     {
       /*
@@ -4666,7 +4666,7 @@
       */
       Id = "MegaeraField_0006"
       Speaker = "Megaera"
-      DisplayName = "Ever stubborn, aren't you. Maybe my whip might make you reconsider whatever it is that you're attempting here."
+      DisplayName = "Ever stubborn, aren't you. Maybe an embarassing defeat might make you reconsider whatever it is that you're attempting here."
     }
     {
       /*
@@ -4677,7 +4677,7 @@
       */
       Id = "ZagreusField_0462"
       Speaker = "Zagreus"
-      DisplayName = "Your whip's not been all that persuasive in the past."
+      DisplayName = "Defeat's not been all that persuasive in the past."
     }
     {
       /*
@@ -5639,7 +5639,7 @@
       */
       Id = "MegaeraField_0536"
       Speaker = "Megaera"
-      DisplayName = "Here we are again, Sett. Disappointed?"
+      DisplayName = "Here we are again, Sett. Disappointed there's no Aphelios?"
     }
     {
       /*
@@ -5749,7 +5749,7 @@
       */
       Id = "Alecto_0323"
       Speaker = "Alecto"
-      DisplayName = "{#DialogueItalicFormat}Ugh{#PreviousFormat}, would you just {#DialogueItalicFormat}look {#PreviousFormat}at him! That smug look, that posture, {#DialogueItalicFormat}everything{#PreviousFormat}! Please tell me Death isn't going soft for this mess of a man, Sister."
+      DisplayName = "{#DialogueItalicFormat}Ugh{#PreviousFormat}, would you just {#DialogueItalicFormat}look {#PreviousFormat}at him! That smug face, that posture, {#DialogueItalicFormat}everything{#PreviousFormat}! Please tell me Death isn't going soft for this mess of a man, Sister."
     }
     {
       /*
@@ -6056,7 +6056,7 @@
       */
       Id = "ZagreusField_3807"
       Speaker = "Zagreus"
-      DisplayName = "...{#DialogueItalicFormat}Uh{#PreviousFormat}, as real... delightful. As that sounds, I think I'll pass, Evelynn. But good luck to ya."
+      DisplayName = "...{#DialogueItalicFormat}Uh{#PreviousFormat}, as... delightful. As that sounds, I think I'll pass, Evelynn. But good luck to ya."
     }
     {
       /*
@@ -6239,7 +6239,7 @@
       */
       Id = "ZagreusField_1411"
       Speaker = "Zagreus"
-      DisplayName = "Right. Can I say I'm not interested in whatever {#DialogueItalicFormat}this{#PreviousFormat} is?"
+      DisplayName = "Right. Can I say I'm not interested in whatever, {#DialogueItalicFormat}this{#PreviousFormat}, is?"
     }
     {
       /*
@@ -6305,7 +6305,7 @@
       */
       Id = "ZagreusField_1413"
       Speaker = "Zagreus"
-      DisplayName = "I'm afraid only Aphelios knows the answer to that, or is privy to the show."
+      DisplayName = "I'm afraid only Aphelios knows the answer to that, or would be privy to the show."
     }
     {
       /*
@@ -6437,7 +6437,7 @@
       */
       Id = "ZagreusField_3810"
       Speaker = "Zagreus"
-      DisplayName = "We'll see abou that, Evelynn. Prepare to get your hopes dashed."
+      DisplayName = "We'll see about that, Evelynn. Prepare to get your hopes dashed."
     }
     {
       /*
@@ -6470,7 +6470,7 @@
       */
       Id = "ZagreusField_3811"
       Speaker = "Zagreus"
-      DisplayName = "There's three of of you Chosen. Nobody says it always has gotta be you here standin' in my way. Personally I'd rather deal with you than with Alune. It doesn't make me feel as bad for winnin'."
+      DisplayName = "There's three of of you Chosen. Nobody says its always gotta be you here standin' in my way. Personally I'd rather deal with you than with Alune. It doesn't make me feel as bad for winnin'."
     }
     {
       /*
@@ -6525,7 +6525,7 @@
       */
       Id = "Alecto_0379"
       Speaker = "Alecto"
-      DisplayName = "Cassiopeia's started to say the strangest things, lately, half-breed. You wouldn't happen to know anything about that, would you?"
+      DisplayName = "You better keep your wretched mouth shut around Cass, mutt, or I'll make you regret having a tongue."
     }
     {
       /*
@@ -6536,7 +6536,7 @@
       */
       Id = "ZagreusField_3813"
       Speaker = "Zagreus"
-      DisplayName = "Just helpin' her expand her rather limited vocabulary, is all."
+      DisplayName = "Just helpin' her expand her rather limited vocabulary, is all. She's extended family, after all."
     }
     {
       /*
@@ -6547,7 +6547,7 @@
       */
       Id = "Alecto_0380"
       Speaker = "Alecto"
-      DisplayName = "Oh, such a joker! You really think she's got something to learn from you? Of all people? Why don't you learn to shut up from her instead."
+      DisplayName = "The last thing she needs is another pathetic {#DialogueItalicFormat}family{#PreviousFormat} member messing her up again for no reason."
     }
     {
       /*
@@ -6879,7 +6879,7 @@
       */
       Id = "Alecto_0059"
       Speaker = "Alecto"
-      DisplayName = "You ready, Sis? This redblood's nothing to the both of us."
+      DisplayName = "You ready, Sis? This mutt's nothing to the both of us."
     }
     {
       /*
@@ -7221,7 +7221,7 @@
       */
       Id = "Alecto_0030"
       Speaker = "Alecto"
-      DisplayName = "The Fates must want to spill your blood as much as I do."
+      DisplayName = "Fate must want to spill your blood as much as I do."
     }
     {
       /*
@@ -7284,7 +7284,7 @@
       */
       Id = "Alecto_0041"
       Speaker = "Alecto"
-      DisplayName = "Oh, thank the Fates I get to deal with you this time."
+      DisplayName = "Oh, looks like I get to deal with you this time."
     }
     {
       /*
@@ -7559,7 +7559,7 @@
       */
       Id = "Tisiphone_0002"
       Speaker = "Tisiphone"
-      DisplayName = "{#DialogueItalicFormat}Mmmm... mmmurderer..."
+      DisplayName = "{#DialogueItalicFormat}Mmmm... mmmurderer...mmbbb..."
     }
     {
       /*
@@ -7585,7 +7585,7 @@
       */
       Id = "Tisiphone_0003"
       Speaker = "Tisiphone"
-      DisplayName = "Murderer... {#DialogueItalicFormat}mmmmurderrrerrrrrrrr...!"
+      DisplayName = "Murderer... {#DialogueItalicFormat}beee... Betrayeeeer!...Betrayer!"
     }
     {
       /*
@@ -7598,7 +7598,7 @@
       */
       Id = "ZagreusField_1425"
       Speaker = "Zagreus"
-      DisplayName = "{#DialogueItalicFormat}Uh{#PreviousFormat}... look, I know I've done some things that ain't great, but I'm pretty sure I haven't murdered anyone. Not permanently."
+      DisplayName = "{#DialogueItalicFormat}Uh{#PreviousFormat}... look, I know I've done some things that ain't great, but I'm pretty sure I haven't murdered anyone. Not permanently. But certainly never betrayed anyone!"
     }
     {
       /*
@@ -7651,7 +7651,7 @@
       */
       Id = "Tisiphone_0019"
       Speaker = "Tisiphone"
-      DisplayName = "Murrddderrrr? Murrdderrr. {#DialogueItalicFormat}Murddder{#PreviousFormat}!"
+      DisplayName = "Murrddderrrr? Betrayerrr, Betrayer. {#DialogueItalicFormat}Murddder{#PreviousFormat}!"
     }
     {
       /*
@@ -7673,7 +7673,7 @@
       */
       Id = "ZagreusField_1426"
       Speaker = "Zagreus"
-      DisplayName = "{#DialogueItalicFormat}Uh{#PreviousFormat}... how about, no? No murder. No murder!"
+      DisplayName = "{#DialogueItalicFormat}Uh{#PreviousFormat}... how about, no? No murder. No murder! Or betrayal!"
     }
     {
       /*
@@ -7695,7 +7695,7 @@
       */
       Id = "Tisiphone_0007"
       Speaker = "Tisiphone"
-      DisplayName = "Murder...? Murder, murrrder...!"
+      DisplayName = "Murder...? Betrrrayal, murrrder...!"
     }
     {
       /*
@@ -7728,7 +7728,7 @@
       */
       Id = "Tisiphone_0009"
       Speaker = "Tisiphone"
-      DisplayName = "Mmm... mmm.... mmmrrrr....!"
+      DisplayName = "Bbbe... mmm.... mmmrrrr....!"
     }
     {
       /*
@@ -7739,7 +7739,7 @@
       */
       Id = "ZagreusField_1428"
       Speaker = "Zagreus"
-      DisplayName = "Lemme guess. Murder! Or murderer, perhaps?"
+      DisplayName = "Lemme guess. Murder! Or murderer. Betrayal, perhaps?"
     }
     {
       /*
@@ -7783,7 +7783,7 @@
       */
       Id = "Tisiphone_0012"
       Speaker = "Tisiphone"
-      DisplayName = "Murderer. Muurrdererrr...."
+      DisplayName = "Murderer. Bettttrayerrrrr...."
     }
     {
       /*
@@ -7794,7 +7794,7 @@
       */
       Id = "Tisiphone_0013"
       Speaker = "Tisiphone"
-      DisplayName = "Murdererrr... murder, murder, {#DialogueItalicFormat}murder{#PreviousFormat}!"
+      DisplayName = "Murdererrr... murder, murder, {#DialogueItalicFormat}betrayal{#PreviousFormat}!"
     }
     {
       /*
@@ -7816,7 +7816,7 @@
       */
       Id = "Tisiphone_0014"
       Speaker = "Tisiphone"
-      DisplayName = "Murderer. {#DialogueItalicFormat}Murdererrr{#PreviousFormat}!!"
+      DisplayName = "Betrayer. {#DialogueItalicFormat}Murdererrr{#PreviousFormat}!!"
     }
     {
       /*
@@ -7827,7 +7827,7 @@
       */
       Id = "Tisiphone_0015"
       Speaker = "Tisiphone"
-      DisplayName = "Murder? {#DialogueItalicFormat}Murder{#PreviousFormat}...? Murder...."
+      DisplayName = "Murder? {#DialogueItalicFormat}Murder{#PreviousFormat}...? Betrayer..."
     }
     {
       /*
@@ -7849,7 +7849,7 @@
       */
       Id = "Tisiphone_0016"
       Speaker = "Tisiphone"
-      DisplayName = "Murderer... murderer! {#DialogueItalicFormat}Murderer{#PreviousFormat}!"
+      DisplayName = "Murderer... Betrrrrayal! {#DialogueItalicFormat}Murderer{#PreviousFormat}!"
     }
     {
       /*
@@ -7871,7 +7871,7 @@
       */
       Id = "ZagreusField_3824"
       Speaker = "Zagreus"
-      DisplayName = "No, murder. Settrigh! My name's Settrigh! Can ya say that, Cassiopeia? No murder. {#DialogueItalicFormat}Settrigh{#PreviousFormat}!"
+      DisplayName = "No, murder. Settrigh! My name's Settrigh! Can ya say that, Cassiopeia? No murder or betrayal. {#DialogueItalicFormat}Settrigh{#PreviousFormat}!"
     }
     {
       /*
@@ -7893,7 +7893,7 @@
       */
       Id = "Tisiphone_0099"
       Speaker = "Tisiphone"
-      DisplayName = "Mm, murrr... derr... serrr!"
+      DisplayName = "Bbb, Bbbe... Bss... serrr... serrrrrghhhh!"
     }
     {
       /*
@@ -7904,7 +7904,7 @@
       */
       Id = "ZagreusField_3826"
       Speaker = "Zagreus"
-      DisplayName = "You really said {#DialogueItalicFormat}murder-ser{#PreviousFormat}, didn't ya! That's progress! Settrigh! Can you say Settrigh?"
+      DisplayName = "You really said {#DialogueItalicFormat}serrrrrghhhh{#PreviousFormat}, didn't ya! That's progress! Settrigh! Can you say Settrigh?"
     }
     {
       /*
@@ -8003,7 +8003,7 @@
       */
       Id = "ZagreusField_3831"
       Speaker = "Zagreus"
-      DisplayName = "No. Wait! Just the first part! No murderer. Just Settrigh! Or... try {#DialogueItalicFormat}happy{#PreviousFormat}? Can ya say {#DialogueItalicFormat}happy{#PreviousFormat}?"
+      DisplayName = "No. Wait! Just the first part! No murderer. Just Settrigh! Or... try {#DialogueItalicFormat}family{#PreviousFormat}? Can ya say {#DialogueItalicFormat}family{#PreviousFormat}?"
     }
     {
       /*
@@ -8014,7 +8014,7 @@
       */
       Id = "Tisiphone_0106"
       Speaker = "Tisiphone"
-      DisplayName = "Mmrrr... {#DialogueItalicFormat}Sssrrderrrerrr{#PreviousFormat}...."
+      DisplayName = "Faaa... {#DialogueItalicFormat}Betraayaaallll{#PreviousFormat}... me!"
     }
     {
       /*
@@ -8025,7 +8025,7 @@
       */
       Id = "Tisiphone_0107"
       Speaker = "Tisiphone"
-      DisplayName = "Murdderr... Ssettttriigghh... {#DialogueItalicFormat}murddererrr{#PreviousFormat}..."
+      DisplayName = "Ssettttriigghh... faaam... {#DialogueItalicFormat}faaamily{#PreviousFormat}... Betrayerrr... Betrayal... Me..."
     }
     {
       /*
@@ -8036,7 +8036,7 @@
       */
       Id = "ZagreusField_3833"
       Speaker = "Zagreus"
-      DisplayName = "{#DialogueItalicFormat}Uh{#PreviousFormat}, well... let's try {#DialogueItalicFormat}happy{#PreviousFormat} again, how 'bout that? Happy? No murder, only happy!"
+      DisplayName = "{#DialogueItalicFormat}Wait{#PreviousFormat}, what? 'Family', 'betrayal'... Oh, Cass, what happened to ya?"
     }
     {
       /*
@@ -8069,7 +8069,7 @@
       */
       Id = "ZagreusField_3835"
       Speaker = "Zagreus"
-      DisplayName = "I guess the {#DialogueItalicFormat}happy {#PreviousFormat}thing just ain't doin' it for ya. Though, maybe tryin' ta kill me like this is as close as you can get. You learned my name at least, that's somethin', right?"
+      DisplayName = "Ya know, Cass, I think I'm startin' to understand ya just a lil. Seems like we're both teachin' each other, huh?"
     }
     {
       /*
@@ -8091,7 +8091,7 @@
       */
       Id = "Tisiphone_0111"
       Speaker = "Tisiphone"
-      DisplayName = "Mmmuurdderrr... {#DialogueItalicFormat}murrdderrrerrrrr{#PreviousFormat}...."
+      DisplayName = "Mmmuurdderrr... {#DialogueItalicFormat}betraaaayalll{#PreviousFormat}...."
     }
     {
       /*
@@ -8102,7 +8102,7 @@
       */
       Id = "ZagreusField_3836"
       Speaker = "Zagreus"
-      DisplayName = "...And we're back to square one, huh? Look, communication may not be in the cards for us, but, if you can understand any of this, Cassiopeia, I think you're alright, just the way you are. Friends?"
+      DisplayName = "Regular communication may not be in the cards for us, but, if ya really can understand any of this, Cassiopeia, I think you're alright, just the way you are. Friends?"
     }
     {
       /*
@@ -8113,7 +8113,7 @@
       */
       Id = "Tisiphone_0112"
       Speaker = "Tisiphone"
-      DisplayName = "...Ssrrngh... srrnnggh... {#DialogueItalicFormat}ssssrrdderrrerrr!{#PreviousFormat}..."
+      DisplayName = "...Ssrrngh... sbbbbeee... {#DialogueItalicFormat}ssssrrdderrrerrr!{#PreviousFormat}..."
     }
     {
       /*
@@ -8124,7 +8124,7 @@
       */
       Id = "Tisiphone_0117"
       Speaker = "Tisiphone"
-      DisplayName = "Sss, ssaa... {#DialogueItalicFormat}Ssettttrigh? {#PreviousFormat}Mmurderrrer?"
+      DisplayName = "Sbbbb, ssaa... {#DialogueItalicFormat}Ssettttrigh? {#PreviousFormat}Mmurderrrer? Bbbeee.... Betrayyy..."
     }
     {
       /*
@@ -8135,7 +8135,7 @@
       */
       Id = "ZagreusField_4108"
       Speaker = "Zagreus"
-      DisplayName = "Hey, {#DialogueItalicFormat}uhh{#PreviousFormat}, any second thoughts on that whole {#DialogueItalicFormat}happy {#PreviousFormat}thing? Just makin' sure."
+      DisplayName = "Hey, Cass, I know we don't really know each other well, but know that I ain't gonna betray you. Deal?"
     }
     {
       /*
@@ -8164,7 +8164,7 @@
       */
       Id = "Tisiphone_0018"
       Speaker = "Tisiphone"
-      DisplayName = "Mm, mmurrdererrrrr.... Murdererr!"
+      DisplayName = "Bbb, betraaayyyy.... Betraaayyyyerrrrrrr!"
     }
     {
       /*
@@ -8191,7 +8191,7 @@
       */
       Id = "Tisiphone_0022"
       Speaker = "Tisiphone"
-      DisplayName = "Murder. Murder. Murder. {#DialogueItalicFormat}Murder. Murder{#PreviousFormat}!"
+      DisplayName = "Betrayal. Betrayal! Murder. Murder. {#DialogueItalicFormat}Murder. Murder{#PreviousFormat}!"
     }
     {
       /*
@@ -8200,7 +8200,7 @@
       */
       Id = "Tisiphone_0023"
       Speaker = "Tisiphone"
-      DisplayName = "Murderer. Murderer...! {#DialogueItalicFormat}Murderer{#PreviousFormat}!"
+      DisplayName = "Murderer. Betrayer...! {#DialogueItalicFormat}Murderer{#PreviousFormat}!"
     }
     {
       /*
@@ -8236,7 +8236,7 @@
       */
       Id = "Tisiphone_0030"
       Speaker = "Tisiphone"
-      DisplayName = "Mm, mmm, mmrrrnnggghh!"
+      DisplayName = "Bbb, mmm, bbeeerrrnnggghh!"
     }
     {
       /*
@@ -8281,7 +8281,7 @@
       */
       Id = "Tisiphone_0116"
       Speaker = "Tisiphone"
-      DisplayName = "Mmmurrdderrr.... {#DialogueItalicFormat}Ssettttrigh{#PreviousFormat}...!"
+      DisplayName = "Bbbetraaayerr.... {#DialogueItalicFormat}Ssettttrigh{#PreviousFormat}...!"
     }
     {
       /*
@@ -8335,7 +8335,7 @@
       */
       Id = "Tisiphone_0124"
       Speaker = "Tisiphone"
-      DisplayName = "Ssethrigh? {#DialogueItalicFormat}Sssseettttriiighh. {#PreviousFormat}Murderrerrrrr...."
+      DisplayName = "Ssettrigh? {#DialogueItalicFormat}Sssseettttriiighh. {#PreviousFormat}Murderrerrrrr...."
     }
     {
       /*
@@ -8344,7 +8344,7 @@
       */
       Id = "Tisiphone_0125"
       Speaker = "Tisiphone"
-      DisplayName = "Sss... sseeeh, sssrnnn! {#DialogueItalicFormat}Mur{#PreviousFormat}dderrrr!"
+      DisplayName = "Sss... sseeeh, sssrnnn! {#DialogueItalicFormat}Beeetraaa{#PreviousFormat}yyeerrr!"
     }
     {
       /*
@@ -8898,7 +8898,7 @@
       */
       Id = "ZagreusField_1763"
       Speaker = "Zagreus"
-      DisplayName = "Uh, who...? Wait! You're... the Spirit of Obsession? Thresh, the one defeated by Salvation! Then, who's the minotaur?"
+      DisplayName = "Uh, who...? Wait! You're... the Spirit of Obsession? Thresh, the one defeated by Salvation and Ambush! Then, who's the minotaur?"
     }
     {
       /*
@@ -8934,7 +8934,7 @@
       */
       Id = "ZagreusField_1764"
       Speaker = "Zagreus"
-      DisplayName = "Hold, mongrel! You'll walk not one more step toward the light of day, so long as I am here."
+      DisplayName = "Wait! You're... the Spirit of Obsession? Thresh, the one defeated by Salvation and Ambush! Then, who's the minotaur? A friend?"
     }
     {
       /*
@@ -9571,7 +9571,7 @@
       */
       Id = "ZagreusField_2759"
       Speaker = "Zagreus"
-      DisplayName = "Wow thanks for the concern, there, Thresh. But don't worry, I still got plenty left in me to wallop you and your {#DialogueItalicFormat}minio-taur{#PreviousFormat}."
+      DisplayName = "Wow thanks for the concern, there, Thresh. But don't worry, I still got plenty left in me to wallop you and your {#DialogueItalicFormat}minion-taur{#PreviousFormat}."
     }
     {
       /*
@@ -9604,7 +9604,7 @@
       */
       Id = "ZagreusField_1776"
       Speaker = "Zagreus"
-      DisplayName = "What, this? I just fished it out of a Well. What's it to you?"
+      DisplayName = "What, this? I just fished it out of a well. What's it to you?"
     }
     {
       /*
@@ -9615,7 +9615,7 @@
       */
       Id = "Theseus_0026"
       Speaker = "Theseus"
-      DisplayName = "As if you wouldn't know! That Yarn is the wretched remnants of my usurper! Why, I can still hear he devious cackling, tossing me from the Realm and stealing my hardwon throne and collections!"
+      DisplayName = "As if you wouldn't know! That Yarn is the wretched remnants of my usurper! Why, I can still hear her devious cackling, her and Salvation both, tossing me from the Realm and stealing my hard won throne and collections!"
     }
     {
       /*
@@ -9648,7 +9648,7 @@
       */
       Id = "Theseus_0284"
       Speaker = "Theseus"
-      DisplayName = "Nothing shall be bottled {#DialogueItalicFormat}here{#PreviousFormat}, you filth! What is there to be upset about! I can return to my throne whenever I want!"
+      DisplayName = "Nothing shall be bottled {#DialogueItalicFormat}here{#PreviousFormat}, you filth! What is there to be upset about! I can return to my throne whenever I want! I'm not mad!"
     }
     {
       /*
@@ -9681,7 +9681,7 @@
       */
       Id = "Theseus_0286"
       Speaker = "Theseus"
-      DisplayName = "Maybe {#DialogueItalicFormat}you {#PreviousFormat}should {#DialogueItalicFormat}shut up{#PreviousFormat}!! That Elise is dead to me. She has been since she threw me down here! Were it not for her- I would still rule the Realm! My collection would be limitless!"
+      DisplayName = "Maybe {#DialogueItalicFormat}you {#PreviousFormat}should {#DialogueItalicFormat}shut up{#PreviousFormat}!! That Elise is dead to me. She has been since she threw me down here! Were it not for her and that blasted Salvation- I would still rule the Realm! My collection would be limitless!"
     }
     {
       /*
@@ -9692,7 +9692,7 @@
       */
       Id = "Theseus_0287"
       Speaker = "Theseus"
-      DisplayName = "Why, look, Alistar! It seems the dog has brought some sort of nondescript yarn-ball! Not seen the likes of it. Indeed, it holds no sway on me, at all!"
+      DisplayName = "Why, look, Alistar! It seems the dog has brought some sort of nondescript yarn-ball! Not seen the likes of it. Indeed, it holds no sway on me, at all! Ha! Hahahaha!"
     }
     {
       /*
@@ -9835,7 +9835,7 @@
       */
       Id = "ZagreusField_3879"
       Speaker = "Zagreus"
-      DisplayName = "What? Minion and Master? Look, I'm not really interested in {#DialogueItalicFormat}whayever{#PreviousFormat} this is between you, but I'm not really sure why Alistar puts up with it."
+      DisplayName = "What? Minion and Master? Look, I'm not really interested in whatever {#DialogueItalicFormat}this {#PreviousFormat} is, between you, but I'm not really sure why Alistar puts up with it."
     }
     {
       /*
@@ -9934,7 +9934,7 @@
       */
       Id = "ZagreusField_3877"
       Speaker = "Zagreus"
-      DisplayName = "Ha! It's alright, Thresh. We got a real nice painting of you back in the House. Helps for when I inevitably forget about you between these fights."
+      DisplayName = "Sounds like I'm livin' rent-free in that over-inflated head 'o yours. I don't think about ya at all, Thresh. You're kinda forgettable, if I'm bein' honest."
     }
     {
       /*
@@ -9989,7 +9989,7 @@
       */
       Id = "Theseus_0554"
       Speaker = "Theseus"
-      DisplayName = "Tell me something, mongrel: Whence did you steal that kingly blade you're brandishing about? It seems ill-fitting for one such as you."
+      DisplayName = "Tell me something, mongrel: Whence did you steal that impressive blade you're brandishing about? It seems ill-fitting for one such as you."
     }
     {
       /*
@@ -10000,7 +10000,7 @@
       */
       Id = "ZagreusField_3884"
       Speaker = "Zagreus"
-      DisplayName = "Oh, this? It's not exactly my style but the Fates left it for me so I figured I'd take it for a spin. You really should stop accusin' people of stealin', not everyone is like you, Demon of Obsession."
+      DisplayName = "Oh, this? It's not exactly my style but the Fates left it for me so I figured I'd take it for a spin. You really should stop accusin' people of stealin', not everyone is like you, Obsession."
     }
     {
       /*
@@ -10047,7 +10047,7 @@
       */
       Id = "Theseus_0031"
       Speaker = "Theseus"
-      DisplayName = "Come, mutt, and get destroyed by the great Demon of Obsession! And AListar, I suppose."
+      DisplayName = "Come, mutt, and get destroyed by the great Demon, Legendary Collector, Champion of Elysium, the Spirit of Obsession! And Alistar, I suppose."
     }
     {
       /*
@@ -10083,7 +10083,7 @@
       */
       Id = "Theseus_0035"
       Speaker = "Theseus"
-      DisplayName = "It's time, Alistar! Let us assert our greatness through single-minded combat!"
+      DisplayName = "It's time, Alistar! Let us assert my greatness through single-minded combat!"
     }
     {
       /*
@@ -10110,7 +10110,7 @@
       */
       Id = "Theseus_0038"
       Speaker = "Theseus"
-      DisplayName = "I swear upon my pride, mongrel, you shall not pass!"
+      DisplayName = "I swear upon my pride, mongrel, you! Shall not! Pass!"
     }
     {
       /*
@@ -10119,7 +10119,7 @@
       */
       Id = "Theseus_0527"
       Speaker = "Theseus"
-      DisplayName = "No matter how you try, you cannot shake the bond we share, mutt!"
+      DisplayName = "No matter how you try, you cannot shake the bond we share, mutt! Go, minion!"
     }
     {
       /*
@@ -10399,7 +10399,7 @@
       */
       Id = "ZagreusField_2899"
       Speaker = "Zagreus"
-      DisplayName = "Don't ya worry about me. I don't need armor, never used it and never have, or will. Besides, I think there's a dress code."
+      DisplayName = "Don't ya worry 'bout me. I don't need armor, never used it and never have, or will. Besides, I think there's a dress code."
     }
     {
       /*
@@ -10568,7 +10568,7 @@
       */
       Id = "ZagreusField_1746"
       Speaker = "Zagreus"
-      DisplayName = "Yep and yep. So if you'll excuse me, I got places to be."
+      DisplayName = "Yep and yep. So if you'll excuse me, I got other places to be."
     }
     {
       /*
@@ -10607,7 +10607,7 @@
       */
       Id = "Minotaur_0004"
       Speaker = "Minotaur"
-      DisplayName = "It would appear so. {#DialogueItalicFormat}<Snort> {#PreviousFormat}Civility is lost on us, short one. We are warriors first. Come get destroyed."
+      DisplayName = "I am no Vastaya. But it would appear so. {#DialogueItalicFormat}<Snort> {#PreviousFormat}Civility is lost on us, short one. We are warriors first. Come get destroyed."
     }
     {
       /*
@@ -10618,7 +10618,7 @@
       */
       Id = "Minotaur_0017"
       Speaker = "Minotaur"
-      DisplayName = "You have met the Champion, the Demon of Obsession. Let us see if you are fit to face him once again."
+      DisplayName = "You have met the Champion, the Spirit of Obsession. Let us see if you are fit to face him once again."
     }
     {
       /*
@@ -10629,7 +10629,7 @@
       */
       Id = "ZagreusField_1754"
       Speaker = "Zagreus"
-      DisplayName = "You mean face both of ya, {#DialogueItalicFormat}together {#PreviousFormat}. Also known as two versus one. Not particularly fair, if ya ask me."
+      DisplayName = "You mean face both of ya, {#DialogueItalicFormat}together{#PreviousFormat}. Also known as two versus one. Not particularly fair, if ya ask me."
     }
     {
       /*
@@ -10771,7 +10771,7 @@
       */
       Id = "Minotaur_0311"
       Speaker = "Minotaur"
-      DisplayName = "We are. The heat fills me with strength. Let's see if it has any effect on you."
+      DisplayName = "We are. The heat fills me with strength. Resolve. Let's see if it has any effect on you."
     }
     {
       /*
@@ -11035,7 +11035,7 @@
       */
       Id = "ZagreusField_4263"
       Speaker = "Zagreus"
-      DisplayName = "HI know a wakin' phrase when I hear one, but why do ya have the one for these? Ya said ya dreamed 'em up?"
+      DisplayName = "I know a wakin' phrase when I hear one, but why do ya have the one for these? Did you really dream 'em up?"
     }
     {
       /*
@@ -12051,7 +12051,7 @@
       */
       Id = "HadesField_0557"
       Speaker = "Hades"
-      DisplayName = "You were never supposed to live! It took all of the Silver Sister's strength to circumvent what should have been a certainty. Now you cannot stay dead. Such is the wry humor of the Fates."
+      DisplayName = "You were never supposed to live! It took all of the Silver Sister's strength to circumvent what should have been a certainty. Now you cannot stay dead. Such is the wry humor of Fate."
     }
     {
       /*
@@ -12064,7 +12064,7 @@
       */
       Id = "ZagreusField_4326"
       Speaker = "Zagreus"
-      DisplayName = "The Mother Moon saved me.... Just 'cuz according to the Fates I was never meant to be born, since neither you or ma are from the Underworld, or somethin' like that? Or is that just another lie?"
+      DisplayName = "The Mother Moon saved me.... Just 'cuz according to Fate I was never meant to be born, since neither you or ma are from the Underworld, or somethin' like that? Or is that just another lie?"
     }
     {
       /*
@@ -12103,7 +12103,7 @@
       */
       Id = "HadesField_0559"
       Speaker = "Hades"
-      DisplayName = "You don't know anything! Why anyone would {#DialogueItalicFormat}choose {#PreviousFormat}to have a child is a mystery to me. The Fates said I would never have an heir. Perhaps {#DialogueItalicFormat}this {#PreviousFormat}was all they meant."
+      DisplayName = "You don't know anything! Why anyone would {#DialogueItalicFormat}choose {#PreviousFormat}to have a child is a mystery to me. I would never have an heir. Perhaps {#DialogueItalicFormat}this {#PreviousFormat}was all they meant."
     }
     {
       /*
@@ -12201,7 +12201,7 @@
       */
       Id = "HadesField_0410"
       Speaker = "Hades"
-      DisplayName = "You make such accusations, knowing next to nothing. Careless as ever. Nami had nothing to do with it! She knows even less than you. If you value Lihua's existence, or your own, you would be wise to keep it that way. And to turn back!"
+      DisplayName = "You make such accusations, knowing next to nothing. Careless as ever. Nami and Volibear had nothing to do with it! They know even less than you. If you value Lihua's existence, or your own, you would be wise to keep it that way. And to turn back!"
     }
     {
       /*
@@ -12223,7 +12223,7 @@
       */
       Id = "ZagreusField_3684"
       Speaker = "Zagreus"
-      DisplayName = "Oh, what d'you even know?! You claim {#DialogueItalicFormat}so{#PreviousFormat} much respect for her, yet ya didn't even respect her enough to tell her what happened after she left! But... what am I sayin'... I know you love her, even now, Pa. It's the only explanation."
+      DisplayName = "Oh, what d'you even know?! You claim {#DialogueItalicFormat}so{#PreviousFormat} much respect for her, yet ya didn't even respect her enough to tell her what happened after she left! But... ugh, what am I sayin'... I know you love her, even now, Pa. It's the only explanation."
     }
     {
       /*
@@ -12246,7 +12246,7 @@
       */
       Id = "HadesField_0413"
       Speaker = "Hades"
-      DisplayName = "...I have done virtually everything within my power to prevent this. All of it... for nothing. The Fates were not content to saddle me within the earth; they mock me, still."
+      DisplayName = "...I have done virtually everything within my power to prevent this. All of it... for nothing. Fate was not content to saddle me within the earth; they mock me, still."
     }
     {
       /*
@@ -12447,7 +12447,7 @@
       */
       Id = "HadesField_0391"
       Speaker = "Hades"
-      DisplayName = "I do not know why those accursed weapons endear themselves to you, boy. But it is a cruelty even I, Lord of the dead and damned, could not conjure showing you what you can never truly experience."
+      DisplayName = "I do not know why those accursed weapons endear themselves to you, boy. But it is a cruelty even I, Lord of the dead and damned, could not conjure. Showing you what you can never truly experience."
     }
     {
       /*
@@ -12491,7 +12491,7 @@
       */
       Id = "HadesField_0618"
       Speaker = "Hades"
-      DisplayName = "Resorting to mere fisticuffs with me... though, how you got the Iceborn Gauntlets to look like that, I've no idea. Pray tell, whose monstrous claws are those? A manticore's?"
+      DisplayName = "Resorting to mere fisticuffs with me... though, how you got the Iceborn Gauntlets to look like that, I've no idea. Pray tell, whose monstrous claws are those? That of a wolf?"
     }
     {
       /*
@@ -12513,7 +12513,7 @@
       */
       Id = "HadesField_0619"
       Speaker = "Hades"
-      DisplayName = "{#DialogueItalicFormat}Hrm{#PreviousFormat}. Provided she was flesh and blood at some point, then she resides within my realm, sadly bereft of her manticore claws, thanks to you. Come, show me what they can do."
+      DisplayName = "{#DialogueItalicFormat}Hrm{#PreviousFormat}. Provided she was flesh and blood at some point, she resides, or will, within my realm, sadly bereft of her claws, thanks to you. Come, show me what they can do."
     }
     {
       /*
@@ -12623,7 +12623,7 @@
       */
       Id = "HadesField_0146"
       Speaker = "Hades"
-      DisplayName = "You still have yet to see the sun itself. You know only the light of Ixion, but the sun? It is positively blinding. Hideous."
+      DisplayName = "You still have yet to see the sun itself in earnest. You know only the light of Ixion, but the sun? It is positively blinding. Hideous. The Golden Sister has little love for our kind."
     }
     {
       /*
@@ -12756,7 +12756,7 @@
       */
       Id = "ZagreusField_2454"
       Speaker = "Zagreus"
-      DisplayName = "...I never grew accustomed to the air, up here. It gusts senselessly whichever way it pleases. I suppose you must prefer it to the stillness of the air below."
+      DisplayName = "That so? Let's see. You berate me, call me slurs, treat me less than trash, repeatedly. You've lied to me, constantly. Mustered your wretched forces to kill me, over and over. But, sure, you've kept most of your anger bottled up."
     }
     {
       /*
@@ -12866,7 +12866,7 @@
       */
       Id = "HadesField_0622"
       Speaker = "Hades"
-      DisplayName = "...That pomegranate blossom... I caught its subtle scent as you approached. The Queen has her mother's strength. And much more self control."
+      DisplayName = "...That honeyfruit blossom... I caught its subtle scent as you approached. The Queen has her mother's strength. And much more self control."
     }
     {
       /*
@@ -13009,7 +13009,7 @@
       */
       Id = "ZagreusField_4668"
       Speaker = "Zagreus"
-      DisplayName = "Wouldn't you like ta know? Not even the Silver Sister believed I could get this far without help from the Spirit Realm. Guess I just got a knack for provin' everybody wrong."
+      DisplayName = "Wouldn't you like to know? Not even the Silver Sister believed I could get this far without help from the Spirit Realm. Guess I just got a knack for provin' everybody wrong."
     }
     {
       /*
@@ -13042,7 +13042,7 @@
       */
       Id = "ZagreusField_4675"
       Speaker = "Zagreus"
-      DisplayName = "Ya offerin' to take me {#DialogueItalicFormat}fishing{#PreviousFormat}, Pa? That... actually sounds better than slaughterin' each other."
+      DisplayName = "Ya offerin' to take me {#DialogueItalicFormat}fishin'{#PreviousFormat}, Pa? That... actually sounds better than slaughterin' each other."
     }
     {
       /*
@@ -13185,7 +13185,7 @@
       */
       Id = "HadesField_0241"
       Speaker = "Hades"
-      DisplayName = "Perhaps the Fates decided that its wielders ought to all eventually wind up on its receiving end. Come, then! Let us see what the great Sentinel Vayne has taught you."
+      DisplayName = "Perhaps Fate decided that its wielders ought to all eventually wind up on its receiving end. Come, then! Let us see what the great Sentinel Vayne has taught you."
     }
     {
       /*
@@ -13295,7 +13295,7 @@
       */
       Id = "ZagreusField_2969"
       Speaker = "Zagreus"
-      DisplayName = "Hrm. It grew distinctly colder just as you arrived. So Lissandra has been in contact with you, then. That witch. Tell me how much she knows."
+      DisplayName = "She lost her daughter... my momma. But, Lissandra still thinks I'm Mother Moon's son, and... what have you done, Old Timer? This everlasting winter, it's her doin', isn't it? Freezing the mortals to death. Why haven't you stopped it?"
     }
     {
       /*
@@ -13306,7 +13306,7 @@
       */
       Id = "HadesField_0324"
       Speaker = "Hades"
-      DisplayName = "She lost her daughter... my momma. But, Lissandra still thinks I'm Mother Moon's son, and... what have you done, Old Timer? This everlasting winter, it's her doin', isn't it? Freezing the mortals to death. Why haven't you stopped it?"
+      DisplayName = "The two of you know nothing, then, it seems. Keep it that way, especially with her. Lest you risk everything, you understand? The consequences would be far worse than a foul stretch of weather. But, enough talk, now."
     }
     {
       /*
@@ -13416,7 +13416,7 @@
       */
       Id = "HadesField_0148"
       Speaker = "Hades"
-      DisplayName = "I must admit to something, boy. Vayne taught you reasonably well. I expected that if anyone could train you into martial competence, it would be him."
+      DisplayName = "I must admit to something, boy. Vayne taught you reasonably well. I expected that if anyone could train you into martial competence, it would be her."
     }
     {
       /*
@@ -14530,7 +14530,7 @@
       */
       Id = "Charon_0010"
       Speaker = "Charon"
-      DisplayName = "{#DialogueItalicFormat}Haaahhhhh{#PreviousFormat}...."
+      DisplayName = "{#DialogueItalicFormat}Haaahhhhh{#PreviousFormat}...Wait. What the {#DialogueItalicFormat}fuck{#PreviousFormat}!?"
     }
     {
       /*
@@ -14542,7 +14542,7 @@
       */
       Id = "ZagreusField_3747"
       Speaker = "Zagreus"
-      DisplayName = "{#DialogueItalicFormat}Erm{#PreviousFormat}, Karthus, look, I can explain. It's just, I've gotten used to takin' stuff while ransackin' the Old Timer's realm. I wasn't stealin' from ya, honestly!"
+      DisplayName = "{#DialogueItalicFormat}Uh{#PreviousFormat}, wait, you can talk? I mean, Karthus, look, I can explain. It's just, I've gotten real used to takin' stuff while ransackin' the Old Timer's realm. I wasn't stealin' from ya, honestly!"
     }
     {
       /*
@@ -14554,7 +14554,7 @@
       */
       Id = "ZagreusField_3748"
       Speaker = "Zagreus"
-      DisplayName = "Mmnnn{#DialogueItalicFormat}rraaauuugggghhh{#PreviousFormat}!!"
+      DisplayName = "That was not an understandin' or friendly sound. Wait, why are ya brandishin' your oar in such a menacin' way?! Karthus!"
     }
     {
       /*
@@ -14566,9 +14566,9 @@
       */
       Id = "ZagreusField_3847"
       Speaker = "Zagreus"
-      DisplayName = "{#DialogueItalicFormat}Haaahhhhh{#PreviousFormat}...."
+      DisplayName = "You're just testin' me, right, Charon? I mean, when ya place a huge sum of coin conspicuously within my reach, what do you expect me to do? Not nab it?"
     }
-    {
+    {F
       /*
         Event: BossCharonEncounter02
         Charon: {#DialogueItalicFormat}Haaahhhhh{#PreviousFormat}....
@@ -14578,7 +14578,7 @@
       */
       Id = "Charon_0040"
       Speaker = "Charon"
-      DisplayName = "You're just testing me, here, right, Charon? I mean, when you place a huge sum of coin conspicuously within my reach, what do you expect me to do?"
+      DisplayName = "Nrrnnhhh, hnnnn, hrrnn, {#DialogueItalicFormat}hrrrrrnnn{#PreviousFormat}..."
     }
     {
       /*
@@ -14590,7 +14590,7 @@
       */
       Id = "ZagreusField_3848"
       Speaker = "Zagreus"
-      DisplayName = "Nrrnnhhh, hnnnn, hrrnn, {#DialogueItalicFormat}hrrrrrnnn{#PreviousFormat}..."
+      DisplayName = "Haha! Sounds like a plan, Karthus! Whenever I rob ya just know it's me sayin' {#DialogueItalicFormat}Karthus, let's spar a 'lil{#PreviousFormat}."
     }
     {
       /*
