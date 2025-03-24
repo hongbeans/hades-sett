@@ -52,6 +52,13 @@ Animations = [
         { Name = "DialogueChoiceBubbleOut" }
         { FilePath = "SettGUI\GUI\Screens\DialogueBoxChoice-Out\DialogueBoxChoice-Out" }
 
+        /* Victory box */
+        { Name = "LocationTextBGVictoryIn" }
+        { FilePath = "SettGUI\GUI\VictoryBG\VictoryBG" }
+
+        { Name = "LocationTextBGVictoryOut" }
+        { FilePath = "SettGUI\GUI\VictoryBG\VictoryBG" }
+
         /* Lihua letter */
         { Name = "PersephoneLetter" }
         { FilePath = "SettGUI\GUI\Screens\LiHuaLetter" }
