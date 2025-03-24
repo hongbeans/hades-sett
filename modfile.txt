@@ -6,6 +6,7 @@ Import "Scripts/CustomDeathLoopData.lua"
 Import "Scripts/CustomPostEpilogue.lua"
 Import "Scripts/IncreaseThanEncounterRate.lua"
 Import "Scripts/ChangeDialoguePortraits.lua"
+Import "Scripts/ChangeDusaEmotes.lua"
 
 To "Game/Animations/ObstacleAnimations.sjson"
 SJSON "Animations/ObstacleAnimations.sjson"
