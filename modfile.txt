@@ -7,6 +7,7 @@ Import "Scripts/CustomPostEpilogue.lua"
 Import "Scripts/IncreaseThanEncounterRate.lua"
 Import "Scripts/ChangeDialoguePortraits.lua"
 Import "Scripts/ChangeDusaEmotes.lua"
+Import "Scripts/CustomCodex.lua"
 
 To "Game/Animations/ObstacleAnimations.sjson"
 SJSON "Animations/ObstacleAnimations.sjson"
@@ -45,6 +46,9 @@ Replace "Dialogue/_DeathLoopData.en.sjson"
 
 To "Game/Text/en/CodexText.en.sjson"
 Replace "Dialogue/CodexText.en.sjson"
+
+To "Game/Text/en/CodexText.en.sjson"
+SJSON "Dialogue/CodexTextAppend.sjson"
 
 To "Game/Text/en/_EncounterData.en.sjson"
 Replace "Dialogue/_EncounterData.en.sjson"

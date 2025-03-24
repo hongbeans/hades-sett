@@ -1,0 +1,8 @@
+Texts = [
+    "_append",
+    {
+        Id = "hadesSettCredits"
+        Speaker = "Achilles"
+        DisplayName = "{#CodexBoldFormat}Art{#PreviousFormat}: jjolee \n{#CodexBoldFormat}3D Modeling{#PreviousFormat}: rainy \n{#CodexBoldFormat}Coding{#PreviousFormat}: hongbeans \n{#CodexBoldFormat}Writing{#PreviousFormat}: Admiral Anarchy {#CodexItalicFormat}(combat dialogue, Spirits, Boons, proofing){#PreviousFormat} \n{#CodexBoldFormat}Writing{#PreviousFormat}: aphelionaphelia {#CodexItalicFormat}(Codex, House characters, musicians, Riven, Yorick){#PreviousFormat} \n\n For support, please DM {#CodexBoldFormat}hades_sett {#PreviousFormat}on Twitter."
+    }
+]
