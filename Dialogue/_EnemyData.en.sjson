@@ -4391,7 +4391,7 @@
       */
       Id = "MegaeraField_0428"
       Speaker = "Megaera"
-      DisplayName = "I'm mostly just worried you figured out how to {#DialogueItalicFormat}break{#PreviousFormat} an unbreakable, uncorruptable weapon that slew the Old Gods."
+      DisplayName = "I'm mostly just worried you figured out how to {#DialogueItalicFormat}break {#PreviousFormat}an unbreakable, uncorruptable weapon that slew the Old Gods."
     }
     {
       /*
@@ -6547,7 +6547,7 @@
       */
       Id = "Alecto_0380"
       Speaker = "Alecto"
-      DisplayName = "The last thing she needs is another pathetic {#DialogueItalicFormat}family{#PreviousFormat} member messing her up again for no reason."
+      DisplayName = "The last thing she needs is another pathetic {#DialogueItalicFormat}family {#PreviousFormat}member messing her up again for no reason."
     }
     {
       /*
@@ -12223,7 +12223,7 @@
       */
       Id = "ZagreusField_3684"
       Speaker = "Zagreus"
-      DisplayName = "Oh, what d'you even know?! You claim {#DialogueItalicFormat}so{#PreviousFormat} much respect for her, yet ya didn't even respect her enough to tell her what happened after she left! But... ugh, what am I sayin'... I know you love her, even now, Pa. It's the only explanation."
+      DisplayName = "Oh, what d'you even know?! You claim {#DialogueItalicFormat}so {#PreviousFormat}much respect for her, yet ya didn't even respect her enough to tell her what happened after she left! But... ugh, what am I sayin'... I know you love her, even now, Pa. It's the only explanation."
     }
     {
       /*
@@ -14566,9 +14566,9 @@
       */
       Id = "ZagreusField_3847"
       Speaker = "Zagreus"
-      DisplayName = "You're just testin' me, right, Charon? I mean, when ya place a huge sum of coin conspicuously within my reach, what do you expect me to do? Not nab it?"
+      DisplayName = "You're just testin' me, right, Karthus? I mean, when ya place a huge sum of coin conspicuously within my reach, what do you expect me to do? Not nab it?"
     }
-    {F
+    {
       /*
         Event: BossCharonEncounter02
         Charon: {#DialogueItalicFormat}Haaahhhhh{#PreviousFormat}....
