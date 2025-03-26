@@ -300,6 +300,18 @@ Replace "Movies/Enemy_Fury_IdleInHouse_Bink.bik"
 To Movies/Enemy_Fury_IdleInHouse_Bink.bik
 Replace "Movies/Enemy_Fury_IdleInHouse_Bink.bik"
 
+To Movies/720p/NPC_AchillesIdle_Bink.bik
+Replace "Movies/NPC_AchillesIdle_Bink.bik"
+
+To Movies/NPC_AchillesIdle_Bink.bik
+Replace "Movies/NPC_AchillesIdle_Bink.bik"
+
+To Movies/720p/NPC_AchillesIdleGreeting_Bink.bik
+Replace "Movies/NPC_AchillesIdleGreeting_Bink.bik"
+
+To Movies/NPC_AchillesIdleGreeting_Bink.bik
+Replace "Movies/NPC_AchillesIdleGreeting_Bink.bik"
+
 To Movies/720p/NPC_NyxIdle_Bink.bik
 Replace "Movies/NPC_NyxIdle_Bink.bik"
 
