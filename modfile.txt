@@ -312,6 +312,24 @@ Replace "Movies/NPC_AchillesIdleGreeting_Bink.bik"
 To Movies/NPC_AchillesIdleGreeting_Bink.bik
 Replace "Movies/NPC_AchillesIdleGreeting_Bink.bik"
 
+To Movies/720p/NPC_DusaIdle_Bink.bik
+Replace "Movies/NPC_DusaIdle_Bink.bik"
+
+To Movies/NPC_DusaIdle_Bink.bik
+Replace "Movies/NPC_DusaIdle_Bink.bik"
+
+To Movies/720p/NPC_DusaIdleWorking_Bink.bik
+Replace "Movies/NPC_DusaIdleWorking_Bink.bik"
+
+To Movies/NPC_DusaIdleWorking_Bink.bik
+Replace "Movies/NPC_DusaIdleWorking_Bink.bik"
+
+To Movies/720p/NPC_DusaInteractSurprise_Bink.bik
+Replace "Movies/NPC_DusaInteractSurprise_Bink.bik"
+
+To Movies/NPC_DusaInteractSurprise_Bink.bik
+Replace "Movies/NPC_DusaInteractSurprise_Bink.bik"
+
 To Movies/720p/NPC_NyxIdle_Bink.bik
 Replace "Movies/NPC_NyxIdle_Bink.bik"
 
