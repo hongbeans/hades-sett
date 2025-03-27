@@ -1984,7 +1984,7 @@
       */
       Id = "Storyteller_0189"
       Speaker = "Storyteller"
-      DisplayName = "{#DialogueItalicFormat}The whimsical depiction of a trans-dimensional talking magic cat now adorns the oftly indolent Prince's chamber wall, imploring him to, as they say, hang in there."
+      DisplayName = "{#DialogueItalicFormat}A limited edition grayscale tinted wall scroll of a beloved touring band of minstrels reminds the Prince that everyone is wishing for the death of whatever a rockstar is."
     }
     {
       /*
@@ -2047,7 +2047,7 @@
       */
       Id = "Storyteller_0363"
       Speaker = "Storyteller"
-      DisplayName = "{#DialogueItalicFormat}With its just-right softness and death-themed embroidery, the new bedding of Prince Settrigh is the envy of all those who wish to rest in peace."
+      DisplayName = "{#DialogueItalicFormat}With its extra fluffy stuffing and soft, death-themed... embroidery, the newest addition to the smitten Prince's bedding comes as a surprise to none, save maybe, Death himself."
     }
     {
       /*
