@@ -132,6 +132,46 @@ Obstacles = [
             }]
         } }
 
+        { Name = "HouseBed01a" }
+        { Thing = {
+            EditorOutlineDrawBounds = false
+            Graphic = "SettDeathArea\Tilesets\House\House_Bed_01a"
+            Grip = 999999.0
+            MeshType = "Vertical"
+            StopsProjectiles = true
+            StopsUnits = true
+            Tallness = 456.0
+            TouchdownSound = "/EmptyCue"
+            Interact = 
+            {
+                Distance = 250.0
+                OffsetX = -100.0
+                OffsetY = -25.0
+            }
+            Offset = 
+            {
+                X = -20
+                Y = -330
+            }
+            Points = [
+            {
+                X = 849
+                Y = -98
+            }
+            {
+                X = 165
+                Y = -451
+            }
+            {
+                X = -784
+                Y = 31
+            }
+            {
+                X = -56
+                Y = 361
+            }]
+        } }
+
         { Name = "HousePaintingAriadne01" }
         { Thing = {
             EditorOutlineDrawBounds = false
