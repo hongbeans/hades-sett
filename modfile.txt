@@ -300,6 +300,24 @@ Replace "Movies/Enemy_Fury_IdleInHouse_Bink.bik"
 To Movies/Enemy_Fury_IdleInHouse_Bink.bik
 Replace "Movies/Enemy_Fury_IdleInHouse_Bink.bik"
 
+To Movies/720p/Enemy_Skeleton_Dead_Bink.bik
+Replace "Movies/Enemy_Skeleton_Dead_Bink.bik"
+
+To Movies/Enemy_Skeleton_Dead_Bink.bik
+Replace "Movies/Enemy_Skeleton_Dead_Bink.bik"
+
+To Movies/720p/Enemy_Skeleton_Idle_Bink.bik
+Replace "Movies/Enemy_Skeleton_Idle_Bink.bik"
+
+To Movies/Enemy_Skeleton_Idle_Bink.bik
+Replace "Movies/Enemy_Skeleton_Idle_Bink.bik"
+
+To Movies/720p/Enemy_Skeleton_OnHit_Bink.bik
+Replace "Movies/Enemy_Skeleton_OnHit_Bink.bik"
+
+To Movies/Enemy_Skeleton_OnHit_Bink.bik
+Replace "Movies/Enemy_Skeleton_OnHit_Bink.bik"
+
 To Movies/720p/NPC_AchillesIdle_Bink.bik
 Replace "Movies/NPC_AchillesIdle_Bink.bik"
 
@@ -365,6 +383,12 @@ Replace "Movies/NPC_SisyphusIdleGreeting_Bink.bik"
 
 To Movies/NPC_SisyphusIdleGreeting_Bink.bik
 Replace "Movies/NPC_SisyphusIdleGreeting_Bink.bik"
+
+To Movies/720p/SkellyAssistTrait_Bink.bik
+Replace "Movies/SkellyAssistTrait_Bink.bik"
+
+To Movies/SkellyAssistTrait_Bink.bik
+Replace "Movies/SkellyAssistTrait_Bink.bik"
 
 To Movies/720p/ThanatosIdleInhouse_Bink.bik
 Replace "Movies/ThanatosIdleInhouse_Bink.bik"
