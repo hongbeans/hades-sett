@@ -360,6 +360,18 @@ Replace "Movies/NPC_NyxIdleGreeting_Bink.bik"
 To Movies/NPC_NyxIdleGreeting_Bink.bik
 Replace "Movies/NPC_NyxIdleGreeting_Bink.bik"
 
+To Movies/720p/NPC_OrpheusIdle_Bink.bik
+Replace "Movies/NPC_OrpheusIdle_Bink.bik"
+
+To Movies/NPC_OrpheusIdle_Bink.bik
+Replace "Movies/NPC_OrpheusIdle_Bink.bik"
+
+To Movies/720p/NPC_OrpheusIdlePlaying_Bink.bik
+Replace "Movies/NPC_OrpheusIdlePlaying_Bink.bik"
+
+To Movies/NPC_OrpheusIdlePlaying_Bink.bik
+Replace "Movies/NPC_OrpheusIdlePlaying_Bink.bik"
+
 To Movies/720p/NPC_SisyphusElbowing_Bink.bik
 Replace "Movies/NPC_SisyphusElbowing_Bink.bik"
 

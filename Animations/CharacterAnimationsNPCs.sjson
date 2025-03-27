@@ -2,5 +2,17 @@ Animations = [
     "_search", [
         { Name = "BouldyIdle" }
         { FilePath = "SettDeathArea\Tilesets\Tartarus\Tartarus_Maiden_03" }
+
+        { Name = "OrpheusIdle" }
+        {
+            OffsetX = 10.0
+            OffsetY = -105.0
+        }
+
+        { Name = "OrpheusPlaying" }
+        {
+            OffsetX = 10.0
+            OffsetY = -105.0
+        }
     ]
 ]
