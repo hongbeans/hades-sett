@@ -318,6 +318,36 @@ Replace "Movies/Enemy_Skeleton_OnHit_Bink.bik"
 To Movies/Enemy_Skeleton_OnHit_Bink.bik
 Replace "Movies/Enemy_Skeleton_OnHit_Bink.bik"
 
+To Movies/720p/HypnosIdleGreeting_Bink.bik
+Replace "Movies/HypnosIdleGreeting_Bink.bik"
+
+To Movies/HypnosIdleGreeting_Bink.bik
+Replace "Movies/HypnosIdleGreeting_Bink.bik"
+
+To Movies/720p/HypnosIdleSitting_Bink.bik
+Replace "Movies/HypnosIdleSitting_Bink.bik"
+
+To Movies/HypnosIdleSitting_Bink.bik
+Replace "Movies/HypnosIdleSitting_Bink.bik"
+
+To Movies/720p/HypnosIdleSleeping_Bink.bik
+Replace "Movies/HypnosIdleSleeping_Bink.bik"
+
+To Movies/HypnosIdleSleeping_Bink.bik
+Replace "Movies/HypnosIdleSleeping_Bink.bik"
+
+To Movies/720p/HypnosSittingToSleep_Bink.bik
+Replace "Movies/HypnosSittingToSleep_Bink.bik"
+
+To Movies/HypnosSittingToSleep_Bink.bik
+Replace "Movies/HypnosSittingToSleep_Bink.bik"
+
+To Movies/720p/HypnosSleepWakingSurprise_Bink.bik
+Replace "Movies/HypnosSleepWakingSurprise_Bink.bik"
+
+To Movies/HypnosSleepWakingSurprise_Bink.bik
+Replace "Movies/HypnosSleepWakingSurprise_Bink.bik"
+
 To Movies/720p/NPC_AchillesIdle_Bink.bik
 Replace "Movies/NPC_AchillesIdle_Bink.bik"
 
