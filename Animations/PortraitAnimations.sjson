@@ -498,9 +498,8 @@ Animations = [
         { Name = "Codex_Portrait_Nyx" }
         { FilePath = "SettPortraits\Codex\CodexPortrait_MotherMoon" }
 
-        /* TODO: Karthus Codex */
         { Name = "Codex_Portrait_Charon" }
-        { FilePath = "Portraits\Codex\CodexPortrait_Charon" }
+        { FilePath = "SettPortraits\Codex\CodexPortrait_Karthus" }
 
         { Name = "Codex_Portrait_Chaos" }
         { FilePath = "SettPortraits\Codex\CodexPortrait_Kindred" }
@@ -514,9 +513,8 @@ Animations = [
         { Name = "Codex_Portrait_Tisiphone" }
         { FilePath = "SettPortraits\Codex\CodexPortrait_Cassiopeia" }
 
-        /* TODO: Riven Codex */
         { Name = "Codex_Portrait_Patroclus" }
-        { FilePath = "Portraits\Codex\CodexPortrait_Patroclus" }
+        { FilePath = "SettPortraits\Codex\CodexPortrait_Riven" }
 
         /* TODO: Thresh Codex */
         { Name = "Codex_Portrait_Theseus" }
@@ -524,5 +522,23 @@ Animations = [
 
         { Name = "Codex_Portrait_Persephone" }
         { FilePath = "SettPortraits\Codex\CodexPortrait_Ma" }
+
+        { Name = "Codex_Portrait_FuryAssistTrait" }
+        { FilePath = "SettPortraits\Codex\CodexPortrait_AluneAssistTrait" }
+
+        { Name = "Codex_Portrait_ThanatosAssistTrait" }
+        { FilePath = "SettPortraits\Codex\CodexPortrait_ApheliosAssistTrait" }
+
+        { Name = "Codex_Portrait_SisyphusAssistTrait" }
+        { FilePath = "SettPortraits\Codex\CodexPortrait_YorickAssistTrait" }
+
+        { Name = "Codex_Portrait_DusaAssistTrait" }
+        { FilePath = "SettPortraits\Codex\CodexPortrait_LuluAssistTrait" }
+
+        { Name = "Codex_Portrait_SkellyAssistTrait" }
+        { FilePath = "SettPortraits\Codex\CodexPortrait_AmumuAssistTrait" }
+
+        { Name = "Codex_Portrait_AchillesPatroclusAssistTrait" }
+        { FilePath = "SettPortraits\Codex\CodexPortrait_VayneAssistTrait" }
     ]
 ]
