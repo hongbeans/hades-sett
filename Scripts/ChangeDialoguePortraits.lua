@@ -118,6 +118,31 @@ ModUtil.LoadOnce(function()
                     }
                 }
             }
+        },
+        NPC_FurySister_01 = {
+            GiftTextLineSets = {
+                MegaeraGift08 = {
+                    [1] = {
+                        Portrait = "Portrait_Zag_Serious_01"
+                    },
+                    [3] = {
+                        Portrait = "Portrait_Zag_Unwell_01"
+                    }
+                },
+                MegaeraGift09 = {
+                    [3] = {
+                        Portrait = "Portrait_Zag_Unwell_01"
+                    },
+                    [5] = {
+                        Portrait = "Portrait_Zag_Unwell_01"
+                    }
+                },
+                MegaeraGift10 = {
+                    [1] = {
+                        Portrait = "Portrait_Zag_Serious_01"
+                    }
+                }
+            }
         }
     })
 end)

@@ -214,6 +214,27 @@ ModUtil.LoadOnce(function()
                     }
                 }
             }
+        },
+        NPC_Sisyphus_01 = {
+            InteractTextLineSets = {
+                SisyphusHighRelationship01 = {
+                    [3] = {
+                        Emote = true
+                    }
+                },
+                SisyphusAboutKeepsake02 = {
+                    [3] = {
+                        Emote = true
+                    }
+                }
+            },
+            GiftTextLineSets = {
+                SisyphusGift06 = {
+                    [1] = {
+                        Emote = true
+                    }
+                }
+            }
         }
     })
 end)
