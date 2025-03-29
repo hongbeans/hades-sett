@@ -21,6 +21,24 @@ Animations = [
         { FilePath = "SettGUI\GUI\Screens\AwardMenu\aphelios_mooncake" }
 
         /* Companions */
+        { Name = "Keepsake_Skelly_Plush_Child" }
+        { FilePath = "SettGUI\GUI\Screens\AwardMenu\Legendary\Amumu_01" }
+
+        { Name = "Keepsake_Skelly_Plush_Menu" }
+        { FilePath = "SettGUI\GUI\Screens\AwardMenu\Legendary\Amumu_01" }
+
+        { Name = "Keepsake_Skelly_Plush" }
+        { FilePath = "SettGUI\GUI\Screens\AwardMenu\Legendary\Amumu_01" }
+
+        { Name = "Keepsake_Sisiyphus_Plush_Child" }
+        { FilePath = "SettGUI\GUI\Screens\AwardMenu\Legendary\Yorick_01" }
+
+        { Name = "Keepsake_Sisiyphus_Plush_Menu" }
+        { FilePath = "SettGUI\GUI\Screens\AwardMenu\Legendary\Yorick_01" }
+
+        { Name = "Keepsake_Sisiyphus_Plush" }
+        { FilePath = "SettGUI\GUI\Screens\AwardMenu\Legendary\Yorick_01" }
+
         { Name = "Keepsake_Meg_Plush_Child" }
         { FilePath = "SettGUI\GUI\Screens\AwardMenu\Legendary\Alune_01" }
 
@@ -38,6 +56,24 @@ Animations = [
 
         { Name = "Keepsake_Thanatos_Plush" }
         { FilePath = "SettGUI\GUI\Screens\AwardMenu\Legendary\Aphelios_01" }
+
+        { Name = "Keepsake_Dusa_Plush_Child" }
+        { FilePath = "SettGUI\GUI\Screens\AwardMenu\Legendary\Lulu_01" }
+
+        { Name = "Keepsake_Dusa_Plush_Menu" }
+        { FilePath = "SettGUI\GUI\Screens\AwardMenu\Legendary\Lulu_01" }
+
+        { Name = "Keepsake_Dusa_Plush" }
+        { FilePath = "SettGUI\GUI\Screens\AwardMenu\Legendary\Lulu_01" }
+
+        { Name = "Keepsake_Achilles_Plush_Child" }
+        { FilePath = "SettGUI\GUI\Screens\AwardMenu\Legendary\Vayne_01" }
+
+        { Name = "Keepsake_Achilles_Plush_Menu" }
+        { FilePath = "SettGUI\GUI\Screens\AwardMenu\Legendary\Vayne_01" }
+
+        { Name = "Keepsake_Achilles_Plush" }
+        { FilePath = "SettGUI\GUI\Screens\AwardMenu\Legendary\Vayne_01" }
 
         /* Dialogue boxes */
         { Name = "DialogueSpeechBubble" }
