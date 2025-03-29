@@ -14530,7 +14530,7 @@
       */
       Id = "Charon_0010"
       Speaker = "Charon"
-      DisplayName = "{#DialogueItalicFormat}Haaahhhhh{#PreviousFormat}...Wait. What the {#DialogueItalicFormat}fuck{#PreviousFormat}!?"
+      DisplayName = "{#DialogueItalicFormat}Haaahhhhh{#PreviousFormat}...."
     }
     {
       /*
