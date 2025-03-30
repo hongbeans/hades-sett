@@ -21062,7 +21062,7 @@
       */
       Id = "ZagreusHome_1474"
       Speaker = "Zagreus"
-      DisplayName = "Phel, sweetheart, you {#DialogueItalicFormat}are{#PreviousFormat} enough. That's what I realized, that I was makin' such a huge mistake. But I'm so sorry... the river...? You mean that one day we hung out in Elysium before I left? I--I don't remember much, other than it was good day 'n I had a real nice nap..."
+      DisplayName = "Phel, sweetheart, you {#DialogueItalicFormat}are {#PreviousFormat}enough. That's what I realized, that I was makin' such a huge mistake. But I'm so sorry... the river...? You mean that one day we hung out in Elysium before I left? I--I don't remember much, other than it was good day 'n I had a real nice nap..."
     }
     {
       /*
