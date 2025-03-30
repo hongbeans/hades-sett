@@ -8191,7 +8191,7 @@
       */
       Id = "Achilles_0113"
       Speaker = "Achilles"
-      DisplayName = "You've other, pressing matters to attend to, your Highness. And Riven and I have ample time to wait this out. I know you mean well, but... do not discuss this matter with your father. I fear that it could make things worse. Do you understand?"
+      DisplayName = "You have other pressing matters to attend to, Your Highness. And Riven and I have ample time to wait this out. I know you mean well, but... do not discuss this matter with your father. I fear that it could make things worse. Do you understand?"
     }
     {
       /*
@@ -8999,7 +8999,7 @@
       */
       Id = "Achilles_0177"
       Speaker = "Achilles"
-      DisplayName = "I know you mean well, your Highness. And, from the bottom of my heart, where once it was, I thank you truly for the thought. However... don't exert your influence on this. Not now, at least. Fate can twist intentions. I don't want to take the risk."
+      DisplayName = "I know you mean well, Your Highness. And, from the bottom of my heart, where once it was, I thank you truly for the thought. However... don't exert your influence on this. Not now, at least. Fate can twist intentions. I don't want to take the risk."
     }
     {
       /*
@@ -27391,7 +27391,7 @@
       */
       Id = "ZagreusHome_1050"
       Speaker = "Zagreus"
-      DisplayName = "Hey, Yasuo. Didja hear 'bout how I beat down Alistar and Thresh, 1v2, in front of an audience? Even gave Thresh an atomic wedige in front of all of 'em."
+      DisplayName = "Hey, Yasuo. Didja hear 'bout how I beat down Alistar and Thresh, 1v2, in front of an audience? Even gave Thresh an atomic wedgie in front of all of 'em."
     }
     {
       /*
@@ -32232,7 +32232,7 @@
       */
       Id = "MegaeraHome_0012"
       Speaker = "Megaera"
-      DisplayName = "I know. You're right of course, you're right... I'll do my best. I'll do my best for both our sakes, Mother Moon."
+      DisplayName = "I know. You're right of course, you're right... I'll do my best. I'll do my best for everyone's sake, Mother Moon."
     }
     {
       /*
@@ -32242,7 +32242,7 @@
       */
       Id = "Nyx_0106"
       Speaker = "Nyx"
-      DisplayName = "...and so, who else is there to be depended on...? You are a trusted overseer, Alune. Your station is no accident and there is no one better fit for what you do. I urge you to look inwardly. How you approach your work is vital to the end result."
+      DisplayName = "...the matter bears no more discussion. There are many factors of which you are not aware. Aphelios himself found a way to accept the necessity of it, out of duty."
     }
     {
       /*
@@ -32252,7 +32252,7 @@
       */
       Id = "MegaeraHome_0013"
       Speaker = "Megaera"
-      DisplayName = "...Thank you for the advice, Mother Moon. I don't know what I'd do without you. Or what this House would be if not for you."
+      DisplayName = "Did Aphelios accept it? Does Aphelios even {#DialogueItalicFormat}know{#PreviousFormat}? He doesn't, does he."
     }
     {
       /*
@@ -32264,7 +32264,7 @@
       */
       Id = "MegaeraHome_0120"
       Speaker = "Megaera"
-      DisplayName = "...But, how can you do this to me? I can't believe you would give him the Mirror! By taking sides with him, you're standing against me, against Aphelios...! You know what he did!"
+      DisplayName = "...I will never tell him, but that does not mean my brother doesn't deserve to know. They're getting closer, it's bound to come out into the open eventually."
     }
     {
       /*
@@ -32276,7 +32276,7 @@
       */
       Id = "Nyx_0130"
       Speaker = "Nyx"
-      DisplayName = "My aid has nothing to do with the personal squabbles you might have shared amongst yourselves, Alune. There are matters far more essential at play, and it is with those I have become involved."
+      DisplayName = "Are you so short-sighted that you cannot see the necessity of what was done? If my son was aware, no doubt he would accept his role in what needed to happen."
     }
     {
       /*
@@ -32288,7 +32288,7 @@
       */
       Id = "MegaeraHome_0121"
       Speaker = "Megaera"
-      DisplayName = "'Personal squabbles'? You make it sound as if we are caught up in childish foolishness, when you know better than anyone else that what he has done and is doing poses the biggest threat to us all. To the House."
+      DisplayName = "It's not that I cannot recognize the necessity, Mother! It is that he--"
     }
     {
       /*
@@ -32300,7 +32300,7 @@
       */
       Id = "Nyx_0131"
       Speaker = "Nyx"
-      DisplayName = "Use caution with the tone you take with me, girl. I do not act by whim or by mistake. Mind your own station, and perform your role. All shall unfold eventually as it must, and you shall play your part."
+      DisplayName = "Enough. You are becoming too enmeshed in trifles of the heart. You have never been impudent, take care that one's frivolous nature does not influence you."
     }
     {
       /*
@@ -32311,7 +32311,7 @@
       */
       Id = "MegaeraHome_0182"
       Speaker = "Megaera"
-      DisplayName = "...Mother Moon, you'd tell me if I made a terrible mistake, or even just a bad one, wouldn't you? I need your guidance on this one, or maybe your approval."
+      DisplayName = "...I do not wish to dredge it up once again, but no matter how I try, I cannot find any sense of peace over what happened. Was all this really necessary? He had growing to do, to be sure, but his heart was always noble, and kind."
     }
     {
       /*
@@ -32322,7 +32322,7 @@
       */
       Id = "Nyx_0134"
       Speaker = "Nyx"
-      DisplayName = "You shall always be the best determiner of what is right about such matters, Alune. It is from yourself that you must find wisdom to proceed. You know the way, from here."
+      DisplayName = "You speak as if good intentions and kindness are sufficient to maintain the order of things. I interfered precisely because that sweetness was untempered by wisdom, unbound by duty. They might have brought about the ruin of this House if left to indulge their whims."
     }
     {
       /*
@@ -32333,7 +32333,7 @@
       */
       Id = "MegaeraHome_0183"
       Speaker = "Megaera"
-      DisplayName = "I hope you're right about me... You always have been, it's just that... I wish I had your confidence in this."
+      DisplayName = "I... I just don't know if I see it that way. Especially not Aphelios. He would never endanger anyone else. What about his feelings in all this?"
     }
     {
       /*
@@ -32344,7 +32344,7 @@
       */
       Id = "MegaeraHome_0180"
       Speaker = "Megaera"
-      DisplayName = "...I think I understand, now, Mother Moon. You've been here longer than the rest of us combined. You've seen this House go through a lot. Even before the Lord Master took his place. I never should have doubted you."
+      DisplayName = "...I've been thinking more about what you said, Mother. I concede that he was foolish enough, before I mean... foolish enough that he might have acted rashly if the truth came out. And Aphelios would have been caught in the middle..."
     }
     {
       /*
@@ -32355,7 +32355,7 @@
       */
       Id = "Nyx_0132"
       Speaker = "Nyx"
-      DisplayName = "It is not unusual for children to doubt their parents; what is important is that you come to see and trust in the wisdom of my plans for yourself. Thus will your trust grow, and your doubt will cease to plague you needlessly. Have faith, Alune."
+      DisplayName = "It is not unusual for children to doubt their parents; what is important is that you come to see and trust in the wisdom of my plans for yourself. Thus will your trust grow, and your doubt will cease to plague you needlessly. Stay faithful, Alune."
     }
     {
       /*
@@ -32366,7 +32366,7 @@
       */
       Id = "MegaeraHome_0181"
       Speaker = "Megaera"
-      DisplayName = "I will. I promise, Mother Moon. And if there's anything you ever need that I can do, well... please, just ask of me."
+      DisplayName = "I will. I promise. And I will do my best to ensure that Aphelios never finds out. He has already endured the heartbreak, and they found their ways to each other again. I suppose it worked out as you wished."
     }
     {
       /*
@@ -32378,7 +32378,7 @@
       */
       Id = "MegaeraHome_0081"
       Speaker = "Megaera"
-      DisplayName = "...They can't be reasoned with, Mother Moon. Even you know that. What use are they to us, trying to manage this? They'll make things worse."
+      DisplayName = "...he has made a lot of progress, even I will admit to the truth of that. Please tell me that you also feel he is worthy, and there will never be a need to interfere and separate them again."
     }
     {
       /*
@@ -32390,7 +32390,7 @@
       */
       Id = "Nyx_0423"
       Speaker = "Nyx"
-      DisplayName = "They are your sisters. They are part of your life, whether you like it or not. Your relationship with them is yours to mold."
+      DisplayName = "He has indeed grown into a worthy man, Alune. But I caution you and your forceful tongue. Do not press me into promises, child. The only oath I will uphold for all eternity is that which I keep to this House intact. If the need ever arises, I will do what I must."
     }
     {
       /*
@@ -32402,7 +32402,7 @@
       */
       Id = "MegaeraHome_0082"
       Speaker = "Megaera"
-      DisplayName = "I'm afraid there isn't much for me to work with. You seem to have a lot more faith in them than I do."
+      DisplayName = "...I understand. I will also uphold my oath to the House. But if there is a choice for me to make between the two, know I will always choose my brother. Even over duty."
     }
     {
       /*
@@ -32414,7 +32414,7 @@
       */
       Id = "Nyx_0424"
       Speaker = "Nyx"
-      DisplayName = "In this regard, faith has little place. Turn instead to obligation, and duty. There are many obstinate personalities with whom we regularly interact. Thus, we do what we must."
+      DisplayName = "I am aware. I do not begrudge you your loyalty to each other. For your bond is so anomalous that it can be nothing but intended. There are no mistakes in the designs of fate. If you twins were one soul cleaved, then your love for each other has its own divine purpose."
     }
     {
       /*
@@ -33351,7 +33351,7 @@
       */
       Id = "MegaeraHome_0369"
       Speaker = "Megaera"
-      DisplayName = "Ambrosia...? Listen, Sett... I want to apologize. Wipe that shocked look off your face! But I mean it. You tried to talk last time, and I would not give you the chance. I think, in spite of everything, I do owe you that."
+      DisplayName = "Ambrosia...? Listen, Sett... I know you're not a bad guy. But sometimes the damage is still done even when you're really sorry. I do see that you're trying, and growing, but... I can't just forget how my brother sobbed in my arms. You didn't break his heart, you shattered it."
     }
     {
       /*
@@ -33362,7 +33362,7 @@
       */
       Id = "ZagreusHome_3137"
       Speaker = "Zagreus"
-      DisplayName = "Really, Lunie? Thank you. I mean that. 'Cause I do get it, I get what I did, 'n while I wanna say I would have never behaved like that if I'd known, it's still my fault for bein' so careless, so selfish. I'm sorry."
+      DisplayName = "...Thank you for finally bein' willin' to talk to me. 'Cause I do get it, I get what I did. And while I wanna say I would never hurt Phel like that, it's still my fault for bein' so careless, so selfish. And I did hurt him. I'm sorry. I am so so sorry."
     }
     {
       /*
@@ -33373,7 +33373,7 @@
       */
       Id = "MegaeraHome_0370"
       Speaker = "Megaera"
-      DisplayName = "I just... I know. I know you're not a bad guy. But sometimes the damage is still done even when you're really sorry. I do see that you're trying, and growing, but... I can't just forget how my brother sobbed in my arms. You didn't break his heart, you shattered it."
+      DisplayName = "I know, I can tell. I want to apologize, too. Hey, wipe that shocked look off your face! But I mean it. You've been trying to talk, and make amends, and I would not give you the chance. I think, in spite of everything, I did owe you that."
     }
     {
       /*
@@ -33401,7 +33401,7 @@
       */
       Id = "MegaeraHome_0141"
       Speaker = "Megaera"
-      DisplayName = "Oh, I'm sure. {#DialogueItalicFormat}<Sigh.> {#PreviousFormat}Look, we can talk more, if you want. About what happened. Ever since our last real conversation, I've seen you sulking about with your little ears all droopy. No doubt if you had a tail it would be between your legs."
+      DisplayName = "Oh, I'm sure. {#DialogueItalicFormat}<Sigh> {#PreviousFormat}Look, we can talk more, if you want. About what happened. Ever since our last real conversation, I've seen you sulking about with your little ears all droopy. No doubt if you had a tail it would be between your legs."
     }
     {
       /*
