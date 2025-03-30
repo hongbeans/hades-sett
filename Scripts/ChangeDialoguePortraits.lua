@@ -121,6 +121,11 @@ ModUtil.LoadOnce(function()
         },
         NPC_FurySister_01 = {
             GiftTextLineSets = {
+                MegaeraGift07 = {
+                    [2] = {
+                        Portrait = "Portrait_Zag_Unwell_01"
+                    }
+                },
                 MegaeraGift08 = {
                     [1] = {
                         Portrait = "Portrait_Zag_Serious_01"
