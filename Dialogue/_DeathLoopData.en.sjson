@@ -1191,7 +1191,7 @@
       */
       Id = "ZagreusHome_0178"
       Speaker = "Zagreus"
-      DisplayName = "His mother's hand, my {#DialogueItalicFormat}mother's{#PreviousFormat} hand, wait, {#DialogueItalicFormat}what{#PreviousFormat}?! You're sayin' this Lihua, that she's my... mother...? But, but that Old Timer said that the Silver Sister was my.... That liar. He lied to me, they both did. All my life!"
+      DisplayName = "His mother's hand, my {#DialogueItalicFormat}mother's {#PreviousFormat}hand, wait, {#DialogueItalicFormat}what{#PreviousFormat}?! You're sayin' this Lihua, that she's my... mother...? But, but that Old Timer said that the Silver Sister was my.... That liar. He lied to me, they both did. All my life!"
     }
     {
       /*
