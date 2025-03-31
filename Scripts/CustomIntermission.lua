@@ -54,6 +54,8 @@ ModUtil.Path.Override(
 
         if args ~= nil and args.IsReminisce then
             cgiName = "PortraitThanElysium"
+        elseif args ~= nil and args.IsNectarScene then
+            cgiName = "PortraitThanNectar"
         elseif isDinoCgiAvailable then
             -- Determine if the dino CGI will be used
             local chance = math.random(10)
@@ -65,7 +67,7 @@ ModUtil.Path.Override(
 
         if args ~= nil and args.Partner == "Thanatos" then
             -- Fade out initially if reminiscing, since there is no follow up dialogue
-            if args ~= nil and args.IsReminisce then
+            if args ~= nil and (args.IsReminisce or args.IsNectarScene) then
                 FadeOut({ Color = Color.Black, Duration = 0.5 })
                 wait(1)
             end
@@ -93,7 +95,9 @@ ModUtil.Path.Override(
             Move({ Id = ScreenAnchors.PortraitDisplayAnchor, DestinationId = ScreenAnchors.PortraitDisplayAnchor, OffsetX = 100, OffsetY = 0, Duration = 9.5, EaseOut = 1.0, EaseIn = 0.0 })
             SetScale({ Id = portraitId, Fraction = 1.2 })
 
-            if not args.IsReminisce then
+            if args.IsReminisce or args.IsNectarScene then
+                wait(5)
+            else
                 PlaySound({ Name = "/Leftovers/World Sounds/CaravanCreak" })
                 wait(0.5)
                 PlaySound({ Name = "/Leftovers/World Sounds/CaravanCreak" })
@@ -114,8 +118,6 @@ ModUtil.Path.Override(
                 wait(0.5)
                 PlaySound({ Name = "/Leftovers/World Sounds/CaravanCreak" })
                 wait(1.5)
-            else
-                wait(5)
             end
 
             FadeOut({ Color = Color.Black, Duration = 1.0 })
@@ -198,7 +200,7 @@ ModUtil.Path.Override(
         AdjustColorGrading({ Name = "Ascension", Duration = 0.3 })
         AdjustColorGrading({ Name = "Off", Duration = 5.0 })
         AdjustFullscreenBloom({ Name = "Off", Duration = 5.0 })
-        if args ~= nil and not args.IsReminisce then
+        if args ~= nil and not args.IsReminisce and not args.IsNectarScene then
             wait(2.0)
             DisplayUnlockText( {
                 --SupertitleText = "EasyModeUpgradedSupertitle",
@@ -229,10 +231,61 @@ ModUtil.Path.Override(
     end
 )
 
+-- Override gift eligibility function to disable Aphelios's 5th Nectar in run
+ModUtil.Path.Override(
+    "CanReceiveGift",
+    function (npcData)
+        local textLineSets = npcData.InteractTextLineSets or {}
+        local repeatableLineSets = npcData.RepeatableTextLineSets or {}
+        local name = GetGenusName( npcData )
+        textLineSets = CombineTables( textLineSets, repeatableLineSets )
+        if GameState.Flags.InFlashback then
+            return false
+        end
+        for k, textLineSet in pairs( textLineSets ) do
+            if CurrentRun.TextLinesRecord[textLineSet.Name] and textLineSet.GiftableOffSource then
+                return false
+            end
+        end
+        if npcData.NextInteractLines ~= nil and npcData.NextInteractLines.InitialGiftableOffSource ~= nil then
+            return false
+        end
+        if npcData.GiftableOffInGhostProcession and CurrentDeathAreaRoom ~= nil and (CurrentDeathAreaRoom.HadesProcessionActivating or CurrentDeathAreaRoom.HadesProcessionActive) then
+            return false
+        end
+
+        if npcData.SkipInitialGiftRequirement then
+
+            return npcData.CanReceiveGift
+                and (( GiftData[name] and GiftData[name].InfiniteGifts ) or ((GetGiftLevel(name) + 1) <= GetMaxGiftLevel(name)))
+                -- mod
+                and not (name == "NPC_Thanatos_01" and ((GetGiftLevel(name) + 1) == 5) and CurrentDeathAreaRoom == nil)
+                and not CurrentRun.GiftRecord[name]
+
+        else
+
+            return ( GameState.NPCInteractions[name] ~= nil or GameState.LootPickups [name] ~= nil )
+                and npcData.CanReceiveGift
+                and (( GiftData[name] and GiftData[name].InfiniteGifts ) or ((GetGiftLevel(name) + 1) <= GetMaxGiftLevel(name)))
+                -- mod
+                and not (name == "NPC_Thanatos_01" and ((GetGiftLevel(name) + 1) == 5) and CurrentDeathAreaRoom == nil)
+                and not CurrentRun.GiftRecord[name]
+
+        end
+    end
+)
+
 -- Add intermission to dialogue tree
 ModUtil.Table.Merge(UnitSetData.NPCs, {
     NPC_Thanatos_01 = {
         GiftTextLineSets = {
+            ThanatosGift05 = {
+                [2] = {
+                    PortraitExitAnimation = "Portrait_Zag_Default_01_Exit",
+                    PostLineThreadedFunctionName = "BedroomIntermissionPresentation",
+                    PostLineFunctionArgs = { Partner = "Thanatos", IsNectarScene = true }
+                }
+            },
             ThanatosGift10 = {
                 [8] = {
                     PortraitExitAnimation = "Portrait_Than_Shy_01_Exit",
