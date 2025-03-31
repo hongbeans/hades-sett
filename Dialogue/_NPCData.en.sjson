@@ -692,7 +692,7 @@
       */
       Id = "Hades_0009"
       Speaker = "Hades"
-      DisplayName = "Be careful whom you give your trust. My brothers frolic on Olympus while we work. While {#DialogueItalicFormat}I {#PreviousFormat}work! You're just like them. No wonder they like you"
+      DisplayName = "Be careful whom you give your trust. My siblings frolic in the Spirit Realm while we work. While {#DialogueItalicFormat}I {#PreviousFormat}work! You're just like them. No wonder they like you"
     }
     {
       /*
@@ -747,7 +747,7 @@
       */
       Id = "ZagreusHome_0019"
       Speaker = "Zagreus"
-      DisplayName = "That's all right, Old Timer. I'm ain't hungry at the moment."
+      DisplayName = "Forget it, Old Timer. I ain't hungry at the moment."
     }
     {
       /*
@@ -3373,7 +3373,7 @@
       */
       Id = "Hades_1199"
       Speaker = "Hades"
-      DisplayName = "So... you had it mostly right, before. After I was relegated to the Underworld... your Uncle Volibear felt sympathy for me, he says. Your mother, he knew she was unhappy in the Spirit Realm. And... he knew I was drawn to her. So what did he do? He brought her here. Gave her to me as a {#DialogueItalicFormat}gift{#PreviousFormat}!"
+      DisplayName = "So, you had it mostly right. After I was relegated to the Underworld, your Uncle Volibear felt sympathy for me, he says. Your mother, he knew she was unhappy in the Spirit Realm. And... he knew I was drawn to her. So what did he do? He brought her here. Gave her to me as a {#DialogueItalicFormat}gift{#PreviousFormat}!"
     }
     {
       /*
@@ -7979,7 +7979,7 @@
       */
       Id = "ZagreusHome_0879"
       Speaker = "Zagreus"
-      DisplayName = "Vayne, can I ask ya 'bout somethin'... tell me more about Riven, please? You mentioned you were real close. And I guess you could say I've got love on the brain, haha..."
+      DisplayName = "But now you're both here, in the Underworld! Can't you go find her? Or negotiate your contract with the Old Timer?"
     }
     {
       /*
@@ -7991,7 +7991,7 @@
       */
       Id = "Achilles_0115"
       Speaker = "Achilles"
-      DisplayName = "We could have been no closer. The ashes of our bodies yet mingle together somewhere on the surface there. What can I tell you, Prince? I loved her with all my heart. And she left me too soon."
+      DisplayName = "{#DialogueItalicFormat}Ha, hah. {#PreviousFormat}I tried, Prince, I have tried. On both accounts. What you propose is not that simple, it turns out. But I shall tell you what. When next you see Riven on your journeys, you keep speaking to her for me, won't you?"
     }
     {
       /*
@@ -8004,7 +8004,7 @@
       */
       Id = "Achilles_0105"
       Speaker = "Achilles"
-      DisplayName = "How fare your labours, your Highness? You have a certain look about you. Everything alright?"
+      DisplayName = "How fare your labours, Your Highness? You have a certain look about you. Everything alright?"
     }
     {
       /*
@@ -8017,7 +8017,7 @@
       */
       Id = "ZagreusHome_0850"
       Speaker = "Zagreus"
-      DisplayName = "It's just... within Elysium, I happened to meet a Spirit, who said she knew ya. Said she misses you. Do you know a Riven, by any chance?"
+      DisplayName = "It's just... in Elysium, I happened to meet a Spirit, who said she knew ya. Said she misses you. Do you know a Riven, by any chance?"
     }
     {
       /*
@@ -8030,7 +8030,7 @@
       */
       Id = "Achilles_0106"
       Speaker = "Achilles"
-      DisplayName = "What... I... yes. I knew Riven, did she... is she all right?"
+      DisplayName = "What... I... yes. I knew Riven, did she... is she alright?"
     }
     {
       /*
@@ -8067,7 +8067,7 @@
       */
       Id = "ZagreusHome_0852"
       Speaker = "Zagreus"
-      DisplayName = "How fare your labours, your Highness? You have a certain look about you. Everything alright?"
+      DisplayName = "Well, I dunno. It's just, in Elysium... I met a Shade. She's your Riven, 'n she certainly seems like she's seen better days. Is... there somethin' I should say to her, if I run into her again?"
     }
     {
       /*
@@ -8078,7 +8078,7 @@
       */
       Id = "Achilles_0108"
       Speaker = "Achilles"
-      DisplayName = "It's just... in Elysium, I happened to meet a Spirit. It's your Riven. She's alright, but she certainly seems like she's seen better days. Is there somethin' I should say to her, if I run into her again?"
+      DisplayName = "Oh, I see ...please send her my regards. And... all my love. Tell her that I think of her always. But I cannot see her any longer. And you mustn't ask me why, do you understand? Now, leave me be, please, lad. I need some time."
     }
     {
       /*
@@ -8091,7 +8091,7 @@
       */
       Id = "Achilles_0109"
       Speaker = "Achilles"
-      DisplayName = "Hey, listen a moment, your Highness. I require your discretion with regards to whom we spoke about last time. The Spirit you met within Elysium."
+      DisplayName = "Hey, listen a moment, Your Highness. I require your discretion with regards to whom we spoke about last time. The Spirit you met within Elysium."
     }
     {
       /*
@@ -12480,7 +12480,7 @@
       */
       Id = "ZagreusHome_3364"
       Speaker = "Zagreus"
-      DisplayName = "That means a lot to me, Mother Moon. I never coulda done any of this without your help. Even after I lashed out at you when I learned the truth, you never stopped lookin' out for me... and you put yourself in harm's way, goin' against the Old Timer. Why do all that, for me?"
+      DisplayName = "That means a lot to me, Mother Moon. I never coulda done any of this without your help. Even after I lashed out at you when I learned the truth, you never stopped lookin' out for me... and you put yourself in harm's way, goin' against the Old Timer. Why do all that?"
     }
     {
       /*
@@ -12522,7 +12522,7 @@
       */
       Id = "Nyx_0301"
       Speaker = "Nyx"
-      DisplayName = "I suppose that is true, and I suppose it is equally true that it was for his sake as much as yours that I wished for you to find yourself, and, forgive my bluntness, to grow up. And you have, and for that I am also fiercely proud of you."
+      DisplayName = "Young Settrigh, do not question my workings thusly. It was equally for his sake, as much as yours, that it was necessary for you to leave, so you might find yourself, and prove to be a worthy prince. And you have, and for that I am also fiercely proud of you."
     }
     {
       /*
@@ -12536,7 +12536,7 @@
       */
       Id = "ZagreusHome_3366"
       Speaker = "Zagreus"
-      DisplayName = "...I can't say I love the idea of my mettle bein' intentionally tested, but, after how it all turned out, I can't say I regret any of it. So, thank you, for everything."
+      DisplayName = "...I can't say I love the idea of my mettle bein' intentionally tested, but, after how it all turned out, I can't say I regret any of it, either. So, thank you, for everything."
     }
     {
       /*
@@ -27198,7 +27198,7 @@
       */
       Id = "Orpheus_0151"
       Speaker = "Orpheus"
-      DisplayName = "Started to feel the itch to play again, and got inspiration from another source. Hope it's at least an improvement on tense silence."
+      DisplayName = "Started to feel the itch to play again, and got inspiration from another source. Figured it's high time I start to get on with the rest of my existence. Anyway, here's Wonderwall."
     }
     {
       /*
@@ -27209,7 +27209,7 @@
       */
       Id = "Orpheus_0231"
       Speaker = "Orpheus"
-      DisplayName = "Started to feel the itch to play again, and got inspiration from another source. Hope it's at least an improvement on tense silence."
+      DisplayName = "Say, Boss... on your little adventures, did you see if this place has frozen over anywhere? 'Cause the impossible seems to have happened. I feel like playing again, even managed to compose a little something new."
     }
     {
       /*
@@ -27220,7 +27220,7 @@
       */
       Id = "Orpheus_0232"
       Speaker = "Orpheus"
-      DisplayName = "Started to feel the itch to play again. Hope it's at least an improvement on tense silence.."
+      DisplayName = "Well at it's at least an improvement on tense silence. Probably."
     }
     {
       /*
@@ -32311,7 +32311,7 @@
       */
       Id = "MegaeraHome_0182"
       Speaker = "Megaera"
-      DisplayName = "...I do not wish to dredge it up once again, but no matter how I try, I cannot find any sense of peace over what happened. Was all this really necessary? He had growing to do, to be sure, but his heart was always noble, and kind."
+      DisplayName = "...I do not wish to dredge it up once again, but no matter how I try, I cannot find any sense of peace over what happened. Was all this truly necessary? He had growing to do, to be sure, but his heart was always noble, and kind."
     }
     {
       /*
@@ -32378,7 +32378,7 @@
       */
       Id = "MegaeraHome_0081"
       Speaker = "Megaera"
-      DisplayName = "...he has made a lot of progress, even I will admit to the truth of that. Please tell me that you also feel he is worthy, and there will never be a need to interfere and separate them again."
+      DisplayName = "...he has made a lot of progress, even I will admit to the truth of that. Please tell me that you also feel he is worthy, and there will never be a need to interfere and separate them again. Even if we don't always understand why, Aphelios chose him."
     }
     {
       /*
@@ -37055,7 +37055,7 @@
       */
       Id = "Patroclus_0116"
       Speaker = "Patroclus"
-      DisplayName = "Your father must have records of the dead. So I was wondering if you might do for me a favor, and look up the whereabouts of someone I once knew."
+      DisplayName = "Your father must have records of the dead. So I was wondering if you might do for me a favour, and look up the whereabouts of someone I once knew."
     }
     {
       /*
@@ -37206,7 +37206,7 @@
       */
       Id = "Patroclus_0159"
       Speaker = "Patroclus"
-      DisplayName = "...That name. So then you've seen her, have you. And you want me to believe she said all that? {#DialogueItalicFormat}Tsk{#PreviousFormat}. You'll forgive me if I am a little skeptical. In life, I left Vayne. And in death, she left me. We're even. And we've nothing left to say to one another, now."
+      DisplayName = "...Ah. So then you've seen her, have you. And you want me to believe she said all that? {#DialogueItalicFormat}Tsk{#PreviousFormat}. You'll forgive me if I am a little skeptical. In life, I left Vayne. And in death, she left me. We're even. And we've nothing left to say to one another, now."
     }
     {
       /*
@@ -37332,7 +37332,7 @@
       */
       Id = "Patroclus_0127"
       Speaker = "Patroclus"
-      DisplayName = "She's never going to return to me, is he. She's in your father's service now. She's never getting out. Neither are you."
+      DisplayName = "I'm past the point of promises and reassurances, but... thank you for your words. I will pray for you in your endeavours."
     }
     {
       /*

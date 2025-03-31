@@ -471,7 +471,7 @@
       */
       Id = "ZagreusHome_2678"
       Speaker = "Zagreus"
-      DisplayName = "Wow, Pop! You called me by my name! What's this feelin' I got? Maybe it's this {#DialogueItalicFormat}deference {#PreviousFormat} you like so much?"
+      DisplayName = "Wow, Pop! You called me by my name! What's this feelin' I got? Maybe it's this {#DialogueItalicFormat}deference {#PreviousFormat}you like so much?"
     }
     {
       /*
@@ -615,7 +615,7 @@
       */
       Id = "Hades_0943"
       Speaker = "Hades"
-      DisplayName = "Your mother cut ties to start a family of her own. When she left... believing you stillborn... she was heartbroken. But I believed she was better off without the lot of us, the Spirit Realm included. Deceiving you both was agony. I did it to keep her safe. She never abandoned us, but I..."
+      DisplayName = "Your mother cut ties to start a family of her own. When she left, believing you stillborn... she was heartbroken. But I believed she was better off without the lot of us, the Spirit Realm included. Deceiving you both was agony. I did it to keep her safe. She never abandoned us, I..."
     }
     {
       /*
@@ -687,7 +687,7 @@
       */
       Id = "Hades_0920"
       Speaker = "Hades"
-      DisplayName = "About that... your {#DialogueItalicFormat}ransacking {#PreviousFormat}revealed many flaws in our security. The types that never get into reports. Our reputation rides on there being no escape from here. Would you... keep trying to break free? Not for my sake. But for this realm. For the Queen."
+      DisplayName = "About that... your {#DialogueItalicFormat}ransacking {#PreviousFormat}revealed many flaws in our security. The types that never get into reports. Our reputation rides on there being no escape. Would you... keep trying to break free? Not for my sake. But for this realm. For the Queen."
     }
     {
       /*
@@ -759,7 +759,7 @@
       */
       Id = "ZagreusHome_2681"
       Speaker = "Zagreus"
-      DisplayName = "Question, old timer. Let's say I agree. When next I get to the surface... is it still gonna be you waitin' up there?"
+      DisplayName = "Question, Old Timer. Let's say I agree. When next I get to the surface... is it still gonna be you waitin' up there?"
     }
     {
       /*
@@ -1047,7 +1047,7 @@
       */
       Id = "Storyteller_0156"
       Speaker = "Storyteller"
-      DisplayName = "{#DialogueItalicFormat}The lounging area within the House of Hades is a dismal place to be, in spite of its intended purpose to enliven the House's grim inhabitants."
+      DisplayName = "{#DialogueItalicFormat}The lounging area within the House of the Dead is a dismal place to be, in spite of its intended purpose to enliven the House's grim inhabitants."
     }
     {
       /*
@@ -1165,7 +1165,7 @@
       */
       Id = "Persephone_0018"
       Speaker = "Persephone"
-      DisplayName = "{#DialogueItalicFormat}'I can no longer stay here. So, I am leaving, even if it kills me. I won't be returning to the Spirit Realm. If there is a place where I belong, it must be somewhere between heaven and hell. Perhaps it's on the coast and has a little garden. Take care of Truffle and Southpaw; I shall miss them.'"
+      DisplayName = "{#DialogueItalicFormat}'I can no longer stay here. So, I am leaving, even if it kills me. I won't be returning to the Spirit Realm. If there is a place where I belong, it must be somewhere between heaven and hell. Hopefully at least with a little garden. Take care of the badgers. I will miss them.'"
     }
     {
       /*
@@ -1231,7 +1231,7 @@
       */
       Id = "Storyteller_0305"
       Speaker = "Storyteller"
-      DisplayName = "{#DialogueItalicFormat}The door to the administrative chamber beckons just beyond the hall. The prince perchance believes that he may enter quietly, without drawing the notice of those laboring within."
+      DisplayName = "{#DialogueItalicFormat}The door to the administrative chamber beckons just beyond the hall. The Prince perchance believes that he may enter quietly, without drawing the notice of those laboring within."
     }
     {
       /*
@@ -1240,7 +1240,7 @@
       */
       Id = "Storyteller_0269"
       Speaker = "Storyteller"
-      DisplayName = "{#DialogueItalicFormat}Among the countless splendid gemstones hidden underneath the earth, a great many are used to decorate the Old Timer's House, god of the dead, god of riches."
+      DisplayName = "{#DialogueItalicFormat}Among the countless splendid gemstones hidden underneath the earth, a great many are used to decorate the Old Timer's House, God of the Dead, God of Riches."
     }
     {
       /*
@@ -1343,7 +1343,7 @@
       */
       Id = "MegaeraHome_0010"
       Speaker = "Megaera"
-      DisplayName = "...I was just leaving, Settrigh. Happened to be in the area, no thanks to you, and thought I'd go retrieve the last of my brother's possessions. I have to say, you've really let this place go to hell."
+      DisplayName = "...I wanted to tell you this somewhere private, where we couldn't be overheard. Where you would have to listen to me. Settrigh, if you hurt my brother, I will figure out how to kill you, and make it permanent this time. I promise you that."
     }
     {
       /*
@@ -1354,7 +1354,7 @@
       */
       Id = "ZagreusHome_0755"
       Speaker = "Zagreus"
-      DisplayName = "...She left. Great. Great! Guess we just go back to killin' each other repeatedly."
+      DisplayName = "What the hell?! ...She left. Great. Great! Guess I'll just fight ya out there like normal, Alune!"
     }
     {
       /*
@@ -1369,7 +1369,7 @@
       */
       Id = "ZagreusHome_0759"
       Speaker = "Zagreus"
-      DisplayName = "Forget somethin' else in my room, there, Alune?"
+      DisplayName = "What is it this time, Alune? Another ominous threat? Gonna describe in detail how you'll pluck out every single strand 'o fur on my ears before ya dip me in lava, or make balloon animals outta my guts?"
     }
     {
       /*
@@ -1384,7 +1384,7 @@
       */
       Id = "MegaeraHome_0090"
       Speaker = "Megaera"
-      DisplayName = "No. We need to talk, again. My family are involved now, in all this. You've really stirred up quite a mess."
+      DisplayName = "...? What a vivid imagination you have, it almost surpasses mine. I wasn't going to threaten you, but now that you mention it, you really {#DialogueItalicFormat}have {#PreviousFormat}stirred up quite a mess. My family are involved now, in all this."
     }
     {
       /*
@@ -1428,7 +1428,7 @@
         Zagreus: Lunie...! She... {#DialogueItalicFormat}gods damnit{#PreviousFormat}.
       Id = "ZagreusHome_0761"
       Speaker = "Zagreus"
-      DisplayName = "What're you sayin'?"
+      DisplayName = "...Huh? What're you sayin'?"
     }
     {
       /*
@@ -1473,7 +1473,7 @@
       */
       Id = "ZagreusHome_1495"
       Speaker = "Zagreus"
-      DisplayName = "Forget somethin' else in my room, there, Alune?"
+      DisplayName = "Well, sorry. My momma's out there, somewhere. I can't rest til I find her. I'm not surprised if you don't get it."
     }
     {
       /*
@@ -1488,7 +1488,7 @@
       */
       Id = "ZagreusHome_1353"
       Speaker = "Zagreus"
-      DisplayName = "No. We need to talk, again. My family are involved now, in all this. You've really stirred up quite a mess."
+      DisplayName = "...Huh? What're you sayin'?"
     }
     {
       /*
@@ -1503,7 +1503,7 @@
       */
       Id = "MegaeraHome_0139"
       Speaker = "Megaera"
-      DisplayName = "Well, sorry. My momma's out there, somewhere. I can't rest til I find her. You wouldn't get it."
+      DisplayName = "I'm saying... I know you need to find your mother, Settrigh. I cannot just neglect my duties, but... if I could do something that might help guide you home sooner... nevermind. Forget it."
     }
     {
       /*
@@ -1514,7 +1514,7 @@
       */
       Id = "ZagreusHome_1370"
       Speaker = "Zagreus"
-      DisplayName = "Meg... what a surprise. Again. What is it? ...What's the matter? Wait. Why are you looking at me like that?"
+      DisplayName = "Oh, hey Alune... what a surprise. Again. I was just thinkin' it would be real nice to hang out with you again. D'you still like spicy food? Heard the chef is cookin' up a special worthy of the fires of hell, sounds almost like a challenge. Wanna grab some with me?"
     }
     {
       /*
@@ -1525,7 +1525,7 @@
       */
       Id = "MegaeraHome_0152"
       Speaker = "Megaera"
-      DisplayName = "Zagreus, would you shut up already with your idiotic questions, and get over here? Right now."
+      DisplayName = "You want to hang out... with me? Oh, well, sure. I'd like that. But that isn't why I'm here, I... I need advice. Yes, from you. I... I was wondering, what does it feel like to be in love? How did you find it, especially all of a sudden, amidst all the routine..."
     }
     {
       /*
@@ -1536,7 +1536,7 @@
       */
       Id = "ZagreusHome_1371"
       Speaker = "Zagreus"
-      DisplayName = "...I... you really... oh..."
+      DisplayName = "...Huh? Hang on, really? You really want my advice on love, Lunie?"
     }
     {
       Id = "ZagreusHome_2804"
@@ -1586,7 +1586,7 @@
       */
       Id = "ZagreusHome_1521"
       Speaker = "Zagreus"
-      DisplayName = "I... Alune, I just want things to go back to how they were, when it was us three, playin' in the moonlight. I know I screwed up, royally. But you're real special to me, and I've always thought of like my own sister. Is there any chance you'll forgive me, and we can be friends again?"
+      DisplayName = "...I can't lie, I just figured that of course you'd been in love before. Someone like you musta had lotsa suitors over the eons. But bein' in love is definitely awesome, even when it's bad. You feel like it's all worth it. I gotta say, I'm real flattered you'd come to me--"
     }
     {
       /*
@@ -1596,7 +1596,7 @@
       */
       Id = "MegaeraHome_0390"
       Speaker = "Megaera"
-      DisplayName = "...That's what you really want...? To be my friend? {#DialogueItalicFormat}Heh. {#PreviousFormat}So many things have changed, Settrigh, but in many ways, you're still the same as you always were. I can forgive you, and we can be friends... for now. But if you abandon us again, there won't be another chance. Understand?"
+      DisplayName = "Wait, hold it right there, beast boy! Your smile is getting a little too gleeful. It's just--I can't go to anyone else, I'm not going to ask Vayne for love advice, certainly {#DialogueItalicFormat}not {#PreviousFormat}Mother... and when I ask my brother he just gets this stupid lovesick look... UGH! FORGET IT!"
     }
     {
       /*
@@ -1607,7 +1607,7 @@
       */
       Id = "MegaeraHome_0156"
       Speaker = "Megaera"
-      DisplayName = "Meg... what a surprise. Again. What is it? ...What's the matter? Wait. Why are you looking at me like that?"
+      DisplayName = "You want to hang out... with me? Oh, well, sure. I'd like that. But that isn't why I'm here, I... I need advice. Yes, from you. I... I was wondering, what does it feel like to be in love? How did you find it, especially all of a sudden, amidst all the routine..."
     }
     {
       Id = "MegaeraHome_0157"
@@ -1644,7 +1644,7 @@
       */
       Id = "MegaeraExtra_0001"
       Speaker = "Megaera"
-      DisplayName = "I... Alune, I just want things to go back to how they were, when it was us three, playin' in the moonlight. I know I screwed up, royally. But you're real special to me, and I've always thought of like my own sister. Is there any chance you'll forgive me, and we can be friends again?"
+      DisplayName = "Wait, hold it right there, beast boy! Your smile is getting a little too gleeful. It's just--I can't go to anyone else, I'm not going to ask Vayne for love advice, certainly {#DialogueItalicFormat}not {#PreviousFormat}Mother... and when I ask my brother he just gets this stupid lovesick look... UGH! FORGET IT!"
     }
     {
       /*
@@ -1654,7 +1654,7 @@
       */
       Id = "ZagreusHome_1476"
       Speaker = "Zagreus"
-      DisplayName = "Aphelios...! I'd ask ya to come in, but... {#DialogueItalicFormat}Heh... {#PreviousFormat}you're already here. It's real good to see ya."
+      DisplayName = "Aphelios...! Hi, sweetheart. So, does this mean you're finally gonna tell me all 'bout what happened by the river that day? When ya thought I was awake?"
     }
     {
       /*
@@ -1664,7 +1664,7 @@
       */
       Id = "Thanatos_0417"
       Speaker = "Thanatos"
-      DisplayName = "Just tell me one thing, Sett. Did you really mean what you told me before, that... maybe we ought to... take our time?"
+      DisplayName = "Hm. I don't have a lot of time before I will be needed again. Are you sure you wish to spend it talking about the past?"
     }
     {
       Id = "ZagreusHome_1477"
@@ -1674,27 +1674,27 @@
     {
       Id = "Thanatos_0418"
       Speaker = "Thanatos"
-      DisplayName = "{#DialogueItalicFormat}Sett{#PreviousFormat}. You have no concept of which impulses to act upon, and which to keep in check. You say you'll wait, but... let me ask you this: What are you waiting for? What are you waiting for, when I'm here, I'm ready. Do you not understand, I adore you?"
+      DisplayName = "{#DialogueItalicFormat}Sett{#PreviousFormat}. You have no concept of which impulses to act upon, and which to keep in check. Do you not understand? I adore you. How about... instead of telling you what I might have done long ago by the river... I show you instead?"
     }
     {
       Id = "ZagreusHome_1478"
       Speaker = "Zagreus"
-      DisplayName = "Phel...! {#DialogueItalicFormat}Hahaha{#PreviousFormat}, oh, you're right! You're right. I love you too. I love you so much. C'mere already, will ya?"
+      DisplayName = "..!!! Phel...! {#DialogueItalicFormat}Hahaha{#PreviousFormat}, oh, you're right! You're right. I adore you too. I love you so much. C'mere already, will ya?"
     }
     {
       Id = "ZagreusHome_1479"
       Speaker = "Zagreus"
-      DisplayName = "Hey, mooncake? What're you thinkin' about? I never know what's goin' through your pretty head when you're quiet."
+      DisplayName = "Hey, mooncake... what're you thinkin' about? I'm never quite sure what's goin' through your pretty head when you're this quiet."
     }
     {
       Id = "Thanatos_0419"
       Speaker = "Thanatos"
-      DisplayName = "It's not always a bad thing when I'm quiet, you'll get used to it. And I'm thinking of a lot of things... but mostly that I'm so glad you came back. That even if I had to go through it all again, it would be worth it. Satisfied, your Highness?"
+      DisplayName = "It's not always a bad thing when I'm quiet. Aren't you used to it by now? And I'm thinking of a lot of things... but mostly that I'm so glad you came back. That even if I had to go through it all again, it would be worth it. Satisfied, Your Highness?"
     }
     {
       Id = "ZagreusHome_1480"
       Speaker = "Zagreus"
-      DisplayName = "Heh. Yes, that's a wonderful answer. I'm so glad fate stopped my dumb ass from leavin' behind the best thing that's ever happened to me. I can't wait to get to know you all over again... maybe I can start tonight...?"
+      DisplayName = "Heh. Yes, satisfied on {#DialogueItalicFormat}all {#PreviousFormat}counts. That's a wonderful answer. I'm so glad fate stopped my dumb ass from leavin' behind the best thing that's ever happened to me. I can't wait to get to know you all over again... maybe I can start tonight...?"
     }
     {
       /*
@@ -1966,7 +1966,7 @@
       */
       Id = "Storyteller_0114"
       Speaker = "Storyteller"
-      DisplayName = "{#DialogueItalicFormat}The bedchambers of Prince Settrigh lie in a perpetual state of utter disarray, despite his Lord and master of the House repeatedly insisting that he pick everything up."
+      DisplayName = "{#DialogueItalicFormat}The bedchambers of Prince Settrigh lie in a perpetual state of utter disarray, despite his Lord Father and master of the House repeatedly insisting that he pick everything up."
     }
     {
       /*
@@ -1993,7 +1993,7 @@
       */
       Id = "Storyteller_0190"
       Speaker = "Storyteller"
-      DisplayName = "{#DialogueItalicFormat}The visage of a certain Popstar Princess now adorns the Prince's bedchambers, perhaps to provide consolation after when next he dies."
+      DisplayName = "{#DialogueItalicFormat}The visage of a certain Popstar Princess now adorns the Prince's bedchambers, perhaps to remind him that 'ain't nobody bringin' us down down down down' after when next he dies."
     }
     {
       /*
@@ -2038,7 +2038,7 @@
       */
       Id = "Storyteller_0292"
       Speaker = "Storyteller"
-      DisplayName = "{#DialogueItalicFormat}Much of the softness of the richly woven rug the Prince procured cannot be fully felt beneath his spirit fire-licked feet."
+      DisplayName = "{#DialogueItalicFormat}Much of the softness of the richly woven rug the Prince procured cannot be fully felt beneath his spiritfire-licked feet."
     }
     {
       /*
@@ -2065,7 +2065,7 @@
       */
       Id = "Storyteller_0288"
       Speaker = "Storyteller"
-      DisplayName = "{#DialogueItalicFormat}A massive set of weights positioned carefully in line of sight of any visitors shall doubtless make them think the Prince is stronger and in better shape than in reality."
+      DisplayName = "{#DialogueItalicFormat}A massive set of weights positioned carefully in line of sight of any visitors shall doubtless make them think the Prince is acquiring some truly sick gains."
     }
     {
       /*
@@ -2200,7 +2200,7 @@
       */
       Id = "Storyteller_0309"
       Speaker = "Storyteller"
-      DisplayName = "{#DialogueItalicFormat}The hard-laboring shades responsible for the administration of the prince's father's realm merely look on at the prince's ill-fated attempts."
+      DisplayName = "{#DialogueItalicFormat}The hard-labouring shades responsible for the administration of the prince's father's realm merely look on at the prince's ill-fated attempts."
     }
     {
       /*
@@ -2272,7 +2272,7 @@
       */
       Id = "Storyteller_0317"
       Speaker = "Storyteller"
-      DisplayName = "{#DialogueItalicFormat}Prince Settrigh must have some favored tasks in the administrative chamber of the House; but surely none of them include the tasks demanding his attention, here."
+      DisplayName = "{#DialogueItalicFormat}Prince Settrigh must have some favoured tasks in the administrative chamber of the House; but surely none of them include the tasks demanding his attention, here."
     }
     {
       /*
@@ -2350,7 +2350,7 @@
       */
       Id = "Skelly_0179"
       Speaker = "Skelly"
-      DisplayName = "Wrong! We're talking something really big, here, friend. You see that thing back there? That's no trinket! Come on, aren't you curious?"
+      DisplayName = "Wrong! We're talking something really big, here, bestie. You see that thing back there? That's no trinket! Come on, aren't you curious?"
     }
     {
       /*
@@ -2407,7 +2407,7 @@
       */
       Id = "Skelly_0188"
       Speaker = "Skelly"
-      DisplayName = "I am offended, friend! You haven't even seen the third one yet, so how can you insinuate a thing like that?! Maybe I was wrong about you. I thought you really were the one!"
+      DisplayName = "I am offended, bestie boo! You haven't even seen the third one yet, so how can you insinuate a thing like that?! Maybe I was wrong about you. I thought you really were the one!"
     }
     {
       /*
