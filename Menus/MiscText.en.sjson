@@ -1,0 +1,311 @@
+{
+/* Data Lookup Key - Specifies how to replace text found inside curly braces
+
+
+	$ - DisplayName of a Lua variable with VariableAutoFormat formatting (minus exceptions from NeverFormat table)
+	@ - DisplayName of a Lua variable with ItemName formatting
+	* - DisplayName of a Lua variable with automatic red/green coloring for modified stat values
+	% - Full Description + AdditionalDescription of a Lua variable
+	^ - Description only of a Lua variable
+	+ - AdditionalDescription only of a Lua variable
+	! - Texture of the path stored in a Lua variable
+	JU - Texture of button mapped to the Jump Control for the current platform and input type
+	... (Other Control symbols defined in Controls.cs)
+	 Debug */
+
+  lang = "en"
+  Texts = [
+    /* 
+      NOTE(Dexter) Created this file to manually create help text IDs for 
+      any strings found in lua that don't have a VO cue associated with them
+      (usually choice/store text that's never vocalized)
+    */
+    {
+      Id = "Eurydice_OfferText01"
+      DisplayName = "{#DialogueItalicFormat}The Shade offers several delectable treats."
+    }
+    {
+      Id = "Eurydice_OfferText02"
+      DisplayName = "{#DialogueItalicFormat}Yone offers several delectable treats."
+    }
+    {
+      Id = "Eurydice_OfferText03"
+      DisplayName = "{#DialogueItalicFormat}The brothers offer several delectable treats."
+    }    
+    {
+      Id = "Orpheus_OfferText01"
+      DisplayName = "{#DialogueItalicFormat}Yasuo wishes to know your choice of music."
+    }
+    {
+      Id = "Sisyphus_OfferText01"
+      DisplayName = "{#DialogueItalicFormat}Yorick furtively offers a choice of benefits."
+    }
+    {
+      Id = "Patroclus_OfferText02"
+      DisplayName = "{#DialogueItalicFormat}Riven offers one of several premium goods."
+    }
+    {
+      Id = "Patroclus_OfferText03"
+      DisplayName = "{#DialogueItalicFormat}The shade offers one of several premium goods."
+    }
+    {
+      Id = "Patroclus_OfferText04"
+      DisplayName = "{#DialogueItalicFormat}The Shade still offers one of his premium goods."
+    }
+    {
+      Id = "Patroclus_OfferText05"
+      DisplayName = "{#DialogueItalicFormat}Riven still offers one of his premium goods."
+    }
+    {
+      Id = "Megaera_ChoiceText01"
+      DisplayName = "{#DialogueItalicFormat}Alune wants advice?"
+    }
+    {
+      Id = "Megaera_ChoiceText02"
+      DisplayName = "{#DialogueItalicFormat}Alune wants advice?"
+    }
+    {
+      Id = "Thanatos_ChoiceText01"
+      DisplayName = "{#DialogueItalicFormat}Aphelios wants to show you something."
+    }
+    {
+      Id = "Thanatos_ChoiceText02"
+      DisplayName = "{#DialogueItalicFormat}Be with Aphelios?"
+    }
+    {
+      Id = "Dusa_ChoiceText01"
+      DisplayName = "{#DialogueItalicFormat}Take back the Bambojini? (She won't mind.)"
+    }
+    {
+      Id = "MegaeraWithThanatos_ChoiceText01"
+      DisplayName = "{#DialogueItalicFormat}Be with Meg and Than? (If you want.)"
+    }
+
+    /* Choice Options */
+    {
+      Id = "ChoiceText_Healing"
+      DisplayName = "{#ChoiceBracketFormat}\[ {#ChoiceFormat} {!Icons.HealthRestore} Healing {#ChoiceBracketFormat}\]"
+    }
+    {
+      Id = "ChoiceText_Darkness"
+      DisplayName = "{#ChoiceBracketFormat}\[ {#ChoiceFormat} {!Icons.MetaPoint} Darkness {#ChoiceBracketFormat}\]"
+    }
+    {
+      Id = "ChoiceText_Money"
+      DisplayName = "{#ChoiceBracketFormat}\[ {#ChoiceFormat} {!Icons.Currency} Karthus's Obol {#ChoiceBracketFormat}\]"
+    }
+    {
+      Id = "ChoiceText_BuffExtraChance"
+      DisplayName = "{#ChoiceBracketFormat}\[ {#ChoiceFormat} {!Icons.BuffExtraChance} Kiss of Styx Premium {#ChoiceBracketFormat}\]"
+    }
+    {
+      Id = "ChoiceText_BuffExtraChanceReplenish"
+      DisplayName = "{#ChoiceBracketFormat}\[ {#ChoiceFormat} {!Icons.BuffExtraChanceAlt} Touch of Styx Dark {#ChoiceBracketFormat}\]"
+    }    
+    {
+      Id = "ChoiceText_BuffHealing"
+      DisplayName = "{#ChoiceBracketFormat}\[ {#ChoiceFormat} {!Icons.BuffHealing} HydraLite Gold {#ChoiceBracketFormat}\]"
+    }
+    {
+      Id = "ChoiceText_BuffWeapon"
+      DisplayName = "{#ChoiceBracketFormat}\[ {#ChoiceFormat} {!Icons.BuffWeapon} Cyclops Jerky Select {#ChoiceBracketFormat}\]"
+    }
+    {
+      Id = "ChoiceText_BuffSlottedBoonRarity"
+      DisplayName = "{#ChoiceBracketFormat}\[ {#ChoiceFormat} {!Icons.BuffSlottedBoonRarity} Ambrosia Delight {#ChoiceBracketFormat}\]"
+    }
+    {
+      Id = "ChoiceText_BuffMegaPom"
+      DisplayName = "{#ChoiceBracketFormat}\[ {#ChoiceFormat} {!Icons.BuffMegaPom} Pom Porridge {#ChoiceBracketFormat}\]"
+    }
+    {
+      Id = "ChoiceText_BuffFutureBoonRarity"
+      DisplayName = "{#ChoiceBracketFormat}\[ {#ChoiceFormat} {!Icons.BuffFutureBoonRarity} Refreshing Nectar {#ChoiceBracketFormat}\]"
+    }
+    /* Squelch */
+    {
+      Id = "Hermes_OfferText01"
+      DisplayName = "{#DialogueItalicFormat}Encourage Lillia to slow down a little?"
+    }
+    {
+      Id = "Hermes_OfferText02"
+      DisplayName = "{#DialogueItalicFormat}Keep telling Lillia to take it easy?"
+    }
+    {
+      Id = "Hermes_OfferText03"
+      DisplayName = "{#DialogueItalicFormat}Convince Lillia to take her time, but slower?"
+    }
+    {
+      Id = "Squelch_KeepTalking"
+      DisplayName = "{#ChoiceBracketFormat}\[ {#ChoiceFormat}Take It Easy! {#ChoiceBracketFormat}\]"
+    }
+    {
+      Id = "Squelch_BeQuietAWhile"
+      DisplayName = "{#ChoiceBracketFormat}\[ {#ChoiceFormat}Gotta Go FAST! {#ChoiceBracketFormat}\]"
+    }
+    {
+      Id = "Squelch_ResumeTalking"
+      DisplayName = "{#ChoiceBracketFormat}\[ {#ChoiceFormat}Resume Convincing {#ChoiceBracketFormat}\]"
+    }
+    {
+      Id = "Squelch_KeepQuiet"
+      DisplayName = "{#ChoiceBracketFormat}\[ {#ChoiceFormat}Enable Her Need for Speed {#ChoiceBracketFormat}\]"
+    }
+    /* High Relationship */
+    {
+      Id = "Meg_GoToHer"
+      DisplayName = "{#ChoiceBracketFormat}\[ {#ChoiceFormat}Give her advice {#ChoiceBracketFormat}\]"
+    }
+    {
+      Id = "Meg_BackOff"
+      DisplayName = "{#ChoiceBracketFormat}\[ {#ChoiceFormat}Ease Off {#ChoiceBracketFormat}\]"
+    }
+    {
+      Id = "Than_GoToHim"
+      DisplayName = "{#ChoiceBracketFormat}\[ {#ChoiceFormat}Talk is cheap {#ChoiceBracketFormat}\]"
+    }
+    {
+      Id = "Than_BackOff"
+      DisplayName = "{#ChoiceBracketFormat}\[ {#ChoiceFormat}Ease Off {#ChoiceBracketFormat}\]"
+    }
+    {
+      Id = "Dusa_Accept"
+      DisplayName = "{#ChoiceBracketFormat}\[ {#ChoiceFormat}Politely Accept {#ChoiceBracketFormat}\]"
+    }
+    {
+      Id = "Dusa_Decline"
+      DisplayName = "{#ChoiceBracketFormat}\[ {#ChoiceFormat}Kindly Decline {#ChoiceBracketFormat}\]"
+    }
+    {
+      Id = "MegThan_GoToThem"
+      DisplayName = "{#ChoiceBracketFormat}\[ {#ChoiceFormat}Go to Them {#ChoiceBracketFormat}\]"
+    }
+    {
+      Id = "MegThan_BackOff"
+      DisplayName = "{#ChoiceBracketFormat}\[ {#ChoiceFormat}Ease Off {#ChoiceBracketFormat}\]"
+    }
+
+    /* Orpheus Songs */
+    {
+      Id = "OrpheusJukebox_00"
+      DisplayName = "{#ChoiceBracketFormat}\[ {#ChoiceFormat}The Lament {#ChoiceBracketFormat}\]"
+    }
+    {
+      Id = "OrpheusJukebox_01"
+      DisplayName = "{#ChoiceBracketFormat}\[ {#ChoiceFormat}In the Blood {#ChoiceBracketFormat}\]"
+    }
+    {
+      Id = "OrpheusJukebox_02"
+      DisplayName = "{#ChoiceBracketFormat}\[ {#ChoiceFormat}What The Moon Hides {#ChoiceBracketFormat}\]"
+    }
+
+    /* Font Builder character includes */
+    {
+      Id = "BuildFonts_Turkish"
+      DisplayName = "İıŞşĞğ"
+      OverwriteLocalization = true
+    }
+
+    /* Rich Presence */
+    {
+      Id = "RichPresence_House" 
+      DisplayName = "In the House of Hades"
+    }
+    {
+      Id = "RichPresence_Bedroom" 
+      DisplayName = "In the Underworld Prince's Chamber"
+    }
+    {
+      Id = "RichPresence_Office" 
+      DisplayName = "In the Underworld Admin Chamber"
+    }
+    {
+      Id = "RichPresence_RoomPreRun" 
+      DisplayName = "Preparing to Battle out of Hell"
+    }
+    {
+      Id = "RichPresence_Tartarus" 
+      DisplayName = "Battling out of Tartarus"
+    }
+    {
+      Id = "RichPresence_Asphodel" 
+      DisplayName = "Battling out of Asphodel"
+    }
+    {
+      Id = "RichPresence_Elysium" 
+      DisplayName = "Battling out of Elysium"
+    }
+    {
+      Id = "RichPresence_Styx" 
+      DisplayName = "Battling out of the Temple of Styx"
+    }
+    {
+      Id = "RichPresence_StyxHub" 
+      DisplayName = "Somewhere in the Temple of Styx"
+    }
+    {
+      Id = "RichPresence_Chaos" 
+      DisplayName = "Somewhere in Chaos"
+    }
+    {
+      Id = "RichPresence_Erebus" 
+      DisplayName = "Battling in Erebus"
+    }
+    {
+      Id = "RichPresence_Surface" 
+      DisplayName = "Beyond the Underworld"
+    }
+    {
+      Id = "RichPresence_ABoss01" 
+      DisplayName = "Battling Alune, the Chosen"
+    }
+    {
+      Id = "RichPresence_ABoss02" 
+      DisplayName = "Battling Evelynn, the Chosen"
+    }
+    {
+      Id = "RichPresence_ABoss03" 
+      DisplayName = "Battling Cassiopeia, the Chosen"
+    }
+    {
+      Id = "RichPresence_BBoss01" 
+      DisplayName = "Battling the Bone Hydra"
+    }
+    {
+      Id = "RichPresence_CMiniBoss01" 
+      DisplayName = "Battling the Bull of Ionia"
+    }
+    {
+      Id = "RichPresence_CBoss01" 
+      DisplayName = "Battling the Spirit of Obsession"
+    }
+    {
+      Id = "RichPresence_DBoss01" 
+      DisplayName = "Battling the Final Boss"
+    }
+    {
+      Id = "RichPresence_CharonFight" 
+      DisplayName = "Battling a Shadowy Presence"
+    }
+    {
+      Id = "RichPresence_AStory01" 
+      DisplayName = "Chatting with Yorick"
+    }
+    {
+      Id = "RichPresence_BStory01" 
+      DisplayName = "Chatting with Yone"
+    }
+    {
+      Id = "RichPresence_CStory01" 
+      DisplayName = "Chatting with the Fallen Warrior"
+    }
+    {
+      Id = "RichPresence_PostBoss" 
+      DisplayName = "Climbing to the Next Region"
+    }
+    {
+      Id = "RichPresence_Default" 
+      DisplayName = "Battling out of Hell"
+    }
+  ]
+}

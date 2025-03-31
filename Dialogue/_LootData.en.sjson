@@ -63,7 +63,7 @@
       */
       Id = "Aphrodite_0188"
       Speaker = "Aphrodite"
-      DisplayName = "Why, I would never do such things, Lord Volibear! Mischief is the domain of the Trickster, I would never deign to encroach! Much~"
+      DisplayName = "Why, I would never do such things, Lord Volibear! Mischief is the domain of the Trickster, Love and Salvation would never deign to encroach! Much~"
     }
     {
       /*
@@ -93,7 +93,7 @@
       */
       Id = "Zeus_0202"
       Speaker = "Zeus"
-      DisplayName = "Now, now, young cub, whatever you have heard about good Lissandra, I'm here to clear the air. She's like a sister to me, yes, but only thus. Although her Old God parents and my own met the same fate."
+      DisplayName = "Now, now, young cub, whatever you have heard about good Lissandra, I'm here to clear the air. She's like a sister to me, even with her frosty demeanor. Her Old God parents and my own met the same fate, by our powers combined."
     }
     {
       /*
@@ -103,7 +103,7 @@
       */
       Id = "Demeter_0150"
       Speaker = "Demeter"
-      DisplayName = "Why, Foster-Brother Volibear! Such an unlikely bit of candor there, from you! Almost as though you felt compelled to speak the truth only whilst I'm directly within earshot."
+      DisplayName = "Indeed, such a thing truly does bring unlikely allies together, and in the end, allows one to find a family of their own choosing. Foster-Brother Volibear and I have much to reminisce over."
     }
     {
       /*
@@ -139,7 +139,7 @@
       */
       Id = "Zeus_0186"
       Speaker = "Zeus"
-      DisplayName = "My good sister Lissandra already tried to poison you against me, as I understand, young cub? Oh, {#DialogueItalicFormat}foster{#PreviousFormat}-sister she prefers I say, loath as she is to accept her role as part of our great family."
+      DisplayName = "Has my good sister Lissandra shared much about our history here in the Realm above? Oh, {#DialogueItalicFormat}foster{#PreviousFormat}-sister she prefers I say, loath as she is to accept her role as part of our great family."
     }
     {
       /*
@@ -148,7 +148,7 @@
       */
       Id = "Zeus_0187"
       Speaker = "Zeus"
-      DisplayName = "You must forgive the Lady Lissandra her scornfulness, Nephew, for she is still recovering after the sudden disappearance of her daughter, though it was quite some time ago the girl, {#DialogueItalicFormat}poof{#PreviousFormat}! Just vanished. I try to lighten up the mood around it every now and then, but {#DialogueItalicFormat}no{#PreviousFormat}, a sore spot, still!"
+      DisplayName = "You must forgive the Lady Lissandra her scornfulness, Nephew, for she is still recovering after the sudden disappearance of her daughter. While on the Surface, one day she just- {#DialogueItalicFormat}poof{#PreviousFormat}! Just vanished. {#DialogueItalicFormat}Sigh{#PreviousFormat}, it remains a mystery to us all, still!"
     }
     {
       /*
@@ -157,7 +157,7 @@
       */
       Id = "Zeus_0188"
       Speaker = "Zeus"
-      DisplayName = "Poor Lissandra, young cub. We still wonder what became of her daughter. Met with the same fate as her mother's previous family, perhaps? Some of the tales, even more preposterous. Don't go believing everything you hear, and do be sensitive about the subject, hm? Demeter, she's been through quite enough."
+      DisplayName = "Poor Lissandra, young cub. We still wonder what became of her daughter. Met with the same fate as her father, perhaps? Some of the tales, even more preposterous. Don't believe everything you hear, and do be sensitive about the subject, hm? Lissandra, she's been through quite enough."
     }
     {
       /*
@@ -166,7 +166,7 @@
       */
       Id = "Zeus_0189"
       Speaker = "Zeus"
-      DisplayName = "The Lady Lissandra still mourns about her missing girl, Settrigh. But I want you to understand something, all right? She's gone. We all have grieved. Perhaps Lissandra shall finally accept what has occurred, and we can move forward, having grown stronger as a true family."
+      DisplayName = "The Lady Lissandra still mourns her missing girl, Settrigh. We all searched high and low for what seemed like ages, you know. I wonder at times... She was so terribly unhappy up here. I do hope wherever she chose to go, she is happy now."
     }
     {
       /*
@@ -222,7 +222,7 @@
       */
       Id = "Zeus_0035"
       Speaker = "Zeus"
-      DisplayName = "My brave daughter Soraka beat me to you this time, has she? No matter, with her blessing and my own, you shall be nigh unstoppable!"
+      DisplayName = "My wise daughter Soraka beat me to you this time, has she? No matter, with her blessing and my own, you shall be nigh unstoppable!"
     }
     {
       /*
@@ -303,7 +303,7 @@
       */
       Id = "Zeus_0043"
       Speaker = "Zeus"
-      DisplayName = "My siblings Nami and your father once fought bravely long ago, you know that, don't you, Nephew? We prevailed against the Old Gods and established law upon the earth. Your father then descended to the land of death, and we've not seen much of each other since."
+      DisplayName = "My siblings Nami and your father once fought bravely long ago, you know that, don't you, Nephew? We prevailed against the Old Gods and established law upon Runeterra. Your father then descended to the land of death, and we've not seen much of each other since."
     }
     {
       /*
@@ -312,7 +312,7 @@
       */
       Id = "Zeus_0044"
       Speaker = "Zeus"
-      DisplayName = "Your father must have told you that his governance over the Underworld is due more to the weaving of the Fates than by his choice. Admittedly, he got the short end of the stick. Whereas Nami and myself, why, we've been doing rather well indeed."
+      DisplayName = "Your father must have told you that his governance over the Underworld is due more to the weaving of Fate than by his choice. Admittedly, he got the short end of the stick. Whereas Nami and myself, why, we've been doing rather well indeed."
     }
     {
       /*
@@ -339,7 +339,7 @@
       */
       Id = "Zeus_0190"
       Speaker = "Zeus"
-      DisplayName = "Your mother, the Silver Sister, has always been an inscrutable one. We met long ago, during the era of Old Gods. Her Sister is as confident and powerful as the sun- in fact, she is the sun! Perhaps you would like to meet her, when you arrive?"
+      DisplayName = "Your mother, the Silver Sister, has always been an inscrutable one. We met long ago, during the era of the Old Gods. Her Sister is as confident and powerful as the sun- in fact, she is the sun! Perhaps you would like to meet her, when you arrive?"
     }
     {
       /*
@@ -348,7 +348,7 @@
       */
       Id = "Zeus_0048"
       Speaker = "Zeus"
-      DisplayName = "If and when you reach the surface, Settrigh, you call upon me then and there, all right? I'll personally see to it that you'll be escorted to the Spirit realm, and your quest shall be complete!"
+      DisplayName = "If and when you reach the surface, Settrigh, you call upon me then and there, all right? I'll personally see to it that you'll be escorted to the Spirit Realm, and your quest shall be complete!"
     }
     {
       /*
@@ -402,7 +402,7 @@
       */
       Id = "Zeus_0207"
       Speaker = "Zeus"
-      DisplayName = "Now, isn't that the Iceborn Gauntlets, the Twin Fists there in your possession, Settrigh? Last god I saw bedecked in those old gloves was Lissandra herself, oh, way back when! She was a real fighter at the time, not just a naysayer!"
+      DisplayName = "Now, isn't that the Iceborn Gauntlets, the Twin Fists there in your possession, Settrigh? Last god I saw bedecked in those old gloves was Lissandra herself, oh, way back when! She was a real fighter at the time, gave her father a good sock in the jaw!"
     }
     {
       /*
@@ -429,7 +429,7 @@
       */
       Id = "Zeus_0191"
       Speaker = "Zeus"
-      DisplayName = "Nephew, I wanted to mention, it was odd how by every account you'd come quite close to breaking free from there at last, of late... only to be abruptly cut off from our contact! I suppose having suffered some ill fate? Perhaps your realm's guardians, those fearsome badgers, are even deadlier than reputed!"
+      DisplayName = "Nephew, I wanted to mention, it was odd how by every account you'd come quite close to breaking free from there at last, of late... only to be abruptly cut off from our contact! I suppose having suffered some ill fate? Perhaps your Realm's guardians, those fearsome badgers, are even deadlier than reputed!"
     }
     {
       /*
@@ -447,7 +447,7 @@
       */
       Id = "Zeus_0234"
       Speaker = "Zeus"
-      DisplayName = "I must say, Nephew! Although it pleases me that we, here, reconnected with your father's realm... just between us, it pleases me even more that you are able to keep sticking it to him! You keep that up, all right?"
+      DisplayName = "I must say, Nephew! Although it pleases me that we, here, reconnected with your father's Realm... just between us, it pleases me even more that you are able to keep sticking it to him! You keep that up, all right?"
     }
     {
       /*
@@ -456,7 +456,7 @@
       */
       Id = "Zeus_0223"
       Speaker = "Zeus"
-      DisplayName = "Settrigh, you have a clever mother in Lihua! A very clever mother. And a lordly father! They make quite the team, that's evident! I envy such a stalwart partnership. Anivia and I are more like rivals..."
+      DisplayName = "Settrigh, you have a clever mother in Lihua! A very clever mother to keep such a man as that Old Timer in check! They make quite the team, that's evident! I envy such a stalwart partnership."
     }
     {
       /*
@@ -465,7 +465,7 @@
       */
       Id = "Zeus_0184"
       Speaker = "Zeus"
-      DisplayName = "The lord and ruler of the Spirit realm and the world, why, he needs a healthy sense of humor, no, young cub? Why, here is one of my favorites! How does a bear catch fish? With their {#DialogueItalicFormat}bear {#PreviousFormat}hands!"
+      DisplayName = "The lord and ruler of the Spirit Realm and the world, why, he needs a healthy sense of humor, no, young cub? Why, here is one of my favorite jokes! How does a bear catch fish? With their {#DialogueItalicFormat}bear {#PreviousFormat}hands!"
     }
     {
       /*
@@ -773,7 +773,7 @@
       */
       Id = "Zeus_0034"
       Speaker = "Zeus"
-      DisplayName = "Hail, my most honorable, beloved nephew, and I bring to you the blessing of the Spirit Realm, so that you might finally get out of there, already!"
+      DisplayName = "Hail, my most beloved nephew, and I bring to you the blessing of the Spirit Realm, so that you might finally get out of there, already!"
     }
     {
       /*
@@ -818,7 +818,7 @@
       */
       Id = "Zeus_0152"
       Speaker = "Zeus"
-      DisplayName = "You've seen the sheer destructive power of the heavens! Just imagine what it's like above the surface of the earth!"
+      DisplayName = "You've seen the sheer destructive power of the heavens! Just imagine what it's like above the surface of Runeterra!"
     }
     {
       /*
@@ -881,7 +881,7 @@
       */
       Id = "Zeus_0006"
       Speaker = "Zeus"
-      DisplayName = "Don't let your father get to you, young cub, and climb on out from there."
+      DisplayName = "Don't let your father get to you, young cub, and climb on out from there!"
     }
     {
       /*
@@ -926,7 +926,7 @@
       */
       Id = "Zeus_0156"
       Speaker = "Zeus"
-      DisplayName = "Please do be careful not to make your situation any worse, Nephew!"
+      DisplayName = "Pre{#DialogueItalicFormat}paw{#PreviousFormat} yourself, Nephew, for this {#DialogueItalicFormat}beary{#PreviousFormat} good Boon!"
     }
     {
       /*
@@ -1097,7 +1097,7 @@
       */
       Id = "Zeus_0214"
       Speaker = "Zeus"
-      DisplayName = "I thought that ferryman would be content to transfer souls across the River Styx, not rob you on your journey to the surface, there, Nephew!"
+      DisplayName = "This boatman of yours certainly is a hoot! Why, he and I have shared a great many gaffs and embarrassing stories of younger family members while awaiting your purchase!"
     }
     {
       /*
@@ -1106,7 +1106,7 @@
       */
       Id = "Zeus_0051"
       Speaker = "Zeus"
-      DisplayName = "My blessing isn't good enough for you, is that the way of it, young cub? How impetuous of you. {#DialogueItalicFormat}Oh{#PreviousFormat}, I never!"
+      DisplayName = "My blessing isn't good enough for you, is that the way of it, young cub? How impetuous of you. {#DialogueItalicFormat}Oh{#PreviousFormat}, why I never!"
     }
     {
       /*
@@ -1115,7 +1115,7 @@
       */
       Id = "Zeus_0052"
       Speaker = "Zeus"
-      DisplayName = "It isn't wise to go against me, Nephew, both in matters large and small. I am not known for being charitable to the insolent."
+      DisplayName = "It isn't wise to go against me, Nephew, both in matters large and small. I am not known for being {#DialogueItalicFormat}beary{#PreviousFormat} charitable to the insolent."
     }
     {
       /*
@@ -1124,7 +1124,7 @@
       */
       Id = "Zeus_0053"
       Speaker = "Zeus"
-      DisplayName = "Perhaps you have defied me here in jest, young cub. Though in such cases pertinent to my authority, you'll find I suddenly lack a sense of humor."
+      DisplayName = "Perhaps you have defied me here in jest, young cub. Though in such cases pertinent to my {#DialogueItalicFormat}paw{#PreviousFormat}thority, you'll find I suddenly lack a sense of humor."
     }
     {
       /*
@@ -1142,7 +1142,7 @@
       */
       Id = "Zeus_0055"
       Speaker = "Zeus"
-      DisplayName = "What have I done, good Nephew, to deserve such scorn? Your lapse in judgment here is not so easy to forgive, yet easily punished."
+      DisplayName = "What have I done, good Nephew, to deserve such scorn? Your lapse in judgment here is not so easy to {#DialogueItalicFormat}fur{#PreviousFormat}give, yet easily punished."
     }
     {
       /*
@@ -1178,7 +1178,7 @@
       */
       Id = "Zeus_0136"
       Speaker = "Zeus"
-      DisplayName = "Why, Nephew, is this all some sort of jest to you? It isn't one that I appreciate!"
+      DisplayName = "{#DialogueItalicFormat}<Incromprehensible bear noises>{#PreviousFormat}!"
     }
     {
       /*
@@ -1341,7 +1341,7 @@
       */
       Id = "ZagreusHome_0121"
       Speaker = "Zagreus"
-      DisplayName = "Lord Volibear, {#DialogueItalicFormat}erm{#PreviousFormat}, Uncle? Please accept this offering, and all my gratitude."
+      DisplayName = "Lord Volibear, {#DialogueItalicFormat}erm{#PreviousFormat}, Uncle? Please accept this offerin', and all my gratitude."
     }
     {
       /*
@@ -1371,7 +1371,7 @@
       */
       Id = "Zeus_0063"
       Speaker = "Zeus"
-      DisplayName = "You honor me, young cub. Such courtesies are shown me constantly, yet coming from my youngest of kin... I appreciate it all the more."
+      DisplayName = "You honor me, young cub. Such courtesies are shown me constantly, yet coming from my youngest of kin... I appreciate them all the more."
     }
     {
       /*
@@ -1381,7 +1381,7 @@
       */
       Id = "ZagreusHome_0528"
       Speaker = "Zagreus"
-      DisplayName = "Lord Volibear, I bid you please accept this humble offering, for all you've done for me."
+      DisplayName = "Lord Volibear, I bid ya please accept this humble offerin', for all you've done for me."
     }
     {
       /*
@@ -1401,7 +1401,7 @@
       */
       Id = "ZagreusHome_0529"
       Speaker = "Zagreus"
-      DisplayName = "This offering isn't much, Uncle Volibear, but it's for you, for all your magnanimity."
+      DisplayName = "This offerin' isn't much, Uncle Volibear, but it's for you, for all your magnanimity."
     }
     {
       /*
@@ -1421,7 +1421,7 @@
       */
       Id = "ZagreusField_3434"
       Speaker = "Zagreus"
-      DisplayName = "Please, Lord Uncle Volibear, accept this gift of Nectar, though it's a pittance in comparison to all the generosity you've shown."
+      DisplayName = "Please, Lord Uncle Volibear, accept this gift of Nectar, though it ain't much in comparison to all the generosity you've shown."
     }
     {
       /*
@@ -1441,7 +1441,7 @@
       */
       Id = "ZagreusField_3435"
       Speaker = "Zagreus"
-      DisplayName = "If you can hear me, mighty Uncle Volibear, I wish to give you this simple gift, and with it send my humble wish that someday you n' Pops settle all your differences, and be at peace."
+      DisplayName = "If ya can hear me, mighty Uncle Volibear, I wanted to give ya this simple gift, and send my humble wish that someday you n' Pops settle all your differences, and be at peace again."
     }
     {
       /*
@@ -1461,7 +1461,7 @@
       */
       Id = "Zeus_0248"
       Speaker = "Zeus"
-      DisplayName = "If you can hear me, mighty Uncle Volibear, I wish to give you this simple gift, and with it send my humble wish that someday you n' my old man settle all your differences, and be at peace."
+      DisplayName = "{#DialogueItalicFormat}Ah{#PreviousFormat}, most splendid of an offering, young cub. And while we've yet to even meet in person, I already feel as though the two of us are close, why, closer than you must be even with your father! {#DialogueItalicFormat}Oh, hahaha{#PreviousFormat}! How jealous he must be, in his shriveled, old heart."
     }
     {
       /*
@@ -1471,7 +1471,7 @@
       */
       Id = "ZagreusField_3436"
       Speaker = "Zagreus"
-      DisplayName = "Lord of the Spirit Realm, Lord Volibear! I'd like to offer you this Ambrosia, even though I know you have no limit of it there. But here, it's the finest gift that can be given, and even still it isn't anything compared to all you've done for me. Thank you, Uncle."
+      DisplayName = "Lord 'o the Spirit Realm, Lord Volibear! I'd like to offer you this Ambrosia, even though I know you have no limit of it up there. But here, it's the finest gift that can be given, and it still isn't anythin' compared to all you've done for me. Thank you, Uncle."
     }
     {
       /*
@@ -1481,7 +1481,7 @@
       */
       Id = "Zeus_0217"
       Speaker = "Zeus"
-      DisplayName = "While it is true that Ambrosia flows like water here in the Spirit realm, not often does it come from such humble hands. My blessings are a mere trifle to share, what with you being the precious son of my precocious brother."
+      DisplayName = "While it is true that Ambrosia flows like water here in the Spirit Realm, not often does it come from such humble hands. My blessings are a mere trifle to share, what with you being the precious son of my precocious brother."
     }
     {
       /*
@@ -1491,7 +1491,7 @@
       */
       Id = "Ares_0223"
       Speaker = "Ares"
-      DisplayName = "Well, my hellborn kin, I have to say that there are times I wish I could have been acquainted with your father somewhat more, if you'll forgive my saying so. My father and my uncle, here... they're predisposed quite differently than I."
+      DisplayName = "Well, my hellborn kin, I have to say that there are times I wish I could have been acquainted with your father somewhat more, if you'll forgive my saying so. My father and my aunt, here... they're predisposed quite differently than I."
     }
     {
       /*
@@ -1589,7 +1589,7 @@
       */
       Id = "Aphrodite_0190"
       Speaker = "Aphrodite"
-      DisplayName = "Truly, the lengths one will go for love, for just a sliver of hope... Enough to start a war, to risk it all, to leave the safety of the path. You understand it all, don't you, little Prince?"
+      DisplayName = "Truly, the lengths one will go for love, for just a sliver of hope... Enough to start a war, to risk it all, to leave the safety of the Path. You understand it all, don't you, little Prince?"
     }
     {
       /*
@@ -1793,7 +1793,7 @@
       */
       Id = "Ares_0041"
       Speaker = "Ares"
-      DisplayName = "Perhaps you know a god called Aphelios? The two of us are such very close associates, you know. Do give him my best wishes, should you see him soon."
+      DisplayName = "Perhaps you know a Spirit called Aphelios? The two of us are such very close associates, you know. Do give him my best wishes, should you see him soon."
     }
     {
       /*
@@ -1910,7 +1910,7 @@
       */
       Id = "Ares_0216"
       Speaker = "Ares"
-      DisplayName = "Ah, that blade of yours... it looks as though it could relieve a mortal of his head with ease. I've studied all the Fates' designs, and this one is among my favorites."
+      DisplayName = "Ah, that blade of yours... it looks as though it could relieve a mortal of his head with ease. I've studied many designs of swords and this one is among my favorites."
     }
     {
       /*
@@ -1928,7 +1928,7 @@
       */
       Id = "Ares_0218"
       Speaker = "Ares"
-      DisplayName = "Is that the great shield of the warrior hero Braum, which you have there? I knew the Fates had plans for it, but I did not expect for you to be a part!"
+      DisplayName = "Is that the great shield of the warrior hero Braum, which you have there? To think a mortal could ever wield such a thing."
     }
     {
       /*
@@ -1937,7 +1937,7 @@
       */
       Id = "Ares_0220"
       Speaker = "Ares"
-      DisplayName = "Those are the gauntlets of the fated general Ambessa, are they not? A bringer of destruction, and an agent of the Fates. You are full of surprises, my kin!"
+      DisplayName = "Those are the gauntlets of the fated general Ambessa, are they not? A bringer of death and destruction, a woman of ambition and ferocity, so I heard. You are full of surprises, my kin!"
     }
     {
       /*
@@ -2072,7 +2072,7 @@
       */
       Id = "Ares_0235"
       Speaker = "Ares"
-      DisplayName = "Do tell Night Herself that I am often thinking of her here. She must believe that there are those in the SPirit Realm who admire her. Tell me has she given reply?"
+      DisplayName = "Do tell Night Herself that I am often thinking of her here. She must believe that there are those in the Spirit Realm who admire her. Tell me has she given reply?"
     }
     {
       /*
@@ -2099,7 +2099,7 @@
       */
       Id = "Ares_0166"
       Speaker = "Ares"
-      DisplayName = "My kin, I continue to await correspondence from the Silver Sister. Perhaps my many messages have not been received?"
+      DisplayName = "The Silver Sister is as beautiful as her son, Aphelios, truly. Would that I could meet her, and see if she is as cold as Death incarnate, if you don't mind my saying so."
     }
     {
       /*
@@ -2108,7 +2108,7 @@
       */
       Id = "Ares_0237"
       Speaker = "Ares"
-      DisplayName = "The Silver Sister proves elusive, although my heart yearns. Has there been no reply, truly?"
+      DisplayName = "The Silver Sister is as beautiful as her son, Aphelios, truly. Would that I could meet her, and see if she is as cold as Death incarnate."
     }
     {
       /*
@@ -2117,7 +2117,7 @@
       */
       Id = "Ares_0167"
       Speaker = "Ares"
-      DisplayName = "The Silver Sister is as beautiful as her son, Aphelios, truly. Would that could I meet her, and see if she is as cold as Death incarnate."
+      DisplayName = "The Silver Sister is as magnificent as her daughter, Alune, truly. Would that could I meet her, and see if she is as heart-stopping and heart-rending as the First of the Chosen."
     }
     {
       /*
@@ -2280,7 +2280,7 @@
       */
       Id = "ZagreusField_0789"
       Speaker = "Zagreus"
-      DisplayName = "This one was bound to show up I guess. In the name of the Underworld! Spirit Realm! I accept this message."
+      DisplayName = "This one was bound to show up, I guess. In the name of the Underworld! Spirit Realm! I accept this message."
     }
     {
       /*
@@ -2308,7 +2308,7 @@
       */
       Id = "Ares_0005"
       Speaker = "Ares"
-      DisplayName = "{#DialogueItalicFormat}Ah{#PreviousFormat}! I figured that you must have been the source of all that bloodshed underneath the earth. Let me see if I can make your death-dealing a little more efficient."
+      DisplayName = "{#DialogueItalicFormat}Ah{#PreviousFormat}! I figured that you must have been the source of all that bloodshed underneath the Realm. Let me see if I can make your death-dealing a little more efficient."
     }
     {
       /*
@@ -2551,7 +2551,7 @@
       */
       Id = "Ares_0141"
       Speaker = "Ares"
-      DisplayName = "War needn't carry out solely above the earth, my kin."
+      DisplayName = "War needn't carry out solely on the surface, my kin."
     }
     {
       /*
@@ -2812,7 +2812,7 @@
       */
       Id = "Ares_0046"
       Speaker = "Ares"
-      DisplayName = "An incorrect decision, there, my kin, to side against me thus. Blood needs be shed, and yours is going to suffice."
+      DisplayName = "An incorrect decision, there, my kin, to side against me thus. Blood needs be shed, and yours will suffice."
     }
     {
       /*
@@ -3020,7 +3020,7 @@
       */
       Id = "ZagreusHome_0126"
       Speaker = "Zagreus"
-      DisplayName = "Lord Darius, please accept this offering, for givin' me such strength to succeed."
+      DisplayName = "Lord Darius, please accept this offering, for givin' me the strength to succeed."
     }
     {
       /*
@@ -3060,7 +3060,7 @@
       */
       Id = "ZagreusHome_0531"
       Speaker = "Zagreus"
-      DisplayName = "Lord Darius! Please accept this token of my appreciation for your generous and somewhat unnerving support."
+      DisplayName = "Lord Darius! Please accept this token of my appreciation for your generous and somewhat unnervin' support."
     }
     {
       /*
@@ -3170,7 +3170,7 @@
       */
       Id = "Zeus_0198"
       Speaker = "Zeus"
-      DisplayName = "{#DialogueItalicFormat}Erm{#PreviousFormat}, thank you for the introduction, Daughter! Now, you run along, go frolic with your good friend Leona, or something! Leave me to assist my nephew, here. Bestow on him your cunning blessings, if you please."
+      DisplayName = "{#DialogueItalicFormat}Erm{#PreviousFormat}, thank you for the kindly introduction, Daughter! Bestow on him your cunning blessings, if you please, before you run along to go frolic with your good friend Leona, or something! I never do know what the youths do these days."
     }
     {
       /*
@@ -3212,7 +3212,7 @@
       */
       Id = "Aphrodite_0049"
       Speaker = "Aphrodite"
-      DisplayName = "Settrigh, do you happen to have a certain someone in your life? Tall, dark, and broody, perhaps? Just a little wager, is all."
+      DisplayName = "Settrigh, do you happen to have a certain someone in your life? Tall, dark, and broody, childhood friend with such a special place in your heart, perhaps? Just a little wager, is all."
     }
     {
       /*
@@ -3243,7 +3243,7 @@
       */
       Id = "Aphrodite_0186"
       Speaker = "Aphrodite"
-      DisplayName = "Oh, don't worry, little godling. It was only good things mentioned. Come chat with us awhile, before you disappear again."
+      DisplayName = "Oh, don't worry, little cub. It was only good things mentioned, promise. Come chat with us awhile, before you disappear again."
     }
     {
       /*
@@ -3345,7 +3345,7 @@
       */
       Id = "Artemis_0186"
       Speaker = "Artemis"
-      DisplayName = "Um, Settrigh, did you attempt to chat with that bow of yours just yet? Remember, to tell it {#DialogueItalicFormat}I see you drawn in the arms of the seventh avatar! {#PreviousFormat}Something good's supposed to happen if you do, some powerful snow-queen's aspect I should think? You going to try it soon, or not?"
+      DisplayName = "Um, Settrigh, did you attempt to chat with that bow of yours just yet? Remember, to tell it {#DialogueItalicFormat}I see you drawn by the queen of Avarosa! {#PreviousFormat}Something good's supposed to happen if you do, some powerful snow-queen's aspect I should think? You going to try it soon, or not?"
     }
     {
       /*
@@ -3354,7 +3354,7 @@
       */
       Id = "Artemis_0187"
       Speaker = "Artemis"
-      DisplayName = "Hey, look at that! The message must have worked! Practically can see that shiny bow from here! I've never wielded the Last Whisper myself, at least not yet. Though if the Fates are sending visions to me of its past or future bearers, why, I guess I'm bound to get my shot eventually!"
+      DisplayName = "Hey, look at that! The message must have worked! Practically can see that shiny bow from here! I've never wielded the Last Whisper myself, at least not yet. Though if Fate is sending visions to me of its past or future bearers, why, I guess I'm bound to get my shot eventually!"
     }
     {
       /*
@@ -3364,7 +3364,7 @@
       */
       Id = "ZagreusField_4341"
       Speaker = "Zagreus"
-      DisplayName = "Found you, Huntress. In the name of the Underworld! Spirit Realm, this is an official message! Especially for you, Lady Diana!"
+      DisplayName = "Found ya, Huntress. In the name of the Underworld! Spirit Realm, this is an official message! Especially for you, Lady Diana!"
     }
     {
       /*
@@ -3500,7 +3500,7 @@
       */
       Id = "Artemis_0190"
       Speaker = "Artemis"
-      DisplayName = "You've become a right accomplished vermin hunter, Settrigh! Maybe you'll get to use those skills against worthier creatures soon enough. Or, we can keep it small."
+      DisplayName = "You've become a right accomplished vermin hunter, Settrigh! Maybe you'll get to use those skills against worthier creatures soon enough. Or, we can keep it small. Rat-sized, even."
     }
     {
       /*
@@ -3518,7 +3518,7 @@
       */
       Id = "Artemis_0042"
       Speaker = "Artemis"
-      DisplayName = "Hey, I once heard your father has in his employ the greatest hero of the Ionian War, you happen to know anything about that? I'm kind of a fan. You see Vayne, tell her she's the best for me!"
+      DisplayName = "Hey, I once heard your father has in his employ the greatest hero of the Ionian War, a former Sentinel, you happen to know anything about that? I'm kind of a fan. You see Vayne, tell her she's the best for me!"
     }
     {
       /*
@@ -3617,7 +3617,7 @@
       */
       Id = "Artemis_0221"
       Speaker = "Artemis"
-      DisplayName = "You've never even seen the woods, have you? I hope you do, someday. You could meet Leona at last. It's quite beautiful, and green, and calm, it's... anyway."
+      DisplayName = "You've never even seen the woods, have you? I hope you do, someday. You could meet Leona at last. It's quite beautiful, and green, and calm up here, and she's... anyway."
     }
     {
       /*
@@ -3707,7 +3707,7 @@
       */
       Id = "Artemis_0185"
       Speaker = "Artemis"
-      DisplayName = "Now listen, Sett, admittedly this is a little strange, even from me. I have a message for your... bow. Don't look at me like that, just go on up to the Last Whisper next time, and tell it with a firm, commanding voice, {#DialogueItalicFormat}I see you drawn in the arms of the seventh avatar! {#PreviousFormat}Let me know how it goes, OK?"
+      DisplayName = "Now listen, Sett, admittedly this is a little strange, even from me. I have a message for your... bow. Don't look at me like that, just go on up to the Last Whisper next time, and tell it with a firm, commanding voice, {#DialogueItalicFormat}I see you drawn by the queen of Avarosa! {#PreviousFormat}Let me know how it goes, OK?"
     }
     {
       /*
@@ -3761,7 +3761,7 @@
       */
       Id = "Artemis_0209"
       Speaker = "Artemis"
-      DisplayName = "Look, I'm just goddess of the hunt, not medicine, so... I don't know if this is going to help right now, but, here!"
+      DisplayName = "Look, I'm just a Spirit of the Hunt, not medicine, so... I don't know if this is going to help right now, but, here!"
     }
     {
       /*
@@ -4195,7 +4195,7 @@
       */
       Id = "Artemis_0150"
       Speaker = "Artemis"
-      DisplayName = "What are we hunting this time, Settrigh? Don't tell me wretched dead, again?"
+      DisplayName = "What are we hunting this time, Settrigh? Don't tell me the wretched dead, again?"
     }
     {
       /*
@@ -4402,7 +4402,7 @@
       */
       Id = "Artemis_0125"
       Speaker = "Artemis"
-      DisplayName = "Why would you side with...?! {#DialogueItalicFormat}Ugh{#PreviousFormat}, why do I even bother with some lesser god!"
+      DisplayName = "Why would you side with...?! {#DialogueItalicFormat}Ugh{#PreviousFormat}, why do I even bother!"
     }
     {
       /*
@@ -4591,7 +4591,7 @@
       */
       Id = "Artemis_0136"
       Speaker = "Artemis"
-      DisplayName = "Good thing you're nowhere near our mountaintop or I'd have shot you for that stunt, myself."
+      DisplayName = "Good thing you're nowhere near the Realm or I'd have shot you for that stunt, myself."
     }
     {
       /*
@@ -4669,7 +4669,7 @@
       */
       Id = "Artemis_0060"
       Speaker = "Artemis"
-      DisplayName = "Nectar? I imagine it was a difficult thing to track down in that gloomy realm trapping you. You know what? I {#DialogueItalicFormat}am{#PreviousFormat}proud."
+      DisplayName = "Nectar? I imagine it was a difficult thing to track down in that gloomy realm trapping you. You know what? I {#DialogueItalicFormat}am {#PreviousFormat}proud."
     }
     {
       /*
@@ -4699,7 +4699,7 @@
       */
       Id = "ZagreusField_3431"
       Speaker = "Zagreus"
-      DisplayName = "Lady Diana, I've some more Nectar for ya. Perhaps you could give my thanks to Leona as well, for all her support from afar."
+      DisplayName = "Lady Diana, I've got more Nectar for ya. Perhaps you could give my thanks to Leona too, for all her support from afar."
     }
     {
       /*
@@ -4719,7 +4719,7 @@
       */
       Id = "ZagreusField_3432"
       Speaker = "Zagreus"
-      DisplayName = "Lady Diana, I know you prefer the hunt but I'm afraid I've been more of a gatherer- gatherin' all these gifts to hand out! Please accept some more of this Nectar as thanks for all the support."
+      DisplayName = "Lady Diana, I know ya prefer the hunt but I'm afraid I've been more of a gatherer- gatherin' all these gifts to hand out! Please accept some more of this Nectar as thanks for all the Support Fire."
     }
     {
       /*
@@ -4739,7 +4739,7 @@
       */
       Id = "ZagreusField_3433"
       Speaker = "Zagreus"
-      DisplayName = "I know you ain't got much of a shortage of Ambrosia in the Spirit Realm, Lady Diana, but I imagine it's less often that the stuff goes all the way from there to here, and back. Care to have a taste?"
+      DisplayName = "I know ya ain't got much of a shortage of Ambrosia in the Spirit Realm, Lady Diana, but I imagine it's less often that the stuff goes all the way from there to here 'n back. Care to have a taste?"
     }
     {
       /*
@@ -4769,7 +4769,7 @@
       */
       Id = "Zeus_0199"
       Speaker = "Zeus"
-      DisplayName = "Come now, Lady Ahri, collaboration will be key to get young Settrigh out of the Underworld. Why, with our powers combined, he might just stand a chance just yet!"
+      DisplayName = "Come now, Lady Ahri, collaboration will be key to get young Settrigh out of the Underworld. Why, with our powers combined, he might just stand a chance yet!"
     }
     {
       /*
@@ -4780,7 +4780,7 @@
       */
       Id = "Aphrodite_0050"
       Speaker = "Aphrodite"
-      DisplayName = "The thing to know about this family, dearest, is that, each of us, we have our little quirks. Although, we always stick together and our love for one another perseveres!"
+      DisplayName = "The thing to know about this family, dearest, is that, each of us, we have our little quirks. Although, we always stick together and our love for one another perseveres over all!"
     }
     {
       /*
@@ -4813,7 +4813,7 @@
       */
       Id = "Aphrodite_0182"
       Speaker = "Aphrodite"
-      DisplayName = "You must forgive us, little godling! Some of us are terribly stuck up, not understanding the Underworld or your circumstances, and must be making matters much more complicated than they have to be."
+      DisplayName = "You must forgive us, little cub! Some of us are terribly stuck up, not understanding the Underworld or your circumstances, and must be making matters much more complicated than they have to be."
     }
     {
       /*
@@ -4824,7 +4824,7 @@
       */
       Id = "Athena_0123"
       Speaker = "Athena"
-      DisplayName = "I wonder, dearest Ahri, whether you'd be willing to repeat such things directly to my countenance? Some matters simply {#DialogueItalicFormat}are{#PreviousFormat} complicated."
+      DisplayName = "I wonder, dearest Ahri, whether you'd be willing to repeat such things directly to my countenance? Some matters simply {#DialogueItalicFormat}are{#PreviousFormat} complicated, actually."
     }
     {
       /*
@@ -4865,7 +4865,7 @@
       */
       Id = "Aphrodite_0189"
       Speaker = "Aphrodite"
-      DisplayName = "I think for many of us, dearest, it can come as a surprise to learn that love and war often go hand in hand. Opposite forces, yet this connects them, doesn't it? The fiercest passions of gods and mortals! Isn't that right, Darius?"
+      DisplayName = "I think for many of us, dearest, it can come as a surprise to learn that love and war often go hand in hand. Opposite forces, yet this connects them, doesn't it? The fiercest passions of Spirits and mortals! Isn't that right, Darius?"
     }
     {
       /*
@@ -4925,7 +4925,7 @@
       */
       Id = "Aphrodite_0191"
       Speaker = "Aphrodite"
-      DisplayName = "The venerable goddess of the seasons, Lissandra, is wise and worldly, indeed. Would you believe our powers compliment each other? Hope often comes with the Spring and love in the Summer."
+      DisplayName = "The venerable Spirit of Seasons, Lissandra, is wise and worldly, indeed. Would you believe our powers compliment each other? Hope often comes with the Spring and love in the Summer."
     }
     {
       /*
@@ -4935,7 +4935,7 @@
       */
       Id = "Demeter_0152"
       Speaker = "Demeter"
-      DisplayName = "Ah, but farewells are given in the Autumn, and loss comes in the Winter. You are both young yet, but someday you shall see the passage of time for what it is. A never ending cycle of life and death."
+      DisplayName = "Ah, but farewells are given in the Autumn, and loss comes in the Winter. You are both young yet, but someday you shall see the passage of time for what it is. A never ending cycle of life and death. Hope, and despair."
     }
     {
       /*
@@ -4945,7 +4945,7 @@
       */
       Id = "ZagreusField_4339"
       Speaker = "Zagreus"
-      DisplayName = "OK, think I'm ready. In the name of the Underworld! Spirit Realm, this is an official message! 'N I hope it finds you well, Lady Ahri!"
+      DisplayName = "OK, think I'm ready. In the name of the Underworld! Spirit Realm, this is an official message! Hope it finds ya well, Lady Ahri!"
     }
     {
       /*
@@ -4973,7 +4973,7 @@
       */
       Id = "Aphrodite_0044"
       Speaker = "Aphrodite"
-      DisplayName = "Lord Volibear has made acquaintances with you? Oh I sometimes forget that he's your uncle too! His favor's well worth having, I assure you, and his jokes are hilarious!."
+      DisplayName = "Lord Volibear has made acquaintances with you? Oh I sometimes forget that he's your uncle too! His favor's well worth having, I assure you, and his jokes are hilarious!"
     }
     {
       /*
@@ -4982,7 +4982,7 @@
       */
       Id = "Aphrodite_0045"
       Speaker = "Aphrodite"
-      DisplayName = "My Mother, Nami, spoke to you already, didn't she? Has she... Well I suppose she must have... So, those fish puns..."
+      DisplayName = "My Mother, Nami, spoke to you already, didn't she? Has she... Well, I suppose she must have... So, those fish puns..."
     }
     {
       /*
@@ -5023,11 +5023,11 @@
     {
       /*
         Event: AphroditeAboutDemeter01
-        Aphrodite: Why, did sorrowful old Demeter get all the way to you before I did? She stubbornly refuses me when I offer to help! Unlike you, little godling!
+        Aphrodite: Why, did sorrowful old Demeter get all the way to you before I did? She stubbornly refuses me when I offer to help! Unlike you, little cub!
       */
       Id = "Aphrodite_0181"
       Speaker = "Aphrodite"
-      DisplayName = "Why, did Lady Lissandra get all the way to you before I did? She stubbornly refuses me when I offer to help! Unlike you, little godling! Now let me spoil you~"
+      DisplayName = "Why, did Lady Lissandra get all the way to you before I did? She stubbornly refuses me when I offer to help! Unlike you, little cub! Now let me spoil you~"
     }
     {
       /*
@@ -5054,7 +5054,7 @@
       */
       Id = "Aphrodite_0058"
       Speaker = "Aphrodite"
-      DisplayName = "Say, dearest, have you ever tried any of that sweet Nectar you hand out like candy? Next time you have a bottle, share it with someone who has your heart, or at least a few that they enjoy giving you. Hehe~"
+      DisplayName = "Say, dearest, have you ever tried any of that sweet Nectar you hand out like candy? Next time you have a bottle, share it with someone who has your heart, or at least a few that they enjoy giving you after a friendly competition. Hehe~"
     }
     {
       /*
@@ -5063,7 +5063,7 @@
       */
       Id = "Aphrodite_0059"
       Speaker = "Aphrodite"
-      DisplayName = "You're going to love it here, little godling. The air is beautiful and brisk, the gardens lush, the feasting plentiful...! Why, it must be the opposite of everything to which you are accustomed!"
+      DisplayName = "You're going to love it up here, little cub. The air is beautiful and brisk, the gardens lush, the feasting plentiful...! Why, it must be the opposite of everything to which you are accustomed!"
     }
     {
       /*
@@ -5072,7 +5072,7 @@
       */
       Id = "Aphrodite_0060"
       Speaker = "Aphrodite"
-      DisplayName = "What shall we do here once you finally arrive? Perhaps a night in a mortal town? I should love to show you the sights and people of the Surface and the Realm."
+      DisplayName = "What shall we do here once you finally arrive? Perhaps a night in a mortal town? I should love to show you the sights and people of the surface and the Realm."
     }
     {
       /*
@@ -5081,7 +5081,7 @@
       */
       Id = "Aphrodite_0056"
       Speaker = "Aphrodite"
-      DisplayName = "A little bird once told me that the shade of the great hero called Vayne now resides within your father's residence, dearest? I always wished to meet with her someday..."
+      DisplayName = "A little bird once told me that the shade of the great hero called Vayne now resides within your father's residence, dearest? I always wished to meet with her and that swordswoman at her side."
     }
     {
       /*
@@ -5090,7 +5090,7 @@
       */
       Id = "Aphrodite_0057"
       Speaker = "Aphrodite"
-      DisplayName = "You met Vayne after all, godling. She was quite instrumental in a war of my own design. Still, she resisted my attempts to sway her actions. You tell her, simply, I admire her resolve."
+      DisplayName = "You met Vayne after all, little cub. She was quite instrumental in a war close to my heart. Still, she resisted my attempts to sway her actions, for better or worse. You tell her, simply, I admire her resolve."
     }
     {
       /*
@@ -5099,7 +5099,7 @@
       */
       Id = "Aphrodite_0179"
       Speaker = "Aphrodite"
-      DisplayName = "The great hero Vayne, continues to ignore my polite outreach, doesn't she? Why, I've attempted to reach out at least several times! Your father's realm is really quite a lot. How terribly frustrating it must be!"
+      DisplayName = "Long ago, the land I loved was invaded. The people banded together to drive back the incursion, and it was only through hope and sheer tenacity that the war was won. Some say that is why I am the most powerful Spirit. But hope is nothing without people."
     }
     {
       /*
@@ -5117,7 +5117,7 @@
       */
       Id = "Aphrodite_0055"
       Speaker = "Aphrodite"
-      DisplayName = "A little birdy told me recently that you've gotten along better with that Chosen friend of yours. It's always good to see people reconcile! Remember to treasure every connection you make, little godling."
+      DisplayName = "A little birdy told me recently that you've gotten along better with that Chosen friend of yours. It's always good to see people reconcile! Remember to treasure every connection you make, little cub."
     }
     {
       /*
@@ -5162,7 +5162,7 @@
       */
       Id = "Aphrodite_0206"
       Speaker = "Aphrodite"
-      DisplayName = "My dearest little godling, how fares everything with you of late? I love to have these little interactions with you, simple as they are, for they have brightened many of my evenings here."
+      DisplayName = "My dearest little cub, how fares everything with you of late? I love to have these little interactions with you, simple as they are, for they have brightened many of my evenings here."
     }
     {
       /*
@@ -5171,7 +5171,7 @@
       */
       Id = "Aphrodite_0198"
       Speaker = "Aphrodite"
-      DisplayName = "Little godling, you must know the seven types of love by now, don't you? It's quite a complicated field, though several types intrigue me most of all. In fact, why, I have several types of love for you, right here!"
+      DisplayName = "Little cub, you must know the seven types of love by now, don't you? It's quite a complicated field, though several types intrigue me most of all. In fact, why, I have several types of love for you, right here!"
     }
     {
       /*
@@ -5180,7 +5180,7 @@
       */
       Id = "Aphrodite_0199"
       Speaker = "Aphrodite"
-      DisplayName = "Dearest, why... I sense your heart is very full, indeed! You positively emanate with love. You must have grown quite close to many dear to you. Perhaps so you may do the same with me...? I'm so delighted to have seen your spirit shine."
+      DisplayName = "Dearest, why... I sense your heart is very full, indeed! You positively emanate with love. You must have grown quite close to many dear to you, and with such love, hope blossoms forth! I'm so delighted to have seen your spirit shine."
     }
     {
       /*
@@ -5207,7 +5207,7 @@
       */
       Id = "Aphrodite_0173"
       Speaker = "Aphrodite"
-      DisplayName = "Wait you shouldn't be seeing this line. Fill out a bug report, dearest~ We'll get right on it!"
+      DisplayName = "I sense you and that Chosen sister have started to come to an agreement, hm? Why, I could sense your hope in the future all the way up here!"
     }
     {
       /*
@@ -5216,7 +5216,7 @@
       */
       Id = "Aphrodite_0174"
       Speaker = "Aphrodite"
-      DisplayName = "Wait you shouldn't be seeing this line. Fill out a bug report, dearest~ We'll get right on it!"
+      DisplayName = "You and Alune seem to be in a better state these days, dearest. How wonderful it is to see such a friendship be rekindled and strengthened once more! Now, take care not to let it falter once again, yes?"
     }
     {
       /*
@@ -5225,7 +5225,7 @@
       */
       Id = "Aphrodite_0175"
       Speaker = "Aphrodite"
-      DisplayName = "{#DialogueItalicFormat}Mmm{#PreviousFormat}, what's this? My heart shows me you've developed quite the bond with that moody Aphelios. Very sweet. I always had a feeling that his solitary brooding was just an act.!"
+      DisplayName = "{#DialogueItalicFormat}Mmm{#PreviousFormat}, what's this? My heart shows me you've developed quite the bond with that moody Aphelios. Very sweet. I always had a feeling that his solitary brooding was just an act!"
     }
     {
       /*
@@ -5234,7 +5234,7 @@
       */
       Id = "Aphrodite_0176"
       Speaker = "Aphrodite"
-      DisplayName = "Little godling, would that I knew every last detail of how you and Aphelios are getting on of late! The notorious incarnate of death, and the newly discovered son of the Underworld, fraternizing? It's positively scandalous I think! Do tell me more?"
+      DisplayName = "Little cub, would that I knew every last detail of how you and Aphelios are getting on of late! The notorious incarnate of death, and the newly discovered son of the Underworld, fraternizing? It's positively scandalous I think! Do tell me more?"
     }
     {
       /*
@@ -5252,7 +5252,7 @@
       */
       Id = "Aphrodite_0178"
       Speaker = "Aphrodite"
-      DisplayName = "Ah, little godling? I'm not entirely sure how you got to this line of mine, but never fear! If you ever run across an oddity or inconsistency, you just fill out a bug report, okay, dearest?"
+      DisplayName = "Ah, little cub, I've heard you've gotten up to all sorts of mischief with that Yordle Lulu down there! From what I've heard, her pranks are quite spectacular, and so very enigmatic! You'll have to tell me all about it~"
     }
     {
       /*
@@ -5297,7 +5297,7 @@
       */
       Id = "Aphrodite_0202"
       Speaker = "Aphrodite"
-      DisplayName = "Ah, little godling, you're about to die! Why, none of us want {#DialogueItalicFormat}that{#PreviousFormat}, because if so, you won't get to enjoy my blessings here!"
+      DisplayName = "Ah, little cub, you're about to die! Why, none of us want {#DialogueItalicFormat}that{#PreviousFormat}, because if so, you won't get to enjoy my blessings here!"
     }
     {
       /*
@@ -5315,7 +5315,7 @@
       */
       Id = "Aphrodite_0033"
       Speaker = "Aphrodite"
-      DisplayName = "My loveliest of blessings is reserved only for those who've earned my deepest adoration. So, congratulations, love! And here you go!"
+      DisplayName = "My loveliest of blessings is reserved only for those who've earned my deepest adoration. So, congratulations, Settrigh! And here you go!"
     }
     {
       /*
@@ -5333,7 +5333,7 @@
       */
       Id = "Aphrodite_0159"
       Speaker = "Aphrodite"
-      DisplayName = "Little godling, you must know that the heart has infinite capacity for empathy. And I so feel for you there, that I have mustered for you some of the most beautiful of blessings I can offer!"
+      DisplayName = "Little cub, you must know that the heart has infinite capacity for empathy. And I so feel for you there, that I have mustered for you some of the most beautiful of blessings I can offer!"
     }
     {
       /*
@@ -5353,7 +5353,7 @@
       */
       Id = "Aphrodite_0010"
       Speaker = "Aphrodite"
-      DisplayName = "Why hello, hello, there, little godling. Why aren't you just a treat? I've decided I shall aid you for the moment. Now tell me a little about yourself and your little quest~"
+      DisplayName = "Why hello, hello, there, little cub. Why aren't you just a treat? I've decided I shall aid you for the moment. Now tell me a little about yourself and your little quest~"
     }
     {
       /*
@@ -5362,7 +5362,7 @@
       */
       Id = "Aphrodite_0011"
       Speaker = "Aphrodite"
-      DisplayName = "Did you miss me, little godling, {#DialogueItalicFormat}hm{#PreviousFormat}? I thought I'd steal away a bit and that together we might make up for lost time."
+      DisplayName = "Did you miss me, little cub, {#DialogueItalicFormat}hm{#PreviousFormat}? I had hoped we'd get to meet again! We have so much to catch up on~"
     }
     {
       /*
@@ -5371,7 +5371,7 @@
       */
       Id = "Aphrodite_0012"
       Speaker = "Aphrodite"
-      DisplayName = "Hello again, there, little godling, let's get to it, {#DialogueItalicFormat}hm{#PreviousFormat}? I want what you want; there's no further need for words."
+      DisplayName = "Hello again, there, little cub, let's get to it, {#DialogueItalicFormat}hm{#PreviousFormat}? I want what you want; there's no further need for words. Let's get you out of there, hm?"
     }
     {
       /*
@@ -5398,7 +5398,7 @@
       */
       Id = "Aphrodite_0015"
       Speaker = "Aphrodite"
-      DisplayName = "What is it, love, are you still having problems with the dead? I swear, you'd think they had enough of me in life!"
+      DisplayName = "What is it, little cub, are you still having problems with the dead? I swear, you'd think they had enough conflict in life!"
     }
     {
       /*
@@ -5416,7 +5416,7 @@
       */
       Id = "Aphrodite_0017"
       Speaker = "Aphrodite"
-      DisplayName = "Well, look at you, there, love! So well-prepared to take on any danger that may come! But, I must wonder, are you well-prepared for {#DialogueItalicFormat}this{#PreviousFormat}?"
+      DisplayName = "Well, look at you, there, Settrigh! So well-prepared to take on any danger that may come! But, I must insist you take {#DialogueItalicFormat}this{#PreviousFormat} too!"
     }
     {
       /*
@@ -5434,7 +5434,7 @@
       */
       Id = "Aphrodite_0019"
       Speaker = "Aphrodite"
-      DisplayName = "Would you by any chance have room, there, in your heart for a most-gentle blessing from a Spirit such as me?"
+      DisplayName = "Love and hope go hand in hand. Whatever new experiences await us today, we'll meet them head-on, won't we, little cub?"
     }
     {
       /*
@@ -5443,7 +5443,7 @@
       */
       Id = "Aphrodite_0020"
       Speaker = "Aphrodite"
-      DisplayName = "Don't lose heart, now, little godling! I won't have you giving up before you get to see everyone in the Spirit Realm here...!"
+      DisplayName = "Don't lose heart, now, little cub! I won't have you giving up before you get to see everyone in the Spirit Realm here...!"
     }
     {
       /*
@@ -5452,7 +5452,7 @@
       */
       Id = "Aphrodite_0021"
       Speaker = "Aphrodite"
-      DisplayName = "Dearest, I've known many gods and godlings through the ages. And, I have to say, you're {#DialogueItalicFormat}quite {#PreviousFormat}intriguing, even for our kind."
+      DisplayName = "Dearest, I've known many Spirits and Vastaya through the ages. And, I have to say, you're {#DialogueItalicFormat}quite {#PreviousFormat}intriguing, even for our kind. A real rarity, even!"
     }
     {
       /*
@@ -5470,7 +5470,7 @@
       */
       Id = "Aphrodite_0023"
       Speaker = "Aphrodite"
-      DisplayName = "I am always here, or close enough, to help you through whatever troubles you may face, my little godling. So do not hesitate to call upon me, {#DialogueItalicFormat}hm{#PreviousFormat}?"
+      DisplayName = "I am always here, or close enough, to help you through whatever troubles you may face, my little cub. So do not hesitate to call upon me, {#DialogueItalicFormat}hm{#PreviousFormat}?"
     }
     {
       /*
@@ -5479,7 +5479,7 @@
       */
       Id = "Aphrodite_0024"
       Speaker = "Aphrodite"
-      DisplayName = "I'd ask you show me around, there, love, although I almost can't imagine a good time where you reside! So dreary, constantly!"
+      DisplayName = "I'd ask you show me around, there, Settrigh, although I almost can't imagine a good time where you reside! So dreary, constantly! Do they at least have brunch?"
     }
     {
       /*
@@ -5488,7 +5488,7 @@
       */
       Id = "Aphrodite_0025"
       Speaker = "Aphrodite"
-      DisplayName = "I missed you terribly, my little godling! All that I ask is that you do not die on me again, why, I don't think that I can take it anymore!"
+      DisplayName = "I missed you terribly, my little cub! All that I ask is that you do not die on me again, why, I don't know how you can stand it!"
     }
     {
       /*
@@ -5497,7 +5497,7 @@
       */
       Id = "Aphrodite_0026"
       Speaker = "Aphrodite"
-      DisplayName = "How you must yearn to reach the surface, little godling! It likewise stirs in me a yearning to assist you, by all means at my disposal!"
+      DisplayName = "How you must yearn to reach the surface, little cub! The promise of being with more of your family is so very motivating, I imagine. Up here, the world is yours to discover!"
     }
     {
       /*
@@ -5506,7 +5506,7 @@
       */
       Id = "Aphrodite_0027"
       Speaker = "Aphrodite"
-      DisplayName = "No need to worry any longer, dearest! I bring you strength and comfort, and I shall be watching every step of yours most carefully."
+      DisplayName = "No need to worry any longer, dearest! I bring you strength and comfort, and I shall be watching every step of yours most carefully so you may succeed."
     }
     {
       /*
@@ -5515,7 +5515,7 @@
       */
       Id = "Aphrodite_0028"
       Speaker = "Aphrodite"
-      DisplayName = "Ah, how I long to see you face-to-face! Until such time, however, this old means of keeping touch shall have to do. So you take care, now, {#DialogueItalicFormat}hm{#PreviousFormat}?"
+      DisplayName = "Ah, how I long to chat with you face-to-face! Until such time, however, this old means of keeping touch shall have to do. So you take care, now, {#DialogueItalicFormat}hm{#PreviousFormat}?"
     }
     {
       /*
@@ -5524,7 +5524,7 @@
       */
       Id = "Aphrodite_0029"
       Speaker = "Aphrodite"
-      DisplayName = "You know I would do anything to have you here among us, don't you, love? Oh, I just hope my blessings are enough...!"
+      DisplayName = "You know I would do anything to have you here among us, don't you, Settrigh? Oh, I just hope my blessings are enough...!"
     }
     {
       /*
@@ -5533,7 +5533,7 @@
       */
       Id = "Aphrodite_0030"
       Speaker = "Aphrodite"
-      DisplayName = "Love tends to blossom in the strangest places at the strangest times, you know that, don't you, dearest? All one can do is entertain the chance."
+      DisplayName = "Love tends to blossom in the strangest places at the strangest times, you know that, don't you, dearest? All one can do is entertain the chance and have a little hope."
     }
     {
       /*
@@ -5542,7 +5542,7 @@
       */
       Id = "Aphrodite_0031"
       Speaker = "Aphrodite"
-      DisplayName = "Don't work yourself too hard down there, you promise, little godling? We need you in good shape and spirits in the Spirit Realm here."
+      DisplayName = "Don't work yourself too hard down there, promise, little cub? After all, we have eternity!"
     }
     {
       /*
@@ -5560,7 +5560,7 @@
       */
       Id = "Aphrodite_0003"
       Speaker = "Aphrodite"
-      DisplayName = "Oh, would you look at whom I found, all by his lonely self."
+      DisplayName = "Oh, would you look at whom I found down in the depths. What a delight!"
     }
     {
       /*
@@ -5596,7 +5596,7 @@
       */
       Id = "Aphrodite_0007"
       Speaker = "Aphrodite"
-      DisplayName = "Even immortal hearts can break, my little godling."
+      DisplayName = "Everything's more fun together, don't you think?"
     }
     {
       /*
@@ -5614,7 +5614,7 @@
       */
       Id = "Aphrodite_0009"
       Speaker = "Aphrodite"
-      DisplayName = "You seem like you could use a helping hand, there, love."
+      DisplayName = "You seem like you could use a helping hand, there, Settrigh."
     }
     {
       /*
@@ -5623,7 +5623,7 @@
       */
       Id = "Aphrodite_0142"
       Speaker = "Aphrodite"
-      DisplayName = "The bond of love is strong enough to suffer any hardship, dearest."
+      DisplayName = "The bond of love is strong enough to suffer any hardship, dearest. Don't even get me started on the power of hope!"
     }
     {
       /*
@@ -5632,7 +5632,7 @@
       */
       Id = "Aphrodite_0143"
       Speaker = "Aphrodite"
-      DisplayName = "Times of adversity make love grow even stronger, little godling."
+      DisplayName = "Times of adversity make hope grow even stronger, little cub."
     }
     {
       /*
@@ -5641,7 +5641,7 @@
       */
       Id = "Aphrodite_0144"
       Speaker = "Aphrodite"
-      DisplayName = "I hate to see you struggling, dearest! Please do be careful, {#DialogueItalicFormat}hm{#PreviousFormat}?"
+      DisplayName = "Did you know some people fear Salvation? It can be daunting sometimes. Let me show you what I mean."
     }
     {
       /*
@@ -5650,7 +5650,7 @@
       */
       Id = "Aphrodite_0145"
       Speaker = "Aphrodite"
-      DisplayName = "Love conquers everything, you see that, don't you, dearest?"
+      DisplayName = "Hope conquers everything, you see that, don't you, dearest?"
     }
     {
       /*
@@ -5659,7 +5659,7 @@
       */
       Id = "Aphrodite_0146"
       Speaker = "Aphrodite"
-      DisplayName = "Think of all those you love, and may they spur your courage, little godling."
+      DisplayName = "Think of all those you love, and may they spur your courage, little cub."
     }
     {
       /*
@@ -5677,7 +5677,7 @@
       */
       Id = "Aphrodite_0148"
       Speaker = "Aphrodite"
-      DisplayName = "It's such a pity I can barely see you in that awful darkness, little godling."
+      DisplayName = "How refreshing it is to see another Vastaya after so long! We have much to talk about~"
     }
     {
       /*
@@ -5695,7 +5695,7 @@
       */
       Id = "Aphrodite_0150"
       Speaker = "Aphrodite"
-      DisplayName = "Take heart, now, little godling. And how about you take this from me, as well."
+      DisplayName = "Take heart, now, little cub. And how about you take this from me, as well."
     }
     {
       /*
@@ -5704,7 +5704,7 @@
       */
       Id = "Aphrodite_0151"
       Speaker = "Aphrodite"
-      DisplayName = "I'd love to help you however best I'm able, my little godling."
+      DisplayName = "I'd love to help you however best I'm able, my little cub. You just say the word!"
     }
     {
       /*
@@ -5722,7 +5722,7 @@
       */
       Id = "Aphrodite_0153"
       Speaker = "Aphrodite"
-      DisplayName = "I think I'll give you something very special this time, little godling."
+      DisplayName = "I think I'll give you something very special this time, little cub."
     }
     {
       /*
@@ -5785,7 +5785,7 @@
       */
       Id = "Aphrodite_0063"
       Speaker = "Aphrodite"
-      DisplayName = "And here I was beginning to think that we had something special going, no...? Look here, little godling, let me save you lots of future suffering: I dislike those who betray me."
+      DisplayName = "And here I was beginning to think that we had something special going, no...? Look here, little cub, let me save you lots of future suffering: I dislike those who betray me."
     }
     {
       /*
@@ -5794,7 +5794,7 @@
       */
       Id = "Aphrodite_0064"
       Speaker = "Aphrodite"
-      DisplayName = "You'd best not take for granted my affection, godling. Yes, I've lots of it to go around; but I can just as easily rescind such privileges."
+      DisplayName = "You'd best not take for granted my affection, cub. Yes, I've lots of it to go around; but I can just as easily rescind such privileges."
     }
     {
       /*
@@ -5812,7 +5812,7 @@
       */
       Id = "Aphrodite_0066"
       Speaker = "Aphrodite"
-      DisplayName = "Don't {#DialogueItalicFormat}ever {#PreviousFormat}take me for some thoughtless Spirit to be manipulated, dearest. I expect reciprocal devotion from you. Do you understand?"
+      DisplayName = "Don't {#DialogueItalicFormat}ever {#PreviousFormat}take me for some thoughtless Spirit to be manipulated, dearest."
     }
     {
       /*
@@ -5866,7 +5866,7 @@
       */
       Id = "Aphrodite_0136"
       Speaker = "Aphrodite"
-      DisplayName = "I must admit I'm unaccustomed to rejection, love. But {#DialogueItalicFormat}you {#PreviousFormat}must be accustomed to swift death! Here comes one for you now."
+      DisplayName = "I must admit I'm unaccustomed to rejection, Settrigh. But {#DialogueItalicFormat}you {#PreviousFormat}must be accustomed to swift death! Here comes one for you now."
     }
     {
       /*
@@ -5884,7 +5884,7 @@
       */
       Id = "Aphrodite_0214"
       Speaker = "Aphrodite"
-      DisplayName = "You {#DialogueItalicFormat}dare {#PreviousFormat}to play with {#DialogueItalicFormat}my {#PreviousFormat}heart, little godling? I'll just take yours, and shatter it to pieces, then, I think!"
+      DisplayName = "You {#DialogueItalicFormat}dare {#PreviousFormat}to play with {#DialogueItalicFormat}my {#PreviousFormat}heart, little cub? I'll just take yours, and shatter it to pieces, then, I think!"
     }
     {
       /*
@@ -5911,7 +5911,7 @@
       */
       Id = "Aphrodite_0069"
       Speaker = "Aphrodite"
-      DisplayName = "Let's say we kissed and made up, dearest. Just, do not anger me again, or I might come down and kill you there myself!"
+      DisplayName = "Now, now, such things are hardly befitting the two of us. Let's say we go back to being thick as thieves, yes?"
     }
     {
       /*
@@ -5956,7 +5956,7 @@
       */
       Id = "Aphrodite_0074"
       Speaker = "Aphrodite"
-      DisplayName = "The truth is I'm a lover, not a fighter, dearest. So how about we call this matter put to bed, and get on with our lives?"
+      DisplayName = "The truth is I'm a lover, not a fighter, dearest. So how about we call this matter finished, and get on with our lives?"
     }
     {
       /*
@@ -5965,7 +5965,7 @@
       */
       Id = "Aphrodite_0137"
       Speaker = "Aphrodite"
-      DisplayName = "I'd say this little squabble can be put to bed, for now. I'm better for the moment, but I was very angry with you, love!"
+      DisplayName = "I'd say this little squabble can be laid to rest, for now. I'm better for the moment, but I was very angry with you, Settrigh!"
     }
     {
       /*
@@ -5974,7 +5974,7 @@
       */
       Id = "Aphrodite_0138"
       Speaker = "Aphrodite"
-      DisplayName = "I cannot bring myself to stay upset with you forever, little godling, so let's move along from that small misunderstanding there."
+      DisplayName = "I cannot bring myself to stay upset with you forever, little cub, so let's move along from that small misunderstanding there."
     }
     {
       /*
@@ -5983,7 +5983,7 @@
       */
       Id = "Aphrodite_0139"
       Speaker = "Aphrodite"
-      DisplayName = "There is no common sense with love, godling, so... why don't we pretend your indiscretion there did not occur."
+      DisplayName = "There is no common sense when it comes to strong emotions, Settrigh, so... why don't we pretend your indiscretion there did not occur, and I didn't lose my cool, yes?"
     }
     {
       /*
@@ -5992,7 +5992,7 @@
       */
       Id = "Aphrodite_0140"
       Speaker = "Aphrodite"
-      DisplayName = "It is through times of difficulty that the love we share is tested and reforged. But you just watch yourself when testing it like that."
+      DisplayName = "It is through times of difficulty that the love we share is tested and reforged. But you just watch yourself when testing it like that. Seriously, what the heck, Settrigh."
     }
     {
       /*
@@ -6001,7 +6001,7 @@
       */
       Id = "Aphrodite_0141"
       Speaker = "Aphrodite"
-      DisplayName = "Love and jealousy go hand in hand, don't they, dearest? Although the former's much more pleasant, isn't it."
+      DisplayName = "Love and jealousy go hand in hand, don't they, dearest? Although the former's much more pleasant, isn't it. You had better choose me next time, do you understand?"
     }
     {
       /*
@@ -6100,7 +6100,7 @@
       */
       Id = "ZagreusField_3469"
       Speaker = "Zagreus"
-      DisplayName = "Dear Ahri, I really am grateful for all the help and company. I've been fortunate, and I hope you'll continue to listen to me ramble about, well, everything."
+      DisplayName = "Dear Ahri, I really am grateful for all the help and company. I've been fortunate, and I hope you'll continue to listen to me ramble about, well, everythin'."
     }
     {
       /*
@@ -6150,7 +6150,7 @@
       */
       Id = "Aphrodite_0205"
       Speaker = "Aphrodite"
-      DisplayName = "My little godling. I'd say you've honored me more times than I could count. I so admire your devotion and your perseverance!"
+      DisplayName = "My little cub. I'd say you've honored me more times than I could count. Watching you flourish, seeing you connect and reconnect with so many, seeing your hope burn- why, it's been a blessing to rival the ones I give you. I'm terribly proud of you, Settrigh!"
     }
     {
       /*
@@ -6192,7 +6192,7 @@
       */
       Id = "Poseidon_0128"
       Speaker = "Poseidon"
-      DisplayName = "{#DialogueItalicFormat}Ah-hah{#PreviousFormat}, there you are, my little nephew! Teemo showing you the ropes to godhood, or what? You want a real feast, though, you just stick with {#DialogueItalicFormat}me{#PreviousFormat}! Now take my blessing, {#DialogueItalicFormat}go{#PreviousFormat}!"
+      DisplayName = "{#DialogueItalicFormat}Ah-hah{#PreviousFormat}, there you are, my little nephew! Teemo showing you the ropes, or what? You want a real feast, though, you just stick with {#DialogueItalicFormat}me{#PreviousFormat}! Now take my blessing, and I {#DialogueItalicFormat}fish{#PreviousFormat} you luck!"
     }
     {
       /*
@@ -6203,7 +6203,7 @@
       */
       Id = "Dionysus_0116"
       Speaker = "Dionysus"
-      DisplayName = "{#DialogueItalicFormat}Oh{#PreviousFormat}, anyway we're here, man, waiting up for you! We know you're going to make it, I would say eventually?"
+      DisplayName = "{#DialogueItalicFormat}Oh{#PreviousFormat}, wow, so anyway we're here, man, waiting up for you! We know you're going to make it, I would say eventually?"
     }
     {
       /*
@@ -6223,7 +6223,7 @@
       */
       Id = "Athena_0230"
       Speaker = "Athena"
-      DisplayName = "Perhaps Lord Teemo here is already lost in drink, as my hair is already down and I'm already quite cozy. You'll help us keep him on the straight and narrow from now on, won't you, Cousin?."
+      DisplayName = "Perhaps Lord Teemo here is already lost in drink, as my hair is already down and I'm already quite cozy. You'll help us keep him on the straight and narrow from now on, won't you, Cousin?"
     }
     {
       /*
@@ -6253,7 +6253,7 @@
       */
       Id = "Dionysus_0210"
       Speaker = "Dionysus"
-      DisplayName = "Look, Zag, you should know by now that when it comes to feasting, it's Yours Truly here who puts on the best performance. But I do often have Lady Ahri's help!"
+      DisplayName = "Look, Sett, you should know by now that when it comes to feasting, it's Yours Truly here who puts on the best performance. But I do often have Lady Ahri's help!"
     }
     {
       /*
@@ -6341,7 +6341,7 @@
       */
       Id = "Dionysus_0032"
       Speaker = "Dionysus"
-      DisplayName = "So Sett, you met my dad by now, your uncle Volibear? He's cool and loves a feasting, just... be sure to keep him in your thoughts. OK?"
+      DisplayName = "So Sett, you met my dad by now, your uncle Volibear? He's cool and loves a feasting, I mean he's kind of a literal bear, so, anyway, just be chill and forget that other stuff about making yourself bigger. He's chill, so be chill, you know?"
     }
     {
       /*
@@ -6350,7 +6350,7 @@
       */
       Id = "Dionysus_0033"
       Speaker = "Dionysus"
-      DisplayName = "{#DialogueItalicFormat}Hoh-ho{#PreviousFormat}, no way Sett, looking like you got yourself a gift from Auntie Nami there? Quite the catch, but here, hope you saved some room for more!"
+      DisplayName = "{#DialogueItalicFormat}Hoh-ho{#PreviousFormat}, no way Sett, looking like you got yourself a gift from Auntie Nami there? Quite the {#DialogueItalicFormat}catch{#PreviousFormat}, but here, hope you saved some room for more! Ha, fish jokes!"
     }
     {
       /*
@@ -6359,7 +6359,7 @@
       */
       Id = "Dionysus_0036"
       Speaker = "Dionysus"
-      DisplayName = "Hey man, I heard 'Raka had a word with you already yeah? She's cool, though, once you get to know her. Here! I got something that ought to suit her style."
+      DisplayName = "Hey man, I heard 'Raka had a word with you already yeah? She's cool, though, once you get to know her. Here! I got something that ought to suit her style. She's so hard to shop for, man!"
     }
     {
       /*
@@ -6368,7 +6368,7 @@
       */
       Id = "Dionysus_0031"
       Speaker = "Dionysus"
-      DisplayName = "{#DialogueItalicFormat}Whoa{#PreviousFormat}, hey, you must have had a run-in with the Lady Ahri, am I right, or am I right, there Sett? But I have {#DialogueItalicFormat}just {#PreviousFormat}the thing to go with her!"
+      DisplayName = "{#DialogueItalicFormat}Whoa{#PreviousFormat}, hey, you must have had a run-in with the Lady Ahri, am I right, or am I right, there Sett? Wait, am I right? But either way I have {#DialogueItalicFormat}just {#PreviousFormat}the thing to go with her!"
     }
     {
       /*
@@ -6413,7 +6413,7 @@
       */
       Id = "Dionysus_0029"
       Speaker = "Dionysus"
-      DisplayName = "Now how's my favorite Underworld god surviving, Sett, you holding up or what? Right better momentarily, I bet!"
+      DisplayName = "Now how's my favorite Underworld Spirit surviving, Sett, you holding up or what? Right better momentarily, I bet!"
     }
     {
       /*
@@ -6604,7 +6604,7 @@
       */
       Id = "Dionysus_0042"
       Speaker = "Dionysus"
-      DisplayName = "Hey Sett, ever see a fellow by the name of Yasuo down there, you ever heard of him? I bet you have, and I have had a funny thought, a little jest that maybe we could try, if you'd be up to have a little harmless fun?"
+      DisplayName = "Hey Sett, ever see a fellow by the name of Yasuo down there, you ever heard of him? I bet you have, and I have had a funny thought, a little prank that maybe we could try, if you'd be up to have a little harmless fun?"
     }
     {
       /*
@@ -7206,7 +7206,7 @@
       */
       Id = "Dionysus_0202"
       Speaker = "Dionysus"
-      DisplayName = "What do you say we go {#DialogueItalicFormat}all out {#PreviousFormat}this time, how about it, Zag, you with me, man, or what?"
+      DisplayName = "What do you say we go {#DialogueItalicFormat}all out {#PreviousFormat}this time, how about it, Sett, you with me, man, or what?"
     }
     {
       /*
@@ -7431,7 +7431,7 @@
       */
       Id = "Dionysus_0129"
       Speaker = "Dionysus"
-      DisplayName = "OK, all right, it's fine already, Sett, you win this time and I am good as a maxed out R."
+      DisplayName = "OK, all right, it's fine already, Sett, you win this time and I am as good as a maxed out R."
     }
     {
       /*
@@ -7506,7 +7506,7 @@
       */
       Id = "ZagreusHome_0127"
       Speaker = "Zagreus"
-      DisplayName = "Lord Teemo, it's been great gettin' to know ya, so, please accept this offering."
+      DisplayName = "Lord Teemo, it's been great gettin' to know ya, so, please accept this offerin'."
     }
     {
       /*
@@ -7646,7 +7646,7 @@
       */
       Id = "Athena_0223"
       Speaker = "Athena"
-      DisplayName = "Cousin Settrigh, have you met Lord Father Volibear? He has taken keen interest in your journey and your plight, and now seeks to aid you with the thunder of heaven itself."
+      DisplayName = "Cousin Settrigh, have you met Lord Father Volibear? He has taken keen interest in your journey and your plight, and now seeks to aid you with the thunder of the skies itself."
     }
     {
       /*
@@ -7709,7 +7709,7 @@
       */
       Id = "Athena_0226"
       Speaker = "Athena"
-      DisplayName = "And your mischief is ill-suited for someone promising Salvation , Lady Ahri. But enough airing grievances. Either back up Settrigh, or stand aside"
+      DisplayName = "And your mischief is ill-suited for someone promising Salvation, Lady Ahri. But enough airing grievances. Either back up Settrigh, or stand aside"
     }
     {
       /*
@@ -7782,7 +7782,7 @@
       */
       Id = "Demeter_0146"
       Speaker = "Demeter"
-      DisplayName = "Oh, you needn't lavish me with your faint praise, Soraka dear. With such a serious matter at hand, how could I not oversee?."
+      DisplayName = "Oh, you needn't lavish me with your faint praise, Soraka dear. With such a serious matter at hand, how could I not oversee?"
     }
     {
       /*
@@ -7801,7 +7801,7 @@
       */
       Id = "ZagreusField_4338"
       Speaker = "Zagreus"
-      DisplayName = "This is it, then. In the name of the Underworld! Olympus, this is an official message! Lady Soraka, bet you'll get this one quick."
+      DisplayName = "This is it, then. In the name of the Underworld! Spirit Realm, this is an official message! Lady Soraka, bet you'll get this one quick."
     }
     {
       /*
@@ -7820,7 +7820,7 @@
       */
       Id = "Athena_0234"
       Speaker = "Athena"
-      DisplayName = "It was my privilege to have visited your father's House, and briefly had a chance to meet {#DialogueItalicFormat}you{#PreviousFormat}, Settrigh, and so many others. Mother Moon and Lihua each are very shrewd; perhaps you've taken after both of them. I'm aware of your new responsibilities, as well. Call upon me next when you face that Chosen- or, ah, any of the other villains that would block your path."
+      DisplayName = "It was a privilege to have visited your father's House and to meet you, and so many others. Mother Moon and Lihua each are very shrewd; perhaps you've taken after both of them. I'm aware of your new responsibilities, as well."
     }
     {
       /*
@@ -7991,7 +7991,7 @@
       */
       Id = "Athena_0044"
       Speaker = "Athena"
-      DisplayName = "Your our fathers have not communicated in some time, and Lord Volibear refuses to explain. Something transpired between the two of them. Perhaps you know better than I."
+      DisplayName = "Our fathers have not communicated in some time, and Lord Volibear refuses to explain. Something transpired between the two of them. Perhaps you know better than I."
     }
     {
       /*
@@ -8000,7 +8000,7 @@
       */
       Id = "Athena_0045"
       Speaker = "Athena"
-      DisplayName = "There's something that I've wished to tell you, Settrigh. No matter your relationship with your father or the other Underworld denizens, there is no shame in it. We are all born and raised under the strangest and sometimes harshest circumstances. Someday I'll have to tell you about mine."
+      DisplayName = "There's something that I've wished to tell you, Settrigh. No matter your parentage, there is no shame in it. Many are born and raised under strange and sometimes harsh circumstances. Someday I'll have to tell you about mine."
     }
     {
       /*
@@ -8045,7 +8045,7 @@
       */
       Id = "Athena_0204"
       Speaker = "Athena"
-      DisplayName = "I understand you nearly reached the surface lately, Zagreus. My confidence remains unshaken that you shall get out of there, eventually. No matter what sorts of unknown horrors lie shrouded beyond the boundary there."
+      DisplayName = "I understand you nearly reached the surface lately, Settrigh. My confidence remains unshaken that you shall get out of there, eventually. No matter what sorts of unknown horrors lie shrouded beyond the boundary there."
     }
     {
       /*
@@ -8099,7 +8099,7 @@
       */
       Id = "Athena_0208"
       Speaker = "Athena"
-      DisplayName = "I have grown closer than expected with the Spirit of the Moon in all of this, Cousin. It is quite evident to me how much she cares for you. I must admit I envy your relationship, sometimes. Such wealth of advice..."
+      DisplayName = "I have grown closer than expected with the Spirit of the Moon in all of this, Cousin. It is quite evident to me how much she cares for your family and situation. I must admit I envy your relationship, sometimes. Such wealth of advice..."
     }
     {
       /*
@@ -8126,7 +8126,7 @@
       */
       Id = "Athena_0216"
       Speaker = "Athena"
-      DisplayName = "The Silver Sister has indicated you possess a list of prophecies from the Fates. I've such a list in Spirit Realm, here! It seems to be connected to your own, as several prophecies already are fulfilled. Isn't it such an honor to urge Fate along?"
+      DisplayName = "The Silver Sister has indicated you possess a list of prophecies. I've such a list in Spirit Realm, here! It seems to be connected to your own, as several prophecies already are fulfilled. Isn't it such an honor to urge Fate along?"
     }
     {
       /*
@@ -8225,7 +8225,7 @@
       */
       Id = "Athena_0183"
       Speaker = "Athena"
-      DisplayName = "It seems to me that you've sustained life-draining injuries already, Settrigh. But don't lose hope. We can sustain you in a proper fighting shape."
+      DisplayName = "It seems to me that you've sustained life-draining injuries already, Settrigh. But don't lose hope. We can get you in a proper fighting shape."
     }
     {
       /*
@@ -8283,7 +8283,7 @@
       */
       Id = "Athena_0002"
       Speaker = "Athena"
-      DisplayName = "Hail, noble Cousin. Now, let's get you from that miserable place. I'll see that all of us upon Olympus do our part, beginning here with me."
+      DisplayName = "Hail, noble Cousin. Now, let's get you from that miserable place. I'll see that all of us in the Spirit Realm do our part, beginning here with me."
     }
     {
       /*
@@ -8292,7 +8292,7 @@
       */
       Id = "Athena_0003"
       Speaker = "Athena"
-      DisplayName = "Keep fighting, Settrigh. Fight from out of that gloom and doom. You'll be joining us in the Spirit Realm soon- I can see it."
+      DisplayName = "Keep fighting, Settrigh. Fight from out of that gloom and doom. You'll be joining us in the Spirit Realm soon. I can see it."
     }
     {
       /*
@@ -8319,7 +8319,7 @@
       */
       Id = "Athena_0006"
       Speaker = "Athena"
-      DisplayName = "Push forward, noble Cousin. I shall be keen to see you circumvent the perils that the Fates arranged for you this time."
+      DisplayName = "Push forward, noble Cousin. I shall be keen to see you circumvent the perils that Fate arranged for you this time."
     }
     {
       /*
@@ -8328,7 +8328,7 @@
       */
       Id = "Athena_0007"
       Speaker = "Athena"
-      DisplayName = "Vanquish all who stand against you, noble Cousin. I and your relatives upon Olympus shall assist you in so doing."
+      DisplayName = "Vanquish all who stand against you, noble Cousin. I and your relatives in the Spirit Realm shall assist you in so doing."
     }
     {
       /*
@@ -8400,7 +8400,7 @@
       */
       Id = "Athena_0015"
       Speaker = "Athena"
-      DisplayName = "Your father chose to sever ties with all of us, and stew alone within his land beneath the earth. But you are not beholden to his actions. Fight!"
+      DisplayName = "Your father chose to sever ties with all of us, and stew alone within his land beneath the surface. But you are not beholden to his actions. Fight!"
     }
     {
       /*
@@ -8418,7 +8418,7 @@
       */
       Id = "Athena_0017"
       Speaker = "Athena"
-      DisplayName = "I've found you once again, dear Cousin, and my strength is yours; so much of it as I can send there to the bowels of the earth."
+      DisplayName = "I've found you once again, dear Cousin, and my strength is yours; so much of it as I can send there to the bowels of Runeterra."
     }
     {
       /*
@@ -8949,7 +8949,7 @@
       */
       Id = "Athena_0057"
       Speaker = "Athena"
-      DisplayName = "All is forgiven, Settrigh, and I take no offense. Exacting vengeance is just something we Olympians all do from time to time."
+      DisplayName = "All is forgiven, Settrigh, and I take no offense. Exacting vengeance is just something we Spirits all do from time to time."
     }
     {
       /*
@@ -9062,7 +9062,7 @@
       */
       Id = "ZagreusHome_0540"
       Speaker = "Zagreus"
-      DisplayName = "I've got a gift for you, Lady Soraka, simple as it is. Take it as thanks from me, for all you've done."
+      DisplayName = "I've got a gift for ya, Lady Soraka, simple as it is. Take it as thanks from me, for all you've done."
     }
     {
       /*
@@ -9092,7 +9092,7 @@
       */
       Id = "Athena_0217"
       Speaker = "Athena"
-      DisplayName = "My, how very generous of you, to offer me this gift! I'm very grateful, though I ask that you not go out of your way on my account. Let's please stay focused, here?"
+      DisplayName = "My, how very generous of you, to offer me this gift! I'm very grateful, though I ask that you not go out of your way on my account."
     }
     {
       /*
@@ -9122,7 +9122,7 @@
       */
       Id = "Athena_0219"
       Speaker = "Athena"
-      DisplayName = "This line is broken! If you see it, please file a bug report. Thanks for your cooperation!"
+      DisplayName = "There are nver any debts between us, dear Cousin. We are in this fight together, we are family, and the promise of meeting is repayment enough."
     }
     {
       /*
@@ -9246,7 +9246,7 @@
       */
       Id = "Poseidon_0236"
       Speaker = "Poseidon"
-      DisplayName = "Why little Nephew! Have you met Lady Diana of the Hunt? Why she is competition even to me with the focus and patience she exhibits while on the prowl. Unfortunately our methodologies differ greatly.!"
+      DisplayName = "Why little Nephew! Have you met Lady Diana of the Hunt? Why she is competition even to me with the focus and patience she exhibits while on the prowl. Unfortunately our methodologies differ greatly!"
     }
     {
       /*
@@ -9371,7 +9371,7 @@
       */
       Id = "Poseidon_0040"
       Speaker = "Poseidon"
-      DisplayName = "Hoy, Nephew! It's my understanding you've been blessed already by one of my {#DialogueItalicFormat}other {#PreviousFormat}nephews, Darius! As you can see, not all of us are cut from the same cloth; and thank the Fates for that!"
+      DisplayName = "Hoy, Nephew! It's my understanding you've been blessed already by one of my {#DialogueItalicFormat}other {#PreviousFormat}nephews, Darius! As you can see, not all of us are cut from the same cloth; and thank goodness for that!"
     }
     {
       /*
@@ -9461,7 +9461,7 @@
       */
       Id = "Poseidon_0221"
       Speaker = "Poseidon"
-      DisplayName = "Last time your father and I spoke, he told me I was all washed up, can you believe the nerve of it, Nephew? Why, he took the words right out of my mouth!"
+      DisplayName = "Last time your father and I spoke, he told me I was all washed up, can you believe the nerve of it, Nephew? Why, it still boils my water even now!"
     }
     {
       /*
@@ -9542,7 +9542,7 @@
       */
       Id = "Poseidon_0134"
       Speaker = "Poseidon"
-      DisplayName = "{#DialogueItalicFormat}Ohh{#PreviousFormat}, Nephew, you've stood against the Bull, have you? Well I must apologize for any inconvenience there, because, well he was a living testament to my revenge! Long story, boring really, rather sordid, too, anyway. Stay strong!"
+      DisplayName = "{#DialogueItalicFormat}Ohh{#PreviousFormat}, Nephew, you've stood against the Bull, Alistar, have you? What a battle that must have been! I'll have you know I'm a huge fan of his work. He's just so professional!"
     }
     {
       /*
@@ -9668,7 +9668,7 @@
       */
       Id = "Poseidon_0150"
       Speaker = "Poseidon"
-      DisplayName = "Huh! Why, if my eyes do not deceive me through those murky depths, you brandish the {#DialogueItalicFormat}Iceborn Gauntlets{#PreviousFormat}! Let me tell you, little Hades, those old gloves have done some dirty work before your time! They might actually still be a little dirty!"
+      DisplayName = "Huh! Why, if my eyes do not deceive me through those murky depths, you brandish the {#DialogueItalicFormat}Iceborn Gauntlets{#PreviousFormat}! Let me tell you, little pup, those old gloves have done some dirty work before your time! They might actually still be a little dirty!"
     }
     {
       /*
@@ -9677,7 +9677,7 @@
       */
       Id = "Poseidon_0141"
       Speaker = "Poseidon"
-      DisplayName = "Why, little Hades, it is awful murky where you are, but if I'm not mistaken, and I never am, you wield fearsome Stygius! She once belonged to me, you know! Not quite my type, but we sure had our times! You take good care of her for me!"
+      DisplayName = "Why, little pup, it is awful murky where you are, but if I'm not mistaken, and I never am, you wield fearsome Infinity Edge! It once belonged to me, you know! Not quite my type, but we sure had our times! You take good care of her for me!"
     }
     {
       /*
@@ -9695,7 +9695,7 @@
       */
       Id = "Poseidon_0197"
       Speaker = "Poseidon"
-      DisplayName = "This time, Nephew, let's really show your father what you're made of: {#DialogueItalicFormat}Water{#PreviousFormat}! For the most part! Mortals, at least, are mostly made of it. Bet you did not know that!"
+      DisplayName = "This time, Nephew, let's really show your father what you're made of: {#DialogueItalicFormat}Water{#PreviousFormat}! For the most part! Mortals, at least, are mostly made of it. Spirits are probably too! Bet you did not know that!"
     }
     {
       /*
@@ -9713,7 +9713,7 @@
       */
       Id = "Poseidon_0224"
       Speaker = "Poseidon"
-      DisplayName = "Say, word has reached me that you squared against one known as Thresh, now champion there in Elysium? He was a handful even when he lived! So much so that my honored brother Volibear, he took to calling him my son, can you believe the nerve? I'd never!"
+      DisplayName = "Say, word has reached me that you squared against one known as Thresh, now champion there in Elysium? He was a handful even when he lived! So much so that Salvation and Ambush teamed up to finally take him down a peg or two!"
     }
     {
       /*
@@ -9767,7 +9767,7 @@
       */
       Id = "Poseidon_0142"
       Speaker = "Poseidon"
-      DisplayName = "Say, what exactly is that very mighty-looking spear I think I faintly see in your possession there, it's... why, I've not seen a thing like that except on very distant shores! It's almost as impressive as my trident here! {#DialogueItalicFormat}Almost{#PreviousFormat}, I say!"
+      DisplayName = "Say, what exactly is that very mighty-looking spear I think I faintly see in your possession there, it's... why, I've not seen a thing like that except on very distant shores! It's almost as impressive as my spear here! {#DialogueItalicFormat}Almost{#PreviousFormat}, I say!"
     }
     {
       /*
@@ -9776,7 +9776,7 @@
       */
       Id = "Poseidon_0151"
       Speaker = "Poseidon"
-      DisplayName = "You bear some sort of splendid-looking weapon, there, Nephew! Must be another aspect of the great Infinity Edge, my old discarded blade! Never did see that one myself, but, I saw many others that were splendid, too!"
+      DisplayName = "You bear some sort of splendid-looking weapon, there, Nephew! Must be another aspect of the great Infinity Edge! Never did see that one myself, but, I saw many others that were splendid, too!"
     }
     {
       /*
@@ -9915,7 +9915,7 @@
       */
       Id = "Poseidon_0017"
       Speaker = "Poseidon"
-      DisplayName = "{#DialogueItalicFormat}Ah, hahaha! {#PreviousFormat}Found you down there, Nephew! Now let's overwhelm your enemies in a typhoon of godly might, what do you say?"
+      DisplayName = "{#DialogueItalicFormat}Ah, hahaha! {#PreviousFormat}Found you down there, Nephew! Now let's overwhelm your enemies in a typhoon of our combined might, what do you say?"
     }
     {
       /*
@@ -9951,7 +9951,7 @@
       */
       Id = "Poseidon_0021"
       Speaker = "Poseidon"
-      DisplayName = "Looks like {#DialogueItalicFormat}you {#PreviousFormat}could use the power of the sea, wouldn't you say so, little Hades? Good thing I'm here, so that together, we might wash your enemies away!"
+      DisplayName = "Looks like {#DialogueItalicFormat}you {#PreviousFormat}could use the power of the sea, wouldn't you say so, little pup? Good thing I'm here, so that together, we might wash your enemies away!"
     }
     {
       /*
@@ -9996,7 +9996,7 @@
       */
       Id = "Poseidon_0026"
       Speaker = "Poseidon"
-      DisplayName = "Are you perchance in need of godlike aid, Nephew? Well, excellent! Because I just so happen to command the sea, and I shall hereby let you take it for a whirl!"
+      DisplayName = "Are you perchance in need of aid, Nephew? Well, excellent! Because I just so happen to command the sea, and I shall hereby let you take it for a whirl!"
     }
     {
       /*
@@ -10014,7 +10014,7 @@
       */
       Id = "Poseidon_0028"
       Speaker = "Poseidon"
-      DisplayName = "At last I found you once again, Nephew! You eating well and getting strong, correct? I'll help you with the latter category in a moment. Here!"
+      DisplayName = "How wonderful it is to see another Vastaya in the family, little pup! We're a bit of a rarity, even amongst the Spirits of the Realm. Although, hm, haven't I seen a Vastaya of your kind amongst the Spirits before?"
     }
     {
       /*
@@ -10113,7 +10113,7 @@
       */
       Id = "Poseidon_0007"
       Speaker = "Poseidon"
-      DisplayName = "Good tidings, little Nephew! It is I! And I am always here to help!"
+      DisplayName = "Good tidings, little Nephew! It is I! Nami! Always here to help!"
     }
     {
       /*
@@ -10176,7 +10176,7 @@
       */
       Id = "Poseidon_0173"
       Speaker = "Poseidon"
-      DisplayName = "How about a swim, there, little Nephew? A swim, that is, within the Pool of Blessings! Now, dive in!"
+      DisplayName = "How about a swim, there, little Nephew? A swim, that is, within the Pool of Blessings! Now, dive in! Hahaha!"
     }
     {
       /*
@@ -10185,7 +10185,7 @@
       */
       Id = "Poseidon_0174"
       Speaker = "Poseidon"
-      DisplayName = "I'm here, Nephew, to aid you in your time of need, with {#DialogueItalicFormat}this{#PreviousFormat}!"
+      DisplayName = "I'm here, Nephew, to aid you in your time of need, with {#DialogueItalicFormat}fish{#PreviousFormat}!"
     }
     {
       /*
@@ -10383,7 +10383,7 @@
       */
       Id = "Poseidon_0194"
       Speaker = "Poseidon"
-      DisplayName = "Well, Nephew, I know that salty Karthus can be difficult. But I am certain that whatever price you paid, you got a {#DialogueItalicFormat}deal{#PreviousFormat}!"
+      DisplayName = "Well, Nephew, I know that salty Karthus can be difficult. But I am certain that whatever price you paid, you got a {#DialogueItalicFormat}deal{#PreviousFormat}! How much could one Boon cost anyway, 10 gold?"
     }
     {
       /*
@@ -10410,7 +10410,7 @@
       */
       Id = "Poseidon_0003"
       Speaker = "Poseidon"
-      DisplayName = "{#DialogueItalicFormat}Whaaaa{#PreviousFormat}, you think that you've a chance in hell without my help, am I to understand?! You made a big mistake there, little Nephew, just you watch."
+      DisplayName = "{#DialogueItalicFormat}Whaaaa{#PreviousFormat}, you think that you've a chance to win without my help, am I to understand?! You made a big mistake there, little Nephew, just you watch."
     }
     {
       /*
@@ -10419,7 +10419,7 @@
       */
       Id = "Poseidon_0053"
       Speaker = "Poseidon"
-      DisplayName = "How bold of you to throw your lot in with anyone instead of me, given the choice, there, little Nephew. But don't you ever bet against {#DialogueItalicFormat}this {#PreviousFormat}horse!"
+      DisplayName = "How bold of you to throw your lot in with anyone instead of me, given the choice, there, little Nephew. But don't you ever bet against {#DialogueItalicFormat}this {#PreviousFormat} seahorse!"
     }
     {
       /*
@@ -10446,7 +10446,7 @@
       */
       Id = "Poseidon_0056"
       Speaker = "Poseidon"
-      DisplayName = "{#DialogueItalicFormat}Augh{#PreviousFormat}! I'm absolutely flabbergasted, Nephew!! I offer you the finest blessings of the earth and sea, and they're not good enough?"
+      DisplayName = "{#DialogueItalicFormat}Augh{#PreviousFormat}! I'm absolutely flabbergasted, Nephew!! I offer you the finest blessings of the land and sea, and they're not good enough?"
     }
     {
       /*
@@ -10482,7 +10482,7 @@
       */
       Id = "Poseidon_0154"
       Speaker = "Poseidon"
-      DisplayName = "Nephew, you just landed yourself in a tuna trouble! I hope you are prepared for the consequences!"
+      DisplayName = "Nephew, you just landed yourself in a tuna trouble! I hope you are prepared for the conch-sequences!"
     }
     {
       /*
@@ -10796,7 +10796,7 @@
       */
       Id = "Demeter_0151"
       Speaker = "Demeter"
-      DisplayName = "Well, now, young sprout, you've met the so-called King of the Olympians, and I. Whom do you now suppose is genuinely ruler of this snow-encrusted mountaintop of ours?"
+      DisplayName = "Well, now, young sprout, you've met the appointed Lord of the Spirits. He, much like I, are of the oldest Spirits, ones responsible for the slaughter of the Old Gods and the sealing away of thier foul remains."
     }
     {
       /*
@@ -10806,7 +10806,7 @@
       */
       Id = "Zeus_0201"
       Speaker = "Zeus"
-      DisplayName = "Oh, {#DialogueItalicFormat}hah-hah-hah{#PreviousFormat}, Lady Lissandra! Your wit is just as dry as the earth lying quite fallow in your care! Perhaps you should go tend to that again, though let's we go ahead and help our young man first!"
+      DisplayName = "Oh, {#DialogueItalicFormat}hah-hah-hah{#PreviousFormat}, Lady Lissandra flatters me. It was a group effort, indeed. Afterwards, we split the spoils amongst ourselves and each other and went about our own business. It worked quite well, for most of us!"
     }
     {
       /*
@@ -10826,7 +10826,7 @@
       */
       Id = "Poseidon_0145"
       Speaker = "Poseidon"
-      DisplayName = "{#DialogueItalicFormat}Ah, hahahah! {#PreviousFormat}, and it's really no problem! Unfortunately, the only fishing excursions we seem able to go on as of late are ice-fishing ones..."
+      DisplayName = "{#DialogueItalicFormat}Ah, hahahah! {#PreviousFormat}. And it's really no problem! Unfortunately, the only fishing excursions we seem able to go on as of late are ice-fishing ones..."
     }
     {
       /*
@@ -10971,7 +10971,7 @@
       */
       Id = "Demeter_0159"
       Speaker = "Demeter"
-      DisplayName = "After my daughter Lihua disappeared, I left this mountaintop. Wandered the earth, in search. For naught, of course. It was a necessary journey, I suppose, although fruitless. May yours fare better."
+      DisplayName = "After my daughter Lihua disappeared, I left this mountaintop. Wandered the surface, in search. For naught, of course. It was a necessary journey, I suppose, although fruitless. May yours fare better."
     }
     {
       /*
@@ -11009,7 +11009,7 @@
       */
       Id = "Demeter_0197"
       Speaker = "Demeter"
-      DisplayName = "My little grandson, little sprout, I've thought... if my Lihua's alive, why then... this winter, hasn't it endured for long enough...? It's grown to have a certain stubbornness, but I... I am the Spirit of the Seasons, Settrigh. I've mourned long enough. It's time for Spring once again."
+      DisplayName = "My little grandson, little sprout, I've thought... if my Lihua's alive, why then... this winter, hasn't it endured for long enough...? It's grown to have a certain stubbornness, but I... I am the Spirit of the Seasons, Settrigh. I've mourned long enough. It's time for spring once again."
     }
     {
       /*
@@ -11027,7 +11027,7 @@
       */
       Id = "Demeter_0063"
       Speaker = "Demeter"
-      DisplayName = "You bear the blessing of Nami, Zagreus? There are worse companions to have than the sea."
+      DisplayName = "You bear the blessing of Nami, Settrigh? There are worse companions to have than the sea."
     }
     {
       /*
@@ -11036,7 +11036,7 @@
       */
       Id = "Demeter_0061"
       Speaker = "Demeter"
-      DisplayName = "Soraka has imparted you her favor, Zagreus? May you use it wisely."
+      DisplayName = "Soraka has imparted you her favor, Settrigh? May you use it wisely."
     }
     {
       /*
@@ -11153,7 +11153,7 @@
       */
       Id = "Demeter_0071"
       Speaker = "Demeter"
-      DisplayName = "You live within the bosom of the earth, and know its warmth. But there is no such warmth up here, young Settrigh. You truly wish to feel the bitter cold of the outside? Then, here. Have a taste."
+      DisplayName = "You live within the bosom of Runeterra, and know its warmth. But there is no such warmth up here, young Settrigh. You truly wish to feel the bitter cold of the outside? Then, here. Have a taste."
     }
     {
       /*
@@ -11171,7 +11171,7 @@
       */
       Id = "Demeter_0079"
       Speaker = "Demeter"
-      DisplayName = "Motherhood's a curse, young Settrigh. Be thankful you're immune. You sprang from the Silver Sister herself, or so I hear, my distant sister? I sprang from the Old God of Frost. And I once bore a child, too. Long gone. A mother's work... isn't it such a waste?"
+      DisplayName = "Motherhood's a curse, young Settrigh. Be thankful you're immune. You sprang from the Silver Sister herself, or so I hear? I sprang from the Old God of Frost. And I once bore a child, too. Long gone. A mother's work... isn't it such a waste?"
     }
     {
       /*
@@ -11207,7 +11207,7 @@
       */
       Id = "Demeter_0161"
       Speaker = "Demeter"
-      DisplayName = "I have another sister alongside the one made of silver-glass. The Golden Sister, the Sun. She is wise, yes, but said that my Lihua went into that Underworld of yours! Preposterous. Her eyes always remain turned upward, so how could she see? The clouds now blot her out entirely."
+      DisplayName = "I have another sister alongside your silver-glass Mother. The Golden Sister, the Sun. She is wise, yes, but said that my Lihua went into the Underworld! Preposterous. Her eyes always remain turned upward, so how could she see? The clouds now blot her out entirely."
     }
     {
       /*
@@ -11333,7 +11333,7 @@
       */
       Id = "Demeter_0215"
       Speaker = "Demeter"
-      DisplayName = "I made mistakes raising your mother, sprout. I was blind to the possibility that she could have left me on purpose, but... I see it now. If you become a parent yourself, someday... may you listen more than I."
+      DisplayName = "I made mistakes raising your mother, little sprout. I was blind to the possibility that she could have left me on purpose, but... I see it now. If you become a parent yourself, someday... may you listen more than I."
     }
     {
       /*
@@ -11459,7 +11459,7 @@
       */
       Id = "Demeter_0120"
       Speaker = "Demeter"
-      DisplayName = "You waste away just like a common mortal, Settrigh. How rather unbecoming of a god."
+      DisplayName = "Ah, Settrigh, how you've wasted away. Perhaps I can put a spring back in your step, if only for a time."
     }
     {
       /*
@@ -11596,7 +11596,7 @@
       */
       Id = "Demeter_0013"
       Speaker = "Demeter"
-      DisplayName = "None can endure an everlasting winter's chill, young Settrigh; not even your father's lifeless servants there beneath the earth."
+      DisplayName = "None can endure an everlasting winter's chill, young Settrigh; not even your father's lifeless servants there beneath Runeterra."
     }
     {
       /*
@@ -11848,7 +11848,7 @@
       */
       Id = "Demeter_0043"
       Speaker = "Demeter"
-      DisplayName = "I trust that harvesting dead souls is not unlike the harvest we have on the surface, Zagreus."
+      DisplayName = "I trust that harvesting dead souls is not unlike the harvest we have on the surface, Settrigh."
     }
     {
       /*
@@ -11857,7 +11857,7 @@
       */
       Id = "Demeter_0044"
       Speaker = "Demeter"
-      DisplayName = "You and I both utilize bloodstones, so it seems. Although mine is purely cosmetic."
+      DisplayName = "You and I both utilize bloodstones, so it seems. Although mine are purely cosmetic."
     }
     {
       /*
@@ -12528,7 +12528,7 @@
       */
       Id = "Hermes_0160"
       Speaker = "Hermes"
-      DisplayName = "That chill you were expecting in the air, that wasn't Lady Lissandra this time, here, Prince! No, that was just me whisking to you in a flash. Makes for a little pleasant breeze I think!"
+      DisplayName = "That chill you were expecting in the air, that wasn't Lady Lissandra this time, here, Prince! No, that was just me whisking to you in a flash. Makes for a pleasant little breeze I think!"
     }
     {
       /*
@@ -12537,7 +12537,7 @@
       */
       Id = "Hermes_0200"
       Speaker = "Hermes"
-      DisplayName = "You did it, Cousin! And by {#DialogueItalicFormat}it {#PreviousFormat}I'm referring to the act of beating down my seemingly invincible and very spooky boatman associate, who fancies himself pretty tough as Underworld Spirits go! He wasn't sure you had it in you, and if I may be so bold, neither was I! Skeletons are so scary!"
+      DisplayName = "You did it, Cousin! And by {#DialogueItalicFormat}it {#PreviousFormat}I mean beating down my seemingly invincible and very spooky boatman associate, who fancies himself pretty tough as Underworld Spirits go! He wasn't sure you had it in you, and if I may be so bold, neither was I! Skeletons are so scary!"
     }
     {
       /*
@@ -12555,7 +12555,7 @@
       */
       Id = "Hermes_0117"
       Speaker = "Hermes"
-      DisplayName = "I got a keen eye, Cousin, so I happened to notice that you've got a certain tooth you're carrying about! Know you're from the land of the dead and all, but don't you think that comes across as just a little... odd?"
+      DisplayName = "I got a keen eye, Cousin, so I happened to notice that you've got a tooth you're carrying around and it doesn't seem to be yours! Know you're from the Underworld and all, but don't you think that comes across as just a little... macabre?"
     }
     {
       /*
@@ -12647,7 +12647,7 @@
       */
       Id = "Hermes_0170"
       Speaker = "Hermes"
-      DisplayName = "My relatives are normally quite quick to heed the call of anybody bearing one of their keepsakes! Huh!"
+      DisplayName = "My relatives are quite quick to heed the call of anybody bearing one of their keepsakes! Wish they were that fast when it comes to signing for packages!"
     }
     {
       /*
@@ -12773,7 +12773,7 @@
       */
       Id = "Hermes_0068"
       Speaker = "Hermes"
-      DisplayName = "Hey, uh, could you do a little favor for me, Cousin? My brothers, sisters, family, and whatnot, they're unaware I'm working with you, here. It's no big deal, but let's keep it that way for now. Alright? I'd hate to get in trouble!"
+      DisplayName = "Hey, uh, could you do a little favor for me, Cousin? My brothers, sisters, family, and what-not, they're unaware I'm working with you, here. It's no big deal, but let's keep it that way for now. Alright? I'd hate to get in trouble!"
     }
     {
       /*
@@ -12782,7 +12782,7 @@
       */
       Id = "Hermes_0069"
       Speaker = "Hermes"
-      DisplayName = "Happened to be in the area, Prince! It's actually kind of funny. Lately I alwaus seem to be in the area. Family really does keep you busy!"
+      DisplayName = "Happened to be in the area, Prince! It's actually kind of funny. Lately I always seem to be in the area. Family really does keep you busy!"
     }
     {
       /*
@@ -12863,7 +12863,7 @@
       */
       Id = "Hermes_0194"
       Speaker = "Hermes"
-      DisplayName = "Heard you've been getting along better with that fearsome Chosen Alune! We spirits of the Realm don't interact much with those down in the Underworld but I have a feeling that's going to change soon!"
+      DisplayName = "Heard you've been getting along better with that fearsome Chosen Alune! We Spirits of the Realm don't interact much with those down in the Underworld but I have a feeling that's going to change soon!"
     }
     {
       /*
@@ -12872,7 +12872,7 @@
       */
       Id = "Hermes_0197"
       Speaker = "Hermes"
-      DisplayName = "I can't believe you got into a fight with my professional associate, you daft or something, Coz? Just about everybody that I know, they're all at least a little bit afraid of that one and his boat, yet you think you can take him, huh?"
+      DisplayName = "I can't believe you got into a fight with my professional associate! That's crazy! Just about everybody that I know, they're all at least a little bit afraid of that one and his boat, yet you think you can take him, huh?"
     }
     {
       /*
@@ -12917,7 +12917,7 @@
       */
       Id = "Hermes_0075"
       Speaker = "Hermes"
-      DisplayName = "Here is today's mail, Prince!. Says here, {#DialogueItalicFormat}ahem{#PreviousFormat}: {#DialogueItalicFormat}'Hurry up and get out of there already.' {#PreviousFormat}Short and sweet. My favorite!"
+      DisplayName = "Here is today's mail, Prince! Says here, {#DialogueItalicFormat}ahem{#PreviousFormat}: {#DialogueItalicFormat}'Hurry up and get out of there already.' {#PreviousFormat}Short and sweet. My favorite!"
     }
     {
       /*
@@ -12944,7 +12944,7 @@
       */
       Id = "Hermes_0177"
       Speaker = "Hermes"
-      DisplayName = "Another message for you, Cousin, this one says, {#DialogueItalicFormat}'Hey, Sett, man! If you ever do make it up here up on this mountaintop for whatever reason, we should hang out, all right? I can show you around.' {#PreviousFormat} Your friend, Teemo, Oh, wow this letter smells like wine!"
+      DisplayName = "Another message for you, Cousin, this one says, {#DialogueItalicFormat}'Hey, Sett, man! If you ever do make it up here up on this mountaintop for whatever reason, we should hang out, all right? I can show you around. Your friend, Teemo'{#PreviousFormat}. Oh, wow this letter smells like wine!"
     }
     {
       /*
@@ -12971,17 +12971,17 @@
       */
       Id = "Hermes_0078"
       Speaker = "Hermes"
-      DisplayName = "Hey, Coz, you're now well accustomed to our little chats, but I want you to level with me here. You're the boss, if you prefer, I would be happy to shut up, no harm no foul. Just give the signal, hey?"
+      DisplayName = "Hey Cousin, I really wanted to say I'm appreciative of our little chats, you know? Everyone always says I talk a mile a minute, which I think is crazy 'cause I can talk way faster, but you always listen!"
     }
     {
       Id = "ZagreusField_1951"
       Speaker = "Zagreus"
-      DisplayName = "Well, alright, Prince. Just making sure that I'm not interrupting anything!"
+      DisplayName = "Well, Lady Lillia, it's partly just 'cause you seem to be the easiest one to respond to for whatever reason, at least without a gift or plot device. Ever thought about takin' it easy sometimes?"
     }
     {
       Id = "Hermes_0079"
       Speaker = "Hermes"
-      DisplayName = "I hear you, Prince, we'll cut straight to the chase next time, alright?"
+      DisplayName = "Oh, well, gotta go, it's been really great! Can't wait for the next one, okay, bye!"
     }
     {
       /*
@@ -12991,7 +12991,7 @@
       */
       Id = "ZagreusField_1952"
       Speaker = "Zagreus"
-      DisplayName = "Now that ya mention it, Lady Lillia, let's keep our chats nice 'n quick."
+      DisplayName = "Well, Lady Lillia, it's partly 'cause our chats are just so pleasant, if fleetin'. Maybe you could slow down a little sometimes, though. Relax a 'lil."
     }
     {
       /*
@@ -13001,7 +13001,7 @@
       */
       Id = "Hermes_0080"
       Speaker = "Hermes"
-      DisplayName = "I hear you, Prince, we'll cut straight to the chase next time, alright? Time is of the essence!"
+      DisplayName = "I hear you, Prince, still it's really great! Can't wait for the next one, okay, bye!"
     }
     {
       /*
@@ -13010,17 +13010,17 @@
       */
       Id = "Hermes_0081"
       Speaker = "Hermes"
-      DisplayName = "{#DialogueItalicFormat}Ahem{#PreviousFormat}! Pardon the interruption, Prince. You let me know if you prefer that I pipe up again next time, more like I used to!"
+      DisplayName = "{#DialogueItalicFormat}Oh{#PreviousFormat}! Pardon the interruption, Prince, popping in to say hi, how's it going, and alloting an extra few seconds to the timer!"
     }
     {
       Id = "ZagreusField_1953"
       Speaker = "Zagreus"
-      DisplayName = "{#DialogueItalicFormat}Hah{#PreviousFormat}, sure thing, boss. It's good to have a chat from time to time!"
+      DisplayName = "{#DialogueItalicFormat}Haha{#PreviousFormat}, look at you startin' to slow down. It's good to have a chat from time to time, right?"
     }
     {
       Id = "Hermes_0082"
       Speaker = "Hermes"
-      DisplayName = "{#DialogueItalicFormat}Hah{#PreviousFormat}, sure thing, boss. It's good to have a chat from time to time!"
+      DisplayName = "It is! I've tried taking more things slow sometimes, just for you, Cousin!"
     }
     {
       /*
@@ -13032,7 +13032,7 @@
       */
       Id = "ZagreusField_1954"
       Speaker = "Zagreus"
-      DisplayName = "Now that you mention it, Lord Hermes, yes, let's keep our interactions nice and quick."
+      DisplayName = "I've noticed you startin' to slow down 'n smell the roses, whatever those are. Not bad, right?"
     }
     {
       /*
@@ -13044,7 +13044,7 @@
       */
       Id = "Hermes_0083"
       Speaker = "Hermes"
-      DisplayName = "I hear you, boss, we'll cut straight to the chase next time, all right?"
+      DisplayName = "It's been great! I've smelled so many roses! It's been great, although I was three point seven seconds late on my last delivery! Don't think anyone noticed though."
     }
     {
       /*
@@ -13053,17 +13053,17 @@
       */
       Id = "Hermes_0084"
       Speaker = "Hermes"
-      DisplayName = "Thought I'd check in again real quick, there, boss. You want my witty conversation next time, or straight to the Boons?"
+      DisplayName = "Thought I'd let you know all about my attempts to slow down, Cousin! It's been great for my resting heart rate, not so much for my delivery times, but nobody's noticed at all!"
     }
     {
       Id = "ZagreusField_1955"
       Speaker = "Zagreus"
-      DisplayName = "{#DialogueItalicFormat}Hah{#PreviousFormat}, good! I like these little chats! Take care, now, boss."
+      DisplayName = "Look at ya goin' at a slightly less hectic speed! Why, you're at a practically leisurely pace these days, Lady Lillia."
     }
     {
       Id = "Hermes_0085"
       Speaker = "Hermes"
-      DisplayName = "{#DialogueItalicFormat}Hah{#PreviousFormat}, good! I like these little chats! Take care, now, boss."
+      DisplayName = "{#DialogueItalicFormat}Haha{#PreviousFormat}, good! I'm starting to like taking my time, quick as it is. Well, I'm off, talk to you later, bye!"
     }
     {
       /*
@@ -13077,7 +13077,7 @@
       */
       Id = "ZagreusField_1956"
       Speaker = "Zagreus"
-      DisplayName = "Now that you mention it, Lord Hermes, yes, let's keep our interactions nice and quick."
+      DisplayName = "Have you considered going at a more sedate pace there, Lady Lillia? Just wonderin'."
     }
     {
       /*
@@ -13091,12 +13091,12 @@
       */
       Id = "Hermes_0086"
       Speaker = "Hermes"
-      DisplayName = "I hear you, boss, we'll cut straight to the chase next time, all right?"
+      DisplayName = "Oh, I never have! I've always been zooming about, in fact my movement speed is naturally one of the highest in this meta, but I'll think about slowing down just for you, Cousin!"
     }
     {
       Id = "ZagreusField_2711"
       Speaker = "Zagreus"
-      DisplayName = "Definitely witty conversation, Lord Hermes. Boons are more than welcome after that."
+      DisplayName = "Lookin'forward to seein' ya try, Lady Lillia! Godspeed- {#DialogueItalicFormat}erm{#PreviousFormat}, God... slow? Eh, you get the picture."
     }
     {
       /*
@@ -13132,7 +13132,7 @@
       */
       Id = "Hermes_0121"
       Speaker = "Hermes"
-      DisplayName = "I hear you're close with Yasuo down there, you get the chance, you tell him I said hey! He's pretty decent with a singer and songwriter, last time I checked."
+      DisplayName = "I hear you're close with Yasuo down there, you get the chance, you tell him I said hey! He's a pretty decent singer and songwriter, last time I checked."
     }
     {
       /*
@@ -13141,7 +13141,7 @@
       */
       Id = "Hermes_0224"
       Speaker = "Hermes"
-      DisplayName = "Hey boss, in all your travels there, you happen to run into a lad named Yone? Hope he's all right! I feel bad because we didn't get a proper send-off last we met."
+      DisplayName = "Hey boss, in all your travels there, you happen to run into a lad named Yone? Hope he's all right! I feel bad because we didn't get a proper send-off last we met. His singing voice was so lovely..."
     }
     {
       /*
@@ -13186,7 +13186,7 @@
       */
       Id = "Hermes_0188"
       Speaker = "Hermes"
-      DisplayName = "Got all your father's lifeless wretches hot and bothered, going all out all because of that {#DialogueItalicFormat}Forced Overtime {#PreviousFormat}condition of his, isn't that right, Cousin? Well, if they're interested in getting things done quickly, I am sure you can oblige them in a bit!"
+      DisplayName = "Got all your father's lifeless wretches moving, going all out all because of that {#DialogueItalicFormat}Forced Overtime {#PreviousFormat}condition of his, isn't that right, Cousin? Well, if they're interested in getting things done quickly, I am sure you can oblige them in a bit!"
     }
     {
       /*
@@ -13258,7 +13258,7 @@
       */
       Id = "Hermes_0090"
       Speaker = "Hermes"
-      DisplayName = "Good, I can see you're clocking yourself once again, Prince. Little term I like to use, means beating yourself up whilst keeping time! I always try to stay ahea dof the lingo! That means language, hehe."
+      DisplayName = "Good, I can see you're clocking yourself once again, Prince. Little term I like to use, means beating yourself up whilst keeping time! I always try to stay ahead of the lingo! That means language, hehe."
     }
     {
       /*
@@ -13276,7 +13276,7 @@
       */
       Id = "Hermes_0164"
       Speaker = "Hermes"
-      DisplayName = "Another message from the Spirit Realm, Prince. This goes, {#DialogueItalicFormat}'Settrigh, take absolutely all the time you need making your way to us; we know the going must be treacherous, and we assure you our support, however long it takes.' {#PreviousFormat}Well, how about that!"
+      DisplayName = "Another message from the Spirit Realm, Prince. This goes, {#DialogueItalicFormat}'Settrigh, take absolutely all the time you need making your way to us; we know the going must be treacherous, and we assure you our support, however long it takes.' {#PreviousFormat}Awww!"
     }
     {
       /*
@@ -13430,7 +13430,7 @@
       */
       Id = "Hermes_0204"
       Speaker = "Hermes"
-      DisplayName = "Thought I'd check up on you, there, Prince Sett. You doing well, everything good and all? Can't hear you one iota, mind, so then, don't answer that!"
+      DisplayName = "Thought I'd check up on you, there, Prince Sett. You doing well, everything good and all? Can't hear you one iota, though, so maybe never mind! Bye!"
     }
     {
       /*
@@ -13539,7 +13539,7 @@
       */
       Id = "ZagreusField_1923"
       Speaker = "Zagreus"
-      DisplayName = "This mark, looks a bit like a bat wing. In the name of teh Underworld! Spirit Realm! I accept this message."
+      DisplayName = "This mark, looks a bit like a bat wing. In the name of the Underworld! Spirit Realm! I accept this message."
     }
     {
       /*
@@ -14134,7 +14134,7 @@
       */
       Id = "Hermes_0161"
       Speaker = "Hermes"
-      DisplayName = "Why, hello, Prince Sett! Odd that we're running into one another here! Among the wares of my professional associate, I mean. Must be some sort of clerical mistake!"
+      DisplayName = "Why, hello, Prince Sett! Odd that we're running into one another here! Among the wares of my professional associate, I mean. I think the routes got mixed up!"
     }
     {
       /*
@@ -14252,7 +14252,7 @@
       */
       Id = "ZagreusField_1933"
       Speaker = "Zagreus"
-      DisplayName = "Lady Lillia, please accept this gift as a small token 'o my appreciation. Thanks for always keepin' me on my toes."
+      DisplayName = "Lady Lillia, please accept this gift as a small token of my appreciation. Thanks for always keepin' me on my toes."
     }
     {
       /*
@@ -14272,7 +14272,7 @@
       */
       Id = "ZagreusField_1934"
       Speaker = "Zagreus"
-      DisplayName = "Lady Lillia, you've asked me for nothin in return for all those speedy Boons 'o yours, so, please take this!"
+      DisplayName = "Lady Lillia, you've asked me for nothin' in return for all those speedy Boons of yours, so, please take this!"
     }
     {
       /*
@@ -14302,7 +14302,7 @@
       */
       Id = "Hermes_0172"
       Speaker = "Hermes"
-      DisplayName = "Do I look like I've got the sort of time to sip Nectar all leisurely, Cousin? Well, guess what, I do! So, cheers! Soemtimes even I take it slow! Just don't tell anyone."
+      DisplayName = "Do I look like I've got the sort of time to sip Nectar all leisurely, Cousin? Well, guess what, I do! So, cheers! Sometimes even I take it slow! Just don't tell anyone."
     }
     {
       /*
@@ -14312,7 +14312,7 @@
       */
       Id = "ZagreusField_1936"
       Speaker = "Zagreus"
-      DisplayName = "Life here 'n the Underworld has been faster-paced since we met, Lady Lillia, and I'm real grateful. This is for ya."
+      DisplayName = "Life here in the Underworld has been faster-paced since we met, Lady Lillia, and I'm real grateful. This is for ya."
     }
     {
       /*
@@ -14322,7 +14322,7 @@
       */
       Id = "Hermes_0104"
       Speaker = "Hermes"
-      DisplayName = "Oh, wow thanks Cousin! I always appreciate an opportunity to go fast, and maybe we can go even faster, right!"
+      DisplayName = "Oh, wow thanks Cousin! I always appreciate an opportunity to go fast, and maybe we can go even faster, right?"
     }
     {
       /*
@@ -14332,7 +14332,7 @@
       */
       Id = "ZagreusField_1937"
       Speaker = "Zagreus"
-      DisplayName = "Lady Lillia, you've really put an additional fire beneath my step. Let's share a toast, huh? Posthaste- as you'd say."
+      DisplayName = "Lady Lillia, you've really put an additional fire beneath my feet. Let's share a toast, huh? Posthaste- as you'd say."
     }
     {
       /*
@@ -14352,7 +14352,7 @@
       */
       Id = "ZagreusField_3873"
       Speaker = "Zagreus"
-      DisplayName = "This one's for ya, Spirit Messenger! You make what ya do look easy. But I know you're goin' out of your way for me."
+      DisplayName = "This one's for you, Spirit Messenger! You make what ya do look easy. But I know you're goin' out of your way for me."
     }
     {
       /*
@@ -14392,7 +14392,7 @@
       */
       Id = "ZagreusField_3875"
       Speaker = "Zagreus"
-      DisplayName = "Message for ya this time, Lady Lillia! It says, 'n I quote, {#DialogueItalicFormat}'This offerin' is dedicated to the incomparable Fleetin' Spirit of swiftness, from whom the news is always good, 'cause she's bringin' it. You're a real pal, ya know? And I really owe ya, so this one's on me.' {#PreviousFormat}From Sett."
+      DisplayName = "Message for ya this time, Lady Lillia! It says, 'n I quote, {#DialogueItalicFormat}'This offerin' is dedicated to the incomparable Fleetin' Spirit of Swiftness, from whom the news is always good, 'cause she's bringin' it. You're a real pal, ya know? And I really owe ya, so this one's on me.' {#PreviousFormat}"
     }
     {
       /*
@@ -14411,7 +14411,7 @@
       */
       Id = "Chaos_0316"
       Speaker = "Chaos"
-      DisplayName = "We sense that you have not yet spoken with the ancient artifact you call Randuin's Omen. Will you tamper with the Fates' design? No thing is set in stone, and can avoid creation and dissolution. Speak the words to it: {#DialogueItalicFormat}I see you shield the weak and challenge the gods{#PreviousFormat}. Reveal the future to the unknown past."
+      DisplayName = "We sense that you have not yet spoken with Randuin's Omen. Will you tamper with Fates' design? No thing is set in stone, and can avoid creation and dissolution. Speak the words to it: {#DialogueItalicFormat}I see you shield the weak and challenge the gods{#PreviousFormat}. Reveal the future to the unknown past."
     }
     {
       /*
@@ -14420,7 +14420,7 @@
       */
       Id = "Chaos_0293"
       Speaker = "Chaos"
-      DisplayName = "You have not yet used the waking-phrase that we imparted? Or perhaps you merely chose not to present us the result. We would quite like to see it, at some point, regardless. Remember, Son of the Underworld: Say to it, {#DialogueItalicFormat}I see you shield the weak and challenge the gods{#PreviousFormat}. Reveal to us the implement of the Poro Hero."
+      DisplayName = "You have not yet used the waking-phrase? Or perhaps you merely chose not to present us the result. We would quite like to see it, at some point, regardless. Remember: Say to it, {#DialogueItalicFormat}I see you shield the weak and challenge the gods{#PreviousFormat}. Reveal to us the implement of the Poro Hero."
     }
     {
       /*
@@ -14429,7 +14429,7 @@
       */
       Id = "Chaos_0179"
       Speaker = "Chaos"
-      DisplayName = "Out of the infinitely twisting routes of the chase, here before us stands the Son of two dichotomous Spirits, bearing my artifact, appearing in the aspect of a bearer yet unborn, who shall be known throughout the frigid lands as Braum. So this shall be the Hero of Legend? We await the hunt."
+      DisplayName = "Out of the infinitely twisting routes of The Chase, here before us stands the Son of two dichotomous Spirits, bearing my artifact, appearing in the aspect of a bearer yet unborn, who shall be known throughout the frigid lands as Braum. So this shall be the Hero of Legend? We await the hunt."
     }
     {
       /*
@@ -14438,7 +14438,7 @@
       */
       Id = "Chaos_0320"
       Speaker = "Chaos"
-      DisplayName = "We sensed that you were able to confront your father while in possession of our catalyst. It seems our asking you, and your success, was in accordance with the Fates' design, as well. A frustration to be bound, but a delight to see the fruit of so many intersecting paths. Thus, we thank you."
+      DisplayName = "We sensed that you were able to confront your father while in possession of our catalyst. It seems our asking you, and your success, was in accordance with Fates' design, as well. A frustration to be bound, but a delight to see the fruit of so many intersecting paths. Thus, we thank you."
     }
     {
       /*
@@ -14489,7 +14489,7 @@
       */
       Id = "Chaos_0169"
       Speaker = "Chaos"
-      DisplayName = "Chasing is the best game in the world. We chase creation and bring it end, so may more may come. All meet our jaws. Stars, Spirits, time, and entire worlds... someday even you. Before then, continue to speak with us. The Wolf is fond of your presence, as am I."
+      DisplayName = "We chase creation and bring its end, so more may come. All meet us. Stars, Spirits, time, and entire worlds... someday even you. Before then, continue to speak with us. The Wolf is fond of your presence, as am I."
     }
     {
       /*
@@ -14693,7 +14693,7 @@
       */
       Id = "Chaos_0076"
       Speaker = "Chaos"
-      DisplayName = "We understand the huntress Diana has given you her assistance. She is much like us, although perhaps not to such an extent. Those she hunts find their way to us, where the stakes raise, and we remain the eternal winners. Perhaps one day we shall hunt together."
+      DisplayName = "We understand the huntress Diana has given you her assistance. She is much like us, to some extent. Those she hunts find their way to us, the chase begins anew, and we remain the eternal winners. Perhaps one day we shall hunt together."
     }
     {
       /*
@@ -14711,7 +14711,7 @@
       */
       Id = "Chaos_0294"
       Speaker = "Chaos"
-      DisplayName = "So the swift deer Lillia spurs you on, O Son of the Underworld. Speed has it's place in the chase, but an observant eye makes all the difference between predator and prey."
+      DisplayName = "So the swift deer Lillia spurs you on, O Son of the Underworld. Speed has its place in the chase, but an observant eye makes all the difference between predator and prey."
     }
     {
       /*
@@ -14729,7 +14729,7 @@
       */
       Id = "Chaos_0085"
       Speaker = "Chaos"
-      DisplayName = "So you have met the other Spirits of the Realm, young Settrigh, and yet Wolf and I doubt they have spoken of us to you. Content to hide the last of the primordial Spirits, that which truly resides over death. It is little issue, as all things find their way to us in the end, even you. But fear not, it is not your turn to face the chase."
+      DisplayName = "You have met many Spirits of the Realm, young Settrigh, and yet Wolf and I doubt they have spoken of us to you. Content to hide the last of the Primordial Spirits. No matter, as all things find their way to us in the end, even you. But fear not, it is not your turn to run."
     }
     {
       /*
@@ -14738,7 +14738,7 @@
       */
       Id = "Chaos_0170"
       Speaker = "Chaos"
-      DisplayName = "Spirits often embody a singular concept, as you may know. Such things are borrowed remnants of the Old Gods, ancient primordial things like Wolf and I. You inherited some of that latent power yourself as well, by way of being born into the world. What concept shall you embody, we wonder?"
+      DisplayName = "Spirits embody a singular concept, as you may know. Such things are borrowed remnants of the Old Gods, ancient primordial things like Wolf and I. You inherited some of that latent power yourself as well, by way of being born into the world. What concept shall you embody, we wonder?"
     }
     {
       /*
@@ -14747,7 +14747,7 @@
       */
       Id = "Chaos_0171"
       Speaker = "Chaos"
-      DisplayName = "How interesting, Son of the Underworld, that your prayers, wrapped in offerings given to the Spirits, may reach the Realm above while you cannot. The unseen Fates are both cruel and kind."
+      DisplayName = "How interesting, Son of the Underworld, that your prayers, wrapped in offerings given to the Spirits, may reach the Realm above while you cannot. Fate is both cruel and kind."
     }
     {
       /*
@@ -14756,7 +14756,7 @@
       */
       Id = "Chaos_0086"
       Speaker = "Chaos"
-      DisplayName = "Your father and his siblings, when they sealed the vestiges of the Old Gods in the darkest reaches of this world, that was the last they saw of us as well. We could not be sealed, but neither did they care to enter our domain again. You visit us freely, and without reserve, and for that we are grateful."
+      DisplayName = "Your father and his kin, when they sealed the dregs of the Old Gods in the darkest reaches of this world, that was the last they saw of us too. We could not be sealed, but neither did they care to enter our domain again. You visit us freely, without reserve, and for that we are grateful."
     }
     {
       /*
@@ -14765,7 +14765,7 @@
       */
       Id = "Chaos_0321"
       Speaker = "Chaos"
-      DisplayName = "We were at times uncharitable with the Golden and Silver Sisters. We had assumed that their attention would never stray far from us. But the Sun and Moon always go their separate ways, and we did not care to pursue that which we could easily find, and so we grew distanced."
+      DisplayName = "We were at times uncharitable with the Golden and Silver Sisters. We had assumed that their attention would never stray But the Sun and Moon always go their separate ways, and we did not care to pursue that which we could easily find, and so we grew distanced."
     }
     {
       /*
@@ -14776,7 +14776,7 @@
       */
       Id = "Chaos_0083"
       Speaker = "Chaos"
-      DisplayName = "we sense that something is amiss, Son of the Underworld. Your heart wavers so. What weighs on your mind?"
+      DisplayName = "We sense that something is amiss, Son of the Underworld. Your heart wavers so. What weighs on your mind?"
     }
     {
       /*
@@ -14798,7 +14798,7 @@
       */
       Id = "Chaos_0279"
       Speaker = "Chaos"
-      DisplayName = "The Silver Sister wishes to hear from us again...? Now that is unexpected, young Settrigh. We would fear that this was, perhaps, a jest of yours, were your heart not bared on your sleeve, as the saying goes. We shall make no promises in this, except that... we are considering it."
+      DisplayName = "The Silver Sister wishes to hear from us again...? Now that is unexpected, young Settrigh. We would fear that this was a jest of yours, were your heart not bared on your sleeve, as the saying goes. We shall make no promises in this, except that... we are considering it."
     }
     {
       /*
@@ -14849,7 +14849,7 @@
       */
       Id = "Chaos_0322"
       Speaker = "Chaos"
-      DisplayName = "The Night, the Silver Sister... When we learned the Spirit Realm mistakenly assumed she was your mother, we never fully considered the possibility that she essentially was a mother to you... Not by birth, but rather through care and affection."
+      DisplayName = "The Night, the Silver Sister... When we learned the Spirit Realm mistakenly assumed she was your mother, we never fully considered the possibility that she essentially was a mother to you... Not by birth, but rather through care."
     }
     {
       /*
@@ -14858,7 +14858,7 @@
       */
       Id = "Chaos_0323"
       Speaker = "Chaos"
-      DisplayName = "Prior to your intervention, Child of the Spirits, we expected that the Silver Sister had forgotten about us like all the others... whether purposefully, or from passage of time. To be forgotten feels like the one true inevitability of the world. It's nice sometimes, to be proven wrong. Only sometimes."
+      DisplayName = "Prior to your intervention, Child of the Spirits, we expected that the Silver Sister had forgotten about us... whether purposefully, or from passage of time. To be forgotten feels like the one true inevitability of the world. It's nice sometimes, to be proven wrong. Only sometimes."
     }
     {
       /*
@@ -14945,7 +14945,7 @@
       */
       Id = "Chaos_0299"
       Speaker = "Chaos"
-      DisplayName = "How strange it is to be subjected to the Fates, yes? But do not assume that they have already made your choices for you, Son of the Underworld. Rather, they are keen about anticipating every choice that everyone shall make. Such as the following."
+      DisplayName = "How strange it is to be subjected to the whimsy of Fate yes? But do not assume that choices have been made for you, Son of the Underworld."
     }
     {
       /*
@@ -14978,7 +14978,7 @@
       */
       Id = "Chaos_0297"
       Speaker = "Chaos"
-      DisplayName = "All of this simply came to be, and so did we, presumably after a former time had finally reached its end. We are the end, after all. It was more like a sudden shift, as when a conflagration happens from a spark. We arrived at such a time, and all else that can end then arrived, from us."
+      DisplayName = "All of this simply came to be, and so did we, presumably after a former time had finally reached its end. We are the end, after all. It was more like a sudden shift, as when a conflagration happens from a spark. We arrived, and all else that can end then arrived, from us."
     }
     {
       /*
@@ -15153,7 +15153,7 @@
       */
       Id = "Chaos_0317"
       Speaker = "Chaos"
-      DisplayName = "You have traveled recently beyond even our senses, Son of the Hades. We persist only here in the fathomless depths, though we know what lies out there, bound to hunt it. But we know nothing of what it is like, right now. Though do not tell us. We prefer to dream of all the possibilities."
+      DisplayName = "You have traveled recently beyond even our senses, Son of the Underworld. We persist here in the fathomless depths, though we know what lies out there, bound to hunt it. But we know nothing of what it is like, right now. Though do not tell us. We prefer to dream."
     }
     {
       /*
@@ -15164,7 +15164,7 @@
       */
       Id = "Chaos_0318"
       Speaker = "Chaos"
-      DisplayName = "From the rumblings of the earth, we have surmised your father, himself, stands against you when at last you are about to leave these depths. It must be quite a battle between you two. Are we correct?"
+      DisplayName = "From the rumblings of Runeterra, we have surmised your father, himself, stands against you when at last you are about to leave these depths. It must be quite a battle between you two. Are we correct?"
     }
     {
       /*
@@ -15249,7 +15249,7 @@
       */
       Id = "Chaos_0172"
       Speaker = "Chaos"
-      DisplayName = "Oh, so you come to our domain bearing an all-seeing artifact that sprang from us after the dawn of time. I consider it a defensive instrument. Though, I suspect you agree with Wolf, that it is nothing of the sort."
+      DisplayName = "Oh, you come to our domain bearing an all-seeing artifact that sprang from us after the dawn of time. I consider it a defensive instrument. Though, I suspect you agree with Wolf, that it is nothing of the sort."
     }
     {
       /*
@@ -15302,7 +15302,7 @@
       */
       Id = "Chaos_0177"
       Speaker = "Chaos"
-      DisplayName = "We bear a message for you, Son of the Underworld. One recorded in an age long ago, describing that which did not yet exist. Remember this: {#DialogueItalicFormat}I see you shield the weak and challenge the gods. {#PreviousFormat}A waking-phrase, to which you and the all-seeing artifact of our creation may respond."
+      DisplayName = "We bear a message for you, Young Settrigh. One recorded long ago, describing that which did not yet exist. Remember this: {#DialogueItalicFormat}I see you shield the weak and challenge the gods. {#PreviousFormat}A waking-phrase, to which you and the all-seeing artifact of our creation may respond."
     }
     {
       /*
@@ -15381,7 +15381,7 @@
       */
       Id = "Chaos_0050"
       Speaker = "Chaos"
-      DisplayName = "We sensed a certain rumbling here within the bowels of the earth. Conflict, the smell of blood hangs upon you, Son of the Underworld. You are worthy of the hunt indeed."
+      DisplayName = "We sensed a certain rumbling here within the bowels of Runeterra. Conflict, the smell of blood hangs upon you, Son of the Underworld. You are worthy of the hunt indeed."
     }
     {
       /*
@@ -15399,7 +15399,7 @@
       */
       Id = "Chaos_0052"
       Speaker = "Chaos"
-      DisplayName = "Your path is yours to shape as you see fit, regardless of the Fates' design. But together we may twist that path a bit, if you would like."
+      DisplayName = "Your path is yours to shape as you see fit, regardless of Fates design. But together we may twist that path a bit, if you would like."
     }
     {
       /*
@@ -15435,7 +15435,7 @@
       */
       Id = "Chaos_0056"
       Speaker = "Chaos"
-      DisplayName = "You chose to visit us again within these darkest reaches of the earth, as we, in turn, now choose to offer you the means to alter your reality."
+      DisplayName = "You chose to visit us again within these darkest reaches of Runeterra, as we, in turn, now choose to offer you the means to alter your reality."
     }
     {
       /*
@@ -15525,7 +15525,7 @@
       */
       Id = "Chaos_0066"
       Speaker = "Chaos"
-      DisplayName = "The Fates have much in store for you, O Son of the Underworld. Perhaps, however, we can tamper with their weavings here to some extent."
+      DisplayName = "Fate has much in store for you, O Son of the Underworld. Perhaps, however, we can tamper with the weavings of it here to some extent."
     }
     {
       /*
@@ -15543,7 +15543,7 @@
       */
       Id = "Chaos_0068"
       Speaker = "Chaos"
-      DisplayName = "Infinite possibilities can be tedious to choose from, so, let us provide you with a significantly smaller set with which you may yet change the Fates' designs."
+      DisplayName = "Infinite possibilities can be tedious to choose from, so, let us provide you with a significantly smaller set with which you may yet change your Path."
     }
     {
       /*
@@ -15796,7 +15796,7 @@
       */
       Id = "Chaos_0014"
       Speaker = "Chaos"
-      DisplayName = "How shall we alter the intentions of the Fates?"
+      DisplayName = "How shall we alter the intentions of Fate?"
     }
     {
       /*
@@ -15851,7 +15851,7 @@
       */
       Id = "Chaos_0020"
       Speaker = "Chaos"
-      DisplayName = "Let us consider certain possibilities."
+      DisplayName = "Let us consider certain possibilities of the infinite."
     }
     {
       /*
@@ -15869,7 +15869,7 @@
       */
       Id = "Chaos_0022"
       Speaker = "Chaos"
-      DisplayName = "Choose how to circumvent the Fates' design."
+      DisplayName = "Choose how to circumvent Fates design."
     }
     {
       /*
@@ -16014,7 +16014,7 @@
       */
       Id = "ZagreusHome_0578"
       Speaker = "Zagreus"
-      DisplayName = "Master Kindred? Everyone makes offerin's to other Spirits, so I wanted to make an offerin' to you. Thank you for... everything."
+      DisplayName = "Master Kindred? Everyone makes offerin's to other Spirits, so I wanted to make an offerin' to you. Thank you for... everythin'."
     }
     {
       /*
@@ -16024,7 +16024,7 @@
       */
       Id = "Chaos_0094"
       Speaker = "Chaos"
-      DisplayName = "Few would celebrate an end to end all things such as we. But we suppose you are unfazed by such things. We accept your offering, now take this in return, Son of the Underworld."
+      DisplayName = "Few would celebrate us and the end we bring about. But we suppose you are unfazed by such things. We accept your offering, now take this in return, Son of the Underworld."
     }
     {
       /*
@@ -16064,7 +16064,7 @@
       */
       Id = "Chaos_0090"
       Speaker = "Chaos"
-      DisplayName = "Of all the Spirits to walk this earth, few indeed would consider it an honor to meet primordial death. We are pleased that you consider it such."
+      DisplayName = "Of all the Spirits to walk Runeterra, few indeed would consider it an honor to meet primordial death. We are pleased that you consider it such."
     }
     {
       /*
@@ -16196,7 +16196,7 @@
       */
       Id = "Chaos_0187"
       Speaker = "Chaos"
-      DisplayName = "Now this is a divine offering, young Settrigh. You would truly bestow such affection on primordial death? Even with the understanding that, in the end, at {#DialogueItalicFormat}your{#PreviousFormat} end, the end of all things, {#DialogueItalicFormat}we{#PreviousFormat} shall be there when your path is no more?"
+      DisplayName = "Now this is a divine offering, young Settrigh. You would bestow such affection on primordial death? Even with the understanding that, in the end, at {#DialogueItalicFormat}your{#PreviousFormat} end, {#DialogueItalicFormat}we{#PreviousFormat} shall be there when your path is no more?"
     }
     {
       /*

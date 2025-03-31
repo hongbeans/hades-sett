@@ -48,7 +48,7 @@
       */
       Id = "Storyteller_0198"
       Speaker = "Storyteller"
-      DisplayName = "{#DialogueItalicFormat}Hidden well within the limitless inferno of the river Phlegethon, somehow, a trickle of life-giving water yet remains; as though provided by the Fates themselves unto the very lucky Prince."
+      DisplayName = "{#DialogueItalicFormat}Hidden well within the limitless inferno of the river Phlegethon, somehow, a trickle of life-giving water yet remains; as though provided by fate itself unto the very lucky Prince."
     }
     {
       /*
@@ -72,11 +72,11 @@
       /*
         Event: Inspect_B_Story_01_01
         Storyteller: 
-        Storyteller: {#DialogueItalicFormat}From within a humble residence in Asphodel reverberates the golden-sounding music of lorn Yone, who, along with his brother, once attempted to escape the Underworld, and failed, utterly, much like Prince Settrigh.
+        Storyteller: {#DialogueItalicFormat}From within a humble residence in Asphodel reverberates the golden-sounding music of lorn Yone, whose brother once attempted to broker a soul's escape from the Underworld, and failed, utterly, much like Prince Settrigh.
       */
       Id = "Storyteller_0275"
       Speaker = "Storyteller"
-      DisplayName = "{#DialogueItalicFormat}From within a humble residence in Asphodel reverberates the golden-sounding music of forlorn Yone, who, along with his brother, once attempted to escape the Underworld, and failed, utterly, much like Prince Settrigh."
+      DisplayName = "{#DialogueItalicFormat}From within a humble residence in Asphodel reverberates the melancholic music of forlorn Yone, who, along with his brother, once attempted to escape the Underworld, and failed, utterly, much like Prince Settrigh."
     }
   ]
 }

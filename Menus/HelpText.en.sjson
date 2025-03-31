@@ -437,7 +437,7 @@
     }
     {
       Id = "ArtemisUpgrade_FlavorText01"
-      DisplayName = "the moon-bathed Sprit of the hunt has never known an equal."
+      DisplayName = "the moon-bathed Sprit of the Hunt has never known an equal."
     }
     {
       Id = "ArtemisUpgrade_FlavorText02"
@@ -5714,7 +5714,7 @@
     }
     {
       Id = "ClearedCerberus_P_Subtitle"
-      DisplayName = "Their Meal in Three Bites"
+      DisplayName = "Their Meal in Two Gulps"
     }
     {
       Id = "ClearedCerberus_Q_Title"
@@ -5793,11 +5793,11 @@
     }
     {
       Id = "ShrinePointStatue_Unlocked_Subtitle_01"
-      DisplayName = "Amumu Leaving the Bath"
+      DisplayName = "Amumu, Just Vibing"
     }
     {
       Id = "ShrinePointStatue_Unlocked_Subtitle_02"
-      DisplayName = "Amumu's Last Lamentations"
+      DisplayName = "Amumu's Interpretive Dance"
     }
     {
       Id = "ShrinePointStatue_Unlocked_Subtitle_03"
@@ -7521,18 +7521,18 @@
     /* Ghost Admin / Cosmetic Items / Cosmetics */
     {
       Id = "HousePoster01"
-      DisplayName = "Wall-Scroll, Achilles"
-      Description = "{$Keywords.Decor}: Features a likeness of the greatest of the Greeks."
+      DisplayName = "Wall-Scroll, Heartsteel"
+      Description = "{$Keywords.Decor}: Features the likeness of Rockstars."
     }
     {
       Id = "HousePoster02"
-      DisplayName = "Wall-Scroll, Aphrodite"
-      Description = "{$Keywords.Decor}: Features the goddess of love and beauty herself."
+      DisplayName = "Wall-Scroll, KDA Ahri"
+      Description = "{$Keywords.Decor}: Features the likeness of a Pop-star."
     }
     {
       Id = "HousePoster05"
-      DisplayName = "Wall-Scroll, Dionysus"
-      Description = "{$Keywords.Decor}: Features the jubilant and carefree god of wine."
+      DisplayName = "Painting, Gentle Death"
+      Description = "{$Keywords.Decor}: Features the likeness of the beautiful Death Incarnate."
     }
     {
       Id = "HouseDagger01"
@@ -7552,7 +7552,7 @@
     {
       Id = "HouseWeights01"
       DisplayName = "Weights, Massive"
-      Description = "{$Keywords.Decor}: Remains firmly rooted, no matter one's strength."
+      Description = "{$Keywords.Decor}: Remains firmly rooted, no matter one's gains."
     }
     {
       Id = "HouseRug03B"
@@ -7629,34 +7629,34 @@
     }
     {
       Id = "Cosmetic_NorthHallPaintingFury"
-      DisplayName = "Painting, Fury Sisters"
-      Description = "{$Keywords.Cosmetic}: Depicts the Chosen in a rare simultaneous appearance."
+      DisplayName = "Portrait, Alune"
+      Description = "{$Keywords.Cosmetic}: Depicts the likeness of a Twin Spirit of Night."
     }
     {
       Id = "Cosmetic_NorthHallPaintingHades"
-      DisplayName = "Painting, God of the Dead"
-      Description = "{$Keywords.Cosmetic}: Depicts the likeness of the Old Timer himself."
+      DisplayName = "Painting, Sweet Repose"
+      Description = "{$Keywords.Cosmetic}: Depicts a tender moment between soulmates."
     }
     {
       Id = "Cosmetic_NorthHallPaintingTheseus"
-      DisplayName = "Portrait, Exalted Hero"
-      Description = "{$Keywords.Cosmetic}: Depicts the likeness of the champion of Elysium."
+      DisplayName = "Painting, Lovers"
+      Description = "{$Keywords.Cosmetic}: Depicts two lovers by a window."
     }
     {
       Id = "Cosmetic_NorthHallPaintingMysteryGirl"
-      DisplayName = "Portrait, Princess"
-      Description = "{$Keywords.Cosmetic}: Depicts the likeness of an Ionian princess."
+      DisplayName = "Portrait, Gentle Death"
+      Description = "{$Keywords.Cosmetic}: Depicts the likeness of a Twin Spirit of Night."
     }
     {
       Id = "Cosmetic_NorthHallPaintingTots"
-      DisplayName = "Portrait, Truffle and Southpaw"
-      Description = "{$Keywords.Cosmetic}: Depicts the badger spirits in their prime."
+      DisplayName = "Painting, Moon Hidden"
+      Description = "{$Keywords.Cosmetic}: Depicts friends fated to be lovers."
     }
 
     {
       Id = "Cosmetic_LoungePaintingSkelly"
-      DisplayName = "Painting, Skeletal"
-      Description = "{$Keywords.Cosmetic}: Depicts a skeleton enjoying the afterlife."
+      DisplayName = "Painting, Water Scene"
+      Description = "{$Keywords.Cosmetic}: Depicts two lovers running into the water."
     }
     {
       Id = "Cosmetic_NorthHallMirror"
@@ -8469,18 +8469,18 @@
     }
     {
       Id = "MusicMusicPlayerOrpheusSong1MusicPlayer"
-      DisplayName = "Lament of Yasuo"
+      DisplayName = "The Lament"
       Description = "{$Keywords.MusicSheet}: The court-musician's regrets captured in song form."
     }
     {
       Id = "MusicMusicPlayerOrpheusSong2MusicPlayer"
-      DisplayName = "Hymn to Settrigh"
-      Description = "{$Keywords.MusicSheet}: Ballad of the Prince of the Underworld's exploits."
+      DisplayName = "What The Moon Hides"
+      Description = "{$Keywords.MusicSheet}: Ballad capturing a fated love story."
     }
     {
       Id = "MusicMusicPlayerEurydiceSong1MusicPlayer"
-      DisplayName = "Good Riddance"
-      Description = "{$Keywords.MusicSheet}: A rousing celebration of the afterlife."
+      DisplayName = "Final Duel"
+      Description = "{$Keywords.MusicSheet}: A lament of the past, or wishes for the future?"
     }
     {
       Id = "MusicMusicPlayerPersephoneThemeMusicPlayer"
@@ -8901,7 +8901,7 @@
     {
       Id = "MirrorUpgrades"
       DisplayName = "Dark Reflections"
-      Description = "The son of the god of the dead shall someday break free from the realm in which he was born while influenced by all the many Talents revealed in him by the Mirror of Night."
+      Description = "The son of the God of the Dead shall someday break free from the realm in which he was born while influenced by all the many Talents revealed in him by the Mirror of Night."
     }
     {
       Id = "SkellyTrueDeath"
@@ -8919,7 +8919,7 @@
     {
       Id = "NyxChaosReunion"
       DisplayName = "Night and Darkness"
-      Description = "The son of the god of the dead shall make certain attempts to aid the Silver Sister, who through course of time has grown far apart from Kindred, her parent and origin of all things."
+      Description = "The son of the God of the Dead shall make certain attempts to aid the Silver Sister, who through course of time has grown far apart from Kindred, her parent and origin of all things."
     }
     {
       Id = "NyxInChaos01"
@@ -8928,7 +8928,7 @@
     {
       Id = "SisyphusLiberation"
       DisplayName = "End to Torment"
-      Description = "The son of the god of the dead shall make certain attempts to aid the shade of a gravedigger, forced to toil eternally, hefting his shovel in Tartarus."
+      Description = "The son of the God of the Dead shall make certain attempts to aid the shade of a gravedigger, forced to toil eternally, hefting his shovel in Tartarus."
     }
     {
       Id = "SisyphusLiberationQuestComplete"
@@ -8937,7 +8937,7 @@
     {
       Id = "OrpheusRelease"
       DisplayName = "The Reluctant Musician"
-      Description = "The son of the god of the dead shall someday commute a master musician's sentence to solitary confinement in Tartarus."
+      Description = "The son of the God of the Dead shall someday commute a master musician's sentence to solitary confinement in Tartarus."
     }
     {
       Id = "OrpheusFirstMeeting"
@@ -8946,7 +8946,7 @@
     {
       Id = "OrpheusEurydiceReunion"
       DisplayName = "Fated Brothers"
-      Description = "The son of the god of the dead shall make certain attempts to aid a master musician who once failed to negotiate his deceased brother out of the Underworld."
+      Description = "The son of the God of the Dead shall make certain attempts to aid a master musician who once failed to negotiate his deceased brother out of the Underworld."
     }
     {
       Id = "OrpheusAboutSingersReunionQuest01"
@@ -8955,7 +8955,7 @@
     {
       Id = "AchillesPatroclusReunion_A"
       DisplayName = "Divided by Death"
-      Description = "The son of the god of the dead shall make certain attempts to aid a great warrior who gave up her exalted place in the Underworld for the one she loves."
+      Description = "The son of the God of the Dead shall make certain attempts to aid a great warrior who gave up her exalted place in the Underworld for the one she loves."
     }
     {
       Id = "AchillesPatroclusReunion_B"
@@ -8972,7 +8972,7 @@
     {
       Id = "DusaLoungeRenovation"
       DisplayName = "A Place of Revelry"
-      Description = "The son of the god of the dead shall make certain attempts to aid a tireless yordle, assigned to bring part of the House to the height of splendor."
+      Description = "The son of the God of the Dead shall make certain attempts to aid a whimsical yordle, assigned to bring part of the House to the height of splendor."
     }
     {
       Id = "DusaLoungeRenovationQuestComplete"
@@ -9035,7 +9035,7 @@
     {
       Id = "ChaosKeepsakeEscape"
       DisplayName = "Amusing Kindred"
-      Description = "The son of the god of the dead shall someday overcome his own father while in possession of a gift from our primordial originator, Kindred."
+      Description = "The son of the God of the Dead shall someday overcome his own father while in possession of a gift from our primordial originator, Kindred."
     }
     {
       Id = "LordHadesChaosSurfaceQuestDefeat01"
@@ -9044,7 +9044,7 @@
     {
       Id = "PoseidonBeatTheseus"
       DisplayName = "Sea-Spirit's Spite"
-      Description = "The son of the god of the dead shall someday overcome the Spirit of Obsession under the effect of Pact's 'Extreme Measures' Condition, until the goddess of the sea is aware."
+      Description = "The son of the God of the Dead shall someday overcome the Spirit of Obsession under the effect of Pact's 'Extreme Measures' Condition, until the goddess of the sea is aware."
     }
     {
       Id = "PoseidonBeatTheseusQuestComplete"
@@ -9053,7 +9053,7 @@
     {
       Id = "AresEarnKills"
       DisplayName = "War-God's Bloodlust"
-      Description = "The son of the god of the dead shall someday single-handedly vanquish entire legions of the dead, such that even the Spirit of War cannot help but be impressed."
+      Description = "The son of the God of the Dead shall someday single-handedly vanquish entire legions of the dead, such that even the Spirit of War cannot help but be impressed."
     }
     {
       Id = "AresKillQuestComplete"
@@ -9062,7 +9062,7 @@
     {
       Id = "HermesBeatCharon"
       DisplayName = "A Friendly Wager"
-      Description = "The son of the god of the dead shall someday overcome the Stygian Boatman in two successive battles against him, at the urging of the Fleeting Spirit."
+      Description = "The son of the God of the Dead shall someday overcome the Stygian Boatman in two successive battles against him, at the urging of the Fleeting Spirit."
     }
     {
       Id = "BossCharonHermesQuestComplete01"
@@ -9071,7 +9071,7 @@
     {
       Id = "MusicLessons"
       DisplayName = "The Gift of Song"
-      Description = "The son of the god of the dead shall someday learn to perform music halfway decently through the teachings of a solemn master of the art."
+      Description = "The son of the God of the Dead shall someday learn to perform music halfway decently through the teachings of a solemn master of the art."
     }
     {
       Id = "OrpheusMusicProgress04"
@@ -9080,7 +9080,7 @@
     {
       Id = "PoseidonFish"
       DisplayName = "Denizens of the Deep"
-      Description = "The son of the god of the dead shall someday catch a significant number of river-dwelling denizens, including an unusually rare species, impressing Lady Nami."
+      Description = "The son of the God of the Dead shall someday catch a significant number of river-dwelling denizens, including an unusually rare species, impressing Lady Nami."
     }
     {
       Id = "PoseidonFishQuestComplete"
@@ -9089,12 +9089,12 @@
     {
       Id = "WellShopItems"
       DisplayName = "Customer Loyalty"
-      Description = "The son of the god of the dead shall someday purchase each of the various goods sometimes offered in the Well of Karthus."
+      Description = "The son of the God of the Dead shall someday purchase each of the various goods sometimes offered in the Well of Karthus."
     }
     {
       Id = "EpilogueSetUp"
       DisplayName = "The Queen's Plan"
-      Description = "The son of the god of the dead shall someday inspire Queen Lihua to develop a plan that might settle the score between the House of the Dead and the Spirit Realm."
+      Description = "The son of the God of the Dead shall someday inspire Queen Lihua to develop a plan that might settle the score between the House of the Dead and the Spirit Realm."
     }
     {
       Id = "PersephoneAboutOlympianReunionQuest01"
@@ -9103,7 +9103,7 @@
     {
       Id = "OlympianReunion"
       DisplayName = "Family Reunion"
-      Description = "The son of the god of the dead shall someday deliver Queen Lihua's personalized invitations to each Spirit, so they might gather for a significant announcement."
+      Description = "The son of the God of the Dead shall someday deliver Queen Lihua's personalized invitations to each Spirit, so they might gather for a significant announcement."
     }
     {
       Id = "ZeusAboutOlympianReunionQuest01"
@@ -10255,7 +10255,7 @@
     {
       Id = "NPC_FurySister_03"
       DisplayName = "Cassiopeia"
-      Description = "Bane of Murderers and Betrayers"
+      Description = "Bane of Murderers & Betrayers"
     }
     {
       Id = "NPC_FurySister_Unnamed_03"
@@ -10274,7 +10274,7 @@
     {
       Id = "NPC_Charon_01"
       DisplayName = "Karthus"
-      Description = "Stygian Boatman"
+      Description = "Eloquent Boatman"
     }
     {
       Id = "Charon"
@@ -10282,7 +10282,7 @@
     }
     {
       Id = "Charon_Full"
-      DisplayName = "Karthus, Stygian Boatman"
+      DisplayName = "Karthus, Eloquent Boatman"
     }
     {
       Id = "NPC_Orpheus_01"
@@ -10310,7 +10310,7 @@
     {
       Id = "Sisyphus"
       DisplayName = "Yorick"
-      Description = "He cheated Death, and for that he was sentenced to an eternity of gravedigging in Tartarus."
+      Description = "He cheated Death, and for that he was sentenced to an eternity of gravedigging in Hell."
     }
     {
       Id = "NPC_Bouldy_01"
@@ -10439,7 +10439,7 @@
     }
     {
       Id = "EndingComplete"
-      DisplayName = "QUEEN RETURNED"
+      DisplayName = "MA'S HOME!"
     }
     {
       Id = "EpilogueComplete"
@@ -10497,7 +10497,7 @@
     }
     {
       Id = "Remembrance_Olympus"
-      DisplayName = "olympus"
+      DisplayName = "spirit realm"
     }
     {
       Id = "Remembrance_Curse"
@@ -12144,17 +12144,17 @@
     /* legendary keepsakes - companions */
     {
       Id = "FuryAssistTrait_Rack"
-      DisplayName = "Companion Spirit Blossom"
+      DisplayName = "Companion Blossom"
       Description = "Your {$Keywords.Assist} deals {#AltUpgradeFormat}{$TooltipData.TooltipDamage} {#PreviousFormat}damage in an area near your closest foe, then continually down the line. \n\n {#BoldFormat}{$Keywords.Assist}{#PreviousFormat}: Press {AS} for a quick assist from a friend {#ItalicFormat}(once per {$Keywords.EncounterAlt}). {#PreviousFormat}{#BoldFormat}Max Uses {#PreviousFormat}{#ItalicFormat}(per Escape): {#PreviousFormat}{#AltUpgradeFormat}{$TooltipData.TooltipKeepsakeUses}{#PreviousFormat} \n\n {#AwardFlavorFormat}{$TooltipData.SignoffText}"
     }
     {
       Id = "FuryAssistTrait_Delta"
-      DisplayName = "Companion Spirit Blossom"
+      DisplayName = "Companion Blossom"
       Description = "Your {$Keywords.Assist} deals {#AltUpgradeFormat}{$TooltipData.TooltipDamage} {#PreviousFormat}damage in an area near your closest foe, then continually down the line. \n\n {#BoldFormat}{$Keywords.Assist}{#PreviousFormat}: Press {AS} for a quick assist from a friend {#ItalicFormat}(once per {$Keywords.EncounterAlt}). {#PreviousFormat}{#BoldFormat}Max Uses {#PreviousFormat}{#ItalicFormat}(per Escape): {#PreviousFormat}{#AltUpgradeFormat}{$TooltipData.DisplayDelta1}{#PreviousFormat} \n\n {#AwardFlavorFormat}{$TooltipData.SignoffText}"
     }
     {
       Id = "FuryAssistTrait"
-      DisplayName = "Companion Spirit Blossom"
+      DisplayName = "Companion Blossom"
       Description = "Your {$Keywords.Assist} deals {#AltUpgradeFormat}{$TooltipData.TooltipDamage} {#PreviousFormat}damage in an area near your closest foe, then continually down the line."
     }
     {
@@ -12174,62 +12174,62 @@
     }
     {
       Id = "SisyphusAssistTrait_Rack"
-      DisplayName = "Companion Shady"
+      DisplayName = "Companion Ghoulie"
       Description = "Your {$Keywords.Assist} deals {#AltUpgradeFormat}{$TooltipData.TooltipDamage} {#PreviousFormat}damage in an area, and drops a smattering of {!Icons.HealthRestore_Small}, {!Icons.MetaPoint_Small}, and {!Icons.Currency_Small}. \n\n {#BoldFormat}{$Keywords.Assist}{#PreviousFormat}: Press {AS} for a quick assist from a friend {#ItalicFormat}(once per {$Keywords.EncounterAlt}). {#PreviousFormat}{#BoldFormat}Max Uses {#PreviousFormat}{#ItalicFormat}(per Escape): {#PreviousFormat}{#AltUpgradeFormat}{$TooltipData.TooltipKeepsakeUses}{#PreviousFormat} \n\n {#AwardFlavorFormat}{$TooltipData.SignoffText}"
     }
     {
       Id = "SisyphusAssistTrait_Delta"
-      DisplayName = "Companion Shady"
+      DisplayName = "Companion Ghoulie"
       Description = "Your {$Keywords.Assist} deals {#AltUpgradeFormat}{$TooltipData.TooltipDamage} {#PreviousFormat}damage in an area, and drops a smattering of {!Icons.HealthRestore_Small}, {!Icons.MetaPoint_Small}, and {!Icons.Currency_Small}. \n\n {#BoldFormat}{$Keywords.Assist}{#PreviousFormat}: Press {AS} for a quick assist from a friend {#ItalicFormat}(once per {$Keywords.EncounterAlt}). {#PreviousFormat}{#BoldFormat}Max Uses {#PreviousFormat}{#ItalicFormat}(per Escape): {#PreviousFormat}{#AltUpgradeFormat}{$TooltipData.DisplayDelta1}{#PreviousFormat} \n\n {#AwardFlavorFormat}{$TooltipData.SignoffText}"
     }
     {
       Id = "SisyphusAssistTrait"
-      DisplayName = "Companion Shady"
+      DisplayName = "Companion Ghoulie"
       Description = "Your {$Keywords.Assist} deals {#AltUpgradeFormat}{$TooltipData.TooltipDamage} {#PreviousFormat}damage in an area, and drops a smattering of {!Icons.HealthRestore_Small}, {!Icons.MetaPoint_Small}, and {!Icons.Currency_Small}."
     }
     {
       Id = "SkellyAssistTrait_Rack"
-      DisplayName = "Companion Rib"
+      DisplayName = "Companion Mimi"
       Description = "Your {$Keywords.Assist} creates a distraction with {#AltUpgradeFormat}{$TooltipData.TooltipHealth}{#PreviousFormat}{!Icons.KEnemyHealth_Small}, provoking your foes to attack it until it dies. \n\n {#BoldFormat}{$Keywords.Assist}{#PreviousFormat}: Press {AS} for a quick assist from a friend {#ItalicFormat}(once per {$Keywords.EncounterAlt}). {#PreviousFormat}{#BoldFormat}Max Uses {#PreviousFormat}{#ItalicFormat}(per Escape): {#PreviousFormat}{#AltUpgradeFormat}{$TooltipData.TooltipKeepsakeUses}{#PreviousFormat} \n\n {#AwardFlavorFormat}{$TooltipData.SignoffText}"
     }
     {
       Id = "SkellyAssistTrait_Delta"
-      DisplayName = "Companion Rib"
+      DisplayName = "Companion Mimi"
       Description = "Your {$Keywords.Assist} creates a distraction with {#AltUpgradeFormat}{$TooltipData.TooltipHealth}{#PreviousFormat}{!Icons.KEnemyHealth_Small}, provoking your foes to attack it until it dies. \n\n {#BoldFormat}{$Keywords.Assist}{#PreviousFormat}: Press {AS} for a quick assist from a friend {#ItalicFormat}(once per {$Keywords.EncounterAlt}). {#PreviousFormat}{#BoldFormat}Max Uses {#PreviousFormat}{#ItalicFormat}(per Escape): {#PreviousFormat}{#AltUpgradeFormat}{$TooltipData.DisplayDelta1}{#PreviousFormat} \n\n {#AwardFlavorFormat}{$TooltipData.SignoffText}"
     }
     {
       Id = "SkellyAssistTrait"
-      DisplayName = "Companion Rib"
+      DisplayName = "Companion Mimi"
       Description = "Your {$Keywords.Assist} creates a distraction with {#AltUpgradeFormat}{$TooltipData.TooltipHealth}{#PreviousFormat}{!Icons.KEnemyHealth_Small}, provoking your foes to attack it until it dies."
     }
     {
       Id = "DusaAssistTrait_Rack"
-      DisplayName = "Companion Fidi"
+      DisplayName = "Companion Pix"
       Description = "Your {$Keywords.Assist} joins you for {#BoldFormat}{$TooltipData.TooltipDuration} Sec.{#PreviousFormat}, repeatedly firing shots that petrify foes and deal {#AltUpgradeFormat}70 {#PreviousFormat}damage. \n\n {#BoldFormat}{$Keywords.Assist}{#PreviousFormat}: Press {AS} for a quick assist from a friend {#ItalicFormat}(once per {$Keywords.EncounterAlt}). {#PreviousFormat}{#BoldFormat}Max Uses {#PreviousFormat}{#ItalicFormat}(per Escape): {#PreviousFormat}{#AltUpgradeFormat}{$TooltipData.TooltipKeepsakeUses}{#PreviousFormat} \n\n {#AwardFlavorFormat}{$TooltipData.SignoffText}"
     }
     {
       Id = "DusaAssistTrait_Delta"
-      DisplayName = "Companion Fidi"
+      DisplayName = "Companion Pix"
       Description = "Your {$Keywords.Assist} joins you for {#BoldFormat}{$TooltipData.TooltipDuration} Sec.{#PreviousFormat}, repeatedly firing shots that petrify foes and deal {#AltUpgradeFormat}70 {#PreviousFormat}damage. \n\n {#BoldFormat}{$Keywords.Assist}{#PreviousFormat}: Press {AS} for a quick assist from a friend {#ItalicFormat}(once per {$Keywords.EncounterAlt}). {#PreviousFormat}{#BoldFormat}Max Uses {#PreviousFormat}{#ItalicFormat}(per Escape): {#PreviousFormat}{#AltUpgradeFormat}{$TooltipData.DisplayDelta1}{#PreviousFormat} \n\n {#AwardFlavorFormat}{$TooltipData.SignoffText}"
     }
     {
       Id = "DusaAssistTrait"
-      DisplayName = "Companion Fidi"
+      DisplayName = "Companion Pix"
       Description = "Your {$Keywords.Assist} joins you for {#BoldFormat}{$TooltipData.TooltipDuration} Sec.{#PreviousFormat}, repeatedly firing shots that petrify foes and deal {#AltUpgradeFormat}70 {#PreviousFormat}damage."
     }
     {
       Id = "AchillesPatroclusAssistTrait_Rack"
-      DisplayName = "Companion Antos"
+      DisplayName = "Companion Silver"
       Description = "Your {$Keywords.Assist} deals {#AltUpgradeFormat}{$TooltipData.TooltipDamage} {#PreviousFormat}damage to {#BoldFormat}2 {#PreviousFormat}foes one after another. \n\n {#BoldFormat}{$Keywords.Assist}{#PreviousFormat}: Press {AS} for a quick assist from a friend {#ItalicFormat}(once per {$Keywords.EncounterAlt}). {#PreviousFormat}{#BoldFormat}Max Uses {#PreviousFormat}{#ItalicFormat}(per Escape): {#PreviousFormat}{#AltUpgradeFormat}{$TooltipData.TooltipKeepsakeUses}{#PreviousFormat} \n\n {#AwardFlavorFormat}{$TooltipData.SignoffText}"
     }
     {
       Id = "AchillesPatroclusAssistTrait_Delta"
-      DisplayName = "Companion Antos"
+      DisplayName = "Companion Silver"
       Description = "Your {$Keywords.Assist} deals {#AltUpgradeFormat}{$TooltipData.TooltipDamage} {#PreviousFormat}damage to {#BoldFormat}2 {#PreviousFormat}foes one after another. \n\n {#BoldFormat}{$Keywords.Assist}{#PreviousFormat}: Press {AS} for a quick assist from a friend {#ItalicFormat}(once per {$Keywords.EncounterAlt}). {#PreviousFormat}{#BoldFormat}Max Uses {#PreviousFormat}{#ItalicFormat}(per Escape): {#PreviousFormat}{#AltUpgradeFormat}{$TooltipData.DisplayDelta1}{#PreviousFormat} \n\n {#AwardFlavorFormat}{$TooltipData.SignoffText}"
     }
     {
       Id = "AchillesPatroclusAssistTrait"
-      DisplayName = "Companion Antos"
+      DisplayName = "Companion Silver"
       Description = "Your {$Keywords.Assist} deals {#AltUpgradeFormat}{$TooltipData.TooltipDamage} {#PreviousFormat}damage to {#BoldFormat}2 {#PreviousFormat}foes one after another."
     }
 

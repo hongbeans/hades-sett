@@ -40,6 +40,9 @@ Replace "Menus/HelpText.en.sjson"
 To "Game/Text/en/MacroText.sjson"
 SJSON "Menus/MacroText.sjson"
 
+To "Game/Text/en/MiscText.en.sjson"
+Replace "Menus/MiscText.en.sjson"
+
 :: Load custom dialogue
 To "Game/Text/en/_DeathLoopData.en.sjson"
 Replace "Dialogue/_DeathLoopData.en.sjson"
