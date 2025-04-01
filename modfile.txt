@@ -285,6 +285,30 @@ To Movies/720p/RemBGHadesIntro.bik
 Replace "Movies/RemBGHadesIntro.bik"
 
 :: Replace character animation binks
+To Movies/720p/Cerberus_HappyGreeting_Bink.bik
+Replace "Movies/Cerberus_HappyGreeting_Bink.bik"
+
+To Movies/Cerberus_HappyGreeting_Bink.bik
+Replace "Movies/Cerberus_HappyGreeting_Bink.bik"
+
+To Movies/720p/Cerberus_HubIdle_Bink.bik
+Replace "Movies/Cerberus_HubIdle_Bink.bik"
+
+To Movies/Cerberus_HubIdle_Bink.bik
+Replace "Movies/Cerberus_HubIdle_Bink.bik"
+
+To Movies/720p/CharonIdleGreeting_Bink.bik
+Replace "Movies/CharonIdleGreeting_Bink.bik"
+
+To Movies/CharonIdleGreeting_Bink.bik
+Replace "Movies/CharonIdleGreeting_Bink.bik"
+
+To Movies/720p/CharonIdleShop_Bink.bik
+Replace "Movies/CharonIdleShop_Bink.bik"
+
+To Movies/CharonIdleShop_Bink.bik
+Replace "Movies/CharonIdleShop_Bink.bik"
+
 To Movies/720p/Enemy_Fury_IdleInHouseFidgetWhipTaunt_Bink.bik
 Replace "Movies/Enemy_Fury_IdleInHouseFidgetWhipTaunt_Bink.bik"
 
