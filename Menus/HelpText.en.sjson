@@ -10265,7 +10265,7 @@
     {
       Id = "Harpy3"
       DisplayName = "Cassiopeia"
-      Description = "Bane of Murderers and Betrayers"
+      Description = "Bane of Murderers & Betrayers"
     }
     {
       Id = "Harpy3_Full"
