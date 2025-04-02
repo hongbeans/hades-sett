@@ -36,7 +36,7 @@
       */
       Id = "Skelly_0160"
       Speaker = "Skelly"
-      DisplayName = "{#DialogueItalicFormat}Oh-hoh{#PreviousFormat}, I'm not about to ratout  my sources, pal! Just try and beat it out of me!"
+      DisplayName = "{#DialogueItalicFormat}Oh-hoh{#PreviousFormat}, I'm not about to rat out my sources, pal! Just try and beat it out of me!"
     }
     {
       /*
@@ -3412,7 +3412,7 @@
       */
       Id = "MegaeraField_0005"
       Speaker = "Megaera"
-      DisplayName = "A man after my own heart."
+      DisplayName = "I'm more than happy to oblige."
     }
     {
       /*
