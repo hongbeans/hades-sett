@@ -405,6 +405,12 @@ Replace "Movies/NPC_DusaInteractSurprise_Bink.bik"
 To Movies/NPC_DusaInteractSurprise_Bink.bik
 Replace "Movies/NPC_DusaInteractSurprise_Bink.bik"
 
+To Movies/720p/NPC_EurydiceIdle_Bink.bik
+Replace "Movies/NPC_EurydiceIdle_Bink.bik"
+
+To Movies/NPC_EurydiceIdle_Bink.bik
+Replace "Movies/NPC_EurydiceIdle_Bink.bik"
+
 To Movies/720p/NPC_NyxIdle_Bink.bik
 Replace "Movies/NPC_NyxIdle_Bink.bik"
 
@@ -428,6 +434,12 @@ Replace "Movies/NPC_OrpheusIdlePlaying_Bink.bik"
 
 To Movies/NPC_OrpheusIdlePlaying_Bink.bik
 Replace "Movies/NPC_OrpheusIdlePlaying_Bink.bik"
+
+To Movies/720p/NPC_PatroclusIdleSitting_Bink.bik
+Replace "Movies/NPC_PatroclusIdleSitting_Bink.bik"
+
+To Movies/NPC_PatroclusIdleSitting_Bink.bik
+Replace "Movies/NPC_PatroclusIdleSitting_Bink.bik"
 
 To Movies/720p/NPC_PersephoneGardenIdleHip_Bink.bik
 Replace "Movies/NPC_PersephoneGardenIdleHip_Bink.bik"
@@ -494,6 +506,12 @@ Replace "Movies/ZagreusInteractEquip_Bink.bik"
 
 To Movies/ZagreusInteractEquip_Bink.bik
 Replace "Movies/ZagreusInteractEquip_Bink.bik"
+
+To Movies/720p/ZagreusInteractionThoughtful_Bink.bik
+Replace "Movies/ZagreusInteractionThoughtful_Bink.bik"
+
+To Movies/ZagreusInteractionThoughtful_Bink.bik
+Replace "Movies/ZagreusInteractionThoughtful_Bink.bik"
 
 To Movies/720p/ZagreusRun_Bink.bik
 Replace "Movies/ZagreusRun_Bink.bik"
