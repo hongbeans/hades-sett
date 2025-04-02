@@ -441,17 +441,35 @@ Replace "Movies/NPC_PatroclusIdleSitting_Bink.bik"
 To Movies/NPC_PatroclusIdleSitting_Bink.bik
 Replace "Movies/NPC_PatroclusIdleSitting_Bink.bik"
 
+To Movies/720p/NPC_PatroclusIdleStanding_Bink.bik
+Replace "Movies/NPC_PatroclusIdleStanding_Bink.bik"
+
+To Movies/NPC_PatroclusIdleStanding_Bink.bik
+Replace "Movies/NPC_PatroclusIdleStanding_Bink.bik"
+
 To Movies/720p/NPC_PersephoneGardenIdleHip_Bink.bik
 Replace "Movies/NPC_PersephoneGardenIdleHip_Bink.bik"
 
 To Movies/NPC_PersephoneGardenIdleHip_Bink.bik
 Replace "Movies/NPC_PersephoneGardenIdleHip_Bink.bik"
 
+To Movies/720p/NPC_PersephoneGardenVulnerable_Bink.bik
+Replace "Movies/NPC_PersephoneGardenVulnerable_Bink.bik"
+
+To Movies/NPC_PersephoneGardenVulnerable_Bink.bik
+Replace "Movies/NPC_PersephoneGardenVulnerable_Bink.bik"
+
 To Movies/720p/NPC_PersephoneUnderworldIdle_Bink.bik
 Replace "Movies/NPC_PersephoneUnderworldIdle_Bink.bik"
 
 To Movies/NPC_PersephoneUnderworldIdle_Bink.bik
 Replace "Movies/NPC_PersephoneUnderworldIdle_Bink.bik"
+
+To Movies/720p/NPC_PersephoneUnderworldVulnerable_Bink.bik
+Replace "Movies/NPC_PersephoneUnderworldVulnerable_Bink.bik"
+
+To Movies/NPC_PersephoneUnderworldVulnerable_Bink.bik
+Replace "Movies/NPC_PersephoneUnderworldVulnerable_Bink.bik"
 
 To Movies/720p/NPC_SisyphusElbowing_Bink.bik
 Replace "Movies/NPC_SisyphusElbowing_Bink.bik"
