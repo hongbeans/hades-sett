@@ -3,6 +3,9 @@ Animations = [
         { Name = "BouldyIdle" }
         { FilePath = "SettDeathArea\Tilesets\Tartarus\Tartarus_Maiden_03" }
 
+        { Name = "Cerberus_HouseIdle" }
+        { FilePath = "SettDeathArea\Animations\Badgers\HouseIdle\CerberusHouseIdle" }
+
         { Name = "OrpheusIdle" }
         {
             OffsetX = 10.0
