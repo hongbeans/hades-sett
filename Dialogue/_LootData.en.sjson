@@ -12971,7 +12971,7 @@
       */
       Id = "Hermes_0078"
       Speaker = "Hermes"
-      DisplayName = "Hey Cousin, I really wanted to say I'm appreciative of our little chats, you know? Everyone always says I talk a mile a minute, which I think is crazy 'cause I can talk way faster, but you always listen!"
+      DisplayName = "Hey Cousin, I really wanted to say I'm appreciative of our little chats, you know? Everyone always says I talk a mile a minute, which I think is crazy 'cause I can talk way faster, but you always listen! But, I have to ask... should I slow it down?"
     }
     {
       Id = "ZagreusField_1951"
@@ -12981,7 +12981,7 @@
     {
       Id = "Hermes_0079"
       Speaker = "Hermes"
-      DisplayName = "Oh, well, gotta go, it's been really great! Can't wait for the next one, okay, bye!"
+      DisplayName = "Oh, well, I'll think on it, anyway gotta go, it's been really great! Can't wait for the next one, okay, bye!"
     }
     {
       /*
@@ -12991,7 +12991,7 @@
       */
       Id = "ZagreusField_1952"
       Speaker = "Zagreus"
-      DisplayName = "Well, Lady Lillia, it's partly 'cause our chats are just so pleasant, if fleetin'. Maybe you could slow down a little sometimes, though. Relax a 'lil."
+      DisplayName = "Well, Lady Lillia, it's partly 'cause our chats are just so pleasant, if fleetin'. But I don't want ya changin' on my account! Come 'n go as fast as ya like."
     }
     {
       /*
@@ -13001,7 +13001,7 @@
       */
       Id = "Hermes_0080"
       Speaker = "Hermes"
-      DisplayName = "I hear you, Prince, still it's really great! Can't wait for the next one, okay, bye!"
+      DisplayName = "I hear you, Prince, and that's really great! Can't wait for the next one, okay, bye!"
     }
     {
       /*
@@ -13010,17 +13010,17 @@
       */
       Id = "Hermes_0081"
       Speaker = "Hermes"
-      DisplayName = "{#DialogueItalicFormat}Oh{#PreviousFormat}! Pardon the interruption, Prince, popping in to say hi, how's it going, and alloting an extra few seconds to the timer!"
+      DisplayName = "{#DialogueItalicFormat}Oh{#PreviousFormat}! Pardon the interruption, Prince, popping in to say hi, how's it going!"
     }
     {
       Id = "ZagreusField_1953"
       Speaker = "Zagreus"
-      DisplayName = "{#DialogueItalicFormat}Haha{#PreviousFormat}, look at you startin' to slow down. It's good to have a chat from time to time, right?"
+      DisplayName = "{#DialogueItalicFormat}Haha{#PreviousFormat}, look at you startin' to slow down. I've noticed you startin' to slow down 'n smell the roses, whatever those are. Not bad, right?"
     }
     {
       Id = "Hermes_0082"
       Speaker = "Hermes"
-      DisplayName = "It is! I've tried taking more things slow sometimes, just for you, Cousin!"
+      DisplayName = "Not bad at all! I've tried taking more things slow sometimes, just for you, Cousin!"
     }
     {
       /*
@@ -13032,7 +13032,7 @@
       */
       Id = "ZagreusField_1954"
       Speaker = "Zagreus"
-      DisplayName = "I've noticed you startin' to slow down 'n smell the roses, whatever those are. Not bad, right?"
+      DisplayName = "Damn, Lady Lillia you're practically zoomin'. Speedin' right on by, but I ain't gonna lie... I think you can go faster. "
     }
     {
       /*
@@ -13044,7 +13044,7 @@
       */
       Id = "Hermes_0083"
       Speaker = "Hermes"
-      DisplayName = "It's been great! I've smelled so many roses! It's been great, although I was three point seven seconds late on my last delivery! Don't think anyone noticed though."
+      DisplayName = "Oh, you are absolutely right! I think I can break a few more records! I'll be back in a flash, just you wait, okay, bye!"
     }
     {
       /*
@@ -13053,17 +13053,17 @@
       */
       Id = "Hermes_0084"
       Speaker = "Hermes"
-      DisplayName = "Thought I'd let you know all about my attempts to slow down, Cousin! It's been great for my resting heart rate, not so much for my delivery times, but nobody's noticed at all!"
+      DisplayName = "Thought I'd let you know all about my latest attempts to speed up, Cousin! Gotta go fast!"
     }
     {
       Id = "ZagreusField_1955"
       Speaker = "Zagreus"
-      DisplayName = "Look at ya goin' at a slightly less hectic speed! Why, you're at a practically leisurely pace these days, Lady Lillia."
+      DisplayName = "Have you considered going at a more sedate pace there, Lady Lillia? Just wonderin'. Might be a nice change of, uh, pace."
     }
     {
       Id = "Hermes_0085"
       Speaker = "Hermes"
-      DisplayName = "{#DialogueItalicFormat}Haha{#PreviousFormat}, good! I'm starting to like taking my time, quick as it is. Well, I'm off, talk to you later, bye!"
+      DisplayName = "Oh, I never have! I've always been zooming about, in fact my movement speed is naturally one of the highest in this meta, but I'll think about slowing down just for you, Cousin!"
     }
     {
       /*
@@ -13077,7 +13077,7 @@
       */
       Id = "ZagreusField_1956"
       Speaker = "Zagreus"
-      DisplayName = "Have you considered going at a more sedate pace there, Lady Lillia? Just wonderin'."
+      DisplayName = "Look at ya goin' at a slightly less hectic speed! Why, you're at a practically leisurely pace these days, Lady Lillia. Not gonna lie, I'm a little worried about your delivery times."
     }
     {
       /*
@@ -13091,12 +13091,12 @@
       */
       Id = "Hermes_0086"
       Speaker = "Hermes"
-      DisplayName = "Oh, I never have! I've always been zooming about, in fact my movement speed is naturally one of the highest in this meta, but I'll think about slowing down just for you, Cousin!"
+      DisplayName = "Oh Spirits in Heaven, you're right! I better get going! Bye, Prince, chat with you later, good luck!"
     }
     {
       Id = "ZagreusField_2711"
       Speaker = "Zagreus"
-      DisplayName = "Lookin'forward to seein' ya try, Lady Lillia! Godspeed- {#DialogueItalicFormat}erm{#PreviousFormat}, God... slow? Eh, you get the picture."
+      DisplayName = "Lookin'forward to seein' ya take it easier, Lady Lillia! Godspeed- {#DialogueItalicFormat}erm{#PreviousFormat}, God... slow? Eh, you get the picture."
     }
     {
       /*
