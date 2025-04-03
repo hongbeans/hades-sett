@@ -375,7 +375,7 @@
       */
       Id = "Zeus_0073"
       Speaker = "Zeus"
-      DisplayName = "It seems the bow called the Last whisper is safe and sound there in your hands, young cub. I've not seen that old thing in quite some time!"
+      DisplayName = "It seems the bow called the Last Whisper is safe and sound there in your hands, young cub. I've not seen that old thing in quite some time!"
     }
     {
       /*
@@ -429,7 +429,7 @@
       */
       Id = "Zeus_0191"
       Speaker = "Zeus"
-      DisplayName = "Nephew, I wanted to mention, it was odd how by every account you'd come quite close to breaking free from there at last, of late... only to be abruptly cut off from our contact! I suppose having suffered some ill fate? Perhaps your Realm's guardians, those fearsome badgers, are even deadlier than reputed!"
+      DisplayName = "Nephew, I find it odd how each time you'd come quite close to breaking free from there at last, you are abruptly cut off from our contact! I suppose having suffered some ill fate? Perhaps your Realm's guardians, those fearsome badgers, are even deadlier than reputed!"
     }
     {
       /*
@@ -16064,7 +16064,7 @@
       */
       Id = "Chaos_0090"
       Speaker = "Chaos"
-      DisplayName = "Of all the Spirits to walk Runeterra, few indeed would consider it an honor to meet primordial death. We are pleased that you consider it such."
+      DisplayName = "Of all the Spirits to walk Runeterra, few indeed would consider it an honor to meet primordial origin and end. We are pleased that you consider it such."
     }
     {
       /*
@@ -16196,7 +16196,7 @@
       */
       Id = "Chaos_0187"
       Speaker = "Chaos"
-      DisplayName = "Now this is a divine offering, young Settrigh. You would bestow such affection on primordial death? Even with the understanding that, in the end, at {#DialogueItalicFormat}your{#PreviousFormat} end, {#DialogueItalicFormat}we{#PreviousFormat} shall be there when your path is no more?"
+      DisplayName = "Now this is a divine offering, young Settrigh. You would bestow such affection on primordial origin and oblivion? Even with the understanding that, in the end, at {#DialogueItalicFormat}your {#PreviousFormat} end, {#DialogueItalicFormat}we {#PreviousFormat} shall be there when your path is no more?"
     }
     {
       /*
