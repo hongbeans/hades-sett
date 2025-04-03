@@ -1,11 +1,20 @@
 -- Subtitle color changes for post-epilogue cutscene
+ModUtil.Table.NilMerge(GlobalVoiceLines.StorytellerEpilogueVoiceLines, {
+    [1] = {
+        -- Fix to Zeus/Voli subtitle color
+        [1] = { Source = true },
+        -- Hades/Old Timer -> Zag/Sett
+        [3] = { Source = true },
+        -- Hades/Old Timer -> Zag/Sett
+        [5] = { Source = true },
+    }
+})
+
 ModUtil.Table.Merge(GlobalVoiceLines.StorytellerEpilogueVoiceLines, {
     [1] = {
-        -- Hades/Old Timer -> Zag/Sett
-        [3] = { Cue = "/VO/Hades_1207", PreLineWait = 0.3 },
+        -- Fix to Zeus/Voli subtitle color
+        [1] = { Source = { SubtitleColor = { 255, 248, 187, 255 } } },
         -- Zeus/Voli -> Hades/Old Timer
-        [4] = { Cue = "/VO/Zeus_0247", Source = { SubtitleColor = Color.HadesVoice }, PreLineWait = 0.3 },
-        -- Hades/Old Timer -> Zag/Sett
-        [5] = { Cue = "/VO/Hades_0940", PreLineWait = 0.3 },
+        [4] = { Source = { SubtitleColor = Color.HadesVoice } },
     }
 })
