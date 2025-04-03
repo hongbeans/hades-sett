@@ -501,6 +501,30 @@ Replace "Movies/SkellyAssistTrait_Bink.bik"
 To Movies/SkellyAssistTrait_Bink.bik
 Replace "Movies/SkellyAssistTrait_Bink.bik"
 
+To Movies/720p/ThanatosAttack_Bink.bik
+Replace "Movies/ThanatosAttack_Bink.bik"
+
+To Movies/ThanatosAttack_Bink.bik
+Replace "Movies/ThanatosAttack_Bink.bik"
+
+To Movies/720p/ThanatosAttackHold_Bink.bik
+Replace "Movies/ThanatosAttackHold_Bink.bik"
+
+To Movies/ThanatosAttackHold_Bink.bik
+Replace "Movies/ThanatosAttackHold_Bink.bik"
+
+To Movies/720p/ThanatosEmoteDismissal_Bink.bik
+Replace "Movies/ThanatosEmoteDismissal_Bink.bik"
+
+To Movies/ThanatosEmoteDismissal_Bink.bik
+Replace "Movies/ThanatosEmoteDismissal_Bink.bik"
+
+To Movies/720p/ThanatosIdle_Bink.bik
+Replace "Movies/ThanatosIdle_Bink.bik"
+
+To Movies/ThanatosIdle_Bink.bik
+Replace "Movies/ThanatosIdle_Bink.bik"
+
 To Movies/720p/ThanatosIdleInhouse_Bink.bik
 Replace "Movies/ThanatosIdleInhouse_Bink.bik"
 
