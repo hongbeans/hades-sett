@@ -243,5 +243,45 @@ Animations = [
 
         { Name = "Keepsake_ZeusSticker_Max" }
         { FilePath = "SettGUI\GUI\Screens\AwardMenu\KeepsakeMaxGift\Zeus_02" }
+
+        /* House Contractor shop */
+        { Name = "CosmeticIcon_BedA" }
+        { FilePath = "SettDeathArea\GUI\Screens\CosmeticIcons\cosmetic_Bed_01a" }
+
+        { Name = "Cosmetic_BedroomCouch_02" }
+        { FilePath = "SettDeathArea\GUI\Screens\CosmeticIcons\cosmetic_Couch_02" }
+
+        { Name = "Cosmetic_Painting_Fury" }
+        { FilePath = "SettDeathArea\GUI\Screens\CosmeticIcons\cosmetic_PaintingFury_01" }
+
+        { Name = "Cosmetic_Painting_Hades" }
+        { FilePath = "SettDeathArea\GUI\Screens\CosmeticIcons\cosmetic_PaintingHades_01" }
+
+        { Name = "Cosmetic_Painting_Mood" }
+        { FilePath = "SettDeathArea\GUI\Screens\CosmeticIcons\cosmetic_PaintingMood_01" }
+
+        { Name = "CosmeticIcon_Painting_MysteryGirl" }
+        { FilePath = "SettDeathArea\GUI\Screens\CosmeticIcons\cosmetic_PaintingMysteryGirl_01" }
+
+        { Name = "CosmeticIcon_Painting_MysteryWoman" }
+        { FilePath = "SettDeathArea\GUI\Screens\CosmeticIcons\cosmetic_PaintingMysteryWoman_01" }
+
+        { Name = "Cosmetic_Painting_Theseus" }
+        { FilePath = "SettDeathArea\GUI\Screens\CosmeticIcons\cosmetic_PaintingTheseus_01" }
+
+        { Name = "Cosmetic_Painting_Tots" }
+        { FilePath = "SettDeathArea\GUI\Screens\CosmeticIcons\cosmetic_PaintingTots_01" }
+
+        { Name = "CosmeticIcon_Painting_LoungeSkelly" }
+        { FilePath = "SettDeathArea\GUI\Screens\CosmeticIcons\cosmetic_portraitSkelly_01" }
+
+        { Name = "Cosmetic_AchillesPoster" }
+        { FilePath = "SettDeathArea\GUI\Screens\CosmeticIcons\cosmetic_poster_01" }
+
+        { Name = "Cosmetic_AphroditePoster" }
+        { FilePath = "SettDeathArea\GUI\Screens\CosmeticIcons\cosmetic_poster_02" }
+
+        { Name = "Cosmetic_DionysusPoster" }
+        { FilePath = "SettDeathArea\GUI\Screens\CosmeticIcons\cosmetic_poster_05" }
     ]
 ]

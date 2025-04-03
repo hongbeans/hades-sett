@@ -327,7 +327,7 @@ Obstacles = [
             ]
         } } */
 
-        /* { Name = "HousePaintingPersephone01" }
+        { Name = "HousePaintingPersephone01" }
         { Thing = {
             EditorOutlineDrawBounds = false
             Graphic = "SettDeathArea\Tilesets\House\House_PaintingLihua_01"
@@ -338,6 +338,46 @@ Obstacles = [
                 { X = -245 Y = -6 }
                 { X = 132 Y = 56 }
             ]
-        } } */
+        } }
+
+        { Name = "HouseCouch02" }
+        { Thing = {
+            EditorOutlineDrawBounds = false
+            Graphic = "SettDeathArea\Tilesets\House\House_Couch_02"
+            Offset = 
+            {
+                X = 0
+                Y = -84
+            }
+            Points = [
+            {
+                X = 153
+                Y = -254
+            }
+            {
+                X = -407
+                Y = 14
+            }
+            {
+                X = -447
+                Y = 130
+            }
+            {
+                X = -434
+                Y = 171
+            }
+            {
+                X = -141
+                Y = 290
+            }
+            {
+                X = 382
+                Y = 8
+            }
+            {
+                X = 405
+                Y = -231
+            }]
+        } }
     ]
 ]
