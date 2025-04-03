@@ -25,6 +25,9 @@ SJSON "Animations/PortraitAnimationsAppend.sjson"
 To "Game/Animations/GUIAnimations.sjson"
 SJSON "Animations/GUIAnimations.sjson"
 
+To "Game/Animations/CharacterAnimationsHeroNonCombat.sjson"
+SJSON "Animations/CharacterAnimationsHeroNonCombat.sjson"
+
 To "Game/Animations/CharacterAnimationsNPCs.sjson"
 SJSON "Animations/CharacterAnimationsNPCs.sjson"
 
@@ -286,6 +289,12 @@ To Movies/720p/RemBGHadesIntro.bik
 Replace "Movies/RemBGHadesIntro.bik"
 
 :: Replace character animation binks
+To Movies/720p/Cerberus_HousePetting_Bink.bik
+Replace "Movies/Cerberus_HousePetting_Bink.bik"
+
+To Movies/Cerberus_HousePetting_Bink.bik
+Replace "Movies/Cerberus_HousePetting_Bink.bik"
+
 To Movies/720p/Cerberus_HubIdle_Bink.bik
 Replace "Movies/Cerberus_HubIdle_Bink.bik"
 

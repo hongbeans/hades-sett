@@ -17,5 +17,10 @@ Animations = [
             OffsetX = 10.0
             OffsetY = -105.0
         }
+
+        { Name = "Cerberus_HousePetting" }
+        {
+            OffsetY = 70.0
+        }
     ]
 ]

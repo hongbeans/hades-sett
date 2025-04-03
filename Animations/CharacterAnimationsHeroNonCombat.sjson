@@ -1,0 +1,9 @@
+Animations = [
+    "_search", [
+        { Name = "ZagreusPetting" }
+        { Scale = 0.0 }
+
+        { Name = "ZagreusPetting_End" }
+        { Scale = 0.0 }
+    ]
+]
