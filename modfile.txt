@@ -8,6 +8,7 @@ Import "Scripts/IncreaseThanEncounterRate.lua"
 Import "Scripts/ChangeDialoguePortraits.lua"
 Import "Scripts/ChangeDialogueEmotes.lua"
 Import "Scripts/CustomCodex.lua"
+Import "Scripts/ChangeBadgersInEnding.lua"
 
 To "Game/Animations/ObstacleAnimations.sjson"
 SJSON "Animations/ObstacleAnimations.sjson"
@@ -285,12 +286,6 @@ To Movies/720p/RemBGHadesIntro.bik
 Replace "Movies/RemBGHadesIntro.bik"
 
 :: Replace character animation binks
-To Movies/720p/Cerberus_HappyGreeting_Bink.bik
-Replace "Movies/Cerberus_HappyGreeting_Bink.bik"
-
-To Movies/Cerberus_HappyGreeting_Bink.bik
-Replace "Movies/Cerberus_HappyGreeting_Bink.bik"
-
 To Movies/720p/Cerberus_HubIdle_Bink.bik
 Replace "Movies/Cerberus_HubIdle_Bink.bik"
 
