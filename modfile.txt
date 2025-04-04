@@ -586,6 +586,12 @@ Replace "Movies/ZagreusInteractionComeHither_Bink.bik"
 To Movies/ZagreusInteractionComeHither_Bink.bik
 Replace "Movies/ZagreusInteractionComeHither_Bink.bik"
 
+To Movies/720p/ZagreusInteractionTalk_Bink.bik
+Replace "Movies/ZagreusInteractionTalk_Bink.bik"
+
+To Movies/ZagreusInteractionTalk_Bink.bik
+Replace "Movies/ZagreusInteractionTalk_Bink.bik"
+
 To Movies/720p/ZagreusInteractionThoughtful_Bink.bik
 Replace "Movies/ZagreusInteractionThoughtful_Bink.bik"
 
@@ -609,6 +615,12 @@ Replace "Movies/ZagreusStop_Bink.bik"
 
 To Movies/ZagreusStop_Bink.bik
 Replace "Movies/ZagreusStop_Bink.bik"
+
+To Movies/720p/ZagreusTalkDenial_Bink.bik
+Replace "Movies/ZagreusTalkDenial_Bink.bik"
+
+To Movies/ZagreusTalkDenial_Bink.bik
+Replace "Movies/ZagreusTalkDenial_Bink.bik"
 
 To Movies/720p/ZagreusTalkEmpathy_Bink.bik
 Replace "Movies/ZagreusTalkEmpathy_Bink.bik"

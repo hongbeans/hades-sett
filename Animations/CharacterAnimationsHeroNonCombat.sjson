@@ -5,5 +5,8 @@ Animations = [
 
         { Name = "ZagreusPetting_End" }
         { Scale = 0.0 }
+
+        { Name = "ZagreusTalkDenial_Loop1" }
+        { EndFrame = 31 }
     ]
 ]
