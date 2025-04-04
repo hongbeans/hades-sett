@@ -20,7 +20,14 @@ Animations = [
 
         { Name = "Cerberus_HousePetting" }
         {
+            OffsetX = -5.0
             OffsetY = 70.0
         }
+
+        { Name = "NPCDusaPreAttack" }
+        { FilePath = "SettDeathArea\Animations\Dusa\Attack\DusaAttack" }
+
+        { Name = "NPCDusaAttack" }
+        { FilePath = "SettDeathArea\Animations\Dusa\Attack\DusaAttack" }
     ]
 ]
