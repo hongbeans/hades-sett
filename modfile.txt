@@ -463,6 +463,18 @@ Replace "Movies/NPC_PersephoneGardenVulnerable_Bink.bik"
 To Movies/NPC_PersephoneGardenVulnerable_Bink.bik
 Replace "Movies/NPC_PersephoneGardenVulnerable_Bink.bik"
 
+To Movies/720p/NPC_PersephoneUnderworldDismiss_Bink.bik
+Replace "Movies/NPC_PersephoneUnderworldDismiss_Bink.bik"
+
+To Movies/NPC_PersephoneUnderworldDismiss_Bink.bik
+Replace "Movies/NPC_PersephoneUnderworldDismiss_Bink.bik"
+
+To Movies/720p/NPC_PersephoneUnderworldGreeting_Bink.bik
+Replace "Movies/NPC_PersephoneUnderworldGreeting_Bink.bik"
+
+To Movies/NPC_PersephoneUnderworldGreeting_Bink.bik
+Replace "Movies/NPC_PersephoneUnderworldGreeting_Bink.bik"
+
 To Movies/720p/NPC_PersephoneUnderworldIdle_Bink.bik
 Replace "Movies/NPC_PersephoneUnderworldIdle_Bink.bik"
 
