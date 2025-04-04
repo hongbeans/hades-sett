@@ -418,6 +418,12 @@ Replace "Movies/NPC_EurydiceIdle_Bink.bik"
 To Movies/NPC_EurydiceIdle_Bink.bik
 Replace "Movies/NPC_EurydiceIdle_Bink.bik"
 
+To Movies/720p/NPC_EurydiceIdleSinging_Bink.bik
+Replace "Movies/NPC_EurydiceIdleSinging_Bink.bik"
+
+To Movies/NPC_EurydiceIdleSinging_Bink.bik
+Replace "Movies/NPC_EurydiceIdleSinging_Bink.bik"
+
 To Movies/720p/NPC_NyxIdle_Bink.bik
 Replace "Movies/NPC_NyxIdle_Bink.bik"
 
