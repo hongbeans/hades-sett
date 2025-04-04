@@ -607,8 +607,20 @@ Replace "Movies/ZagreusWalk_Bink.bik"
 To Movies/ZagreusWalk_Bink.bik
 Replace "Movies/ZagreusWalk_Bink.bik"
 
+To Movies/720p/ZagreusWalk2_Bink.bik
+Replace "Movies/ZagreusWalk2_Bink.bik"
+
+To Movies/ZagreusWalk2_Bink.bik
+Replace "Movies/ZagreusWalk2_Bink.bik"
+
 To Movies/720p/ZagreusWalkStop_Bink.bik
 Replace "Movies/ZagreusWalkStop_Bink.bik"
 
 To Movies/ZagreusWalkStop_Bink.bik
 Replace "Movies/ZagreusWalkStop_Bink.bik"
+
+To Movies/720p/ZagreusWalkStop2_Bink.bik
+Replace "Movies/ZagreusWalkStop2_Bink.bik"
+
+To Movies/ZagreusWalkStop2_Bink.bik
+Replace "Movies/ZagreusWalkStop2_Bink.bik"
