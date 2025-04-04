@@ -1,0 +1,9 @@
+Animations = [
+    "_search", [
+        { Name = "PersephoneGarden_Greeting" }
+        { OffsetY = -40.0 }
+
+        { Name = "PersephoneGarden_Dismiss" }
+        { OffsetY = -40.0 }
+    ]
+]

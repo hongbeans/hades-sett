@@ -28,6 +28,9 @@ SJSON "Animations/GUIAnimations.sjson"
 To "Game/Animations/CharacterAnimationsHeroNonCombat.sjson"
 SJSON "Animations/CharacterAnimationsHeroNonCombat.sjson"
 
+To "Game/Animations/CharacterAnimationsNPC_Persephone.sjson"
+SJSON "Animations/CharacterAnimationsNPC_Persephone.sjson"
+
 To "Game/Animations/CharacterAnimationsNPCs.sjson"
 SJSON "Animations/CharacterAnimationsNPCs.sjson"
 
@@ -450,6 +453,18 @@ Replace "Movies/NPC_PatroclusIdleStanding_Bink.bik"
 
 To Movies/NPC_PatroclusIdleStanding_Bink.bik
 Replace "Movies/NPC_PatroclusIdleStanding_Bink.bik"
+
+To Movies/720p/NPC_PersephoneGardenDismiss_Bink.bik
+Replace "Movies/NPC_PersephoneGardenDismiss_Bink.bik"
+
+To Movies/NPC_PersephoneGardenDismiss_Bink.bik
+Replace "Movies/NPC_PersephoneGardenDismiss_Bink.bik"
+
+To Movies/720p/NPC_PersephoneGardenGreeting_Bink.bik
+Replace "Movies/NPC_PersephoneGardenGreeting_Bink.bik"
+
+To Movies/NPC_PersephoneGardenGreeting_Bink.bik
+Replace "Movies/NPC_PersephoneGardenGreeting_Bink.bik"
 
 To Movies/720p/NPC_PersephoneGardenIdleHip_Bink.bik
 Replace "Movies/NPC_PersephoneGardenIdleHip_Bink.bik"
