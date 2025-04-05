@@ -283,13 +283,13 @@ To Movies/RemBGHades.bik
 Replace "Movies/RemBGHades.bik"
 
 To Movies/720p/RemBGHades.bik
-Replace "Movies/RemBGHades.bik"
+Replace "Movies/720p/RemBGHades.bik"
 
 To Movies/RemBGHadesIntro.bik
 Replace "Movies/RemBGHadesIntro.bik"
 
 To Movies/720p/RemBGHadesIntro.bik
-Replace "Movies/RemBGHadesIntro.bik"
+Replace "Movies/720p/RemBGHadesIntro.bik"
 
 :: Replace character animation binks
 To Movies/720p/Cerberus_HousePetting_Bink.bik
@@ -533,127 +533,127 @@ To Movies/NPC_SisyphusIdleGreeting_Bink.bik
 Replace "Movies/NPC_SisyphusIdleGreeting_Bink.bik"
 
 To Movies/720p/SkellyAssistTrait_Bink.bik
-Replace "Movies/SkellyAssistTrait_Bink.bik"
+Replace "Movies/720p/SkellyAssistTrait_Bink.bik"
 
 To Movies/SkellyAssistTrait_Bink.bik
 Replace "Movies/SkellyAssistTrait_Bink.bik"
 
 To Movies/720p/ThanatosAttack_Bink.bik
-Replace "Movies/ThanatosAttack_Bink.bik"
+Replace "Movies/720p/ThanatosAttack_Bink.bik"
 
 To Movies/ThanatosAttack_Bink.bik
 Replace "Movies/ThanatosAttack_Bink.bik"
 
 To Movies/720p/ThanatosAttackHold_Bink.bik
-Replace "Movies/ThanatosAttackHold_Bink.bik"
+Replace "Movies/720p/ThanatosAttackHold_Bink.bik"
 
 To Movies/ThanatosAttackHold_Bink.bik
 Replace "Movies/ThanatosAttackHold_Bink.bik"
 
 To Movies/720p/ThanatosEmoteDismissal_Bink.bik
-Replace "Movies/ThanatosEmoteDismissal_Bink.bik"
+Replace "Movies/720p/ThanatosEmoteDismissal_Bink.bik"
 
 To Movies/ThanatosEmoteDismissal_Bink.bik
 Replace "Movies/ThanatosEmoteDismissal_Bink.bik"
 
 To Movies/720p/ThanatosIdle_Bink.bik
-Replace "Movies/ThanatosIdle_Bink.bik"
+Replace "Movies/720p/ThanatosIdle_Bink.bik"
 
 To Movies/ThanatosIdle_Bink.bik
 Replace "Movies/ThanatosIdle_Bink.bik"
 
 To Movies/720p/ThanatosIdleInhouse_Bink.bik
-Replace "Movies/ThanatosIdleInhouse_Bink.bik"
+Replace "Movies/720p/ThanatosIdleInhouse_Bink.bik"
 
 To Movies/ThanatosIdleInhouse_Bink.bik
 Replace "Movies/ThanatosIdleInhouse_Bink.bik"
 
 To Movies/720p/ThanatosIdleInhouseFidgetHairFlick__Bink.bik
-Replace "Movies/ThanatosIdleInhouseFidgetHairFlick__Bink.bik"
+Replace "Movies/720p/ThanatosIdleInhouseFidgetHairFlick__Bink.bik"
 
 To Movies/ThanatosIdleInhouseFidgetHairFlick__Bink.bik
 Replace "Movies/ThanatosIdleInhouseFidgetHairFlick__Bink.bik"
 
 To Movies/720p/ZagreusIdle_Bink.bik
-Replace "Movies/ZagreusIdle_Bink.bik"
+Replace "Movies/720p/ZagreusIdle_Bink.bik"
 
 To Movies/ZagreusIdle_Bink.bik
 Replace "Movies/ZagreusIdle_Bink.bik"
 
 To Movies/720p/ZagreusInteractEquip_Bink.bik
-Replace "Movies/ZagreusInteractEquip_Bink.bik"
+Replace "Movies/720p/ZagreusInteractEquip_Bink.bik"
 
 To Movies/ZagreusInteractEquip_Bink.bik
 Replace "Movies/ZagreusInteractEquip_Bink.bik"
 
 To Movies/720p/ZagreusInteractionComeHither_Bink.bik
-Replace "Movies/ZagreusInteractionComeHither_Bink.bik"
+Replace "Movies/720p/ZagreusInteractionComeHither_Bink.bik"
 
 To Movies/ZagreusInteractionComeHither_Bink.bik
 Replace "Movies/ZagreusInteractionComeHither_Bink.bik"
 
 To Movies/720p/ZagreusInteractionTalk_Bink.bik
-Replace "Movies/ZagreusInteractionTalk_Bink.bik"
+Replace "Movies/720p/ZagreusInteractionTalk_Bink.bik"
 
 To Movies/ZagreusInteractionTalk_Bink.bik
 Replace "Movies/ZagreusInteractionTalk_Bink.bik"
 
 To Movies/720p/ZagreusInteractionThoughtful_Bink.bik
-Replace "Movies/ZagreusInteractionThoughtful_Bink.bik"
+Replace "Movies/720p/ZagreusInteractionThoughtful_Bink.bik"
 
 To Movies/ZagreusInteractionThoughtful_Bink.bik
 Replace "Movies/ZagreusInteractionThoughtful_Bink.bik"
 
 To Movies/720p/ZagreusRun_Bink.bik
-Replace "Movies/ZagreusRun_Bink.bik"
+Replace "Movies/720p/ZagreusRun_Bink.bik"
 
 To Movies/ZagreusRun_Bink.bik
 Replace "Movies/ZagreusRun_Bink.bik"
 
 To Movies/720p/ZagreusStart_Bink.bik
-Replace "Movies/ZagreusStart_Bink.bik"
+Replace "Movies/720p/ZagreusStart_Bink.bik"
 
 To Movies/ZagreusStart_Bink.bik
 Replace "Movies/ZagreusStart_Bink.bik"
 
 To Movies/720p/ZagreusStop_Bink.bik
-Replace "Movies/ZagreusStop_Bink.bik"
+Replace "Movies/720p/ZagreusStop_Bink.bik"
 
 To Movies/ZagreusStop_Bink.bik
 Replace "Movies/ZagreusStop_Bink.bik"
 
 To Movies/720p/ZagreusTalkDenial_Bink.bik
-Replace "Movies/ZagreusTalkDenial_Bink.bik"
+Replace "Movies/720p/ZagreusTalkDenial_Bink.bik"
 
 To Movies/ZagreusTalkDenial_Bink.bik
 Replace "Movies/ZagreusTalkDenial_Bink.bik"
 
 To Movies/720p/ZagreusTalkEmpathy_Bink.bik
-Replace "Movies/ZagreusTalkEmpathy_Bink.bik"
+Replace "Movies/720p/ZagreusTalkEmpathy_Bink.bik"
 
 To Movies/ZagreusTalkEmpathy_Bink.bik
 Replace "Movies/ZagreusTalkEmpathy_Bink.bik"
 
 To Movies/720p/ZagreusWalk_Bink.bik
-Replace "Movies/ZagreusWalk_Bink.bik"
+Replace "Movies/720p/ZagreusWalk_Bink.bik"
 
 To Movies/ZagreusWalk_Bink.bik
 Replace "Movies/ZagreusWalk_Bink.bik"
 
 To Movies/720p/ZagreusWalk2_Bink.bik
-Replace "Movies/ZagreusWalk2_Bink.bik"
+Replace "Movies/720p/ZagreusWalk2_Bink.bik"
 
 To Movies/ZagreusWalk2_Bink.bik
 Replace "Movies/ZagreusWalk2_Bink.bik"
 
 To Movies/720p/ZagreusWalkStop_Bink.bik
-Replace "Movies/ZagreusWalkStop_Bink.bik"
+Replace "Movies/720p/ZagreusWalkStop_Bink.bik"
 
 To Movies/ZagreusWalkStop_Bink.bik
 Replace "Movies/ZagreusWalkStop_Bink.bik"
 
 To Movies/720p/ZagreusWalkStop2_Bink.bik
-Replace "Movies/ZagreusWalkStop2_Bink.bik"
+Replace "Movies/720p/ZagreusWalkStop2_Bink.bik"
 
 To Movies/ZagreusWalkStop2_Bink.bik
 Replace "Movies/ZagreusWalkStop2_Bink.bik"
