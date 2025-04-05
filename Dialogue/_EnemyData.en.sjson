@@ -228,7 +228,7 @@
       */
       Id = "Skelly_0248"
       Speaker = "Skelly"
-      DisplayName = "Bestest friend forever, next time you make it to the big VIP area upstairs, you watch out for those weapon-wielding gents out there! The eyeball soul thing that pops out when you beat 'em? You got to squash those, too, or else they'll grab their gear and come right back!"
+      DisplayName = "Bestest friend forever, next time you get to the big VIP area upstairs, you watch out for those fancy guys out there! The eyeball soul thing that pops out when you beat 'em? You got to squash those, too, or else they'll grab their gear and come right back!"
     }
     {
       /*
@@ -2007,7 +2007,7 @@
       */
       Id = "Skelly_0455"
       Speaker = "Skelly"
-      DisplayName = "Hey, just want to say, pal, that spooky {#DialogueItalicFormat}shackles of your past {#PreviousFormat}stuff that you were going on about before? I mean, whoa, you just say some nonsense and you get a brand-new spear? I was so impressed, I decided to try that trick for myself!"
+      DisplayName = "Hey, just want to say, pal, that spooky {#DialogueItalicFormat}shackles of your past {#PreviousFormat}stuff that you were going on about before? I mean, whoa, you just say some words and you get a brand-new spear? I was so impressed, I decided to try it for myself!"
     }
     {
       /*
@@ -2033,7 +2033,7 @@
       */
       Id = "Skelly_0456"
       Speaker = "Skelly"
-      DisplayName = "Relax, bestie, just had a little chat with your old serving platter over there after you left, is all. That thing hits pretty hard! So, then, I say to it, {#DialogueItalicFormat}I see you face the shackles of your past and tide the winds of war{#PreviousFormat}... and you want to know what happened after that?"
+      DisplayName = "Relax, bestie, just had a little chat with your old serving platter, is all. That thing hits pretty hard! So, I say to it, {#DialogueItalicFormat}I see you face the shackles of your past and tide the winds of war{#PreviousFormat}... and you want to know what happened after that?"
     }
     {
       /*
@@ -2046,7 +2046,7 @@
       */
       Id = "ZagreusHome_2030"
       Speaker = "Zagreus"
-      DisplayName = "So you carelessly spoke secret words given out by the Fates themselves to an infernal weapon forged at the dawn of creation, then what? Actually, did ya walk all the way up to Randuin's Omen, or didja shout over your shoulder?"
+      DisplayName = "So you carelessly spoke secret words given out by fate to an infernal weapon forged at the dawn of creation, then what? Actually, did ya walk all the way up to Randuin's Omen, or didja shout over your shoulder?"
     }
     {
       /*
@@ -7221,7 +7221,7 @@
       */
       Id = "Alecto_0030"
       Speaker = "Alecto"
-      DisplayName = "Fate must want to spill your blood as much as I do."
+      DisplayName = "Fate must want me to spill your blood as much as I do."
     }
     {
       /*
@@ -10000,7 +10000,7 @@
       */
       Id = "ZagreusField_3884"
       Speaker = "Zagreus"
-      DisplayName = "Oh, this? It's not exactly my style but the Fates left it for me so I figured I'd take it for a spin. You really should stop accusin' people of stealin', not everyone is like you, Obsession."
+      DisplayName = "Oh, this? It's not exactly my style but it was left here for me so I figured I'd take it for a spin. You really should stop accusin' people of stealin', not everyone is like you, Obsession."
     }
     {
       /*
@@ -12051,7 +12051,7 @@
       */
       Id = "HadesField_0557"
       Speaker = "Hades"
-      DisplayName = "You were never supposed to live! It took all of the Silver Sister's strength to circumvent what should have been a certainty. Now you cannot stay dead. Such is the wry humor of Fate."
+      DisplayName = "You were never supposed to live! It took all of the Silver Sister's strength to circumvent what should have been a certainty. Now you cannot stay dead. Such is the wry humor of fate."
     }
     {
       /*
@@ -12064,7 +12064,7 @@
       */
       Id = "ZagreusField_4326"
       Speaker = "Zagreus"
-      DisplayName = "The Mother Moon saved me.... Just 'cause according to Fate I was never meant to be born, since neither you or Ma are from the Underworld, or somethin' like that? Or is that just another lie?"
+      DisplayName = "The Mother Moon saved me.... Just 'cause according to fate I was never meant to be born, since neither you or Ma are from the Underworld, or somethin' like that? Or is that just another lie?"
     }
     {
       /*
@@ -13185,7 +13185,7 @@
       */
       Id = "HadesField_0241"
       Speaker = "Hades"
-      DisplayName = "Perhaps Fate decided that its wielders ought to all eventually wind up on its receiving end. Come, then! Let us see what the great Sentinel Vayne has taught you."
+      DisplayName = "Perhaps fate decided that its wielders ought to all eventually wind up on its receiving end. Come, then! Let us see what the great Sentinel Vayne has taught you."
     }
     {
       /*
@@ -13987,7 +13987,7 @@
       */
       Id = "HadesField_0609"
       Speaker = "Hades"
-      DisplayName = "Perhaps the blasted Fates shall favor {#DialogueItalicFormat}me{#PreviousFormat}, for once."
+      DisplayName = "Perhaps the blasted RNG shall favor {#DialogueItalicFormat}me{#PreviousFormat}, for once."
     }
     {
       /*
@@ -14542,7 +14542,7 @@
       */
       Id = "ZagreusField_3747"
       Speaker = "Zagreus"
-      DisplayName = "{#DialogueItalicFormat}Uh{#PreviousFormat}, wait, you can talk? I mean, Karthus, look, I can explain. It's just, I've gotten real used to takin' stuff while ransackin' the Old Timer's realm. I wasn't stealin' from ya, honestly!"
+      DisplayName = "{#DialogueItalicFormat}Uh{#PreviousFormat}, wait, I mean, Karthus, look, I can explain. It's just, I've gotten real used to takin' stuff while ransackin' the Old Timer's realm. I wasn't stealin' from ya, honestly!"
     }
     {
       /*

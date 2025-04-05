@@ -186,7 +186,7 @@
       */
       Id = "Zeus_0219"
       Speaker = "Zeus"
-      DisplayName = "My, what is this you have for me, young cub? Appears to be a message of some sort, bearing my thunder sigil! Though, there's one for everybody in the Spirit Realm? Have they as yet received their own? I must know what it says... it's from your father, who else could it be? I'd better check on this!"
+      DisplayName = "My, what is this you have for me, young cub? Appears to be a message of some sort, bearing my thunder sigil! Though, there's one for everybody in the Spirit Realm? Have they received their own? I must know what it says... it's from your father, who else could it be? I'd better check on this!"
     }
     {
       /*
@@ -204,7 +204,7 @@
       */
       Id = "Zeus_0221"
       Speaker = "Zeus"
-      DisplayName = "I have to tell you, Settrigh, that it was wonderful to meet with you, at last! We were so pleased to learn Lihua was safe! And to see your Lord Father once again. I wished only Mother Moon had not have lied to us about your parentage, but, I know things get complicated, here, and that what's done is done!"
+      DisplayName = "I have to tell you, Settrigh, that it was wonderful to meet with you, at last! We were so pleased to learn Lihua was safe! And to see your Lord Father once again. I wish only Mother Moon had not lied to us about your parentage, but, I know things get complicated, and that what's done is done!"
     }
     {
       /*
@@ -312,7 +312,7 @@
       */
       Id = "Zeus_0044"
       Speaker = "Zeus"
-      DisplayName = "Your father must have told you that his governance over the Underworld is due more to the weaving of Fate than by his choice. Admittedly, he got the short end of the stick. Whereas Nami and myself, why, we've been doing rather well indeed."
+      DisplayName = "Your father must have told you that his governance over the Underworld is due more to the weaving of fate than by his choice. Admittedly, he got the short end of the stick. Whereas Nami and myself, why, we've been doing rather well indeed."
     }
     {
       /*
@@ -1437,7 +1437,7 @@
       /*
         Event: ZeusGift06
         Zagreus: If you can hear me, mighty Uncle Zeus, I wish to make to you this simple gift, and with it send my humble wish that someday you and Father settle all your differences, and be at peace.
-        Zeus: {#DialogueItalicFormat}Ah{#PreviousFormat}, most splendid of an offering, young man. And while we've yet to even meet in person, I already feel as though the two of us are close, why, closer than you must be even with your father! {#DialogueItalicFormat}Oh, hahaha{#PreviousFormat}! Perhaps we ought go telling everybody {#DialogueItalicFormat}I'm {#PreviousFormat}your real father, am I right?
+        Zeus: {#DialogueItalicFormat}Ah{#PreviousFormat}, most splendid of an offering, young man. And while we've yet to meet in person, I already feel as though the two of us are close, why, closer than you must be even with your father! {#DialogueItalicFormat}Oh, hahaha{#PreviousFormat}! Perhaps we ought go telling everybody {#DialogueItalicFormat}I'm {#PreviousFormat}your real father, am I right?
       */
       Id = "ZagreusField_3435"
       Speaker = "Zagreus"
@@ -1451,7 +1451,7 @@
       */
       Id = "Zeus_0216"
       Speaker = "Zeus"
-      DisplayName = "{#DialogueItalicFormat}Ah{#PreviousFormat}, most splendid of an offering, young cub. And while we've yet to even meet in person, I already feel as though the two of us are close, why, closer than you must be even with your father! {#DialogueItalicFormat}Oh, hahaha{#PreviousFormat}! Perhaps we ought go telling everybody {#DialogueItalicFormat}I'm {#PreviousFormat}your real father, am I right?"
+      DisplayName = "{#DialogueItalicFormat}Ah{#PreviousFormat}, most splendid of an offering, young cub. While we've yet to even meet in person, I already feel as though the two of us are close, why, closer than you must be with your father! {#DialogueItalicFormat}Oh, hahaha{#PreviousFormat}! Perhaps we ought go telling everybody {#DialogueItalicFormat}I'm {#PreviousFormat}your real father, am I right?"
     }
     {
       /*
@@ -1461,7 +1461,7 @@
       */
       Id = "Zeus_0248"
       Speaker = "Zeus"
-      DisplayName = "{#DialogueItalicFormat}Ah{#PreviousFormat}, most splendid of an offering, young cub. And while we've yet to even meet in person, I already feel as though the two of us are close, why, closer than you must be even with your father! {#DialogueItalicFormat}Oh, hahaha{#PreviousFormat}! How jealous he must be, in his shriveled, old heart."
+      DisplayName = "{#DialogueItalicFormat}Ah{#PreviousFormat}, most splendid of an offering, young cub. And while we've yet to even meet in person, I already feel as though the two of us are close, closer than you must be even with your father! {#DialogueItalicFormat}Oh, hahaha{#PreviousFormat}! How jealous he must be, in his shriveled, old heart."
     }
     {
       /*
@@ -3354,7 +3354,7 @@
       */
       Id = "Artemis_0187"
       Speaker = "Artemis"
-      DisplayName = "Hey, look at that! The message must have worked! Practically can see that shiny bow from here! I've never wielded the Last Whisper myself, at least not yet. Though if Fate is sending visions to me of its past or future bearers, why, I guess I'm bound to get my shot eventually!"
+      DisplayName = "Hey, look at that! The message must have worked! Practically can see that shiny bow from here! I've never wielded the Last Whisper myself, at least not yet. Though if fate is sending visions to me of its past or future bearers, why, I guess I'm bound to get my shot eventually!"
     }
     {
       /*
@@ -4749,7 +4749,7 @@
       */
       Id = "Artemis_0214"
       Speaker = "Artemis"
-      DisplayName = "I never felt like I could be myself with everybody in the endless forest, you know? So much posturing, and bickering, and... I just head out to the edges of the woods most of the time. Maybe you understand me better than the rest, I've no idea still. But I appreciate you've made attempts to try."
+      DisplayName = "I never felt like I could be myself with everybody in the Realm, you know? So much posturing, bickering, and... I just head out to the edges of the woods most of the time. Maybe you understand me better than the rest, I've no idea still. But I appreciate you've made attempts to try."
     }
     {
       /*
@@ -7636,7 +7636,7 @@
       */
       Id = "Dionysus_0160"
       Speaker = "Dionysus"
-      DisplayName = "Sett, I cannot believe what you are offering to me! Ambrosia, man, for {#DialogueItalicFormat}me{#PreviousFormat}? And talk about a bottle that has seen some wild days and nights, I mean if it got all the way to you down there, only to come back up! Know what? I'm saving it, till we can share it, here!"
+      DisplayName = "Sett, I cannot believe what you are offering to me! Ambrosia, man, for {#DialogueItalicFormat}me{#PreviousFormat}? Talk about a bottle that has seen some wild days and nights, I mean if it got all the way to you down there, only to come back up! Know what? I'm saving it, till we can share it, here!"
     }
     {
       /*
@@ -8126,7 +8126,7 @@
       */
       Id = "Athena_0216"
       Speaker = "Athena"
-      DisplayName = "The Silver Sister has indicated you possess a list of prophecies. I've such a list in Spirit Realm, here! It seems to be connected to your own, as several prophecies already are fulfilled. Isn't it such an honor to urge Fate along?"
+      DisplayName = "The Silver Sister has indicated you possess a list of prophecies. I've such a list in Spirit Realm, here! It seems to be connected to your own, as several prophecies already are fulfilled. Isn't it such an honor to urge fate along?"
     }
     {
       /*
@@ -8319,7 +8319,7 @@
       */
       Id = "Athena_0006"
       Speaker = "Athena"
-      DisplayName = "Push forward, noble Cousin. I shall be keen to see you circumvent the perils that Fate arranged for you this time."
+      DisplayName = "Push forward, noble Cousin. I shall be keen to see you circumvent the perils that fate arranged for you this time."
     }
     {
       /*
@@ -9297,7 +9297,7 @@
       */
       Id = "Poseidon_0227"
       Speaker = "Poseidon"
-      DisplayName = "{#DialogueItalicFormat}Ah-haha{#PreviousFormat}! I knew that I could count on you, Nephew! So the ungrateful Thresh, the winsome prize he earned was just some chariot, correct? And he was vanquished on it, anyway! That's what he gets! Boasting his prize was greater than any in his mortal days, {#DialogueItalicFormat}pah{#PreviousFormat}!"
+      DisplayName = "{#DialogueItalicFormat}Ah-haha{#PreviousFormat}! I knew that I could count on you, Nephew! So the ungrateful Thresh, the grand prize he earned was just some chariot, correct? And he was vanquished on it, anyway! That's what he gets! Boasting his prize was greater than any in his mortal days, {#DialogueItalicFormat}pah{#PreviousFormat}!"
     }
     {
       /*
@@ -9623,7 +9623,7 @@
       */
       Id = "Poseidon_0246"
       Speaker = "Poseidon"
-      DisplayName = "If you {#DialogueItalicFormat}do {#PreviousFormat}ever get the opportunity to spend some time up here, Nephew, know I shall take you on a grand tour of the seas! From the depths of my oceans to the highest underwater mountains! Sure, maybe not today, or tomorrow, or even the next aeon! But sometime, we should go!"
+      DisplayName = "If you {#DialogueItalicFormat}do {#PreviousFormat}ever get the opportunity to spend some time up here, Nephew, I shall take you on a grand tour of the seas! From the depths of my oceans to the highest underwater mountains! Sure, maybe not today, or tomorrow, or even the next aeon! But sometime, we should go!"
     }
     {
       /*
@@ -9722,7 +9722,7 @@
       */
       Id = "Poseidon_0225"
       Speaker = "Poseidon"
-      DisplayName = "So, little Prince, doubtless you have seen that we Spirits also lend our favor to the high and mighty Thresh, who bars your passage from Elysium! Now, don't you take it personally, there, because our blessings go to {#DialogueItalicFormat}all {#PreviousFormat}who deserve them. Although, we try to save the best for you!"
+      DisplayName = "So, little Prince, doubtless you have seen that we Spirits also lend our favor to the high and mighty Thresh, who bars your passage! Now, don't you take it personally, there, because our blessings go to {#DialogueItalicFormat}all {#PreviousFormat}who deserve them. Although, we try to save the best for you!"
     }
     {
       /*
@@ -11000,7 +11000,7 @@
       */
       Id = "Demeter_0226"
       Speaker = "Demeter"
-      DisplayName = "Why, little sprout, young Settrigh... my grandson! I can scarce believe it, still! To think that, Lihua, my precious daughter... she had been with my sour Foster-Brother, all this time! A match I wouldn't have expected... or approved. So that's why she left! Our blasted hearts truly do what they want."
+      DisplayName = "Why, little sprout, young Settrigh... my grandson! I can scarce believe it, still! To think that, Lihua, my precious daughter... she had been with my sour Foster-Brother, all this time! A match I wouldn't have expected... or approved. So that's why she left! Our hearts truly do what they want."
     }
     {
       /*
@@ -14392,7 +14392,7 @@
       */
       Id = "ZagreusField_3875"
       Speaker = "Zagreus"
-      DisplayName = "Message for ya this time, Lady Lillia! It says, 'n I quote, {#DialogueItalicFormat}'This offerin' is dedicated to the incomparable Fleetin' Spirit of Swiftness, from whom the news is always good, 'cause she's bringin' it. You're a real pal, ya know? And I really owe ya, so this one's on me.' {#PreviousFormat}"
+      DisplayName = "Message for ya this time, Lady Lillia! It says, 'n I quote, {#DialogueItalicFormat}'This offerin' is dedicated to the incomparable Fleetin' Spirit of Swiftness, from whom the news is always good, 'cause she's bringin' it. You're a real pal, and I really owe ya, so this one's on me.' {#PreviousFormat}"
     }
     {
       /*
@@ -14407,11 +14407,11 @@
     {
       /*
         Event: ChaosAboutBeowulfAspect01_A
-        Chaos: I sense that you have not yet spoken with the all-seeing artifact you call Aegis. Tamper with the Fates' design, then, all you like. But if you change your mind, do speak the words to it: {#DialogueItalicFormat}I see you stand your ground against the serpent's flame.{#PreviousFormat}
+        Chaos: I sense that you have not yet spoken with the all-seeing artifact you call Aegis. Tamper with the fates' design, then, all you like. But if you change your mind, do speak the words to it: {#DialogueItalicFormat}I see you stand your ground against the serpent's flame.{#PreviousFormat}
       */
       Id = "Chaos_0316"
       Speaker = "Chaos"
-      DisplayName = "We sense that you have not yet spoken with Randuin's Omen. Will you tamper with Fates' design? No thing is set in stone, and can avoid creation and dissolution. Speak the words to it: {#DialogueItalicFormat}I see you shield the weak and challenge the gods{#PreviousFormat}. Reveal the future to the unknown past."
+      DisplayName = "We sense that you have not yet spoken with Randuin's Omen. Will you tamper with fates' design? No thing is set in stone, and can avoid creation and dissolution. Speak to it: {#DialogueItalicFormat}I see you shield the weak and challenge the gods{#PreviousFormat}. Reveal the future to the unknown past."
     }
     {
       /*
@@ -14420,7 +14420,7 @@
       */
       Id = "Chaos_0293"
       Speaker = "Chaos"
-      DisplayName = "You have not yet used the waking-phrase? Or perhaps you merely chose not to present us the result. We would quite like to see it, at some point, regardless. Remember: Say to it, {#DialogueItalicFormat}I see you shield the weak and challenge the gods{#PreviousFormat}. Reveal to us the implement of the Poro Hero."
+      DisplayName = "You have not yet used the waking-phrase? Or perhaps you merely chose not to present us the result. We would quite like to see it, at some point, regardless. Remember: Say, {#DialogueItalicFormat}I see you shield the weak and challenge the gods{#PreviousFormat}. Reveal to us the implement of the Poro Hero."
     }
     {
       /*
@@ -14438,7 +14438,7 @@
       */
       Id = "Chaos_0320"
       Speaker = "Chaos"
-      DisplayName = "We sensed that you were able to confront your father while in possession of our catalyst. It seems our asking you, and your success, was in accordance with Fates' design, as well. A frustration to be bound, but a delight to see the fruit of so many intersecting paths. Thus, we thank you."
+      DisplayName = "We sensed that you were able to confront your father while in possession of our catalyst. It seems our asking you, and your success, was in accordance with fates design, as well. A frustration to be bound, but a delight to see the fruit of so many intersecting paths. Thus, we thank you."
     }
     {
       /*
@@ -14447,7 +14447,7 @@
       */
       Id = "Chaos_0283"
       Speaker = "Chaos"
-      DisplayName = "We sensed a long forgotten scent in the far reaches of the Underworld, Child of the Spirits... vast sums of Darkness, collected in an ancient catalyst, which we see now almost like a inverse moon, shining in the night. This either is the work of the Silver Sister, or you, or both. We are eagerly anticipating the result."
+      DisplayName = "We sensed a long forgotten scent in the far reaches of the Underworld, Child of the Spirits... vast sums of Darkness, collected in an ancient seal, which we see now like a inverse moon, shining in the night. This either is the work of the Silver Sister, or you, or both. We are eagerly anticipating the result."
     }
     {
       /*
@@ -14456,7 +14456,7 @@
       */
       Id = "Chaos_0284"
       Speaker = "Chaos"
-      DisplayName = "It pleases us immensely, Child of the Spirits, to have seen the Silver Sister again, our favored star. Our noses and eyes turned from the Celestial heavens to other pursuits, and the world spun and spun. But no matter time and distance the weft and weave of Fate guides us all back again. We have learned much."
+      DisplayName = "It pleases us immensely, Child of the Spirits, to have seen the Silver Sister again, our favored star. Our noses and eyes turned from the Celestial heavens to other pursuits, and the world spun and spun. But no matter time and distance the weft and weave of fate guides us all back again. We have learned much."
     }
     {
       /*
@@ -14945,7 +14945,7 @@
       */
       Id = "Chaos_0299"
       Speaker = "Chaos"
-      DisplayName = "How strange it is to be subjected to the whimsy of Fate yes? But do not assume that choices have been made for you, Son of the Underworld."
+      DisplayName = "How strange it is to be subjected to the whimsy of fate yes? But do not assume that choices have been made for you, Son of the Underworld."
     }
     {
       /*
@@ -15399,7 +15399,7 @@
       */
       Id = "Chaos_0052"
       Speaker = "Chaos"
-      DisplayName = "Your path is yours to shape as you see fit, regardless of Fates design. But together we may twist that path a bit, if you would like."
+      DisplayName = "Your path is yours to shape as you see fit, regardless of fates design. But together we may twist that path a bit, if you would like."
     }
     {
       /*
@@ -15796,7 +15796,7 @@
       */
       Id = "Chaos_0014"
       Speaker = "Chaos"
-      DisplayName = "How shall we alter the intentions of Fate?"
+      DisplayName = "How shall we alter the intentions of fate?"
     }
     {
       /*
@@ -15869,7 +15869,7 @@
       */
       Id = "Chaos_0022"
       Speaker = "Chaos"
-      DisplayName = "Choose how to circumvent Fates design."
+      DisplayName = "Choose how to circumvent fates design."
     }
     {
       /*
