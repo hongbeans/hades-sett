@@ -256,10 +256,10 @@ Replace "Packages/SettScenes.pkg"
 
 :: Replace movies
 To Movies/720p/MainMenuIn.bik
-Replace "Movies/MainMenuIn.bik"
+Replace "Movies/720p/MainMenuIn.bik"
 
 To Movies/720p/MainMenuLoop.bik
-Replace "Movies/MainMenuLoop.bik"
+Replace "Movies/720p/MainMenuLoop.bik"
 
 To Movies/MainMenuIn.bik
 Replace "Movies/MainMenuIn.bik"
@@ -383,43 +383,43 @@ To Movies/HypnosSleepWakingSurprise_Bink.bik
 Replace "Movies/HypnosSleepWakingSurprise_Bink.bik"
 
 To Movies/720p/NPC_AchillesIdle_Bink.bik
-Replace "Movies/NPC_AchillesIdle_Bink.bik"
+Replace "Movies/720p/NPC_AchillesIdle_Bink.bik"
 
 To Movies/NPC_AchillesIdle_Bink.bik
 Replace "Movies/NPC_AchillesIdle_Bink.bik"
 
 To Movies/720p/NPC_AchillesIdleGreeting_Bink.bik
-Replace "Movies/NPC_AchillesIdleGreeting_Bink.bik"
+Replace "Movies/720p/NPC_AchillesIdleGreeting_Bink.bik"
 
 To Movies/NPC_AchillesIdleGreeting_Bink.bik
 Replace "Movies/NPC_AchillesIdleGreeting_Bink.bik"
 
 To Movies/720p/NPC_DusaIdle_Bink.bik
-Replace "Movies/NPC_DusaIdle_Bink.bik"
+Replace "Movies/720p/NPC_DusaIdle_Bink.bik"
 
 To Movies/NPC_DusaIdle_Bink.bik
 Replace "Movies/NPC_DusaIdle_Bink.bik"
 
 To Movies/720p/NPC_DusaIdleWorking_Bink.bik
-Replace "Movies/NPC_DusaIdleWorking_Bink.bik"
+Replace "Movies/720p/NPC_DusaIdleWorking_Bink.bik"
 
 To Movies/NPC_DusaIdleWorking_Bink.bik
 Replace "Movies/NPC_DusaIdleWorking_Bink.bik"
 
 To Movies/720p/NPC_DusaInteractSurprise_Bink.bik
-Replace "Movies/NPC_DusaInteractSurprise_Bink.bik"
+Replace "Movies/720p/NPC_DusaInteractSurprise_Bink.bik"
 
 To Movies/NPC_DusaInteractSurprise_Bink.bik
 Replace "Movies/NPC_DusaInteractSurprise_Bink.bik"
 
 To Movies/720p/NPC_EurydiceIdle_Bink.bik
-Replace "Movies/NPC_EurydiceIdle_Bink.bik"
+Replace "Movies/720p/NPC_EurydiceIdle_Bink.bik"
 
 To Movies/NPC_EurydiceIdle_Bink.bik
 Replace "Movies/NPC_EurydiceIdle_Bink.bik"
 
 To Movies/720p/NPC_EurydiceIdleSinging_Bink.bik
-Replace "Movies/NPC_EurydiceIdleSinging_Bink.bik"
+Replace "Movies/720p/NPC_EurydiceIdleSinging_Bink.bik"
 
 To Movies/NPC_EurydiceIdleSinging_Bink.bik
 Replace "Movies/NPC_EurydiceIdleSinging_Bink.bik"
