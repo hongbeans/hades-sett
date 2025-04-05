@@ -1393,7 +1393,7 @@
       */
       Id = "ZagreusHome_1497"
       Speaker = "Zagreus"
-      DisplayName = "Old Timer, lemme ask ya somethin' work-related, here. I know hat gravedigger called Yorick once wronged both you 'n Aphelios, 'n he's certainly been payin' since. But don't the Chosen Sisters have better things to do than torture him?"
+      DisplayName = "Old Timer, lemme ask ya somethin' work-related, here. I know that gravedigger called Yorick screwed over both you 'n Phel, 'n he's certainly been payin' for it since. But don't the Chosen Sisters have better things to do than torture him?"
     }
     {
       /*
@@ -2104,7 +2104,7 @@
       */
       Id = "Hades_0220"
       Speaker = "Hades"
-      DisplayName = "So you were able to dispatch my Hydra, boy. Right down to the last hateful head. It's an accomplishment I felt was certainly beyond your talent set. Though, here you are again, nevertheless."
+      DisplayName = "So you were able to dispatch Baron Nashor, boy. Right down to the last hateful head. It's an accomplishment I felt was certainly beyond your talent set. Though, here you are again, nevertheless."
     }
     {
       /*
@@ -5605,7 +5605,7 @@
       */
       Id = "Achilles_0004"
       Speaker = "Achilles"
-      DisplayName = "Keep at it, your Highness. I've known great people throughout my life, and I can always tell when someone's better than their circumstances. Fight like I'd fight out there."
+      DisplayName = "Keep at it, Your Highness. I've known great people throughout my life, and I can always tell when someone's better than their circumstances. Fight like I'd fight out there."
     }
     {
       /*
@@ -9032,7 +9032,7 @@
       */
       Id = "Achilles_0092"
       Speaker = "Achilles"
-      DisplayName = "That I believe he is, your Highness. Your father, he was none too pleased with him last time I saw him here. I tried my best to simmer down the situation, but... you know how it goes. I hope your father cuts his sentence short."
+      DisplayName = "I believe he is, Your Highness. Your father was none too pleased with him last time I saw him here. I tried my best to simmer down the situation, but... you know how it goes. I hope your father cuts his sentence short."
     }
     {
       /*
@@ -15336,7 +15336,7 @@
       */
       Id = "Hypnos_0151"
       Speaker = "Hypnos"
-      DisplayName = "Hey, did you see? Somebody got me this incredible new sleeper-seat right here! Though, I would never lie down while on the job! I'm perfectly alright sleeping while standing up!"
+      DisplayName = "Hey, did you see? Somebody got me this incredible new carpet right here! Might have something to do with how the Lord Master Dude Guy said the incessant sound of my jump-rope on the tiles makes him 'literally want to permanently kill himself,' but it'll be a lot quieter now!"
     }
     {
       /*
@@ -15588,7 +15588,7 @@
       */
       Id = "Hypnos_0080"
       Speaker = "Hypnos"
-      DisplayName = "{#DialogueItalicFormat}Owie{#PreviousFormat}, looks like the Bone Hydra of Asphodel just stomped you that time, huh? I hear each of its heads has its own nasty tricks. That must be tough!"
+      DisplayName = "{#DialogueItalicFormat}Owie{#PreviousFormat}, looks like that undead bone hydra in Asphodel just stomped you that time, huh? I hear each of its heads has its own nasty tricks. That must be tough!"
     }
     {
       /*
@@ -15597,7 +15597,7 @@
       */
       Id = "Hypnos_0104"
       Speaker = "Hypnos"
-      DisplayName = "Bone Hydra got you again, huh? Real sorry about that. Though, you know what? I want you to get back out there, you know, all through Tartarus, and Asphodel, again, and knock some sense into it for me, OK? OK!"
+      DisplayName = "Baron Nashor got you again, huh? Real sorry about that. Though, you know what? I want you to get back out there, you know, all through Tartarus, and Asphodel, again, and knock some sense into it for me, OK? OK!"
     }
     {
       /*
@@ -15606,7 +15606,7 @@
       */
       Id = "Hypnos_0105"
       Speaker = "Hypnos"
-      DisplayName = "Wait let me guess, don't tell me... you got slaughtered by the Bone Hydra, again! How many times was that? But you will get 'em next time, I just know it! Maybe the time after that. Eventually, no doubt about it!"
+      DisplayName = "Wait let me guess, don't tell me... you got slaughtered by Baron Nashor, again! How many times was that? But you'll get 'em next time, I just know it! Maybe the time after that. Eventually, no doubt about it!"
     }
     {
       /*
@@ -23982,7 +23982,7 @@
       */
       Id = "Dusa_0501"
       Speaker = "Dusa"
-      DisplayName = "Oh, I could do that with my eyes closed. I have enough power in my little finger to demolish the entire Underworld in an instant if I wanted, cleaning up a few dirt plates and Ambrozim-barf puddles is no big deal."
+      DisplayName = "Oh, I could do that with my eyes closed. I have enough power in my little finger to demolish the entire Underworld in an instant if I wanted, cleaning up a few dirty plates and Ambrozim-barf puddles is no big deal."
     }
     {
       /*
@@ -25611,7 +25611,7 @@
       */
       Id = "Dusa_0139"
       Speaker = "Dusa"
-      DisplayName = "Hmm. I think if I got into real trouble, Pix would just unseal his true form, an obliterate my enemies. But I really appreciate having a less 'obliterate-y' option. You're like a very loyal doggy."
+      DisplayName = "Hmm. I think if I got into real trouble, Pix would just unseal his true form, and obliterate my enemies. But I really appreciate having a less obliterate-y option. You're like a very loyal doggy."
     }
     {
       /*
@@ -27231,7 +27231,7 @@
       */
       Id = "ZagreusHome_0211"
       Speaker = "Zagreus"
-      DisplayName = "Hey, Yasuo. I ever tell ya 'bout the time I single-handedly slayed a multi-headed bone hydra in the magma fields of Asphodel without so much as breakin' a sweat?"
+      DisplayName = "Hey, Yasuo. I ever tell ya 'bout the time I single-handedly slayed a multi-headed undead hydra in the magma fields of Asphodel without so much as breakin' a sweat?"
     }
     {
       /*

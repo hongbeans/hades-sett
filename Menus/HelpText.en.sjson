@@ -7619,13 +7619,13 @@
     }
     {
       Id = "Cosmetic_NorthHallPaintingMysteryWoman"
-      DisplayName = "Painting, Night"
-      Description = "{$Keywords.Cosmetic}: Depicts the likeness of the Silver Sister."
+      DisplayName = "Painting, Old Timer"
+      Description = "{$Keywords.Cosmetic}: Depicts the likeness of the dour Lord of the House."
     }
     {
       Id = "Cosmetic_NorthHallPaintingZagreus"
       DisplayName = "Painting, Prince"
-      Description = "{$Keywords.Cosmetic}: Depicts the likeness of the son of the god of the dead."
+      Description = "{$Keywords.Cosmetic}: Depicts the likeness of the son of the God of the Dead."
     }
     {
       Id = "Cosmetic_NorthHallPaintingFury"
@@ -10079,15 +10079,15 @@
     }
     {
       Id = "HydraHeadImmortal"
-      DisplayName = "Bone Hydra"
+      DisplayName = "Undead Bone Hydra"
     }
     {
       Id = "HydraHeadImmortal_Full"
-      DisplayName = "Lernaean Bone Hydra"
+      DisplayName = "Baron Nashor"
     }
     {
       Id = "HydraHeadImmortal_NickName"
-      DisplayName = "Lernie, the Bone Hydra"
+      DisplayName = "Barrie, the Bone Hydra"
     }
     {
       Id = "Theseus"
@@ -10449,7 +10449,7 @@
     /* Remembrances / Run Intro Data / RunIntroData / Game Intro Data */
     {
       Id = "Remembrance_Hades"
-      DisplayName = "old timer"
+      DisplayName = "underworld"
     }
     {
       Id = "Remembrance_Family"
@@ -10842,7 +10842,7 @@
     }
     {
       Id = "HydraDefeatedMessage02"
-      DisplayName = "LERNIE VANQUISHED"
+      DisplayName = "BARRIE VANQUISHED"
     }
     {
       Id = "TheseusDefeatedMessage"
@@ -10866,7 +10866,7 @@
     }
     {
       Id = "ThanatosMessage"
-      DisplayName = "DEATH APPROACHES"
+      DisplayName = "NIGHT APPROACHES"
     }
     {
       Id = "BountyEarnedMessage"
