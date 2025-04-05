@@ -268,13 +268,13 @@ To Movies/MainMenuLoop.bik
 Replace "Movies/MainMenuLoop.bik"
 
 To Movies/720p/BoonSelectIn.bik
-Replace "Movies/BoonSelectIn.bik"
+Replace "Movies/720p/BoonSelectIn.bik"
 
 To Movies/BoonSelectIn.bik
 Replace "Movies/BoonSelectIn.bik"
 
 To Movies/720p/BoonSelectOut.bik
-Replace "Movies/BoonSelectOut.bik"
+Replace "Movies/720p/BoonSelectOut.bik"
 
 To Movies/BoonSelectOut.bik
 Replace "Movies/BoonSelectOut.bik"
@@ -293,91 +293,91 @@ Replace "Movies/RemBGHadesIntro.bik"
 
 :: Replace character animation binks
 To Movies/720p/Cerberus_HousePetting_Bink.bik
-Replace "Movies/Cerberus_HousePetting_Bink.bik"
+Replace "Movies/720p/Cerberus_HousePetting_Bink.bik"
 
 To Movies/Cerberus_HousePetting_Bink.bik
 Replace "Movies/Cerberus_HousePetting_Bink.bik"
 
 To Movies/720p/Cerberus_HubIdle_Bink.bik
-Replace "Movies/Cerberus_HubIdle_Bink.bik"
+Replace "Movies/720p/Cerberus_HubIdle_Bink.bik"
 
 To Movies/Cerberus_HubIdle_Bink.bik
 Replace "Movies/Cerberus_HubIdle_Bink.bik"
 
 To Movies/720p/CharonIdleGreeting_Bink.bik
-Replace "Movies/CharonIdleGreeting_Bink.bik"
+Replace "Movies/720p/CharonIdleGreeting_Bink.bik"
 
 To Movies/CharonIdleGreeting_Bink.bik
 Replace "Movies/CharonIdleGreeting_Bink.bik"
 
 To Movies/720p/CharonIdleShop_Bink.bik
-Replace "Movies/CharonIdleShop_Bink.bik"
+Replace "Movies/720p/CharonIdleShop_Bink.bik"
 
 To Movies/CharonIdleShop_Bink.bik
 Replace "Movies/CharonIdleShop_Bink.bik"
 
 To Movies/720p/Enemy_Fury_IdleInHouseFidgetWhipTaunt_Bink.bik
-Replace "Movies/Enemy_Fury_IdleInHouseFidgetWhipTaunt_Bink.bik"
+Replace "Movies/720p/Enemy_Fury_IdleInHouseFidgetWhipTaunt_Bink.bik"
 
 To Movies/Enemy_Fury_IdleInHouseFidgetWhipTaunt_Bink.bik
 Replace "Movies/Enemy_Fury_IdleInHouseFidgetWhipTaunt_Bink.bik"
 
 To Movies/720p/Enemy_Fury_IdleInHouseGreeting_Bink.bik
-Replace "Movies/Enemy_Fury_IdleInHouseGreeting_Bink.bik"
+Replace "Movies/720p/Enemy_Fury_IdleInHouseGreeting_Bink.bik"
 
 To Movies/Enemy_Fury_IdleInHouseGreeting_Bink.bik
 Replace "Movies/Enemy_Fury_IdleInHouseGreeting_Bink.bik"
 
 To Movies/720p/Enemy_Fury_IdleInHouse_Bink.bik
-Replace "Movies/Enemy_Fury_IdleInHouse_Bink.bik"
+Replace "Movies/720p/Enemy_Fury_IdleInHouse_Bink.bik"
 
 To Movies/Enemy_Fury_IdleInHouse_Bink.bik
 Replace "Movies/Enemy_Fury_IdleInHouse_Bink.bik"
 
 To Movies/720p/Enemy_Skeleton_Dead_Bink.bik
-Replace "Movies/Enemy_Skeleton_Dead_Bink.bik"
+Replace "Movies/720p/Enemy_Skeleton_Dead_Bink.bik"
 
 To Movies/Enemy_Skeleton_Dead_Bink.bik
 Replace "Movies/Enemy_Skeleton_Dead_Bink.bik"
 
 To Movies/720p/Enemy_Skeleton_Idle_Bink.bik
-Replace "Movies/Enemy_Skeleton_Idle_Bink.bik"
+Replace "Movies/720p/Enemy_Skeleton_Idle_Bink.bik"
 
 To Movies/Enemy_Skeleton_Idle_Bink.bik
 Replace "Movies/Enemy_Skeleton_Idle_Bink.bik"
 
 To Movies/720p/Enemy_Skeleton_OnHit_Bink.bik
-Replace "Movies/Enemy_Skeleton_OnHit_Bink.bik"
+Replace "Movies/720p/Enemy_Skeleton_OnHit_Bink.bik"
 
 To Movies/Enemy_Skeleton_OnHit_Bink.bik
 Replace "Movies/Enemy_Skeleton_OnHit_Bink.bik"
 
 To Movies/720p/HypnosIdleGreeting_Bink.bik
-Replace "Movies/HypnosIdleGreeting_Bink.bik"
+Replace "Movies/720p/HypnosIdleGreeting_Bink.bik"
 
 To Movies/HypnosIdleGreeting_Bink.bik
 Replace "Movies/HypnosIdleGreeting_Bink.bik"
 
 To Movies/720p/HypnosIdleSitting_Bink.bik
-Replace "Movies/HypnosIdleSitting_Bink.bik"
+Replace "Movies/720p/HypnosIdleSitting_Bink.bik"
 
 To Movies/HypnosIdleSitting_Bink.bik
 Replace "Movies/HypnosIdleSitting_Bink.bik"
 
 To Movies/720p/HypnosIdleSleeping_Bink.bik
-Replace "Movies/HypnosIdleSleeping_Bink.bik"
+Replace "Movies/720p/HypnosIdleSleeping_Bink.bik"
 
 To Movies/HypnosIdleSleeping_Bink.bik
 Replace "Movies/HypnosIdleSleeping_Bink.bik"
 
 To Movies/720p/HypnosSittingToSleep_Bink.bik
-Replace "Movies/HypnosSittingToSleep_Bink.bik"
+Replace "Movies/720p/HypnosSittingToSleep_Bink.bik"
 
 To Movies/HypnosSittingToSleep_Bink.bik
 Replace "Movies/HypnosSittingToSleep_Bink.bik"
 
 To Movies/720p/HypnosSleepWakingSurprise_Bink.bik
-Replace "Movies/HypnosSleepWakingSurprise_Bink.bik"
+Replace "Movies/720p/HypnosSleepWakingSurprise_Bink.bik"
 
 To Movies/HypnosSleepWakingSurprise_Bink.bik
 Replace "Movies/HypnosSleepWakingSurprise_Bink.bik"
