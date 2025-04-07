@@ -19,7 +19,7 @@ How to install:
 4. Download and extract this mod. Place the extracted folder into your `Mods` folder.
 5. Run `modimporter.exe`. Once it finishes running, the mod should be loaded and you can start playing!
 
-If you have issues, please DM [hongbeans](https://twitter.com/hongdous_) for assistance.
+If you have issues, please DM [the official mod Twitter](https://twitter.com/hades_sett) for assistance.
 
 ## Credits
 - **Art**: [jjolee](https://twitter.com/sorrowtalks)
