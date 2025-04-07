@@ -98,7 +98,7 @@
       */
       Id = "Skelly_0168"
       Speaker = "Skelly"
-      DisplayName = "Let me give you a piece of advice, boyo, buddy. You run across a guy like me out there, remember he isn't your best friend, me, and you just give him a good stab right in the back without a second thought before he sends you crying back to Papa."
+      DisplayName = "Let me give you a piece of advice, boyo, buddy. You run across a guy like me out there, remember he isn't your best friend, that's me! You just give him a good stab right in the back without a second thought before he sends you crying back to Papa."
     }
     {
       /*
@@ -6041,7 +6041,7 @@
         Event: Fury2EndOfDiscussion01
         Alecto: Hello, half-breed. I've done some thinking, and I've decided that I want you, as a {#DialogueItalicFormat}partner {#PreviousFormat}. You aren't the highest quality, but we could have so much {#DialogueItalicFormat}fun{#PreviousFormat}. What do you say?
         Zagreus: ...{#DialogueItalicFormat}Uh{#PreviousFormat}, as real... delightful. As that sounds, I think I'll pass, Evelynn. But good luck to ya.
-        Alecto: Is that so? You'd really deny me, of all people, with a status such as yours? You're a mutt, caught between worlds, never to truly belong to either. How uppity you've gotten {#DialogueItalicFormat}Prince{#PreviousFormat} to spurn such an offer. Well consider me fresh out of pity.
+        Alecto: Is that so? You'd really deny me, of all people, with a status such as yours? You're a mutt, caught between worlds, never to truly belong to either. How uppity you've gotten {#DialogueItalicFormat}Prince {#PreviousFormat} to spurn such an offer. Well consider me fresh out of pity.
       */
       Id = "Alecto_0321"
       Speaker = "Alecto"
@@ -6067,7 +6067,7 @@
       */
       Id = "Alecto_0322"
       Speaker = "Alecto"
-      DisplayName = "Is that so? You'd really deny me, of all people, with a status such as yours? You're a mutt, caught between worlds, never to truly belong to either. How uppity you've gotten {#DialogueItalicFormat}Prince{#PreviousFormat} to spurn such an offer. Well consider me fresh out of pity."
+      DisplayName = "Is that so? You'd really deny me, of all people, with a status such as yours? You're a mutt, caught between worlds, never to truly belong to either. How uppity you've gotten {#DialogueItalicFormat}Prince {#PreviousFormat} to spurn such an offer. Well consider me fresh out of pity."
     }
     {
       /*
