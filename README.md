@@ -1,5 +1,5 @@
 # Hades x Sett
-A League of Legends character swap mod for Hades, with emphasis on the Spirit Blossom skin line.
+A free, fan-made mod that melds the Spirit Blossom universe with the full playable game of Hades. Featuring new models, new art, and new dialogue and story.
 
 ![Image of the Hades main menu screen, with Spirit Blossom Sett and his trusty badgers in place of Zagreus.](Images/SettSplash.png?raw=true "It's Sett time")
 
