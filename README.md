@@ -7,7 +7,7 @@ Requires [Mod Importer](https://www.nexusmods.com/hades/mods/26) and [ModUtil](h
 
 **This mod is best experienced with Voice Volume muted in the settings.**
 
-How to install:
+## How to install:
 1. Download and extract [Mod Importer](https://www.nexusmods.com/hades/mods/26). Place `modimporter.exe` in `{Hades root folder}\Content\`.
     - To find the `Content` folder:
         - Steam: Library > Right-click on Hades > Manage > Browse local files > Content
@@ -18,6 +18,8 @@ How to install:
 3. Download and extract [ModUtil](https://www.nexusmods.com/hades/mods/27). Place the `ModUtil` folder in the `Mods` folder created in step 2.
 4. Download and extract this mod. Place the extracted folder into your `Mods` folder.
 5. Run `modimporter.exe`. Once it finishes running, the mod should be loaded and you can start playing!
+
+**To uninstall the mod**, delete this mod from your `Mods` folder and run `modimporter.exe` afterwards. If some things are still modified (e.g. subtitles), verify your game files on the platform you installed the game from (Steam, Epic Games, etc.) to revert the game back to its original state.
 
 If you have issues, please DM [the official mod Twitter](https://twitter.com/hades_sett) for assistance.
 
