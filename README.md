@@ -11,7 +11,7 @@ Requires [Mod Importer](https://www.nexusmods.com/hades/mods/26) and [ModUtil](h
 1. Download and extract [Mod Importer](https://www.nexusmods.com/hades/mods/26). Place `modimporter.exe` in `{Hades root folder}\Content\`.
     - To find the `Content` folder:
         - Steam: Library > Right-click on Hades > Manage > Browse local files > Content
-        - Epic Games: ` C:\Program Files\Epic Games\Hades\Content`
+        - Epic Games: `C:\Program Files\Epic Games\Hades\Content`
         - Microsoft Store: `<location you chose when installing via the Store>\Hades\Content\Content`
     - For MacOS, note that you can open the game app package as a folder by right-clicking and selecting "Show Package Contents". The folder to look for instead is `{Hades root folder}\Content\Resources\Contents`.
 2. Create a `Mods` folder in the `Content` folder from step 1, if one does not exist yet.
