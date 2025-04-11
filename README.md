@@ -13,7 +13,7 @@ Requires [Mod Importer](https://www.nexusmods.com/hades/mods/26) and [ModUtil](h
         - Steam: Library > Right-click on Hades > Manage > Browse local files > Content
         - Epic Games: `C:\Program Files\Epic Games\Hades\Content`
         - Microsoft Store: `<location you chose when installing via the Store>\Hades\Content\Content`
-    - For MacOS, note that you can open the game app package as a folder by right-clicking and selecting "Show Package Contents". The folder to look for instead is `{Hades root folder}\Content\Resources\Contents`.
+    - For MacOS, note that you can open the game app package as a folder by right-clicking and selecting "Show Package Contents". The folder to look for instead is `{Hades root folder}\Contents\Resources\Content`.
 2. Create a `Mods` folder in the `Content` folder from step 1, if one does not exist yet.
 3. Download and extract [ModUtil](https://www.nexusmods.com/hades/mods/27). Place the `ModUtil` folder in the `Mods` folder created in step 2.
 4. Download and extract this mod. Place the extracted folder into your `Mods` folder.
@@ -26,6 +26,6 @@ If you have issues, please DM [the official mod Twitter](https://twitter.com/had
 ## Credits
 - **Art**: [jjolee](https://twitter.com/sorrowtalks)
 - **Models**: [rainy](https://twitter.com/MooncakePhel)
-- **Writing**: [lulu](https://twitter.com/aphelionaphelia)
+- **Writing**: [aphelionaphelia](https://twitter.com/aphelionaphelia)
 - **Writing**: [Admiral Anarchy](https://x.com/CommodoreChaos)
 - **Programming**: [hongbeans](https://twitter.com/hongdous_)
