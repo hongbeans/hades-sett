@@ -17,6 +17,7 @@ Requires [Mod Importer](https://www.nexusmods.com/hades/mods/26) and [ModUtil](h
 2. Create a `Mods` folder in the `Content` folder from step 1, if one does not exist yet.
 3. Download and extract [ModUtil](https://www.nexusmods.com/hades/mods/27). Place the `ModUtil` folder in the `Mods` folder created in step 2.
 4. Download and extract this mod. Place the extracted folder into your `Mods` folder.
+    - If you're on MacOS, you will need to configure the mod to write to the proper folder with the 2D assets. Open `modfile.txt` in the folder for this mod with any text editor. Search for the line `Include "Packages/modfile_pkgs_win.txt"`, and replace it with `Include "Packages/modfile_pkgs_mac.txt"`. Save this file as `modfile.txt` (overwriting the existing file in the mod folder).
 5. Run `modimporter.exe`. Once it finishes running, the mod should be loaded and you can start playing!
 
 **To uninstall the mod**, delete this mod from your `Mods` folder and run `modimporter.exe` afterwards. If some things are still modified (e.g. subtitles), verify your game files on the platform you installed the game from (Steam, Epic Games, etc.) to revert the game back to its original state.
