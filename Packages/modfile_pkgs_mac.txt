@@ -1,0 +1,47 @@
+To macOS/Packages/SettPortraits.pkg_manifest
+Replace "SettPortraits.pkg_manifest"
+
+To macOS/Packages/720p/SettPortraits.pkg_manifest
+Replace "SettPortraits.pkg_manifest"
+
+To macOS/Packages/SettPortraits.pkg
+Replace "SettPortraits.pkg"
+
+To macOS/Packages/720p/SettPortraits.pkg
+Replace "SettPortraits.pkg"
+
+To macOS/Packages/SettDeathArea.pkg_manifest
+Replace "SettDeathArea.pkg_manifest"
+
+To macOS/Packages/720p/SettDeathArea.pkg_manifest
+Replace "SettDeathArea.pkg_manifest"
+
+To macOS/Packages/SettDeathArea.pkg
+Replace "SettDeathArea.pkg"
+
+To macOS/Packages/720p/SettDeathArea.pkg
+Replace "SettDeathArea.pkg"
+
+To macOS/Packages/SettGUI.pkg_manifest
+Replace "SettGUI.pkg_manifest"
+
+To macOS/Packages/720p/SettGUI.pkg_manifest
+Replace "SettGUI.pkg_manifest"
+
+To macOS/Packages/SettGUI.pkg
+Replace "SettGUI.pkg"
+
+To macOS/Packages/720p/SettGUI.pkg
+Replace "SettGUI.pkg"
+
+To macOS/Packages/720p/SettScenes.pkg_manifest
+Replace "SettScenes.pkg_manifest"
+
+To macOS/Packages/SettScenes.pkg_manifest
+Replace "SettScenes.pkg_manifest"
+
+To macOS/Packages/720p/SettScenes.pkg
+Replace "SettScenes.pkg"
+
+To macOS/Packages/SettScenes.pkg
+Replace "SettScenes.pkg"

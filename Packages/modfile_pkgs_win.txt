@@ -1,0 +1,47 @@
+To Win/Packages/SettPortraits.pkg_manifest
+Replace "SettPortraits.pkg_manifest"
+
+To Win/Packages/720p/SettPortraits.pkg_manifest
+Replace "SettPortraits.pkg_manifest"
+
+To Win/Packages/SettPortraits.pkg
+Replace "SettPortraits.pkg"
+
+To Win/Packages/720p/SettPortraits.pkg
+Replace "SettPortraits.pkg"
+
+To Win/Packages/SettDeathArea.pkg_manifest
+Replace "SettDeathArea.pkg_manifest"
+
+To Win/Packages/720p/SettDeathArea.pkg_manifest
+Replace "SettDeathArea.pkg_manifest"
+
+To Win/Packages/SettDeathArea.pkg
+Replace "SettDeathArea.pkg"
+
+To Win/Packages/720p/SettDeathArea.pkg
+Replace "SettDeathArea.pkg"
+
+To Win/Packages/SettGUI.pkg_manifest
+Replace "SettGUI.pkg_manifest"
+
+To Win/Packages/720p/SettGUI.pkg_manifest
+Replace "SettGUI.pkg_manifest"
+
+To Win/Packages/SettGUI.pkg
+Replace "SettGUI.pkg"
+
+To Win/Packages/720p/SettGUI.pkg
+Replace "SettGUI.pkg"
+
+To Win/Packages/720p/SettScenes.pkg_manifest
+Replace "SettScenes.pkg_manifest"
+
+To Win/Packages/SettScenes.pkg_manifest
+Replace "SettScenes.pkg_manifest"
+
+To Win/Packages/720p/SettScenes.pkg
+Replace "SettScenes.pkg"
+
+To Win/Packages/SettScenes.pkg
+Replace "SettScenes.pkg"
